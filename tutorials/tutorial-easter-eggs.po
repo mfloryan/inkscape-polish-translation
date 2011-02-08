@@ -1,0 +1,190 @@
+# Polish translation of Inkscape tutorials.
+# This file is distributed under the same license as the inkscape package.
+#
+# Polish Inkscape Translation Team <inkscapeplteam@gmail.com>, 2008-2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: tutorial-easter-eggs\n"
+"POT-Creation-Date: 2009-02-19 21:59+0000\n"
+"PO-Revision-Date: 2009-10-10 11:44+0100\n"
+"Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
+"Language-Team:  <inkscapeplteam@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Generator: Poedit 1.4.1\n"
+"POT-Creation-Date: \n"
+
+#: easter-eggs-f13.svg:44(format)
+#: easter-eggs-f12.svg:44(format)
+#: easter-eggs-f11.svg:44(format)
+#: easter-eggs-f10.svg:44(format)
+#: easter-eggs-f09.svg:44(format)
+#: easter-eggs-f08.svg:44(format)
+#: easter-eggs-f07.svg:44(format)
+#: easter-eggs-f06.svg:44(format)
+#: easter-eggs-f05.svg:44(format)
+#: easter-eggs-f04.svg:44(format)
+#: easter-eggs-f03.svg:44(format)
+#: easter-eggs-f02.svg:44(format)
+#: easter-eggs-f01.svg:44(format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:24(None)
+msgid "@@image: 'easter-eggs-f01.svg'; md5=533640baaf821717dbd4fff4d7af1386"
+msgstr "@@image: 'easter-eggs-f01.svg'; md5=533640baaf821717dbd4fff4d7af1386"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:35(None)
+msgid "@@image: 'easter-eggs-f02.svg'; md5=8b0ba516bd6144f447792430930e08c9"
+msgstr "@@image: 'easter-eggs-f02.svg'; md5=8b0ba516bd6144f447792430930e08c9"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:46(None)
+msgid "@@image: 'easter-eggs-f03.svg'; md5=5a38534f4d800140ecd1b435e43cc30e"
+msgstr "@@image: 'easter-eggs-f03.svg'; md5=5a38534f4d800140ecd1b435e43cc30e"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:57(None)
+msgid "@@image: 'easter-eggs-f04.svg'; md5=3622b6ec62e44129de17479810628cf9"
+msgstr "@@image: 'easter-eggs-f04.svg'; md5=3622b6ec62e44129de17479810628cf9"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:73(None)
+msgid "@@image: 'easter-eggs-f05.svg'; md5=6d831b891d409b8ae94729b0e9df84de"
+msgstr "@@image: 'easter-eggs-f05.svg'; md5=6d831b891d409b8ae94729b0e9df84de"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:85(None)
+msgid "@@image: 'easter-eggs-f06.svg'; md5=bd6db6c45ad35f45f45a4094a89967ef"
+msgstr "@@image: 'easter-eggs-f06.svg'; md5=bd6db6c45ad35f45f45a4094a89967ef"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:99(None)
+msgid "@@image: 'easter-eggs-f07.svg'; md5=fc5e4dbadf86b35ec5bf261bc78e6c64"
+msgstr "@@image: 'easter-eggs-f07.svg'; md5=fc5e4dbadf86b35ec5bf261bc78e6c64"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:110(None)
+msgid "@@image: 'easter-eggs-f08.svg'; md5=c4c18c4752462754b72f5aa47122bb64"
+msgstr "@@image: 'easter-eggs-f08.svg'; md5=c4c18c4752462754b72f5aa47122bb64"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:121(None)
+msgid "@@image: 'easter-eggs-f09.svg'; md5=6c49da108b4969e3e6a4804886189b8f"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:133(None)
+msgid "@@image: 'easter-eggs-f10.svg'; md5=4f5dd30646531f1515abd1174a854f78"
+msgstr "@@image: 'easter-eggs-f10.svg'; md5=4f5dd30646531f1515abd1174a854f78"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:147(None)
+msgid "@@image: 'easter-eggs-f11.svg'; md5=f2aa5c31f7f8984ad1ca8ba7b840d36c"
+msgstr "@@image: 'easter-eggs-f11.svg'; md5=f2aa5c31f7f8984ad1ca8ba7b840d36c"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:160(None)
+msgid "@@image: 'easter-eggs-f12.svg'; md5=777eba2a7a9249dbd0f8f4e9fb3d4bd3"
+msgstr "@@image: 'easter-eggs-f12.svg'; md5=777eba2a7a9249dbd0f8f4e9fb3d4bd3"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-easter-eggs.xml:173(None)
+msgid "@@image: 'easter-eggs-f13.svg'; md5=3acd13b727b1626fee9da9d6199f0ebe"
+msgstr "@@image: 'easter-eggs-f13.svg'; md5=3acd13b727b1626fee9da9d6199f0ebe"
+
+#: tutorial-easter-eggs.xml:4(title)
+msgid "Easter Eggs"
+msgstr "Jajka wielkanocne"
+
+#: tutorial-easter-eggs.xml:8(para)
+msgid "This tutorial covers the creation of Easter Eggs — basic elliptical shapes that are formed using bezier lines."
+msgstr "Ten poradnik przedstawia jak stworzyć wielkanocne jajka – podstawowe kształty eliptyczne utworzone za pomocą krzywych Beziera."
+
+#: tutorial-easter-eggs.xml:15(title)
+msgid "Creating the Egg"
+msgstr "Tworzenie jajka"
+
+#: tutorial-easter-eggs.xml:17(para)
+msgid "To make the creation of the egg points easier, turn on the grid and snap. Then create the basic egg shape using the bezier pencil."
+msgstr "Aby ułatwić sobie tworzenie jajka, włącz siatkę i przyciąganie. Teraz za pomocą narzędzia „Ołówek” utwórz podstawowy kształt jajka."
+
+#: tutorial-easter-eggs.xml:29(para)
+msgid "Use the node selection tool, and make the nodes smooth."
+msgstr "Użyj narzędzia „Edycja węzłów” i wygładź węzły."
+
+#: tutorial-easter-eggs.xml:40(para)
+msgid "The egg looks a little too fat. Use the node tool and extend the bottom and top node a bit."
+msgstr "Jajko jest trochę za grube. Użyj narzędzia „Edycja węzłów” i przeciągnij nieco górny i dolny węzeł."
+
+#: tutorial-easter-eggs.xml:51(para)
+msgid "Color our egg, and fatten the outline using the Fill and Stroke tool."
+msgstr "Teraz pokoloruj jajko i poszerz kontur za pomocą narzędzia „Wypełnienie i kontur” dostępnego z poziomu menu „Obiekt” [ <keycap>Shift+Ctrl+F</keycap> ]."
+
+#: tutorial-easter-eggs.xml:65(title)
+msgid "Adding stripes to the Egg"
+msgstr "Dodawanie kasków"
+
+#: tutorial-easter-eggs.xml:67(para)
+msgid "Start with the Rectangle tool and draw a rectangle across the egg."
+msgstr "Włącz narzędzie „Prostokąt” i w poprzek jajka narysuj prostokąt."
+
+#: tutorial-easter-eggs.xml:78(para)
+msgid "Select both objects using the <keycap>Shift</keycap> key while selecting. Perform Path Division on the objects."
+msgstr "Zaznacz oba obiekty, klikając je ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] lub wykonując zaznaczenie elastyczne poprzez ciągnięcie wskaźnika wokół obiektów."
+
+#: tutorial-easter-eggs.xml:90(para)
+msgid "Eggs are curved surfaces, so adjust the curve of the band by first inserting a node in the middle of the band. Using the node tool, select nodes on both sides of the band using <keycap>Shift</keycap>, and then use the Insert new nodes into selected segments command."
+msgstr "Jajko ma zaokrągloną powierzchnię, zatem musisz dostosować utworzony pasek do tej powierzchni poprzez dodanie dodatkowych węzłów. Włącz narzędzie „Edycja węzłów”, zaznacz węzły na obu końcach paska, klikając je ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] i naciskając klawisz [ <keycap>Insert</keycap> ] dodaj nowe węzły do zaznaczonego odcinka."
+
+#: tutorial-easter-eggs.xml:104(para)
+msgid "Using the node selection tool, make the band angles into smooth curves."
+msgstr "Cały czas używając narzędzia „Edycja węzłów” nadaj kształt paskowi, przeciągając węzły."
+
+#: tutorial-easter-eggs.xml:115(para)
+msgid "Color the band a different color by selecting the band, and using the Fill and Stroke options."
+msgstr "Pokoloruj pasek różnymi kolorami, wykorzystując opcje narzędzia „Wypełnienie i kontur”."
+
+#: tutorial-easter-eggs.xml:126(para)
+msgid "Add some designs to the band. A star will look great on our egg. After copying the stars onto the egg, use the node tool to adjust the tilt of the star to match the curve of the egg."
+msgstr "Teraz dodaj do paska kilka wzorów. Gwiazdka będzie pięknie wyglądała na pasku. Po wstawieniu na pasek za pomocą narzędzia „Gwiazda” gwiazdki, użyj narzędzia „Edycja węzłów” w celu dostosowania ramion gwiazdki do kształtu jajka."
+
+#: tutorial-easter-eggs.xml:138(para)
+msgid "An Easter egg by itself is great, but having several eggs in a frame would be even better. Also, having an upright egg is nice, but tilting it a little will give it some character. Having several eggs that are identical is nice, but having a little variety is nicer. Lets copy our egg, and adjust some things. Group together all the objects in each egg when finished."
+msgstr "Jajko wygląda wspaniale, ale kilka różnych jajek, będzie wyglądało jeszcze lepiej. Jajka ustawione pionowo wyglądają świetnie, ale pochylone w różne strony jeszcze lepiej. Przystąpmy zatem do kopiowania naszego jajka i zmiany kilku rzeczy. Po zakończeniu kopiowania wykonaj grupowanie wszystkich obiektów w każdym jajku."
+
+#: tutorial-easter-eggs.xml:152(para)
+msgid "After using the handles to adjust the size of the eggs so there is a little variety, use the handles to rotate each egg to its desired position. Raise or lower each egg to get the desired perspective."
+msgstr "Teraz użyj uchwytów, aby zmienić nieco wielkość jajek – będą różnej wielkości, a następnie wykonaj obrócenie jajek, tak jak sobie życzysz. Nadaj im także odpowiednią perspektywę."
+
+#: tutorial-easter-eggs.xml:165(para)
+msgid "Use the rectangle tool to frame our eggs and add a background. Use the Fill and Stroke tool to adjust the border size and the background color. Lower the background rectangle behind the eggs, and adjust the edges to meet the eggs at the bottom and the sides."
+msgstr "Na koniec, za pomocą narzędzia „Prostokąt” dodaj ramkę, by nadać tło. Użyj narzędzia „Wypełnienie i kontur”, aby określić wielkość konturu i kolor wypełnienia. Przenieś tło pod spód i rozmieść na nim jajka. To wszystko! "
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: tutorial-easter-eggs.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Polska lokalizacja wykonana przez:\n"
+"2008-2009 — Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
+"W składzie:  Leszek(teo)Życzkowski, Marcin Floryan, Wojtek Ryrych, Piotr Parafiniuk i inni"
+

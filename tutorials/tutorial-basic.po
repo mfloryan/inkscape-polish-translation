@@ -1,0 +1,423 @@
+# Polish translation of Inkscape tutorials.
+# This file is distributed under the same license as the inkscape package.
+#
+# Polish Inkscape Translation Team <inkscapeplteam@gmail.com>, 2008-2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: tutorial-basic\n"
+"POT-Creation-Date: 2009-09-30 20:28+0200\n"
+"PO-Revision-Date: 2009-10-10 11:43+0100\n"
+"Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
+"Language-Team:  <inkscapeplteam@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Generator: Poedit 1.4.1\n"
+
+#: basic-f15.svg:44(format)
+#: basic-f14.svg:44(format)
+#: basic-f13.svg:212(format)
+#: basic-f12.svg:44(format)
+#: basic-f11.svg:228(format)
+#: basic-f10.svg:44(format)
+#: basic-f09.svg:44(format)
+#: basic-f08.svg:44(format)
+#: basic-f07.svg:44(format)
+#: basic-f06.svg:44(format)
+#: basic-f05.svg:44(format)
+#: basic-f04.svg:44(format)
+#: basic-f03.svg:44(format)
+#: basic-f02.svg:44(format)
+#: basic-f01.svg:44(format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:96(None)
+msgid "@@image: 'basic-f01.svg'; md5=b39a85c560f7fffe5b60f8a15225366c"
+msgstr "@@image: 'basic-f01.svg'; md5=b39a85c560f7fffe5b60f8a15225366c"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:107(None)
+msgid "@@image: 'basic-f02.svg'; md5=ffe5865c493e9811040af6240f861d60"
+msgstr "@@image: 'basic-f02.svg'; md5=ffe5865c493e9811040af6240f861d60"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:132(None)
+msgid "@@image: 'basic-f03.svg'; md5=d2c90ff1d8ef14afc95b9211109a72e8"
+msgstr "@@image: 'basic-f03.svg'; md5=d2c90ff1d8ef14afc95b9211109a72e8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:213(None)
+msgid "@@image: 'basic-f04.svg'; md5=5ecc8516542f23db74acca43964041bb"
+msgstr "@@image: 'basic-f04.svg'; md5=5ecc8516542f23db74acca43964041bb"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:223(None)
+msgid "@@image: 'basic-f05.svg'; md5=d53b232b68cb14ca8844ccea3fa6af9d"
+msgstr "@@image: 'basic-f05.svg'; md5=d53b232b68cb14ca8844ccea3fa6af9d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:253(None)
+msgid "@@image: 'basic-f06.svg'; md5=bbdb0187c916dc9342ea92cc0c0aa5a8"
+msgstr "@@image: 'basic-f06.svg'; md5=bbdb0187c916dc9342ea92cc0c0aa5a8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:289(None)
+msgid "@@image: 'basic-f07.svg'; md5=82aaba04250e97d18f03d55bdcd27ca5"
+msgstr "@@image: 'basic-f07.svg'; md5=82aaba04250e97d18f03d55bdcd27ca5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:312(None)
+msgid "@@image: 'basic-f08.svg'; md5=d3cccae3d1d8db85568278f61b15b0c8"
+msgstr "@@image: 'basic-f08.svg'; md5=d3cccae3d1d8db85568278f61b15b0c8"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:322(None)
+msgid "@@image: 'basic-f09.svg'; md5=9afeff4459e65f7bda694f2824bcfd5c"
+msgstr "@@image: 'basic-f09.svg'; md5=9afeff4459e65f7bda694f2824bcfd5c"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:332(None)
+msgid "@@image: 'basic-f10.svg'; md5=895f7b44d811c80da05d53f8f1c705dc"
+msgstr "@@image: 'basic-f10.svg'; md5=895f7b44d811c80da05d53f8f1c705dc"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:342(None)
+msgid "@@image: 'basic-f11.svg'; md5=5090a34d9d262023d9ff5217ff21fac9"
+msgstr "@@image: 'basic-f11.svg'; md5=5090a34d9d262023d9ff5217ff21fac9"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:371(None)
+msgid "@@image: 'basic-f12.svg'; md5=eb08c965826208aeb162a2de040bb60f"
+msgstr "@@image: 'basic-f12.svg'; md5=eb08c965826208aeb162a2de040bb60f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:386(None)
+msgid "@@image: 'basic-f13.svg'; md5=03c61f7cced469524bb38755411b02ab"
+msgstr "@@image: 'basic-f13.svg'; md5=03c61f7cced469524bb38755411b02ab"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:412(None)
+msgid "@@image: 'basic-f14.svg'; md5=8d94d74c7b95a0867e6eeb1e88b7d58f"
+msgstr "@@image: 'basic-f14.svg'; md5=8d94d74c7b95a0867e6eeb1e88b7d58f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-basic.xml:465(None)
+msgid "@@image: 'basic-f15.svg'; md5=46f334c0b9cf0b6841c499184429e1c0"
+msgstr "@@image: 'basic-f15.svg'; md5=46f334c0b9cf0b6841c499184429e1c0"
+
+#: tutorial-basic.xml:4(title)
+msgid "Basic"
+msgstr "Podstawy"
+
+#: tutorial-basic.xml:5(author)
+msgid "bulia byak, buliabyak@users.sf.net"
+msgstr "bulia byak, buliabyak@users.sf.net"
+
+#: tutorial-basic.xml:9(para)
+msgid "This tutorial demonstrates the basics of using Inkscape. This is a regular Inkscape document that you can view, edit, copy from, or save."
+msgstr "Ten poradnik przedstawia podstawowe zagadnienia dotyczące pracy z Inkscape'em. Jest to standardowy dokument Inkscape'a i można go przeglądać, edytować, kopiować czy zapisywać."
+
+#: tutorial-basic.xml:13(para)
+msgid "The Basic Tutorial covers canvas navigation, managing documents, shape tool basics, selection techniques, transforming objects with selector, grouping, setting fill and stroke, alignment, and z-order. For more advanced topics, check out the other tutorials in the Help menu."
+msgstr "Omawia on nawigację w obszarze roboczym, zarządzanie dokumentami, podstawowe narzędzia kształtów, techniki zaznaczania, przekształcanie obiektów za pomocą wskaźnika, grupowanie, ustawianie wypełniania i konturu, wyrównanie i kolejności. Aby zapoznać się z bardziej zaawansowanymi tematami, z menu „Pomoc” wybierz interesujące cię zagadnienie."
+
+#: tutorial-basic.xml:22(title)
+msgid "Panning the canvas"
+msgstr "Przesuwanie obszaru roboczego"
+
+#: tutorial-basic.xml:24(para)
+msgid "There are many ways to pan (scroll) the document canvas. Try <keycap>Ctrl+arrow</keycap> keys to scroll by keyboard. (Try this now to scroll this document down.) You can also drag the canvas by the middle mouse button. Or, you can use the scrollbars (press <keycap>Ctrl+B</keycap> to show or hide them). The <keycap>wheel</keycap> on your mouse also works for scrolling vertically; press <keycap>Shift</keycap> with the wheel to scroll horizontally."
+msgstr "Jest wiele sposobów przesuwania (przewijania) obszaru roboczego dokumentu. Najbardziej znany to przewijanie obszaru roboczego za pomocą pasków przewijania. Można je ukryć/wyświetlić używając skrótu [ <keycap>Ctrl+B</keycap> ]. Innym sposobem jest przewijanie za pomocą klawiatury przy użyciu klawiszy [ <keycap>Ctrl+strzałki</keycap> ]. Można to sprawdzić wykonując teraz próbę przewinięcia tego dokumentu. Można również przesuwać obszar roboczy za pomocą środkowego przycisku myszy. Wygodnym sposobem przewijania obszaru roboczego jest przewijanie [ <keycap>kółkiem</keycap> ] myszy ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] – przesuwanie w poziomie lub, jeśli w opcjach zaznaczono pprzybliżanie obszaru roboczego za pomocą kółka myszy, [ <keycap>Ctrl</keycap> ] – przesuwanie w pionie."
+
+#: tutorial-basic.xml:33(title)
+msgid "Zooming in or out"
+msgstr "Przybliżanie/Oddalanie"
+
+#: tutorial-basic.xml:34(para)
+msgid "The easiest way to zoom is by pressing <keycap>-</keycap> and <keycap>+</keycap> (or <keycap>=</keycap>) keys. You can also use <keycap>Ctrl+middle click</keycap> or <keycap>Ctrl+right click</keycap> to zoom in, <keycap>Shift+middle click</keycap> or <keycap>Shift+right click</keycap> to zoom out, or rotate the mouse wheel with <keycap>Ctrl</keycap>. Or, you can click in the zoom entry field (in the bottom right corner of the document window), type a precise zoom value in %, and press Enter. We also have the Zoom tool (in the toolbar on left) which lets you to zoom into an area by dragging around it."
+msgstr "Łatwą metodą przybliżania/oddalania (zoom) jest użycie klawiszy [ <keycap>-</keycap> ], [ <keycap>+</keycap> ] i [ <keycap>=</keycap> ]. Można także używać skrótu [ <keycap>Ctrl+kliknięcie </keycap> ] lub [ <keycap>Ctrl+kliknięcie prawym przyciskiem myszy</keycap> ] do przybliżania oraz [ <keycap>Shift+kliknięcie środkowym przyciskiem myszy</keycap> ], lub [ <keycap>Shift+kliknięcie prawym przyciskiem myszy</keycap> ] do oddalania. Wygodnym sposobem przybliżania/oddalania jest użycie kółka myszy ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]. Można także w polu pokazującym aktualną wartość przybliżenia, znajdującym się w dolnym prawym rogu, wprowadzić żądaną wartość skalowania i nacisnąć klawisz [ <keycap>Enter</keycap> ]. W przyborniku znajduje się także narzędzie „Przybliżenie”, które można używać na kilka sposobów – wykonując ciągnięcie myszą wokół elementu, który chcemy przybliżyć/oddalić, lub klikając lewym lub prawym przyciskiem myszy."
+
+#: tutorial-basic.xml:43(para)
+msgid "Inkscape also keeps a history of the zoom levels you've used in this work session. Press the <keycap>`</keycap> key to go back to the previous zoom, or <keycap>Shift+`</keycap> to go forward."
+msgstr "Inkscape przechowuje historię używanych w danej sesji poziomów skalowania obszaru roboczego. Wystarczy nacisnąć klawisz [ <keycap>`</keycap> ], aby przywrócić poprzednią skalę lub [ <keycap>Shift+`</keycap> ], aby przejść do przodu."
+
+#: tutorial-basic.xml:50(title)
+msgid "Inkscape tools"
+msgstr "Narzędzia Inkscape'a"
+
+#: tutorial-basic.xml:52(para)
+msgid "The vertical toolbar on the left shows Inkscape's drawing and editing tools. In the top part of the window, below the menu, there's the <firstterm>Commands bar</firstterm> with general command buttons and the <firstterm>Tool Controls bar</firstterm> with controls that are specific to each tool. The <firstterm>status bar</firstterm> at the bottom of the window will display useful hints and messages as you work."
+msgstr "Pionowy pasek znajdujący się po lewej stronie okna to „Przybornik”, zawierający narzędzia rysowania i edycji. W górnej części okna, poniżej menu głównego, znajduje się <firstterm>pasek poleceń</firstterm>, na którym umieszczone są przyciski realizujące główne polecenia programu. Poniżej tego paska znajduje się <firstterm>pasek kontrolek narzędziowych</firstterm>, zawierający elementy kontrolne przypisane narzędziu aktualnie wybranemu z przybornika. Na <firstterm>pasku stanu</firstterm>, położonym na dole okna, są wyświetlane użyteczne podpowiedzi dotyczące aktualnie wykonywanej czynności."
+
+#: tutorial-basic.xml:59(para)
+msgid "Many operations are available through keyboard shortcuts. Open Help &gt; Keys and Mouse to see the complete reference."
+msgstr "Wiele operacji jest dostępnych za pomocą skrótów klawiaturowych. Przejdź do menu Pomoc » Opis skrótów, aby zobaczyć ich listę i opisy."
+
+#: tutorial-basic.xml:64(title)
+msgid "Creating and managing documents"
+msgstr "Tworzenie dokumentów i zarządzanie nimi"
+
+#: tutorial-basic.xml:66(para)
+msgid "To create a new empty document, use <command>File &gt; New</command> or press <keycap>Ctrl+N</keycap>. To open an existing SVG document, use <command>File &gt; Open</command> (<keycap>Ctrl+O</keycap>). To save, use <command>File &gt; Save</command> (<keycap>Ctrl+S</keycap>), or <command>Save As</command> (<keycap>Shift+Ctrl+S</keycap>) to save under a new name. (Inkscape may still be unstable, so remember to save often!)"
+msgstr "Aby utworzyć nowy, pusty dokument, należy z menu <command>Plik » Nowy</command> wybrać odpowiedni typ dokumentu lub nacisnąć kombinację klawiszy [ <keycap>Ctrl+N</keycap> ]. Aby otworzyć istniejący dokument SVG, należy z menu „<command>Plik</command>” wybrać element „<command>Otwórz…</command>” lub nacisnąć kombinację klawiszy [ <keycap>Ctrl+O</keycap> ]. Aby zapisać dokument, należy posłużyć się menu „<command>Plik » Zapisz</command>” lub kombinacją klawiszy [ <keycap>Ctrl+S</keycap> ]. Zapis pliku z nową nazwą realizuje się za pomocą polecenia „<command>Zapisz jako…</command>” dostępnego w menu „<command>Plik</command>” lub kombinacji klawiszy [ <keycap>Shift+Ctrl+S</keycap> ]. Inkscape jest nadal w fazie rozwojowej i może być niestabilny, zatem zapisuj swoją pracę dość często!"
+
+#: tutorial-basic.xml:73(para)
+msgid "Inkscape uses the SVG (Scalable Vector Graphics) format for its files. SVG is an open standard widely supported by graphic software. SVG files are based on XML and can be edited with any text or XML editor (apart from Inkscape, that is). Besides SVG, Inkscape can import and export several other formats (EPS, PNG)."
+msgstr "Inkscape do zapisu swoich plików używa formatu SVG (Scalable Vector Graphics). SVG jest otwartym standardem szeroko wspieranym przez programy do obróbki grafiki. Pliki SVG są oparte na języku XML i mogą być edytowane za pomocą dowolnego edytora tego języka. Edytor taki posiada także Inkscape. Oprócz formatu SVG, Inkscape może importować i eksportować pliki w innych formatach (EPS, PNG)."
+
+#: tutorial-basic.xml:78(para)
+msgid "Inkscape opens a separate document window for each document. You can navigate among them using your window manager (e.g. by <keycap>Alt+Tab</keycap>), or you can use the Inkscape shortcut, <keycap>Ctrl+Tab</keycap>, which will cycle through all open document windows. (Create a new document now and switch between it and this document for practice.) Note: Inkscape treats these windows like tabs in a web browser, this means the <keycap>Ctrl+Tab</keycap> shortcut only works with documents running in the same process. If you open multiple files from a file browser or launch more than one Inkscape process from an icon it will not work."
+msgstr "Inkscape otwiera oddzielne okno dla każdego dokumentu. Można przemieszczać się pomiędzy nimi używając swojego menedżera okien np. za pomocą skrótu [ <keycap>Alt+Tab</keycap> ] lub skrótu Inkscape'a [ <keycap>Ctrl+Tab</keycap> ], który pozwala na przemieszczanie się pomiędzy wszystkimi otwartymi oknami. Utwórz teraz nowy dokument i wypróbuj opisane wcześniej sposoby. Informacja: Inkscape traktuje te okna, jak karty w przeglądarce. Oznacza to, że skrót klawiszowy <keycap>Ctrl+Tab</keycap> działa tylko z dokumentami uruchomionymi w tym samym procesie. Jeśli zostanie otwarte wiele plików z poziomu przeglądarki plików lub uruchomiony więcej niż jeden proces Inkscape'a z ikony, skrót ten nie będzie działał."
+
+#: tutorial-basic.xml:89(title)
+msgid "Creating shapes"
+msgstr "Tworzenie kształtów"
+
+#: tutorial-basic.xml:90(para)
+msgid "Time for some nice shapes! Click on the Rectangle tool in the toolbar (or press <keycap>F4</keycap>) and click-and-drag, either in a new empty document or right here:"
+msgstr "Nadszedł czas na kilka ćwiczeń praktycznych! Wybierz z przybornika narzędzie „Prostokąt” lub naciśnij klawisz [ <keycap>F4</keycap> ]. Teraz możesz przystąpić do tworzenia prostokątów. Wykonaj myszą kilka ciągnięć w obrębie obszaru roboczego nowego dokumentu lub bezpośrednio tutaj:"
+
+#: tutorial-basic.xml:101(para)
+msgid "As you can see, default rectangles come up blue, with a black <firstterm>stroke</firstterm> (outline), and partly transparent. We'll see how to change that below. With other tools, you can also create ellipses, stars, and spirals:"
+msgstr "Jak widzisz, nowo utworzone prostokąty są domyślnie wypełnione kolorem niebieskim z czarnym <firstterm>konturem</firstterm>, a część z nich jest przezroczysta. W dalszej części zobaczysz, jak można to zmieniać. Wybierając inne narzędzia można tworzyć okręgi, elipsy, gwiazdy i spirale:"
+
+#: tutorial-basic.xml:112(para)
+msgid "These tools are collectively known as <firstterm>shape tools</firstterm>. Each shape you create displays one or more diamond-shaped <firstterm>handles</firstterm>; try dragging them to see how the shape responds. The Controls panel for a shape tool is another way to tweak a shape; these controls affect the currently selected shapes (i.e. those that display the handles) <emphasis>and</emphasis> set the default that will apply to newly created shapes."
+msgstr "Wszystkie te narzędzia są ogólnie zwane <firstterm>narzędziami kształtu</firstterm>. Na każdym utworzonym kształcie są widoczne w postaci malutkich rombów lub kwadracików <firstterm>uchwyty</firstterm>. Złap jeden z nich i wykonaj ciągnięcie – zobaczysz, jak zmienia się kształt. Z poziomu paska kontrolek, widocznego po zaznaczeniu kształtu, można udoskonalać kształt <emphasis>i</emphasis> określać jego domyślne parametry używane podczas tworzenia nowych elementów."
+
+#: tutorial-basic.xml:118(para)
+msgid "To <firstterm>undo</firstterm> your last action, press <keycap>Ctrl+Z</keycap>. (Or, if you change your mind again, you can <firstterm>redo</firstterm> the undone action by <keycap>Shift+Ctrl+Z</keycap>.)"
+msgstr "Aby <firstterm>wycofać</firstterm> ostatnią operację, należy użyć skrótu klawiaturowego [ <keycap>Ctrl+Z</keycap> ], a jeśli chce się <firstterm>przywrócić</firstterm> wycofaną operację, należy użyć skrótu [ <keycap>Shift+Ctrl+Z</keycap> ]."
+
+#: tutorial-basic.xml:125(title)
+msgid "Moving, scaling, rotating"
+msgstr "Przesuwanie, skalowanie, obracanie"
+
+#: tutorial-basic.xml:125(para)
+msgid "The most frequently used Inkscape tool is the <firstterm>Selector</firstterm>. Click the topmost button (with the arrow) on the toolbar, or press <keycap>F1</keycap> or <keycap>Space</keycap>. Now you can select any object on the canvas. Click on the rectangle below."
+msgstr "Najczęściej używanym narzędziem jest „<firstterm>Wskaźnik</firstterm>”. Wybierz narzędzie wskaźnika (przycisk ze strzałką) znajdujące się na samej górze przybornika lub naciśnij klawisz [ <keycap>F1</keycap> ] albo klawisz <keycap>spacji</keycap>. Teraz możesz zaznaczyć każdy obiekt znajdujący się w obszarze roboczym. Kliknij znajdujący się poniżej prostokąt."
+
+#: tutorial-basic.xml:137(para)
+msgid "You will see eight arrow-shaped handles appear around the object. Now you can:"
+msgstr "Wokół prostokąta wyświetliło się osiem uchwytów w postaci strzałek. Teraz możesz:"
+
+#: tutorial-basic.xml:141(para)
+msgid "<firstterm>Move</firstterm> the object by dragging it. (Press <keycap>Ctrl</keycap> to restrict movement to horizontal and vertical.)"
+msgstr "<firstterm>Przesuwać</firstterm> obiekt ciągnąc go po naciśnięciu lewego przycisku myszy. Wykonując tę operację ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] przesuwanie obiektu będzie odbywało się tylko w płaszczyźnie poziomej lub pionowej."
+
+#: tutorial-basic.xml:145(para)
+msgid "<firstterm>Scale</firstterm> the object by dragging any handle. (Press <keycap>Ctrl</keycap> to preserve the original height/width ratio.)"
+msgstr "<firstterm>Skalować</firstterm> obiekt ciągnąc za dowolny uchwyt. Wykonując tę operację ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] obiekt będzie zachowywał oryginalne proporcje."
+
+#: tutorial-basic.xml:150(para)
+msgid "Now click the rectangle again. The handles change. Now you can:"
+msgstr "Kliknij ponownie na prostokącie. Uchwyty zmieniły swój wygląd. Teraz możesz:"
+
+#: tutorial-basic.xml:154(para)
+msgid "<firstterm>Rotate</firstterm> the object by dragging corner handles. (Press <keycap>Ctrl</keycap> to restrict rotation to 15 degree steps. Drag the cross mark to position the center of rotation.)"
+msgstr "<firstterm>Obracać</firstterm> płynnie obiekt ciągnąc za narożne uchwyty. Wykonując tę operację ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] obiekt będzie wykonywał obrót skokowo o 15°. Można także zmieniać położenie środka obrotu (znacznik krzyżyka) ciągnąc go w dowolnym kierunku. Ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] zmiana położenia środka obrotu będzie następowała tylko w płaszczyźnie poziomej lub pionowej."
+
+#: tutorial-basic.xml:159(para)
+msgid "<firstterm>Skew</firstterm> (shear) the object by dragging non-corner handles. (Press <keycap>Ctrl</keycap> to restrict skewing to 15 degree steps.)"
+msgstr "<firstterm>Pochylać</firstterm> płynnie obiekt ciągnąc za środkowe uchwyty. Wykonując tę operację ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] obiekt będzie pochylany skokowo o 15°."
+
+#: tutorial-basic.xml:164(para)
+msgid "While in Selector, you can also use the numeric entry fields in the Controls bar (above the canvas) to set exact values for coordinates (X and Y) and size (W and H) of the selection."
+msgstr "Pracując w trybie wskaźnika, do określenia współrzędnych X i Y oraz wielkości (Szer. i Wys.) zaznaczonego obiektu można także używać pól numerycznych znajdujących się na pasku kontrolek narzędzia."
+
+#: tutorial-basic.xml:170(title)
+msgid "Transforming by keys"
+msgstr "Przekształcanie za pomocą klawiszy"
+
+#: tutorial-basic.xml:172(para)
+msgid "One of Inkscape's features that set it apart from most other vector editors is its emphasis on keyboard accessibility. There's hardly any command or action that is impossible to do from keyboard, and transforming objects is no exception."
+msgstr "Twórcy Inkscape'a położyli szczególny nacisk na dostępność funkcji poprzez klawiaturę. Jest to cecha wyróżniającą go spośród większości programów do grafiki wektorowej. Prawie każdą czynność można wykonać za pomocą klawiatury włącznie z przekształceniami obiektów."
+
+#: tutorial-basic.xml:176(para)
+msgid "You can use the keyboard to move (<keycap>arrow</keycap> keys), scale (<keycap>&lt;</keycap> and <keycap>&gt;</keycap> keys), and rotate (<keycap>[</keycap> and <keycap>]</keycap> keys) objects. Default moves and scales are by 2 px; with <keycap>Shift</keycap>, you move by 10 times that. <keycap>Ctrl+&gt;</keycap> and <keycap>Ctrl+&lt;</keycap> scale up or down to 200% or 50% of the original, respectively. Default rotates are by 15 degrees; with <keycap>Ctrl</keycap>, you rotate by 90 degrees."
+msgstr "Za pomocą klawiatury można przesuwać – [ <keycap>klawisze strzałek</keycap> ], skalować – klawisze [ <keycap>&lt;</keycap> ] i [ <keycap>&gt;</keycap> ] oraz obracać obiekty – klawisze [ <keycap>[</keycap> ] i [ <keycap>]</keycap> ]. Domyślnie przesunięcie, obrót lub skalowanie obiektu następuje o 2 piksele. Przytrzymując klawisz [ <keycap>Shift</keycap> ] operacje te można zwielokrotnić 10 razy. Używając skrótu [ <keycap>Ctrl+&gt;</keycap> ] i [ <keycap>Ctrl+&lt;</keycap> ] obiekt można powiększać lub pomniejszać odpowiednio o 200, lub 50%. Domyślnie obrót obiektu jest realizowany o kąt 15°, z przytrzymanym klawiszem [ <keycap>Ctrl</keycap> ] obiekt jest obracany o kąt 90°."
+
+#: tutorial-basic.xml:184(para)
+msgid "However, perhaps the most useful are <firstterm>pixel-size transformations</firstterm>, invoked by using <keycap>Alt</keycap> with the transform keys. For example, <keycap>Alt+arrows</keycap> will move the selection by 1 pixel <emphasis>at the current zoom</emphasis> (i.e. by 1 <firstterm>screen pixel</firstterm>, not to be confused with the px unit which is an SVG length unit independent of zoom). This means that if you zoom in, one <keycap>Alt+arrow</keycap> will result in a <emphasis>smaller</emphasis> absolute movement which will still look like one-pixel nudge on your screen. It is thus possible to position objects with arbitrary precision simply by zooming in or out as needed."
+msgstr "Jedną z najbardziej użytecznych jest funkcja <firstterm>przekształcenia o wielkość 1 piksela</firstterm>, wywoływana za pomocą kombinacji [ <keycap>Alt</keycap> ] z jednym z klawiszy przekształceń. Na przykład kombinacja klawiszy [ <keycap>Alt+strzałki</keycap> ] przesuwa zaznaczenie o 1 piksel <emphasis>w aktualnym powiększeniu</emphasis> tj. o 1 <firstterm>piksel ekranowy</firstterm>. Proszę nie mylić tej wartości z jednostką px, która jest jednostką długości formatu SVG niezależną od powiększenia. Oznacza to, że w czasie przybliżania obrazu kombinacja klawiszy [ <keycap>Alt+strzałka</keycap> ] spowoduje przesunięcie obrazu o <emphasis>mniej</emphasis> niż 1 piksel absolutnego przesunięcia, zatem obraz na ekranie będzie wyglądał tak jakby przesunięcie nastąpiło o 1 piksel. Dzięki temu możliwe jest dokładne pozycjonowanie obrazu za pomocą przybliżania i oddalania."
+
+#: tutorial-basic.xml:194(para)
+msgid "Similarly, <keycap>Alt+&gt;</keycap> and <keycap>Alt+&lt;</keycap> scale selection so that its visible size changes by one screen pixel, and <keycap>Alt+[</keycap> and <keycap>Alt+]</keycap> rotate it so that its farthest-from-center point moves by one screen pixel."
+msgstr "Podobnie kombinacja klawiszy [ <keycap>Alt+&gt;</keycap> ] i [ <keycap>Alt+&lt;</keycap> ] skaluje zaznaczony obiekt, zmieniając jego rozmiar o jeden piksel ekranowy. Natomiast kombinacja klawiszy [ <keycap>Alt+[</keycap> ] oraz [ <keycap>Alt+]</keycap> ] obraca go tak, że jego najdalej położony od środka punkt jest przysuwany o jeden piksel ekranowy."
+
+#: tutorial-basic.xml:199(para)
+msgid "Note: Linux users may not get the expected results with the <keycap>Alt+arrow</keycap> and a few other key combinations if their Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly."
+msgstr "Informacja: W systemie Linux skrót klawiaturowy [ <keycap>Alt+strzałka</keycap> ] oraz kilka innych kombinacji może działać nieprawidłowo, jeśli przed instalacją Inkscape'a zostały one przydzielone innym aplikacjom/czynnościom. Rozwiązaniem tego problemu jest odpowiednia zmiana skrótów klawiaturowych w menedżerze okien."
+
+#: tutorial-basic.xml:203(title)
+msgid "Multiple selections"
+msgstr "Zaznaczanie wielu obiektów"
+
+#: tutorial-basic.xml:203(para)
+msgid "You can select any number of objects simultaneously by <keycap>Shift+click</keycap>ing them. Or, you can <keycap>drag</keycap> around the objects you need to select; this is called <firstterm>rubberband selection</firstterm>. (Selector creates rubberband when dragging from an empty space; however, if you press <keycap>Shift</keycap> before starting to drag, Inkscape will always create the rubberband.) Practice by selecting all three of the shapes below:"
+msgstr "Można zaznaczać dowolną liczbę obiektów klikając kolejne obiekty ze wciśniętym klawiszem [ <keycap>Shift</keycap> ]. Żądane obiekty można również zaznaczyć wykonując <keycap>ciągnięcie</keycap> myszą wokół tych obiektów. Ten sposób zaznaczania nazywa się <firstterm>zaznaczaniem elastycznym</firstterm>. Wskaźnik podczas ciągnięcia rozpoczętego w pustym miejscu tworzy wokół obiektów jak gdyby elastyczną gumkę, która opina zakreślone obiekty. Naciśnięcie klawisza [ <keycap>Shift</keycap> ] przed rozpoczęciem ciągnięcia zawsze utworzy zaznaczenie elastyczne, nawet jeśli ciągnięcie rozpoczęto na obiekcie. Sprawdź to w praktyce, zaznaczając wszystkie poniższe trzy kształty:"
+
+#: tutorial-basic.xml:218(para)
+msgid "Now, use rubberband (by drag or <keycap>Shift+drag</keycap>) to select the two ellipses but not the rectangle:"
+msgstr "Teraz użyj zaznaczania elastycznego, aby zaznaczyć dwie elipsy, ale nie zaznaczać prostokąta:"
+
+#: tutorial-basic.xml:228(para)
+msgid "Each individual object within a selection displays a <firstterm>selection cue</firstterm> — by default, a dashed rectangular frame. These cues make it easy to see at once what is selected and what is not. For example, if you select both the two ellipses and the rectangle, without the cues you would have hard time guessing whether the ellipses are selected or not."
+msgstr "Wokół każdego obiektu, wewnątrz zaznaczenia, wyświetlana jest <firstterm>ramka zaznaczenia</firstterm>. Domyślnie jest to prostokątna ramka utworzona za pomocą przerywanej linii. Dzięki temu można łatwo odróżnić obiekty zaznaczone i niezaznaczone. Na przykład, jeśli ramka zaznaczenia byłaby niewidoczna, trudno byłoby w poprzednio wykonywanym ćwiczeniu zorientować się, czy obie elipsy zostały zaznaczone."
+
+#: tutorial-basic.xml:234(para)
+msgid "<keycap>Shift+click</keycap>ing on a selected object excludes it from the selection. Select all three objects above, then use <keycap>Shift+click</keycap> to exclude both ellipses from the selection leaving only the rectangle selected."
+msgstr "Można w łatwy sposób wyłączyć z zaznaczenia dany obiekt, klikając go ze wciśniętym klawiszem [ <keycap>Shift</keycap> ]. Zaznacz wszystkie powyższe obiekty, a następnie za pomocą kombinacji [ <keycap>Shift+kliknięcie</keycap> ] wyłącz z zaznaczenia obie elipsy, pozostawiając zaznaczony prostokąt."
+
+#: tutorial-basic.xml:238(para)
+msgid "Pressing <keycap>Esc</keycap> deselects any selected objects. <keycap>Ctrl+A</keycap> selects all objects in the current layer (if you did not create layers, this is the same as all objects in the document)."
+msgstr "Naciśnięcie klawisza [ <keycap>Esc</keycap> ] powoduje zdjęcie znaczenia ze wszystkich obiektów. Użycie skrótu [ <keycap>Ctrl+A</keycap> ] powoduje zaznaczenie wszystkich obiektów na aktywnej warstwie. Jeśli nie utworzono warstw, skrót działa tak samo, jak zaznaczanie wszystkich elementów w dokumencie."
+
+#: tutorial-basic.xml:244(title)
+msgid "Grouping"
+msgstr "Grupowanie"
+
+#: tutorial-basic.xml:246(para)
+msgid "Several objects can be combined into a <firstterm>group</firstterm>. A group behaves as a single object when you drag or transform it. Below, the three objects on the left are independent; the same three objects on the right are grouped. Try to drag the group."
+msgstr "Różne obiekty mogą zostać połączone w <firstterm>grupę</firstterm>. Grupa podczas przeciągania czy przekształcania zachowuje się tak jak pojedynczy obiekt. Poniższe, położone po lewej stronie trzy obiekty są niezależne. Te same obiekty po prawej stronie są zgrupowane. Spróbuj przeciągnąć grupę."
+
+#: tutorial-basic.xml:258(para)
+msgid "To create a group, you select one or more objects and press <keycap>Ctrl+G</keycap>. To ungroup one or more groups, select them and press <keycap>Ctrl+U</keycap>. Groups themselves may be grouped, just like any other objects; such recursive groups may go down to arbitrary depth. However, <keycap>Ctrl+U</keycap> only ungroups the topmost level of grouping in a selection; you'll need to press <keycap>Ctrl+U</keycap> repeatedly if you want to completely ungroup a deep group-in-group."
+msgstr "Aby utworzyć grupę, należy zaznaczyć kilka obiektów i użyć skrótu [ <keycap>Ctrl+G</keycap> ]. Aby rozdzielić jedną lub więcej grup, należy je zaznaczyć i nacisnąć klawisze [ <keycap>Ctrl+U</keycap> ]. Grupy mogą być grupowane tak jak pojedyncze obiekty. Takie rekurencyjne grupy można tworzyć na dowolną głębokość. W przypadku grup rekurencyjnych użycie skrótu [ <keycap>Ctrl+U</keycap> ] spowoduje rozdzielenie grup najwyższego poziomu w zaznaczeniu. Aby całkowicie rozdzielić grupy, trzeba użyć skrótu [ <keycap>Ctrl+U</keycap> ] wielokrotnie."
+
+#: tutorial-basic.xml:266(para)
+msgid "You don't necessarily have to ungroup, however, if you want to edit an object within a group. Just <keycap>Ctrl+click</keycap> that object and it will be selected and editable alone, or <keycap>Shift+Ctrl+click</keycap> several objects (inside or outside any groups) for multiple selection regardless of grouping. Try to move or transform the individual shapes in the group (above right) without ungrouping it, then deselect and select the group normally to see that it still remains grouped."
+msgstr "Jeśli chcesz edytować obiekt znajdujący się w grupie, nie musisz jej rozdzielać. Wystarczy nacisnąć klawisz [ <keycap>Ctrl</keycap> ] i kliknąć obiekt, który zamierzasz edytować. Obiekt zostanie zaznaczony i można wykonywać na nim żądane operacje. Aby zaznaczyć kilka obiektów niezależnie od grupowania, można użyć skrótu [ <keycap>Shift+Ctrl</keycap> ] i kliknąć różne obiekty wewnątrz i na zewnątrz grup. Spróbuj przesunąć lub przekształcić pojedyncze kształty znajdujące się powyżej, po prawej stronie bez rozdzielania grupy, a następnie odznacz i zaznacz grupę normalnie. Pomimo wykonania operacji wewnątrz grupy, obiekty są nadal zgrupowane."
+
+#: tutorial-basic.xml:276(title)
+msgid "Fill and stroke"
+msgstr "Wypełnienie i kontur"
+
+#: tutorial-basic.xml:278(para)
+msgid "Many of Inkscape's functions are available via <firstterm>dialogs</firstterm>. Probably the simplest way to paint an object some color is to open the Swatches dialog from the View menu (or press <keycap>Shift+Ctrl+W</keycap>), select an object, and click a swatch to paint it (change its fill color)."
+msgstr "Wiele funkcji Inkscape'a jest dostępnych poprzez <firstterm>okna dialogowe</firstterm>. Na przykład łatwym sposobem wypełnienia obiektu kolorem lub zmiany koloru wypełnienia jest otworzenie okna dialogowego „Przykładowe kolory” poprzez wybranie tego elementu z menu „<guimenu>Widok</guimenu>” lub naciśnięcie kombinacji klawiszy [ <keycap>Shift+Ctrl+W</keycap> ], zaznaczenie obiektu i wybranie próbki koloru z palety kolorów wyświetlonej w otwartym oknie dialogowym."
+
+#: tutorial-basic.xml:283(para)
+msgid "More powerful is the Fill and Stroke dialog from the <guimenu>Object</guimenu> menu (or press <keycap>Shift+Ctrl+F</keycap>). Select the shape below and open the Fill and Stroke dialog."
+msgstr "Bardzo użyteczne jest okno dialogowe „Wypełnienie i kontur” dostępne w menu „<guimenu>Obiekt</guimenu>” albo poprzez naciśnięcie kombinacji klawiszy [ <keycap>Shift+Ctrl+F</keycap> ]. Zaznacz poniższy kształt i otwórz okno „Wypełnienie i kontur”."
+
+#: tutorial-basic.xml:294(para)
+msgid "You will see that the dialog has three tabs: Fill, Stroke paint, and Stroke style. The Fill tab lets you edit the <firstterm>fill</firstterm> (interior) of the selected object(s). Using the buttons just below the tab, you can select types of fill, including no fill (the button with the X), flat color fill, as well as linear or radial gradients. For the above shape, the flat fill button will be activated."
+msgstr "Nowo otwarte okno zawiera trzy karty: „Wypełnienie”, „Kontur” i „Styl konturu”. Karta „Wypełnienie” pozwala edytować <firstterm>wypełnienie</firstterm> (wnętrze) zaznaczonych obiektów. Przyciski znajdujące się na górze karty umożliwiają wybranie typu wypełnienia: wypełnienie kolorem jednolitym, gradientem liniowym lub radialnym oraz deseniem. Można również wyłączyć wypełnienie używając przycisku z oznaczeniem X. W przypadku powyższej elipsy zaznaczony będzie przycisk wypełnienia jednolitego."
+
+#: tutorial-basic.xml:300(para)
+msgid "Further below, you see a collection of <firstterm>color pickers</firstterm>, each in its own tab: RGB, CMYK, HSL, and Wheel. Perhaps the most convenient is the Wheel picker, where you can rotate the triangle to choose a hue on the wheel, and then select a shade of that hue within the triangle. All color pickers contain a slider to set the <firstterm>alpha</firstterm> (opacity) of the selected object(s)."
+msgstr "Trochę niżej umiejscowione są <firstterm>palety kolorów</firstterm>, każda w osobnej karcie: RGB, CMYK, HSL i Koło. Bardzo wygodna w użyciu jest paleta kołowa, w której przesuwając biały wskaźnik znajdujący się na kole lub po prostu klikając żądany kolor można wybrać barwę, a następnie klikając lub przesuwając znajdujące się wewnątrz trójkąta kółeczko – odcień. Każda paleta kolorów zawiera suwak pozwalający ustawić kanał <firstterm>alfa</firstterm> – przezroczystość zaznaczonych obiektów."
+
+#: tutorial-basic.xml:306(para)
+msgid "Whenever you select an object, the color picker is updated to display its current fill and stroke (for multiple selected objects, the dialog shows their <emphasis>average</emphasis> color). Play with these samples or create your own:"
+msgstr "Po zaznaczeniu obiektu paleta kolorów jest natychmiast aktualizowana, wyświetlając aktualne kolory wypełnienia i konturu. Jeśli zostało zaznaczone wiele obiektów z różnymi kolorami, w palecie wyświetlany jest <emphasis>uśredniony</emphasis> kolor. W ramach ćwiczenia przetestuj poniższe obiekty:"
+
+#: tutorial-basic.xml:317(para)
+msgid "Using the Stroke paint tab, you can remove the <firstterm>stroke</firstterm> (outline) of the object, or assign any color or transparency to it:"
+msgstr "Używając narzędzi znajdujących się na karcie „Kontur” można usunąć <firstterm>kontur</firstterm> obiektu, przypisać mu dowolny kolor czy przezroczystość."
+
+#: tutorial-basic.xml:327(para)
+msgid "The last tab, Stroke style, lets you set the width and other parameters of the stroke:"
+msgstr "Ostatnia z kart – „Styl konturu” – pozwala określić szerokość i inne parametry konturu:"
+
+#: tutorial-basic.xml:337(para)
+msgid "Finally, instead of flat color, you can use <firstterm>gradients</firstterm> for fills and/or strokes:"
+msgstr "Możliwe jest wypełnienie obiektu <firstterm>gradientem</firstterm> zamiast wypełnienia jednolitego:"
+
+#: tutorial-basic.xml:347(para)
+msgid "When you switch from flat color to gradient, the newly created gradient uses the previous flat color, going from opaque to transparent. Switch to the Gradient tool (<keycap>Ctrl+F1</keycap>) to drag the <firstterm>gradient handles</firstterm> — the controls connected by lines that define the direction and length of the gradient. When any of the gradient handles is selected (highlighted blue), the Fill and Stroke dialog sets the color of that handle instead of the color of the entire selected object."
+msgstr "Podstawę nowo utworzonego wypełnienia gradientowego stanowi kolor wypełnienia jednolitego zdążający płynnie do przezroczystości. Aby zmienić kierunek i długość gradientu, wybierz z przybornika narzędzie „Gradient” [ <keycap>Ctrl+F1</keycap> ] i ciągnąc uchwyty (kontrolki połączone linią) zmień te parametry. Jeśli chcesz zmienić kolory gradientu, zaznacz uchwyt gradientu znajdujący się w pobliżu koloru, który chcesz zmienić i w oknie dialogowym „Wypełnienie i kontur” określ nowy kolor."
+
+#: tutorial-basic.xml:355(para)
+msgid "Yet another convenient way to change a color of an object is by using the Dropper tool (<keycap>F7</keycap>). Just <keycap>click</keycap> anywhere in the drawing with that tool, and the picked color will be assigned to the selected object's fill (<keycap>Shift+click</keycap> will assign stroke color)."
+msgstr "Innym wygodnym sposobem zmiany koloru obiektu jest użycie „Próbnika koloru” [ <keycap>F7</keycap> ]. Używając tego narzędzia kliknij dowolne miejsce na rysunku, a zaznaczony obiekt zostanie wypełniony pobranym w ten sposób kolorem. Użycie skrótu [ <keycap>Shift+kliknięcie</keycap> ] spowoduje przypisanie pobranego koloru do konturu."
+
+#: tutorial-basic.xml:362(title)
+msgid "Duplication, alignment, distribution"
+msgstr "Powielanie, wyrównywanie, rozmieszczanie"
+
+#: tutorial-basic.xml:364(para)
+msgid "One of the most common operations is <firstterm>duplicating</firstterm> an object (<keycap>Ctrl+D</keycap>). The duplicate is placed exactly above the original and is selected, so you can drag it away by mouse or by arrow keys. For practice, try to fill the line with copies of this black square:"
+msgstr "Jedną z najczęściej stosowanych operacji jest <firstterm>powielanie</firstterm> obiektu [ <keycap>Ctrl+D</keycap> ]. Duplikat jest umieszczany dokładnie nad oryginałem oraz jest zaznaczony. Można go łatwo odciągnąć za pomocą myszy bądź klawiszy strzałek. W ramach ćwiczenia spróbuj zapełnić poniższy wiersz kopiami tego czarnego kwadratu:"
+
+#: tutorial-basic.xml:376(para)
+msgid "Chances are, your copies of the square are placed more or less randomly. This is where the Align dialog (<keycap>Ctrl+Shift+A</keycap>) is useful. Select all the squares (<keycap>Shift+click</keycap> or drag a rubberband), open the dialog and press the “Center on horizontal axis” button, then the “Make horizontal gaps between objects equal” button (read the button tooltips). The objects are now neatly aligned and distributed equispacedly. Here are some other alignment and distribution examples:"
+msgstr "Prawdopodobnie kopie kwadratu będą rozmieszczone bardziej lub mniej przypadkowo. Aby je rozmieścić równo, pomocne będzie okno dialogowe „Wyrównaj i rozmieść” [ <keycap>Ctrl+Shift+A</keycap> ]. Zaznacz wszystkie kwadraty [ <keycap>Shift+kliknięcie</keycap> ] bądź wykonaj zaznaczenie elastyczne, otwórz okno dialogowe, naciśnij przycisk „Wyśrodkuj na osi poziomej” i następnie „Rozmieść środki obiektów w równych odstępach poziomo” (przeczytaj podpowiedzi przycisków). Obiekty są teraz ładnie wyrównane i rozłożone równomiernie. Spójrz na kolejne przykłady wyrównania i rozłożenia obiektów:"
+
+#: tutorial-basic.xml:394(title)
+msgid "Z-order"
+msgstr "Kolejność w stosie (z-order)"
+
+#: tutorial-basic.xml:396(para)
+msgid "The term <firstterm>z-order</firstterm> refers to the stacking order of objects in a drawing, i.e. to which objects are on top and obscure others. The two commands in the Object menu, Raise to Top (the <keycap>Home</keycap> key) and Lower to Bottom (the <keycap>End</keycap> key), will move your selected objects to the very top or very bottom of the current layer's z-order. Two more commands, Raise (<keycap>PgUp</keycap>) and Lower (<keycap>PgDn</keycap>), will sink or emerge the selection <emphasis>one step only</emphasis>, i.e. move it past one non-selected object in z-order (only objects that overlap the selection count; if nothing overlaps the selection, Raise and Lower move it all the way to the top or bottom correspondingly)."
+msgstr "Określenie <firstterm>z-order</firstterm> odnosi się do kolejności obiektów w rysunku ułożonych jeden za drugim – w stosie. Określa, który obiekt znajduje się na wierzchu i przesłania inne obiekty. Dwa polecenia znajdujące się w menu „Obiekt” – „Przenieś na wierzch” [ <keycap>Home</keycap> ] i „Przenieś na spód” [ <keycap>End</keycap> ] przenoszą zaznaczony obiekt na wierzch lub na spód aktywnego stosu – przesłaniają lub są przesłaniane przez cały stos. Dwa inne polecenia – „Przenieś w górę” [ <keycap>PgUp</keycap> ] i „Przenieś w dół” [ <keycap>PgDn</keycap> ] przenoszą zaznaczony obiekt w górę lub w dół stosu <emphasis>o jeden krok</emphasis> – zaznaczony obiekt zostaje przesunięty – odpowiednio do użytego skrótu – nad lub pod najbliższy mu niezaznaczony obiekt."
+
+#: tutorial-basic.xml:406(para)
+msgid "Practice using these commands by reversing the z-order of the objects below, so that the leftmost ellipse is on top and the rightmost one is at the bottom:"
+msgstr "W ramach ćwiczenia wypróbuj te polecenia i odwróć kolejność poniższych obiektów, tak aby elipsa po lewej znajdowała się na samej górze stosu, a po prawej na samym dole."
+
+#: tutorial-basic.xml:417(para)
+msgid "A very useful selection shortcut is the <keycap>Tab</keycap> key. If nothing is selected, it selects the bottommost object; otherwise it selects the object <emphasis>above the selected object(s)</emphasis> in z-order. <keycap>Shift+Tab</keycap> works in reverse, starting from the topmost object and proceeding downwards. Since the objects you create are added to the top of the stack, pressing <keycap>Shift+Tab</keycap> with nothing selected will conveniently select the object you created <emphasis>last</emphasis>. Practice the <keycap>Tab</keycap> and <keycap>Shift+Tab</keycap> keys on the stack of ellipses above."
+msgstr "Bardzo przydatnym skrótem służącym do zaznaczania jest klawisz [ <keycap>Tab</keycap> ]. W obiektach ułożonych w stosie (z-order), jeśli żaden obiekt nie został zaznaczony, naciśnięcie klawisza [ <keycap>Tab</keycap> ] powoduje zaznaczenie najniżej położonego obiektu. Jeśli obiekt jest zaznaczony, zaznaczenie <emphasis>obiektu położonego powyżej</emphasis> obiektu zaznaczonego. Skrót [ <keycap>Shift+Tab</keycap> ] działa odwrotnie – rozpoczyna zaznaczanie od najwyżej położonego obiektu i przechodzi do najniżej położonego. Jeśli tworzone obiekty są dodawane na górę stosu, użycie skrótu [ <keycap>Shift+Tab</keycap> ], gdy nic nie jest zaznaczone, spowoduje zaznaczenie <emphasis>ostatnio</emphasis> utworzonego obiektu. Wypróbuj działanie skrótów [ <keycap>Tab</keycap> ] i [ <keycap>Shift+Tab</keycap> ] na stosie elips znajdującym się powyżej."
+
+#: tutorial-basic.xml:428(title)
+msgid "Selecting under and dragging selected"
+msgstr "Zaznaczanie i przeciąganie obiektów przesłoniętych"
+
+#: tutorial-basic.xml:430(para)
+msgid "What to do if the object you need is hidden behind another object? You may still see the bottom object if the top one is (partially) transparent, but clicking on it will select the top object, not the one you need."
+msgstr "Co zrobić, jeśli obiekt, który chcesz zaznaczyć, jest przesłonięty innym obiektem? Można go zobaczyć, jeżeli obiekt powyżej jest częściowo przezroczysty, ale kliknięcie go spowoduje zaznaczenie górnego obiektu, nie tego, którego potrzebujesz."
+
+#: tutorial-basic.xml:435(para)
+msgid "This is what <keycap>Alt+click</keycap> is for. First <keycap>Alt+click</keycap> selects the top object just like the regular click. However, the next <keycap>Alt+click</keycap> at the same point will select the object <emphasis>below</emphasis> the top one; the next one, the object still lower, etc. Thus, several <keycap>Alt+click</keycap>s in a row will cycle, top-to-bottom, through the entire z-order stack of objects at the click point. When the bottom object is reached, next <keycap>Alt+click</keycap> will, naturally, again select the topmost object."
+msgstr "Służy do tego kombinacja [ <keycap>Alt+kliknięcie</keycap> ]. Użycie tej kombinacji po raz pierwszy spowoduje zaznaczenie górnego obiektu, tak jak w przypadku zwykłego kliknięcia. Kolejne użycie [ <keycap>Alt+kliknięcie</keycap> ] w tym samym miejscu spowoduje zaznaczenie obiektu przesłoniętego, kolejne – zaznaczenie obiektu znajdującego się jeszcze niżej. Stąd kilkukrotne użycie kombinacji [ <keycap>Alt+kliknięcie</keycap> ] z rzędu zaznaczy obiekty od góry do dołu w całym stosie ułożonym wg z-order. Jeżeli zostanie osiągnięty obiekt znajdujący się najniżej, następne [ <keycap>Alt+kliknięcie</keycap> ] spowoduje ponowne zaznaczenie obiektu znajdującego się na samym szczycie stosu."
+
+#: tutorial-basic.xml:443(para)
+msgid "[If you are on Linux, you might find that <keycap>Alt+click</keycap> does not work properly. Instead, it might be moving the whole Inkscape window. This is because your window manager has reserved Alt+click for a different action. The way to fix this is to find the Window Behavior configuration for your window manager, and either turn it off, or map it to use the Meta key (aka Windows key), so Inkscape and other applications may use the Alt key freely.]"
+msgstr "Jeśli twoim systemem operacyjnym jest Linux, może okazać się, że [ <keycap>Alt+kliknięcie</keycap> ] nie działa prawidłowo. Ta kombinacja może przesuwać całe okno Inkscape'a. Dzieje się tak, ponieważ menedżer okien zarezerwował [ <keycap>Alt+kliknięcie</keycap> ] dla innej czynności. Aby usunąć ten problem, należy odnaleźć konfigurację zachowania okien twojego menedżera okien i wyłączyć działanie tego klawisza albo przypisać działanie klawisza [ <keycap>Alt</keycap> ], klawiszowi [ <keycap>Meta</keycap> ] lub klawiszowi [ <keycap>Windows</keycap> ]. Wówczas Inkscape i inne aplikacje będą mogły swobodnie używać klawisza [ <keycap>Alt</keycap> ]."
+
+#: tutorial-basic.xml:452(para)
+msgid "This is nice, but once you selected an under-the-surface object, what can you do with it? You can use keys to transform it, and you can drag the selection handles. However, dragging the object itself will reset the selection to the top object again (this is how click-and-drag is designed to work — it selects the (top) object under cursor first, then drags the selection). To tell Inkscape to drag <emphasis>what is selected now</emphasis> without selecting anything else, use <keycap>Alt+drag</keycap>. This will move the current selection no matter where you drag your mouse."
+msgstr "Dobrze, ale co zrobić, jeżeli przesłonięty obiekt jest już zaznaczony? Można użyć klawiszy, by go przekształcić albo przeciągnąć uchwyty zaznaczenia. Jednak przesuwanie samego obiektu ponownie przeniesie zaznaczenie do górnego obiektu. Tak został zaprojektowany mechanizm „kliknij i przeciągnij” – zaznacza górny obiekt znajdujący się pod kursorem, następnie przeciąga zaznaczenie. Aby przeciągać to, <emphasis>co jest teraz zaznaczone</emphasis> bez zaznaczania czegokolwiek innego, użyj kombinacji [ <keycap>Alt+ciągnięcie</keycap> ]. Takie działanie spowoduje przesunięcie aktualnego zaznaczenia, bez względu na to, gdzie przeciągasz mysz."
+
+#: tutorial-basic.xml:460(para)
+msgid "Practice <keycap>Alt+click</keycap> and <keycap>Alt+drag</keycap> on the two brown shapes under the green transparent rectangle:"
+msgstr "Przećwicz kombinacje [ <keycap>Alt+kliknięcie</keycap> ] oraz [ <keycap>Alt+ciągnięcie</keycap> ] na tych dwóch brązowych kształtach znajdujących się pod zielonym, przezroczystym prostokątem:"
+
+#: tutorial-basic.xml:474(title)
+msgid "Conclusion"
+msgstr "Podsumowanie"
+
+#: tutorial-basic.xml:476(para)
+msgid "This concludes the Basic tutorial. There's much more than that to Inkscape, but with the techniques described here, you will already be able to create simple yet useful graphics. For more complicated stuff, go through the Advanced and other tutorials in <command>Help &gt; Tutorials</command>."
+msgstr "Inkscape posiada dużo więcej funkcji niż te tutaj zaprezentowane, niemniej posługując się wyżej opisanymi technikami można stworzyć prostą, użyteczną grafikę. Aby poznać bardziej zaawansowane techniki, proszę zapoznać się z poradnikami dostępnymi z poziomu menu „<command>Pomoc » Poradniki</command>”."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: tutorial-basic.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Polska lokalizacja wykonana przez:\n"
+"2008-2009 — Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
+

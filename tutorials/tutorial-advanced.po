@@ -1,0 +1,469 @@
+# Polish translation of Inkscape tutorials.
+# This file is distributed under the same license as the inkscape package.
+#
+# Polish Inkscape Translation Team <inkscapeplteam@gmail.com>, 2008-2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: tutorial-advanced\n"
+"POT-Creation-Date: 2009-10-01 19:59+0200\n"
+"PO-Revision-Date: 2009-10-10 11:48+0100\n"
+"Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
+"Language-Team:  <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: advanced-f16.svg:45(format)
+#: advanced-f15.svg:45(format)
+#: advanced-f14.svg:45(format)
+#: advanced-f13.svg:45(format)
+#: advanced-f12.svg:44(format)
+#: advanced-f11.svg:45(format)
+#: advanced-f10.svg:44(format)
+#: advanced-f09.svg:44(format)
+#: advanced-f08.svg:42(format)
+#: advanced-f07.svg:44(format)
+#: advanced-f06.svg:44(format)
+#: advanced-f05.svg:44(format)
+#: advanced-f04.svg:44(format)
+#: advanced-f03.svg:44(format)
+#: advanced-f02.svg:44(format)
+#: advanced-f01.svg:44(format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#: advanced-f16.svg:65(tspan)
+#: advanced-f15.svg:76(tspan)
+#: advanced-f14.svg:86(tspan)
+#: advanced-f14.svg:94(tspan)
+#, no-wrap
+msgid "Inspiration"
+msgstr "Inspiracja"
+
+#: advanced-f15.svg:67(tspan)
+#, no-wrap
+msgid "Letter spacing decreased, some letter pairs manually kerned"
+msgstr "Zmniejszona przestrzeń między literami, w niektórych parach liter ręczny kerning"
+
+#: advanced-f14.svg:67(tspan)
+#: advanced-f13.svg:67(tspan)
+#, no-wrap
+msgid "Original"
+msgstr "Oryginał"
+
+#: advanced-f14.svg:79(tspan)
+#, no-wrap
+msgid "Letter spacing decreased"
+msgstr "zmniejszone odległości między literami "
+
+#: advanced-f13.svg:79(tspan)
+#, no-wrap
+msgid "Slight simplification"
+msgstr "delikatne uproszczenie"
+
+#: advanced-f13.svg:91(tspan)
+#, no-wrap
+msgid "Aggressive simplification"
+msgstr "mocne uproszczenie"
+
+#: advanced-f08.svg:63(tspan)
+#, no-wrap
+msgid "Original shapes"
+msgstr "Oryginalne kształty"
+
+#: advanced-f08.svg:75(tspan)
+#, no-wrap
+msgid "Union (Ctrl++)"
+msgstr "Suma [ Ctrl++ ]"
+
+#: advanced-f08.svg:87(tspan)
+#, no-wrap
+msgid "Difference (Ctrl+-)"
+msgstr "Różnica [ Ctrl+- ]"
+
+#: advanced-f08.svg:99(tspan)
+#, no-wrap
+msgid "Intersection"
+msgstr "Część wspólna"
+
+#: advanced-f08.svg:103(tspan)
+#, no-wrap
+msgid "(Ctrl+*)"
+msgstr "[ Ctrl+* ]"
+
+#: advanced-f08.svg:115(tspan)
+#, no-wrap
+msgid "Exclusion"
+msgstr "Wykluczenie"
+
+#: advanced-f08.svg:119(tspan)
+#, no-wrap
+msgid "(Ctrl+^)"
+msgstr "[ Ctrl+^ ]"
+
+#: advanced-f08.svg:131(tspan)
+#, no-wrap
+msgid "Division"
+msgstr "Podział"
+
+#: advanced-f08.svg:135(tspan)
+#, no-wrap
+msgid "(Ctrl+/)"
+msgstr "[ Ctrl+/ ]"
+
+#: advanced-f08.svg:147(tspan)
+#, no-wrap
+msgid "Cut Path"
+msgstr "Rozcięcie ścieżki"
+
+#: advanced-f08.svg:151(tspan)
+#, no-wrap
+msgid "(Ctrl+Alt+/)"
+msgstr "[ Ctrl+Alt+/ ]"
+
+#: advanced-f08.svg:216(flowPara)
+#, no-wrap
+msgid "(bottom minus top)"
+msgstr "(dół minus góra)"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:77(None)
+msgid "@@image: 'advanced-f01.svg'; md5=22ee8fbcff3139e58b3b773e9d6c9461"
+msgstr "@@image: 'advanced-f01.svg'; md5=22ee8fbcff3139e58b3b773e9d6c9461"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:88(None)
+msgid "@@image: 'advanced-f02.svg'; md5=3c987f800b29b629c7fadb7632eed0ab"
+msgstr "@@image: 'advanced-f02.svg'; md5=3c987f800b29b629c7fadb7632eed0ab"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:126(None)
+msgid "@@image: 'advanced-f03.svg'; md5=7ec070b8d7fc72117a877489b5e432a5"
+msgstr "@@image: 'advanced-f03.svg'; md5=7ec070b8d7fc72117a877489b5e432a5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:191(None)
+msgid "@@image: 'advanced-f04.svg'; md5=da1a2bd2e84be77dac89d06b729a4d86"
+msgstr "@@image: 'advanced-f04.svg'; md5=da1a2bd2e84be77dac89d06b729a4d86"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:218(None)
+msgid "@@image: 'advanced-f05.svg'; md5=e826865cfa2d34da545244c20b4207d5"
+msgstr "@@image: 'advanced-f05.svg'; md5=e826865cfa2d34da545244c20b4207d5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:243(None)
+msgid "@@image: 'advanced-f06.svg'; md5=6fc95f912391d085bf4e5057e54e577b"
+msgstr "@@image: 'advanced-f06.svg'; md5=6fc95f912391d085bf4e5057e54e577b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:257(None)
+msgid "@@image: 'advanced-f07.svg'; md5=7968c2c9f8e5c8805ae0c15b56220430"
+msgstr "@@image: 'advanced-f07.svg'; md5=7968c2c9f8e5c8805ae0c15b56220430"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:272(None)
+msgid "@@image: 'advanced-f08.svg'; md5=05c234cd7c0130898b2faa45636ee59f"
+msgstr "@@image: 'advanced-f08.svg'; md5=05c234cd7c0130898b2faa45636ee59f"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:309(None)
+msgid "@@image: 'advanced-f09.svg'; md5=d34967d0d3e8f440d801dc9d2a0c3ea4"
+msgstr "@@image: 'advanced-f09.svg'; md5=d34967d0d3e8f440d801dc9d2a0c3ea4"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:325(None)
+msgid "@@image: 'advanced-f10.svg'; md5=4539d8672c02d2738387c23906b01d88"
+msgstr "@@image: 'advanced-f10.svg'; md5=4539d8672c02d2738387c23906b01d88"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:354(None)
+msgid "@@image: 'advanced-f11.svg'; md5=64084061683435d4b73e50c084972035"
+msgstr "@@image: 'advanced-f11.svg'; md5=64084061683435d4b73e50c084972035"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:376(None)
+msgid "@@image: 'advanced-f12.svg'; md5=6045fdb18a2713ffdfd8fe587f485e43"
+msgstr "@@image: 'advanced-f12.svg'; md5=6045fdb18a2713ffdfd8fe587f485e43"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:404(None)
+msgid "@@image: 'advanced-f13.svg'; md5=1e26ae035435ece38957c5bf48f4b0b5"
+msgstr "@@image: 'advanced-f13.svg'; md5=1e26ae035435ece38957c5bf48f4b0b5"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:448(None)
+msgid "@@image: 'advanced-f14.svg'; md5=cf551c2df2fa929edb68e01894fbcaa0"
+msgstr "@@image: 'advanced-f14.svg'; md5=cf551c2df2fa929edb68e01894fbcaa0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:471(None)
+msgid "@@image: 'advanced-f15.svg'; md5=9c3b3030b68d45eedfd5ca03edb64845"
+msgstr "@@image: 'advanced-f15.svg'; md5=9c3b3030b68d45eedfd5ca03edb64845"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-advanced.xml:484(None)
+msgid "@@image: 'advanced-f16.svg'; md5=90080be85e122434df3c23edacbf28c0"
+msgstr "@@image: 'advanced-f16.svg'; md5=90080be85e122434df3c23edacbf28c0"
+
+#: tutorial-advanced.xml:4(title)
+msgid "Advanced"
+msgstr "Zaawansowany"
+
+#: tutorial-advanced.xml:5(authors)
+msgid "bulia byak, buliabyak@users.sf.net and josh andler, scislac@users.sf.net"
+msgstr "bulia byak, buliabyak@users.sf.net and josh andler, scislac@users.sf.net"
+
+#: tutorial-advanced.xml:9(para)
+msgid "This tutorial covers copy/paste, node editing, freehand and bezier drawing, path manipulation, booleans, offsets, simplification, and text tool."
+msgstr "Ten poradnik opisuje techniki kopiowania/wklejania, edycję węzłów, rysowanie za pomocą ołówka i pióra, manipulowanie ścieżkami, operacje logiczne, odsunięcia, uproszczenia i narzędzie tekstu."
+
+#: tutorial-advanced.xml:13(para)
+msgid "Use <keycap>Ctrl+arrows</keycap>, <keycap>mouse wheel</keycap>, or <keycap>middle button drag</keycap> to scroll the page down. For basics of object creation, selection, and transformation, see the Basic tutorial in <command>Help &gt; Tutorials</command>."
+msgstr "Aby przewinąć stronę w dół, użyj kombinacji klawiszy [ <keycap>Ctrl+strzałki</keycap> ], <keycap>rolki myszy</keycap> lub przewijaj stronę płynnie <keycap>środkowym przyciskiem myszy</keycap>. Podstawowe sposoby tworzenia, zaznaczania i przekształcania obiektów zostały omówione w poradniku „Podstawy” dostępnym z poziomu menu „<command>Pomoc &raquo; Poradniki</command>”."
+
+#: tutorial-advanced.xml:21(title)
+msgid "Pasting techniques"
+msgstr "Techniki wklejania"
+
+#: tutorial-advanced.xml:23(para)
+msgid "After you copy some object(s) by <keycap>Ctrl+C</keycap> or cut by <keycap>Ctrl+X</keycap>, the regular <command>Paste</command> command (<keycap>Ctrl+V</keycap>) pastes the copied object(s) right under the mouse cursor or, if the cursor is outside the window, to the center of the document window. However, the object(s) in the clipboard still remember the original place from which they were copied, and you can paste back there by <command>Paste in Place</command> (<keycap>Ctrl+Alt+V</keycap>)."
+msgstr "Po skopiowaniu obiektów za pomocą skrótu klawiaturowego [ <keycap>Ctrl+C</keycap> ] bądź wycięciu poprzez [ <keycap>Ctrl+X</keycap> ], za pomocą polecenia „<command>Wklej</command>” [ <keycap>Ctrl+V</keycap> ] obiekty te można umieścić w obszarze roboczym. Zostaną one wklejone pod kursorem myszy lub – jeżeli kursor znajdował się poza oknem – na środku dokumentu. Obiekty znajdujące się w schowku pamiętają położenie, z którego były kopiowane, możliwe więc jest wklejenie ich w to samo miejsce za pomocą polecenia „<command>Wklej w miejscu pochodzenia</command>” [ <keycap>Ctrl+Alt+V</keycap> ]."
+
+#: tutorial-advanced.xml:33(para)
+msgid "Another command, <command>Paste Style</command> (<keycap>Shift+Ctrl+V</keycap>), applies the style of the (first) object on the clipboard to the current selection. The “style” thus pasted includes all the fill, stroke, and font settings, but not the shape, size, or parameters specific to a shape type, such as the number of tips of a star."
+msgstr "Polecenie „<command>Wklej styl</command>” [ <keycap>Shift+Ctrl+V</keycap> ] przydziela styl pierwszego obiektu znajdującego się w schowku aktualnemu zaznaczeniu. Wklejony styl zawiera ustawienia konturu, wypełnienia i czcionki, ale nie zawiera kształtu, rozmiaru czy parametrów specyficznych dla danego typu obiektu, jak na przykład liczba ramion gwiazdy."
+
+#: tutorial-advanced.xml:40(para)
+msgid "Yet another set of paste commands, <command>Paste Size</command>, scales the selection to match the desired size attribute of the clipboard object(s). There are a number of commands for pasting size and are as follows: Paste Size, Paste Width, Paste Height, Paste Size Separately, Paste Width Separately, and Paste Height Separately."
+msgstr "Inne polecenie – „<command>Wklej rozmiar</command>” pozwala skalować zaznaczenie, tak by dopasować je do obiektu znajdującego się w schowku. Istnieje wiele poleceń służących wklejaniu rozmiaru. Polecenia te to: „Wklej rozmiar”, „Wklej szerokość”, „Wklej wysokość”, „Wklej rozmiar oddzielnie”, „Wklej szerokość oddzielnie” i „Wklej wysokość oddzielnie”."
+
+#: tutorial-advanced.xml:47(para)
+msgid "<command>Paste Size</command> scales the whole selection to match the overall size of the clipboard object(s). <command>Paste Width</command>/<command>Paste Height</command> scale the whole selection horizontally/vertically so that it matches the width/height of the clipboard object(s). These commands honor the scale ratio lock on the Selector Tool controls bar (between W and H fields), so that when that lock is pressed, the other dimension of the selected object is scaled in the same proportion; otherwise the other dimension is unchanged. The commands containing “Separately” work similarly to the above described commands, except that they scale each selected object separately to make it match the size/width/height of the clipboard object(s)."
+msgstr "Polecenie „<command>Wklej rozmiar</command>” skaluje całe zaznaczenie, by dopasować je do rozmiaru obiektu w schowku. „<command>Wklej szerokość</command>”/„<command>Wklej wysokość</command>” – skaluje całe zaznaczenie w poziomie/pionie, aby dopasować je do szerokości/wysokości obiektu znajdującego się w schowku. Polecenia te respektują blokadę zachowania proporcji, znajdującą się na pasku poleceń narzędzia „Wskaźnik” (pomiędzy polami Szer. i Wys.), tak więc przy włączonej blokadzie drugi wymiar jest skalowany proporcjonalnie do pierwszego. Jeśli blokada nie jest włączona – skalowany jest jeden wymiar, a drugi pozostaje niezmieniony. Polecenia zawierające w nazwie słowo „oddzielnie” działają podobnie do wyżej opisanych, z tym wyjątkiem, że skalują każdy zaznaczony obiekt oddzielnie, tak aby dopasował się do rozmiaru/szerokości/wysokości obiektu znajdującego się w schowku."
+
+#: tutorial-advanced.xml:60(para)
+msgid "Clipboard is system-wide - you can copy/paste objects between different Inkscape instances as well as between Inkscape and other applications (which must be able to handle SVG on the clipboard to use this)."
+msgstr "Schowek jest szerokosystemowy, co oznacza, że można kopiować/wklejać obiekty pomiędzy różnymi egzemplarzami Inkscape 'a, a także pomiędzy Inkscape'em i innymi programami. Jedyny warunek – programy te muszą obsługiwać format SVG."
+
+#: tutorial-advanced.xml:68(title)
+msgid "Drawing freehand and regular paths"
+msgstr "Rysowanie ścieżek odręcznych i regularnych"
+
+#: tutorial-advanced.xml:70(para)
+msgid "The easiest way to create an arbitrary shape is to draw it using the Pencil (freehand) tool (<keycap>F6</keycap>):"
+msgstr "Najłatwiejszym sposobem utworzenia dowolnego kształtu jest narysowanie go za pomocą narzędzia „Ołówek” (rysunek odręczny) [ <keycap>F6</keycap> ]:"
+
+#: tutorial-advanced.xml:82(para)
+msgid "If you want more regular shapes, use the Pen (Bezier) tool (<keycap>Shift+F6</keycap>):"
+msgstr "Jeżeli potrzebujesz bardziej regularnych kształtów, użyj narzędzia „Pióro” (krzywe Beziera) [ <keycap>Shit+F6</keycap> ]:"
+
+#: tutorial-advanced.xml:93(para)
+msgid "With the Pen tool, each <keycap>click</keycap> creates a sharp node without any curve handles, so a series of clicks produces a sequence of straight line segments. <keycap>Click and drag</keycap> creates a smooth Bezier node with two collinear opposite handles. Press <keycap>Shift</keycap> while dragging out a handle to rotate only one handle and fix the other. As usual, <keycap>Ctrl</keycap> limits the direction of either the current line segment or the Bezier handles to 15 degree increments. Pressing <keycap>Enter</keycap> finalizes the line, <keycap>Esc</keycap> cancels it. To cancel only the last segment of an unfinished line, press <keycap>Backspace</keycap>."
+msgstr "Każde <keycap>kliknięcie</keycap> narzędziem „Pióro” tworzy ostry węzeł bez uchwytów krzywej. Dzięki serii kliknięć powstanie więc sekwencja prostych odcinków. Kliknięcie i ciągnięcie tworzy gładką krzywą Beziera z dwoma współliniowymi, przeciwległymi uchwytami. Aby obracać tylko jeden z uchwytów, należy w trakcie jego przeciągania przytrzymać klawisz [ <keycap>Shift</keycap> ]. Przytrzymanie klawisza [ <keycap>Ctrl</keycap> ] ogranicza przyrost kierunku aktualnego odcinka lub uchwytów krzywej Beziera do 15 stopni. Naciśnięcie klawisza [ <keycap>Enter</keycap> ] kończy tworzenie linii, a [ <keycap>Esc</keycap> ] kasuje ją. Natomiast naciśnięcie klawisza [ <keycap>Backspace</keycap> ] kasuje tylko ostatni, niedokończony fragment."
+
+#: tutorial-advanced.xml:103(para)
+msgid "In both freehand and bezier tools, the currently selected path displays small square <firstterm>anchors</firstterm> at both ends. These anchors allow you to <emphasis>continue</emphasis> this path (by drawing from one of the anchors) or <emphasis>close</emphasis> it (by drawing from one anchor to the other) instead of creating a new one."
+msgstr "Na obu końcach aktualnie zaznaczonej – narysowanej zarówno narzędziem „Ołówek”, jak i „Pióro” – ścieżki, wyświetlane są niewielkie <firstterm>znaczniki</firstterm> w postaci kwadratów. Pozwalają one <emphasis>kontynuować</emphasis> ścieżkę przez dalsze rysowanie linii począwszy od jednego ze znaczników lub <emphasis>zakończyć</emphasis> ją poprzez poprowadzenie linii od jednego znacznika do drugiego."
+
+#: tutorial-advanced.xml:113(title)
+msgid "Editing paths"
+msgstr "Edytowanie ścieżek"
+
+#: tutorial-advanced.xml:115(para)
+msgid "Unlike shapes created by shape tools, the Pen and Pencil tools create what is called <firstterm>paths</firstterm>. A path is a sequence of straight line segments and/or Bezier curves which, as any other Inkscape object, may have arbitrary fill and stroke properties. But unlike a shape, a path can be edited by freely dragging any of its nodes (not just predefined handles) or by directly dragging a segment of the path. Select this path and switch to the Node tool (<keycap>F2</keycap>):"
+msgstr "W odróżnieniu od kształtów tworzonych za pomocą narzędzi kształtu, obiekty tworzone poprzez „Pióro” i „Ołówek” nazywamy <firstterm>ścieżkami</firstterm>. Ścieżka to sekwencja prostych odcinków i/lub krzywych Beziera, która, tak jak inne obiekty, może mieć wypełnienie i kontur. Jednak w przeciwieństwie do kształtu, ścieżka może być edytowana poprzez swobodne przeciąganie dowolnego jej węzła (nie tylko wcześniej ustalonych uchwytów) lub segmentu. Zaznacz tę ścieżkę i wybierz narzędzie „Edycja węzłów” [ <keycap>F2</keycap> ]:"
+
+#: tutorial-advanced.xml:131(para)
+msgid "You will see a number of gray square <firstterm>nodes</firstterm> on the path. These nodes can be <firstterm>selected</firstterm> by <keycap>click</keycap>, <keycap>Shift+click</keycap>, or by <keycap>drag</keycap>ging a rubberband - exactly like objects are selected by the Selector tool. You can also click a path segment to automatically select the adjacent nodes. Selected nodes become highlighted and show their <firstterm>node handles</firstterm> - one or two small circles connected to each selected node by straight lines. The <keycap>!</keycap> key inverts node selection in the current subpath(s) (i.e. subpaths with at least one selected node); <keycap>Alt+!</keycap> inverts in the entire path."
+msgstr "Zobaczysz na niej dużą ilość szarych, kwadratowych <firstterm>węzłów</firstterm>. Można je <firstterm>zaznaczać</firstterm> za pomocą <keycap>kliknięcia</keycap>, kombinacji [ <keycap>Shift+kliknięcie</keycap> ] lub poprzez <firstterm>zaznaczenie elastyczne</firstterm> – dokładnie tak samo, jak są zaznaczane obiekty za pomocą narzędzia „Wskaźnik”. W celu zaznaczenia przyległych węzłów, należy kliknąć segment ścieżki. Zaznaczone węzły zostaną wówczas wyróżnione i wyświetlone wraz z <firstterm>uchwytami</firstterm> – jednym lub dwoma małymi kółeczkami połączonymi z każdym zaznaczonym węzłem linią prostą. Klawisz [ <keycap>!</keycap> ] odwraca zaznaczenie węzłów w aktualnej subścieżce tj. takiej, która ma zaznaczony co najmniej jeden węzeł; skrót [ <keycap>Alt+!</keycap> ] odwraca zaznaczenie w całej ścieżce."
+
+#: tutorial-advanced.xml:143(para)
+msgid "Paths are edited by <keycap>drag</keycap>ging their nodes, node handles, or directly dragging a path segment. (Try to drag some nodes, handles, and path segments of the above path.) <keycap>Ctrl</keycap> works as usual to restrict movement and rotation. The <keycap>arrow</keycap> keys, <keycap>Tab</keycap>, <keycap>[</keycap>, <keycap>]</keycap>, <keycap>&lt;</keycap>, <keycap>&gt;</keycap> keys with their modifiers all work just as they do in selector, but apply to nodes instead of objects. You can add nodes anywhere on a path by either double clicking or by <keycap>Ctrl+Alt+Click</keycap> at the desired location."
+msgstr "Ścieżki można edytować <keyword>przeciągając</keyword> ich węzły, uchwyty lub segmenty. Wypróbuj przeciąganie tych elementów na ścieżce umieszczonej powyżej. Klawisz [ <keycap>Ctrl</keycap> ] działa tak, jak w innych przypadkach – ogranicza ruch i obrót. Klawisze <keycap>strzałek</keycap>, [ <keycap>Tab</keycap> ], [ <keycap>[ </keycap> ], [ <keycap> ]</keycap> ], [ <keycap>&lt;</keycap> ], [ <keycap>&gt;</keycap> ] w połączeniu z klawiszami modyfikującymi działają tak samo, jak w przypadku „Wskaźnika”, ale mają zastosowanie do węzłów, nie obiektów. W dowolnym miejscu można dodać węzły za pomocą dwukrotnego kliknięcia lub kombinacji [ <keycap>Ctrl+Alt+kliknięcie</keycap> ]."
+
+#: tutorial-advanced.xml:152(para)
+msgid "You can delete nodes with <keycap>Del</keycap> or <keycap>Ctrl+Alt+Click</keycap>. When deleting nodes it will try to retain the shape of the path, if you desire for the handles of the adjacent nodes to be retracted (not retaining the shape) you can delete with <keycap>Ctrl+Del</keycap>. Additionally, you can duplicate (<keycap>Shift+D</keycap>) selected nodes. The path can be broken (<keycap>Shift+B</keycap>) at the selected nodes, or if you select two endnodes on one path, you can join them (<keycap>Shift+J</keycap>)."
+msgstr "Węzły można usuwać za pomocą klawisza [ <keycap>Del</keycap> ] lub kombinacji [ <keycap>Ctrl+Alt+kliknięcie</keycap> ]. Kasując węzły, Inkscape stara się zachować kształt ścieżki. By tego nie robił, należy do usuwania węzłów użyć skrótu [ <keycap>Ctrl+Del</keycap> ]. Zaznaczone węzły można powielać za pomocą skrótu [ <keycap>Shift+D</keycap> ]. Ścieżkę można też przerwać w zaznaczonych węzłach [ <keycap>Shift+B</keycap> ] oraz połączyć zaznaczając dwa krańcowe węzły jednej ścieżki i używając skrótu [ <keycap>Shift+J</keycap> ]."
+
+#: tutorial-advanced.xml:161(para)
+msgid "A node can be made <firstterm>cusp</firstterm> (<keycap>Shift+C</keycap>), which means its two handles can move independently at any angle to each other; <firstterm>smooth</firstterm> (<keycap>Shift+S</keycap>), which means its handles are always on the same straight line (collinear); and <firstterm>symmetric</firstterm> (<keycap>Shift+Y</keycap>), which is the same as smooth, but the handles also have the same length. When you switch the type of node, you can preserve the position of one of the two handles by hovering your mouse over it, so that only the other handle is rotated/scaled to match."
+msgstr "Węzeł może być: <firstterm>ostry</firstterm> [ <keycap>Shift+C</keycap> ], co oznacza, że uchwyty mogą być przemieszczane niezależnie od siebie; <firstterm>gładki</firstterm> [ <keycap>Shift+S</keycap> ], to znaczy taki, w którym linie uchwytów leżą zawsze na tej samej linii prostej (są współliniowe); <firstterm>symetryczny</firstterm> [ <keycap>Shift+Y</keycap> ], czyli gładki, ale z uchwytami o tej samej długości. Zmieniając typ węzła można zachować pozycję jednego z uchwytów. Aby to zrobić, wystarczy wskazać go kursorem myszy. Wówczas tylko drugi uchwyt zostanie obrócony/przeskalowany i dopasowany."
+
+#: tutorial-advanced.xml:172(para)
+msgid "Also, you can <firstterm>retract</firstterm> a node's handle altogether by <keycap>Ctrl+click</keycap>ing on it. If two adjacent nodes have their handles retracted, the path segment between them is a straight line. To pull out the retracted node, <keycap>Shift+drag</keycap> away from the node."
+msgstr "Można <firstterm>wycofać</firstterm> uchwyt węzła za pomocą kombinacji [ <keycap>Ctrl+kliknięcie na uchwycie</keycap> ]. Jeżeli uchwyty przyległych węzłów zostały wycofane, fragment ścieżki pomiędzy nimi przechodzi w linię prostą. Kombinacja [ <keycap>Shift+ciągnięcie</keycap> ] na zewnątrz węzła pozwala na wyciągnięcie wycofanych węzłów."
+
+#: tutorial-advanced.xml:181(title)
+msgid "Subpaths and combining"
+msgstr "Subścieżki i łączenie ścieżek"
+
+#: tutorial-advanced.xml:182(para)
+msgid "A path object may contain more than one <firstterm>subpath</firstterm>. A subpath is a sequence of nodes connected to each other. (Therefore, if a path has more than one subpath, not all of its nodes are connected.) Below left, three subpaths belong to a single compound path; the same three subpaths on the right are independent path objects:"
+msgstr "Ścieżka może zawierać kilka <firstterm>subścieżek</firstterm>. Subścieżka jest sekwencją węzłów połączonych ze sobą. Z tego powodu, jeśli ścieżka posiada więcej niż jedną subścieżkę, nie wszystkie jej węzły są połączone. Położone poniżej, po lewej stronie, trzy subścieżki są częścią pojedynczej, złożonej ścieżki. Takie same trzy subścieżki po prawej są niezależnymi ścieżkami obiektów:"
+
+#: tutorial-advanced.xml:196(para)
+msgid "Note that a compound path is not the same as a group. It's a single object which is only selectable as a whole. If you select the left object above and switch to node tool, you will see nodes displayed on all three subpaths. On the right, you can only node-edit one path at a time."
+msgstr "Zauważ, że ścieżka złożona nie jest tym samym co grupa. To pojedynczy obiekt, który można zaznaczyć tylko jako całość. Jeśli zaznaczysz obiekt po lewej stronie i włączysz narzędzie „Edycja węzłów”, zobaczysz, że węzły wyświetlą się na wszystkich trzech subścieżkach. W obiekcie po prawej możesz w tym samym czasie edytować tylko jedną ścieżkę."
+
+#: tutorial-advanced.xml:203(para)
+msgid "Inkscape can <command>Combine</command> paths into a compound path (<keycap>Ctrl+K</keycap>) and <command>Break Apart</command> a compound path into separate paths (<keycap>Shift+Ctrl+K</keycap>). Try these commands on the above examples. Since an object can only have one fill and stroke, a new compound path gets the style of the first (lowest in z-order) object being combined."
+msgstr "Inkscape potrafi <command>łączyć</command> ścieżki w ścieżkę złożoną [ <keycap>Ctrl+K</keycap> ] oraz <command>rozdzielać</command> ścieżkę złożoną na pojedyncze ścieżki [ <keycap>Shift+Ctrl+K</keycap> ]. Wypróbuj te polecenia na powyższych przykładach. Ponieważ obiekt może mieć tylko jedno wypełnienie i kontur, nowa złożona ścieżka otrzymuje styl pierwszego (najniżej położonego w stosie) łączonego obiektu."
+
+#: tutorial-advanced.xml:211(para)
+msgid "When you combine overlapping paths with fill, usually the fill will disappear in the areas where the paths overlap:"
+msgstr "Podczas łączenia nakładających się, wypełnionych ścieżek wypełnienie zwykle znika w obszarach, w których ścieżki się przesłaniają:"
+
+#: tutorial-advanced.xml:223(para)
+msgid "This is the easiest way to create objects with holes in them. For more powerful path commands, see “Boolean operations” below."
+msgstr "To najłatwiejszy sposób, by tworzyć obiekty z dziurami. Omówienie bardziej zaawansowanych poleceń ścieżek znajduje się w akapicie „Operacje logiczne”."
+
+#: tutorial-advanced.xml:230(title)
+msgid "Converting to path"
+msgstr "Przekształcanie w ścieżkę"
+
+#: tutorial-advanced.xml:232(para)
+msgid "Any shape or text object can be <firstterm>converted to path</firstterm> (<keycap>Shift+Ctrl+C</keycap>). This operation does not change the appearance of the object but removes all capabilities specific to its type (e.g. you can't round the corners of a rectangle or edit the text anymore); instead, you can now edit its nodes. Here are two stars - the left one is kept a shape and the right one is converted to path. Switch to node tool and compare their editability when selected:"
+msgstr "Dowolny kształt lub obiekt tekstowy można <firstterm>przekształcić w ścieżkę</firstterm> [ <keycap>Shift+Ctrl+C</keycap> ]. Ta operacja nie zmienia wyglądu obiektu, ale usuwa wszystkie właściwości charakterystyczne dla danego typu tj. nie można już zaokrąglać narożników prostokąta lub edytować tekstu. Zamiast tego możliwa jest edycja węzłów. Oto dwie gwiazdy: ta po lewej jest kształtem, ta po prawej natomiast gwiazdą przekształconą w ścieżkę. Włącz narzędzie „Edycja węzłów” i porównaj możliwości ich edycji:"
+
+#: tutorial-advanced.xml:248(para)
+msgid "Moreover, you can convert to a path (“outline”) the <firstterm>stroke</firstterm> of any object. Below, the first object is the original path (no fill, black stroke), while the second one is the result of the <commands>Stroke to Path</commands> command (black fill, no stroke):"
+msgstr "Co więcej, możliwe jest przekształcenie w ścieżkę <firstterm>konturu</firstterm> dowolnego obiektu. Pierwszy z poniżej położonych obiektów jest oryginalną ścieżką (brak wypełnienia, czarny kontur), podczas gdy ten po prawej (czarne wypełnienie, brak konturu) jest wynikiem zastosowania polecenia „<command>Kontur w ścieżkę</command>”:"
+
+#: tutorial-advanced.xml:264(title)
+msgid "Boolean operations"
+msgstr "Operacje logiczne"
+
+#: tutorial-advanced.xml:265(para)
+msgid "The commands in the Path menu let you combine two or more objects using <firstterm>boolean operations</firstterm>:"
+msgstr "Używając <firstterm>operacji logicznych</firstterm> znajdujących się w menu „Ścieżka” można połączyć dwa lub więcej obiektów:"
+
+#: tutorial-advanced.xml:277(para)
+msgid "The keyboard shortcuts for these commands allude to the arithmetic analogs of the boolean operations (union is addition, difference is subtraction, etc.). The <command>Difference</command> and <command>Exclusion</command> commands can only apply to two selected objects; others may process any number of objects at once. The result always receives the style of the bottom object."
+msgstr "Skróty klawiaturowe dla tych operacji nawiązują do arytmetycznych odpowiedników operacji logicznych (suma to dodawanie, różnica to odejmowanie, itd.). Polecenia „<command>Różnica</command>” i „<command>Wykluczenie</command>” można zastosować tylko do dwóch zaznaczonych obiektów. Pozostałe polecenia mogą przetwarzać dowolną liczbę obiektów na raz. Obiekt wynikowy zawsze otrzymuje styl obiektu znajdującego się na samym dole."
+
+#: tutorial-advanced.xml:285(para)
+msgid "The result of the <command>Exclusion</command> command looks similar to <command>Combine</command> (see above), but it is different in that <command>Exclusion</command> adds extra nodes where the original paths intersect. The difference between <command>Division</command> and <command>Cut Path</command> is that the former cuts the entire bottom object by the path of the top object, while the latter only cuts the bottom object's stroke and removes any fill (this is convenient for cutting fill-less strokes into pieces)."
+msgstr "Wynik działania polecenia „<command>Wykluczenie</command>” jest podobny do wyniku polecenia „<command>Suma</command> (zobacz powyżej), różni się jednak tym, że „<command>Wykluczenie</command>” dodaje dodatkowe węzły w miejscu przecięcia się oryginalnych ścieżek. Różnica pomiędzy poleceniami „<command>Podział</command>” i „<command>Rozcięcie ścieżki</command>” jest taka, że pierwsze polecenie przecina dolny obiekt ścieżką górnego obiektu, podczas gdy drugie przecina kontur dolnego obiektu, usuwając wypełnienie – jest to wygodny sposób na rozdzielanie niewypełnionych konturów na kawałki."
+
+#: tutorial-advanced.xml:297(title)
+msgid "Inset and outset"
+msgstr "Odsuwanie ścieżki"
+
+#: tutorial-advanced.xml:298(para)
+msgid "Inkscape can expand and contract shapes not only by scaling, but also by <firstterm>offsetting</firstterm> an object's path, i.e. by displacing it perpendicular to the path in each point. The corresponding commands are called <command>Inset</command> (<keycap>Ctrl+(</keycap>) and <command>Outset</command> (<keycap>Ctrl+)</keycap>). Shown below is the original path (red) and a number of paths inset or outset from that original:"
+msgstr "Inkscape potrafi poszerzać i pomniejszać kształty nie tylko za pomocą skalowania, lecz także przy użyciu <firstterm>odsunięcia</firstterm> ścieżki obiektu, tj. przemieszczając go prostopadle do ścieżki w każdym punkcie. Korespondujące ze sobą polecenia nazywają się „<command>Odsuń do wewnątrz</command>” [ <keycap>Ctrl+(</keycap> ] i „<command>Odsuń na zewnątrz</command>” [ <keycap>Ctrl+)</keycap> ]. Poniżej pokazano oryginalną ścieżkę (czerwona) i wiele ścieżek odsuniętych, utworzonych ze ścieżki oryginalnej:"
+
+#: tutorial-advanced.xml:314(para)
+msgid "The plain <command>Inset</command> and <command>Outset</command> commands produce paths (converting the original object to path if it's not a path yet). Often, more convenient is the <command>Dynamic Offset</command> (<keycap>Ctrl+J</keycap>) which creates an object with a draggable handle (similar to a shape's handle) controlling the offset distance. Select the object below, switch to the node tool, and drag its handle to get an idea:"
+msgstr "Zwykłe polecenia „<command>Odsuń do wewnątrz</command>” i „<command>Odsuń na zewnątrz</command>” tworzą ścieżki, konwertując oryginalny obiekt w ścieżkę – jeżeli jeszcze nią nie jest. Często wygodniejsze jest „<command>dynamiczne odsunięcie</command>” [ <keycap>Ctrl+J</keycap> ], które tworzy obiekt z uchwytem do przeciągania (podobnym do uchwytu kształtu), kontrolującym wielkość odsunięcia. Zaznacz poniższy obiekt, wybierz narzędzie „Edycja węzłów” i przeciągnij uchwyt:"
+
+#: tutorial-advanced.xml:330(para)
+msgid "Such a <firstterm>dynamic offset object</firstterm> remembers the original path, so it does not “degrade” when you change the offset distance again and again. When you don't need it to be adjustable anymore, you can always convert an offset object back to path."
+msgstr "Takie <firstterm>dynamiczne odsunięcie obiektu</firstterm> zapamiętuje oryginalną ścieżkę, więc nie „zniszczy” jej, kiedy ponownie zmienisz wielkość odsunięcia. Jeżeli nie ma już potrzeby regulowania odsunięcia, można przekształcić odsunięcie obiektu z powrotem w ścieżkę."
+
+#: tutorial-advanced.xml:336(para)
+msgid "Still more convenient is a <firstterm>linked offset</firstterm>, which is similar to the dynamic variety but is connected to another path which remains editable. You can have any number of linked offsets for one source path. Below, the source path is red, one offset linked to it has black stroke and no fill, the other has black fill and no stroke."
+msgstr "Jeszcze wygodniejsze jest <firstterm>odsunięcie połączone</firstterm>, podobne do dynamicznego, ale połączone z inną ścieżką, którą można edytować. Można mieć wiele odsunięć połączonych dla jednej źródłowej ścieżki. W poniższym przykładzie źródłowa ścieżka jest czerwona, jedno połączone z nią odsunięcie posiada czarny kontur i nie jest wypełnione, drugie ma czarne wypełnienie i brak konturu."
+
+#: tutorial-advanced.xml:344(para)
+msgid "Select the red object and node-edit it; watch how both linked offsets respond. Now select any of the offsets and drag its handle to adjust the offset radius. Finally, note how moving or transforming the source moves all offset objects linked to it, and how you can move or transform the offset objects independently without losing their connection with the source."
+msgstr "Zaznacz czerwony obiekt i edytuj go za pomocą narzędzia „Edycja węzłów”, obserwując, jak oba odsunięcia połączone się zachowują. Zaznacz teraz jedno z odsunięć i przeciągnij jego uchwyt, by dostosować promień odsunięcia. Zauważ, że przesuwanie lub przekształcanie źródła przesuwa wszystkie odsunięte obiekty  z nim połączone, oraz że można przesuwać lub przekształcać odsunięte obiekty niezależnie, bez utraty połączenia ze źródłem."
+
+#: tutorial-advanced.xml:362(title)
+msgid "Simplification"
+msgstr "Upraszczanie"
+
+#: tutorial-advanced.xml:364(para)
+msgid "The main use of the <command>Simplify</command> command (<keycap>Ctrl+L</keycap>) is reducing the number of nodes on a path while <emphasis>almost</emphasis> preserving its shape. This may be useful for paths created by the Pencil tool, since that tool sometimes creates more nodes than necessary. Below, the left shape is as created by the freehand tool, and the right one is a copy that was simplified. The original path has 28 nodes, while the simplified one has 17 (which means it is much easier to work with in node tool) and is smoother."
+msgstr "Głównym zastosowaniem polecenia „<command>Uprość</command>” [ <keycap>Ctrl+L</keycap> ] jest redukcja liczby węzłów ścieżki z <emphasis>zachowaniem</emphasis> kształtu. Funkcja ta może być użyteczna w przypadku ścieżek stworzonych przy pomocy narzędzia „Ołówek”, ponieważ narzędzie to tworzy czasami więcej węzłów niż jest to konieczne. Kształt znajdujący się poniżej, po lewej stronie utworzono za pomocą ołówka, natomiast po prawej stronie jest kopią, którą poddano procesowi uproszczenia. Oryginalna ścieżka ma 28 węzłów, podczas gdy uproszczona 17, co oznacza, że łatwiej pracować z nią narzędziem „Edycja węzłów” i dodatkowo jest ona gładsza."
+
+#: tutorial-advanced.xml:381(para)
+msgid "The amount of simplification (called the <firstterm>threshold</firstterm>) depends on the size of the selection. Therefore, if you select a path along with some larger object, it will be simplified more aggressively than if you select that path alone. Moreover, the <command>Simplify</command> command is <firstterm>accelerated</firstterm>. This means that if you press <keycap>Ctrl+L</keycap> several times in quick succession (so that the calls are within 0.5 sec from each other), the threshold is increased on each call. (If you do another Simplify after a pause, the threshold is back to its default value.) By making use of the acceleration, it is easy to apply the exact amount of simplification you need for each case."
+msgstr "Liczba uproszczeń, zwana <firstterm>progiem</firstterm>, zależy od rozmiaru zaznaczenia – im większe zaznaczenie, tym większa liczba uproszczeń. Dlatego ścieżka zaznaczona wraz z dużym obiektem zostanie uproszczona znacznie bardziej, niż gdyby zaznaczono samą ścieżkę. Ponadto polecenie „<command>Uprość</command>” <firstterm>akumuluje</firstterm> się. Oznacza to, że jeżeli skrót [ <keycap>Ctrl+L</keycap> ] zostanie użyty kilka razy w krótkich odstępach czasu (co 0,5 sekundy), próg zwiększy się za każdym wywołaniem polecenia. Jeśli następne uproszczenie zostanie wykonane po przerwie, próg powróci do domyślnej wartości. Z pomocą akumulacji można łatwo zastosować dokładną liczbę uproszczeń, jaka jest potrzebna w danym przypadku."
+
+#: tutorial-advanced.xml:393(para)
+msgid "Besides smoothing freehand strokes, <command>Simplify</command> can be used for various creative effects. Often, a shape which is rigid and geometric benefits from some amount of simplification that creates cool life-like generalizations of the original form - melting sharp corners and introducing very natural distortions, sometimes stylish and sometimes plain funny. Here's an example of a clipart shape that looks much nicer after <command>Simplify</command>:"
+msgstr "Oprócz wygładzania odręcznie rysowanych krzywych, polecenie „<command>Uprość</command>” może być wykorzystane do tworzenia różnorodnych ciekawych efektów. Często geometryczny kształt o prostych, ostrych krawędziach zyskuje na uproszczeniu, które – stapiając ostre narożniki i wstawiając bardzo naturalne zniekształcenia, czasem stylowe, a czasem po prostu zabawne – tworzy bardziej realistyczne uogólnienie jego pierwotnej formy. Oto przykład grafiki, która wygląda o wiele lepiej po <command>uproszczeniu</command>:"
+
+#: tutorial-advanced.xml:411(title)
+msgid "Creating text"
+msgstr "Tworzenie tekstu"
+
+#: tutorial-advanced.xml:413(para)
+msgid "Inkscape is capable of creating long and complex texts. However, it's also pretty convenient for creating small text objects such as heading, banners, logos, diagram labels and captions, etc. This section is a very basic introduction into Inkscape's text capabilities."
+msgstr "Przy pomocy programu Inkscape można tworzyć długie i złożone teksty. Za pomocą Inkscape'a można też bardzo łatwo tworzyć małe obiekty tekstowe, takie jak: nagłówki, banery, logotypy, diagramy, etykiety, podpisy, itp. Ta część poradnika zawiera podstawowe wprowadzenie do funkcji tekstowych Inkscape'a."
+
+#: tutorial-advanced.xml:420(para)
+msgid "Creating a text object is as simple as switching to the Text tool (<keycap>F8</keycap>), clicking somewhere in the document, and typing your text. To change font family, style, size, and alignment, open the Text and Font dialog (<keycap>Shift+Ctrl+T</keycap>). That dialog also has a text entry tab where you can edit the selected text object - in some situations, it may be more convenient than editing it right on the canvas (in particular, that tab supports as-you-type spell checking)."
+msgstr "Tworzenie tekstu jest proste - wystarczy włączyć narzędzie „Tekst” [ <keycap>F8</keycap> ], kliknąć gdzieś w dokumencie i wpisać treść. Aby zmienić rodzinę czcionek, styl, rozmiar i wyrównanie, należy otworzyć okno dialogowe „Tekst i czcionka” [ <keycap>Shift+Ctrl+T</keycap> ]. W oknie tym znajduje się karta „Tekst”, gdzie możliwe jest edytowanie zaznaczonego obiektu tekstowego – w niektórych sytuacjach może być to wygodniejsze niż edycja bezpośrednio w obszarze roboczym, chociażby dlatego, że w tej karcie działa sprawdzanie pisowni."
+
+#: tutorial-advanced.xml:429(para)
+msgid "Like other tools, Text tool can select objects of its own type - text objects -so you can click to select and position the cursor in any existing text object (such as this paragraph)."
+msgstr "Tak jak w przypadku innych narzędzi, narzędzie „Tekst” potrafi zaznaczać obiekty własnego typu – obiekty tekstowe. Zatem można kliknąć dowolny, istniejący obiekt tekstowy (taki jak ten akapit), by go zaznaczyć i umieścić w nim kursor."
+
+#: tutorial-advanced.xml:435(para)
+msgid "One of the most common operations in text design is adjusting spacing between letters and lines. As always, Inkscape provides keyboard shortcuts for this. When you are editing text, the <keycap>Alt+&lt;</keycap> and <keycap>Alt+&gt;</keycap> keys change the <firstterm>letter spacing</firstterm> in the current line of a text object, so that the total length of the line changes by 1 pixel at the current zoom (compare to Selector tool where the same keys do pixel-sized object scaling). As a rule, if the font size in a text object is larger than the default, it will likely benefit from squeezing letters a bit tighter than the default. Here's an example:"
+msgstr "Jedną z najczęściej wykonywanych operacji w trakcie tworzenia obiektów tekstowych jest regulacja świateł międzyliterowych (odstępów między literami) i międzywierszowych (odstępów między wierszami). Operacja zmiany odstępów pomiędzy dwoma znakami nazywana jest kerningiem. Rozróżniamy kerning ujemny (tzw. podcinanie) czyli dosuwanie do siebie znaków, które wyglądają na nienaturalnie oddalone i dodatni – odsuwanie od siebie znaków sprawiających wrażenie zbyt „ściśniętych” tzn. położonych zbyt blisko siebie. Drugim sposobem regulacji świateł międzyliterowych jest tracking, czyli równomierne odsuwanie, lub przysuwanie do siebie znaków w ciągu tekstu. Inkscape posiada skróty klawiaturowe przypisane do tych operacji. Podczas edycji tekstu skróty [ <keycap>Alt+&lt;</keycap> ] i [ <keycap>Alt+&gt;</keycap> ] zmieniają <firstterm>odstęp między literami</firstterm> w aktywnym wierszu obiektu tekstowego tak, że całkowita długość wiersza w aktualnym powiększeniu zmienia się o 1 piksel (porównaj z narzędziem „Wskaźnik”, gdzie te same klawisze wykonują skalowanie o rozmiarze piksela). Z reguły, jeżeli rozmiar czcionki w obiekcie tekstowym jest większy niż domyślny, prawdopodobnie będzie korzystniej, jeśli odstęp między literami zostanie nieco zmniejszony. Oto przykład:"
+
+#: tutorial-advanced.xml:453(para)
+msgid "The tightened variant looks a bit better as a heading, but it's still not perfect: the distances between letters are not uniform, for example the “a” and “t” are too far apart while “t” and “i” are too close. The amount of such bad kerns (especially visible in large font sizes) is greater in low quality fonts than in high quality ones; however, in any text string and in any font you will probably find pairs of letters that will benefit from kerning adjustments."
+msgstr "Wariant ze zmniejszonymi odstępami pomiędzy literami wygląda lepiej jako nagłówek, ale wciąż nie jest idealny. Odległości pomiędzy literami nie są jednakowe – na przykład litery „a” i „t” są za daleko od siebie, a „t” i „i” są zbyt blisko. W czcionkach o niskiej jakości liczba złych odstępów – widocznych szczególnie w czcionkach o dużych rozmiarach – jest większa niż w czcionkach o wysokiej jakości. Zapewne w dowolnym ciągu tekstu i dowolnej czcionce znajdziesz pary liter, które zyskają na manipulacji kerningiem."
+
+#: tutorial-advanced.xml:462(para)
+msgid "Inkscape makes these adjustments really easy. Just move your text editing cursor between the offending characters and use <keycap>Alt+arrows</keycap> to move the letters right of the cursor. Here is the same heading again, this time with manual adjustments for visually uniform letter positioning:"
+msgstr "Wykonanie kerningu w programie Inkscape jest bardzo łatwe. Wystarczy ustawić kursor tekstowy pomiędzy literami sprawiającymi problemy i użyć skrótu [ <keycap>Alt+strzałki</keycap> ], aby odsunąć litery od kursora w kierunku zgodnym z użytym klawiszem strzałki. Oto ten sam nagłówek, tym razem dopasowany ręcznie w celu osiągnięcia wizualnego, jednolitego pozycjonowania liter:"
+
+#: tutorial-advanced.xml:476(para)
+msgid "In addition to shifting letters horizontally by <keycap>Alt+Left</keycap> or <keycap>Alt+Right</keycap>, you can also move them vertically by using <keycap>Alt+Up</keycap> or <keycap>Alt+Down</keycap>:"
+msgstr "Dodatkowo, oprócz przesuwania znaków w poziomie za pomocą skrótu [ <keycap>Alt+strzałka w lewo</keycap> ] lub [ <keycap>Alt+strzałka w prawo</keycap> ], znaki można również przesunąć w pionie, używając skrótu [ <keycap>Alt+strzałka w górę</keycap> ], bądź [ <keycap>Alt+strzałka w dół</keycap> ]:"
+
+#: tutorial-advanced.xml:489(para)
+msgid "Of course you could just convert your text to path (<keycap>Shift+Ctrl+C</keycap>) and move the letters as regular path objects. However, it is much more convenient to keep text as text - it remains editable, you can try different fonts without removing the kerns and spacing, and it takes much less space in the saved file. The only disadvantage to the “text as text” approach is that you need to have the original font installed on any system where you want to open that SVG document."
+msgstr "Oczywiście, zawsze można po prostu skonwertować tekst w ścieżkę [ <keycap>Shift+Ctrl+C</keycap> ] i przesunąć litery jak regularne ścieżki obiektów. Jednakże o wiele wygodniejsze jest zachowanie tekstu jako obiektu tekstowego – można go edytować, wypróbować różne czcionki bez usuwania kerningu oraz odstępów, a jednocześnie zajmuje on o wiele mniej miejsca w zapisanym pliku. Jedyną wadą tego rozwiązania jest to, że na każdej platformie systemowej, na której chce się otworzyć ten dokument SVG, trzeba mieć zainstalowaną oryginalną czcionkę."
+
+#: tutorial-advanced.xml:498(para)
+msgid "Similar to letter spacing, you can also adjust <firstterm>line spacing</firstterm> in multi-line text objects. Try the <keycap>Ctrl+Alt+&lt;</keycap> and <keycap>Ctrl+Alt+&gt;</keycap> keys on any paragraph in this tutorial to space it in or out so that the overall height of the text object changes by 1 pixel at the current zoom. As in Selector, pressing <keycap>Shift</keycap> with any spacing or kerning shortcut produces 10 times greater effect than without Shift."
+msgstr "Podobnie jak w przypadku regulacji odstępu między literami, można w wielowierszowym obiekcie tekstowym wyregulować <firstterm>odstępy między wierszami</firstterm>. Wypróbuj skróty klawiaturowe [ <keycap>Ctrl+Alt+&lt;</keycap> ] i [ <keycap>Ctrl+Alt+&gt;</keycap> ] w dowolnym akapicie tego poradnika, by powiększyć bądź zmniejszyć te odstępy, tak aby całkowita wysokość obiektu tekstowego zmieniała się o jeden piksel w aktualnym powiększeniu. Podobnie jak w narzędziu „Wskaźnik”, naciśnięcie klawisza [ <keycap>Shift</keycap> ] z dowolnym skrótem powodującym zmianę kerningu lub trackingu sprawi, że efekt zwiększy się 10-krotnie."
+
+#: tutorial-advanced.xml:509(title)
+msgid "XML editor"
+msgstr "Edytor XML"
+
+#: tutorial-advanced.xml:511(para)
+msgid "The ultimate power tool of Inkscape is the XML editor (<keycap>Shift+Ctrl+X</keycap>). It displays the entire XML tree of the document, always reflecting its current state. You can edit your drawing and watch the corresponding changes in the XML tree. Moreover, you can edit any text, element, or attribute nodes in the XML editor and see the result on your canvas. This is the best tool imaginable for learning SVG interactively, and it allows you to do tricks that would be impossible with regular editing tools."
+msgstr "Potężnym narzędziem Inkscape'a jest edytor XML [ <keycap>Shift+Ctrl+X</keycap> ]. Wyświetla on całe drzewo XML dokumentu, zawsze odzwierciedlając jego aktualny stan. Można edytować rysunek i obserwować korespondujące z nimi zmiany w drzewie XML. Co więcej, w edytorze XML możliwe jest edytowanie dowolnego tekstu, elementu bądź atrybutu węzła i obserwowanie wyniku w obszarze roboczym. To najlepsze narzędzie, jakie można sobie wyobrazić do interaktywnej nauki SVG - pozwala wykonać rzeczy, które byłyby niemożliwe do zrobienia za pomocą zwykłych narzędzi edycji."
+
+#: tutorial-advanced.xml:523(title)
+msgid "Conclusion"
+msgstr "Podsumowanie"
+
+#: tutorial-advanced.xml:525(para)
+msgid "This tutorial shows only a small part of all capabilities of Inkscape. We hope you enjoyed it. Don't be afraid to experiment and share what you create. Please visit <ulink url=\"http://www.inkscape.org\">www.inkscape.org</ulink> for more information, latest versions, and help from user and developer communities."
+msgstr "Ten poradnik pokazuje tylko niewielką część wszystkich możliwości Inkscape'a. Mamy nadzieję, że ci się spodobał. Nie obawiaj się eksperymentować i dzielić z innymi tym, co stworzyłeś. Aby uzyskać więcej informacji, najnowsze wersje programu i pomoc ze strony społeczności użytkowników i deweloperów, odwiedź witrynę <ulink url=\"http://www.inkscape.org\">www.inkscape.org</ulink>."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: tutorial-advanced.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Polska lokalizacja wykonana przez:\n"
+"2008-2009 - Polski Zespół lokalizacyjny Inkscape'a (inkscapeplteam@gmail.com)\n"
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
+

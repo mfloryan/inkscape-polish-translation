@@ -1,0 +1,482 @@
+# Polish translation of Inkscape tutorials.
+# This file is distributed under the same license as the inkscape package.
+#
+# Polish Inkscape Translation Team <inkscapeplteam@gmail.com>, 2008-2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: tutorial-calligraphy\n"
+"POT-Creation-Date: 2009-10-02 15:23+0200\n"
+"PO-Revision-Date: 2009-10-10 11:44+0100\n"
+"Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
+"Language-Team:  <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: calligraphy-f10.svg:45(format)
+#: calligraphy-f09.svg:44(format)
+#: calligraphy-f08.svg:44(format)
+#: calligraphy-f07.svg:42(format)
+#: calligraphy-f06.svg:60(format)
+#: calligraphy-f05.svg:45(format)
+#: calligraphy-f04.svg:75(format)
+#: calligraphy-f03.svg:44(format)
+#: calligraphy-f02.svg:45(format)
+#: calligraphy-f01.svg:45(format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#: calligraphy-f10.svg:107(tspan)
+#, no-wrap
+msgid "Unicial hand"
+msgstr "Odręczne pismo uncjalne"
+
+#: calligraphy-f10.svg:119(tspan)
+#, no-wrap
+msgid "Carolingian hand"
+msgstr "Odręczne pismo karolińskie"
+
+#: calligraphy-f10.svg:131(tspan)
+#, no-wrap
+msgid "Gothic hand"
+msgstr "Odręczne pismo gotyckie"
+
+#: calligraphy-f10.svg:143(tspan)
+#, no-wrap
+msgid "Bâtarde hand"
+msgstr "Odręczne pismo Bâtarde (francuski gotyk)"
+
+#: calligraphy-f10.svg:167(tspan)
+#, no-wrap
+msgid "Flourished Italic hand"
+msgstr "Odręczne pochyłe pismo ornamentowe"
+
+#: calligraphy-f07.svg:65(tspan)
+#, no-wrap
+msgid "slow"
+msgstr "wolno"
+
+#: calligraphy-f07.svg:75(tspan)
+#, no-wrap
+msgid "medium"
+msgstr "średnio"
+
+#: calligraphy-f07.svg:85(tspan)
+#, no-wrap
+msgid "fast"
+msgstr "szybko"
+
+#: calligraphy-f07.svg:169(tspan)
+#, no-wrap
+msgid "tremor = 0"
+msgstr "drżenie = 0"
+
+#: calligraphy-f07.svg:180(tspan)
+#, no-wrap
+msgid "tremor = 10"
+msgstr "drżenie = 10"
+
+#: calligraphy-f07.svg:191(tspan)
+#, no-wrap
+msgid "tremor = 30"
+msgstr "drżenie = 30"
+
+#: calligraphy-f07.svg:202(tspan)
+#, no-wrap
+msgid "tremor = 50"
+msgstr "drżenie = 50"
+
+#: calligraphy-f07.svg:213(tspan)
+#, no-wrap
+msgid "tremor = 70"
+msgstr "drżenie = 70"
+
+#: calligraphy-f07.svg:224(tspan)
+#, no-wrap
+msgid "tremor = 90"
+msgstr "drżenie = 90"
+
+#: calligraphy-f07.svg:235(tspan)
+#, no-wrap
+msgid "tremor = 20"
+msgstr "drżenie = 20"
+
+#: calligraphy-f07.svg:246(tspan)
+#, no-wrap
+msgid "tremor = 40"
+msgstr "drżenie =4 0"
+
+#: calligraphy-f07.svg:257(tspan)
+#, no-wrap
+msgid "tremor = 60"
+msgstr "drżenie = 60"
+
+#: calligraphy-f07.svg:268(tspan)
+#, no-wrap
+msgid "tremor = 80"
+msgstr "drżenie = 80"
+
+#: calligraphy-f07.svg:279(tspan)
+#, no-wrap
+msgid "tremor = 100"
+msgstr "drżenie = 100"
+
+#: calligraphy-f06.svg:82(tspan)
+#: calligraphy-f06.svg:98(tspan)
+#: calligraphy-f06.svg:114(tspan)
+#: calligraphy-f05.svg:66(tspan)
+#, no-wrap
+msgid "angle = 30"
+msgstr "kąt = 30"
+
+#: calligraphy-f06.svg:86(tspan)
+#, no-wrap
+msgid "fixation = 100"
+msgstr "ułożenie = 100"
+
+#: calligraphy-f06.svg:102(tspan)
+#, no-wrap
+msgid "fixation = 80"
+msgstr "ułożenie = 80"
+
+#: calligraphy-f06.svg:118(tspan)
+#, no-wrap
+msgid "fixation = 0"
+msgstr "ułożenie = 0"
+
+#: calligraphy-f05.svg:77(tspan)
+#, no-wrap
+msgid "angle = 60"
+msgstr "kąt = 60"
+
+#: calligraphy-f05.svg:88(tspan)
+#, no-wrap
+msgid "angle = 90"
+msgstr "kąt = 90"
+
+#: calligraphy-f05.svg:99(tspan)
+#: calligraphy-f04.svg:134(tspan)
+#, no-wrap
+msgid "angle = 0"
+msgstr "kąt = 0"
+
+#: calligraphy-f05.svg:110(tspan)
+#, no-wrap
+msgid "angle = 15"
+msgstr "kąt = 15"
+
+#: calligraphy-f05.svg:121(tspan)
+#, no-wrap
+msgid "angle = -45"
+msgstr "kąt = -45"
+
+#: calligraphy-f04.svg:112(tspan)
+#, no-wrap
+msgid "angle = 90 deg"
+msgstr "kąt = 90 stopni"
+
+#: calligraphy-f04.svg:123(tspan)
+#, no-wrap
+msgid "angle = 30 (default)"
+msgstr "kąt = 30 (domyślny)"
+
+#: calligraphy-f04.svg:145(tspan)
+#, no-wrap
+msgid "angle = -90 deg"
+msgstr "kąt = -90 stopni"
+
+#: calligraphy-f02.svg:66(tspan)
+#, no-wrap
+msgid "thinning = 0 (uniform width) "
+msgstr "pocienianie = 0 (jednolita szerokość)"
+
+#: calligraphy-f02.svg:77(tspan)
+#, no-wrap
+msgid "thinning = 10"
+msgstr "pocienianie = 10"
+
+#: calligraphy-f02.svg:88(tspan)
+#, no-wrap
+msgid "thinning = 40"
+msgstr "pocienianie = 04."
+
+#: calligraphy-f02.svg:99(tspan)
+#, no-wrap
+msgid "thinning = -20"
+msgstr "pocienianie = -20"
+
+#: calligraphy-f02.svg:110(tspan)
+#, no-wrap
+msgid "thinning = -60"
+msgstr "pocienianie = -60"
+
+#: calligraphy-f01.svg:66(tspan)
+#, no-wrap
+msgid "width=1, growing....                       reaching 47, decreasing...                                  back to 0"
+msgstr "szerokość = 1, rośnie....                       osiąga 47, maleje...                                   powraca do 0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:144(None)
+msgid "@@image: 'calligraphy-f01.svg'; md5=0a1fb79de82dc95c049c3a0c34346ac2"
+msgstr "@@image: 'calligraphy-f01.svg'; md5=0a1fb79de82dc95c049c3a0c34346ac2"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:160(None)
+msgid "@@image: 'calligraphy-f02.svg'; md5=537004565d832c4a5c57e1f163c2b46b"
+msgstr "@@image: 'calligraphy-f02.svg'; md5=537004565d832c4a5c57e1f163c2b46b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:172(None)
+msgid "@@image: 'calligraphy-f03.svg'; md5=4650561753cc124def3629d1cd61836a"
+msgstr "@@image: 'calligraphy-f03.svg'; md5=4650561753cc124def3629d1cd61836a"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:192(None)
+msgid "@@image: 'calligraphy-f04.svg'; md5=a17232359635d30c6130782839d8231d"
+msgstr "@@image: 'calligraphy-f04.svg'; md5=a17232359635d30c6130782839d8231d"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:209(None)
+msgid "@@image: 'calligraphy-f05.svg'; md5=02b5d45808e65e3c6152d82c175bf9df"
+msgstr "@@image: 'calligraphy-f05.svg'; md5=02b5d45808e65e3c6152d82c175bf9df"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:230(None)
+msgid "@@image: 'calligraphy-f06.svg'; md5=fc36d9da92c99a158ac2ec651a1b312b"
+msgstr "@@image: 'calligraphy-f06.svg'; md5=fc36d9da92c99a158ac2ec651a1b312b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:255(None)
+msgid "@@image: 'calligraphy-f07.svg'; md5=25ff9cd65254d662705472f4a571bf89"
+msgstr "@@image: 'calligraphy-f07.svg'; md5=25ff9cd65254d662705472f4a571bf89"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:304(None)
+msgid "@@image: 'calligraphy-f08.svg'; md5=93bbba3eaf9bfd44ad859e76d11802d1"
+msgstr "@@image: 'calligraphy-f08.svg'; md5=93bbba3eaf9bfd44ad859e76d11802d1"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:322(None)
+msgid "@@image: 'calligraphy-f09.svg'; md5=b3812b1642a8927f25557a33011dfcf2"
+msgstr "@@image: 'calligraphy-f09.svg'; md5=b3812b1642a8927f25557a33011dfcf2"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: tutorial-calligraphy.xml:359(None)
+msgid "@@image: 'calligraphy-f10.svg'; md5=f5bab3f6024e2c07e57a166c7463ce4a"
+msgstr "@@image: 'calligraphy-f10.svg'; md5=f5bab3f6024e2c07e57a166c7463ce4a"
+
+#: tutorial-calligraphy.xml:4(title)
+msgid "Calligraphy"
+msgstr "Kaligrafia"
+
+#: tutorial-calligraphy.xml:5(authors)
+msgid "bulia byak, buliabyak@users.sf.net and josh andler, scislac@users.sf.net"
+msgstr "bulia byak, buliabyak@users.sf.net and josh andler, scislac@users.sf.net"
+
+#: tutorial-calligraphy.xml:9(para)
+msgid "One of the many great tools available in Inkscape is the Calligraphy tool. This tutorial will help you become acquainted with how that tool works, as well as demonstrate some basic techniques of the art of Calligraphy."
+msgstr "Jednym z wielu wspaniałych narzędzi dostępnych w Inkscape'ie jest narzędzie „Kaligrafia”. Poradnik ten pomoże ci zapoznać się z nim i zademonstruje pewne podstawowe techniki sztuki kaligrafii."
+
+#: tutorial-calligraphy.xml:14(para)
+msgid "Use <keycap>Ctrl+arrows</keycap>, <keycap>mouse wheel</keycap>, or <keycap>middle button drag</keycap> to scroll the page down. For basics of object creation, selection, and transformation, see the Basic tutorial in <command>Help &gt; Tutorials</command>."
+msgstr "Aby przewinąć stronę w dół, użyj kombinacji klawiszy [<keycap>Ctrl+strzałki</keycap>], <keycap>rolki myszy</keycap> lub <keycap>przeciągnij</keycap> stronę <keycap>środkowym przyciskiem myszy</keycap>. Podstawowe sposoby tworzenia, zaznaczania i przekształcania obiektów zostały omówione w poradniku „Podstawy”, który znajduje się w menu „<command>Pomoc &raquo; Poradniki</command>”."
+
+#: tutorial-calligraphy.xml:22(title)
+msgid "History and Styles"
+msgstr "Historia i style"
+
+#: tutorial-calligraphy.xml:24(para)
+msgid "Going by the dictionary definition, <firstterm>calligraphy</firstterm> means “beautiful writing” or “fair or elegant penmanship”. Essentially, calligraphy is the art of making beautiful or elegant handwriting. It may sound intimidating, but with a little practice, anyone can master the basics of this art."
+msgstr "Według definicji słownikowej <firstterm>kaligrafia</firstterm> oznacza „piękne pismo” albo „sztuka pięknego i wyraźnego pisania”. Istotnie, kaligrafia jest sztuką tworzenia ładnego czy też wytwornego pisma odręcznego. Może to brzmieć odstraszająco, ale przy odrobinie praktyki każdy jest w stanie opanować podstawy tej sztuki."
+
+#: tutorial-calligraphy.xml:31(para)
+msgid "The earliest forms of calligraphy date back to cave-man paintings. Up until roughly 1440 AD, before the printing press was around, calligraphy was the way books and other publications were made. A scribe had to handwrite every individual copy of every book or publication. The handwriting was done with a quill and ink onto materials such as parchment or vellum. The lettering styles used throughout the ages include Rustic, Carolingian, Blackletter, etc. Perhaps the most common place where the average person will run across calligraphy today is on wedding invitations."
+msgstr "Za najwcześniejsze formy kaligrafii uznaje się malowidła człowieka jaskiniowego. Do około 1440 roku, zanim rozpowszechniono prasę drukarską, książki i inne publikacje tworzono właśnie przy pomocy kaligrafii. Skryba musiał pisać ręcznie każdą pojedynczą kopię książki czy publikacji. To odręczne pismo tworzono za pomocą gęsiego piórka i atramentu na materiałach takich jak pergamin czy papier welinowy. Style liternictwa używane przez wieki to m.in. styl rustykalny, karoliński, gotycki. W obecnych czasach przeciętny człowiek spotyka się najczęściej z kaligrafią, otrzymując bądź oglądając zaproszenia ślubne."
+
+#: tutorial-calligraphy.xml:41(para)
+msgid "There are three main styles of calligraphy:"
+msgstr "Istnieją trzy główne style kaligrafii:"
+
+#: tutorial-calligraphy.xml:46(para)
+msgid "Western or Roman"
+msgstr "Zachodni lub rzymski"
+
+#: tutorial-calligraphy.xml:49(para)
+msgid "Arabic"
+msgstr "Arabski"
+
+#: tutorial-calligraphy.xml:52(para)
+msgid "Chinese or Oriental"
+msgstr "Chiński lub orientalny"
+
+#: tutorial-calligraphy.xml:57(para)
+msgid "This tutorial focuses mainly on Western calligraphy, as the other two styles tend to use a brush (instead of a pen with nib), which is not how our Calligraphy tool currently functions."
+msgstr "Poradnik ten skupia się głównie na kaligrafii zachodniej, ponieważ obydwa pozostałe style zakładają stosowanie pędzla (zamiast pióra ze stalówką), a tego narzędzie „Kaligrafia” jeszcze nie potrafi."
+
+#: tutorial-calligraphy.xml:63(para)
+msgid "One great advantage that we have over the scribes of the past is the <command>Undo</command> command: If you make a mistake, the entire page is not ruined. Inkscape's Calligraphy tool also enables some techniques which would not be possible with a traditional pen-and-ink."
+msgstr "Wielką przewagą, jaką mamy nad skrybą z przeszłości, jest polecenie „<command>Wycofaj</command>”. Jeśli popełnisz błąd, nie zniweczy to całej strony. Narzędzie „Kaligrafia” umożliwia również wykorzystanie pewnych technik niemożliwych do zastosowania przy użyciu metody tradycyjnej."
+
+#: tutorial-calligraphy.xml:72(title)
+msgid "Hardware"
+msgstr "Sprzęt"
+
+#: tutorial-calligraphy.xml:74(para)
+msgid "You will get the best results if you use a <firstterm>tablet and pen</firstterm> (e.g. Wacom). Thanks to the flexibility of our tool, even those with only a mouse can do some fairly intricate calligraphy, though there will be some difficulty producing fast sweeping strokes."
+msgstr "Najlepsze wyniki osiągniesz, używając <firstterm>tabletu i piórka</firstterm>, np. Wacom. Dzięki elastyczności naszego narzędzia, pracując nawet tylko myszą, można utworzyć piękną i misterną kaligrafię, chociaż wówczas mogą wystąpić trudności w trakcie tworzenia szybkich, zamaszystych linii."
+
+#: tutorial-calligraphy.xml:81(para)
+msgid "Inkscape is able to utilize <firstterm>pressure sensitivity</firstterm> and <firstterm> tilt sensitivity</firstterm> of a tablet pen that supports these features. The sensitivity functions are disabled by default because they require configuration. Also, keep in mind that calligraphy with a quill or pen with nib are also not very sensitive to pressure, unlike a brush."
+msgstr "Inkscape potrafi wykorzystać <firstterm>czułość nacisku</firstterm> i <firstterm>czułość nachylenia</firstterm> piórka tabletu, który obsługuje te funkcje. Funkcje czułości są domyślnie wyłączone, ponieważ wymagają konfiguracji. Zwróć uwagę, że w przeciwieństwie do pędzla, kaligrafia za pomocą gęsiego pióra czy pióra ze stalówką jest niezbyt wrażliwa na nacisk."
+
+#: tutorial-calligraphy.xml:88(para)
+msgid "If you have a tablet and would like to utilize the sensitivity features, you will need to configure your device. This configuration will only need to be performed once and the settings are saved. To enable this support you must have the tablet plugged in prior to starting inkscape and then proceed to open the <firstterm>Input Devices...</firstterm> dialog through the <emphasis>File</emphasis> menu. With this dialog open you can choose the preferred device and settings for your tablet pen. Lastly, after choosing those settings, switch to the Calligraphy tool and toggle the toolbar buttons for pressure and tilt. From now on, Inkscape will remember those settings on startup."
+msgstr "Jeżeli masz tablet i chcesz wykorzystać funkcje czułości, musisz skonfigurować to urządzenie. Wystarczy zrobić to raz, a ustawienia zostaną zachowane. Aby uaktywnić funkcję tabletu, musisz podłączyć tablet do komputera przed uruchomieniem Inkscape'a. Po uruchomieniu Inkscape'a otwórz okno dialogowe „<firstterrm>Urządzenia wejściowe…</firstterm>” znajdujące się w menu „<emphasis>Plik</emphasis>”. Za jego pomocą można wybrać preferowane urządzenie i ustawienia pióra tabletu. Na koniec, po wybraniu tych ustawień, uruchom narzędzie „Kaligrafia” i włącz przycisk na pasku poleceń, służący do zmiany siły nacisku i pochylenia. Inkscape zapamięta te ustawienia jako startowe."
+
+#: tutorial-calligraphy.xml:99(para)
+msgid "The Inkscape calligraphy pen can be sensitive to the <firstterm>velocity</firstterm> of the stroke (see “Thinning” below), so if you are using a mouse, you'll probably want to zero this parameter."
+msgstr "Narzędzie „Kaligrafia” potrafi być czułe na <firstterm>szybkość</firstterm> ruchu (zobacz „Pocienianie” poniżej), więc jeżeli używasz myszy, prawdopodobnie zechcesz wyzerować ten parametr."
+
+#: tutorial-calligraphy.xml:107(title)
+msgid "Calligraphy Tool Options"
+msgstr "Opcje narzędzia „Kaligrafia”"
+
+#: tutorial-calligraphy.xml:109(para)
+msgid "Switch to the Calligraphy tool by pressing <keycap>Ctrl+F6</keycap>, pressing the <keycap>C</keycap> key, or by clicking on its toolbar button. On the top toolbar, you will notice there are 8 options: Width &amp; Thinning; Angle &amp; Fixation; Caps; Tremor, Wiggle &amp; Mass. There are also two buttons to toggle tablet Pressure and Tilt sensitivity on and off (for drawing tablets)."
+msgstr "Włącz narzędzie „Kaligrafia”, używając skrótu [ <keycap>Ctrl+F6</keycap> ], naciskając klawisz [ <keycap>C</keycap> ] bądź klikając ikonę kaligrafii w przyborniku. Na pasku narzędzi zauważysz kilka opcji: Szerokość, Pocienianie, Kąt, Ułożenie, Zakończenie, Drżenie i Masa. Znajdują się tam również dwa przyciski do przełączania siły nacisku tabletu oraz włączenia/wyłączenia czułości nachylenia tabletów do rysowania."
+
+#: tutorial-calligraphy.xml:119(title)
+msgid "Width &amp; Thinning"
+msgstr "Szerokość i pocienianie"
+
+#: tutorial-calligraphy.xml:121(para)
+msgid "This pair of options control the <firstterm>width</firstterm> of your pen. The width can vary from 1 to 100 and (by default) is measured in units relative to the size of your editing window, but independent of zoom. This makes sense, because the natural “unit of measure” in calligraphy is the range of your hand's movement, and it is therefore convenient to have the width of your pen nib in constant ratio to the size of your “drawing board” and not in some real units which would make it depend on zoom. This behavior is optional though, so it can be changed for those who would prefer absolute units regardless of zoom. To switch to this mode, use the checkbox on the tool's Preferences page (you can open it by double-clicking the tool button)."
+msgstr "Ta para opcji kontroluje <firstterm>szerokość</firstterm> pióra. Może ona mieć wartość od 1 do 100 i domyślnie jest mierzona w jednostkach relatywnie do wielkości okna edycji, lecz niezależnie od skali przybliżenia. Ma to sens, ponieważ w kaligrafii naturalną „jednostką miary” jest zasięg ruchu ręki i dlatego  wygodnie jest mieć szerokość stalówki pióra w stałym stosunku do rozmiaru „obszaru roboczego rysunku”, a nie w rzeczywistych jednostkach, które byłyby zależne od skali przybliżenia. To ustawienie jest opcjonalne i osoby, które wolałyby pracować na jednostkach bezwzględnych niezależnie od skali przybliżenia, mogą je zmienić w oknie preferencji globalnych Inkscape'a, które można otworzyć klikając dwukrotnie ikonę narzędzia „Kaligrafia” znajdującą się w przyborniku."
+
+#: tutorial-calligraphy.xml:134(para)
+msgid "Since pen width is changed often, you can adjust it without going to the toolbar, using the <keycap>left</keycap> and <keycap>right</keycap> arrow keys or with a tablet that supports the pressure sensitivity function. The best thing about these keys is that they work while you are drawing, so you can change the width of your pen gradually in the middle of the stroke:"
+msgstr "Ponieważ szerokość pióra jest często zmieniana, można ją dostosowywać bez pomocy paska narzędzi, używając klawiszy [ <keycap>strzałka w lewo </keycap> ] i [ <keycap>strzałka w prawo</keycap> ] lub za pomocą tabletu, który obsługuje funkcję siły nacisku. Najlepsze jest to, że klawisze te działają podczas rysowania, a więc można zmieniać szerokość pióra stopniowo w trakcie ruchu:"
+
+#: tutorial-calligraphy.xml:149(para)
+msgid "Pen width may also depend on the velocity, as controlled by the <firstterm>thinning</firstterm> parameter. This parameter can take values from -100 to 100; zero means the width is independent of velocity, positive values make faster strokes thinner, negative values make faster strokes broader. The default of 0.1 means moderate thinning of fast strokes. Here are a few examples, all drawn with width=20 and angle=90:"
+msgstr "Szerokość pióra może również zależeć od szybkości pociągnięcia kontrolowanej za pomocą parametru „<firstterm>pocienianie</firstterm>”. Może on przyjmować wartości od -100 do 100. Zero oznacza, że szerokość linii jest niezależna od szybkości, z jaką jest rysowana. Dodatnie wartości powodują, że szybsze pociągnięcia tworzą cieńsze linie, a ujemne odwrotnie – grubsze. Domyślna wartość 0.1 oznacza umiarkowane pocienianie szybkich pociągnięć. Oto parę przykładów, wszystkie narysowane z szerokością równą 20 i kątem 90 stopni:"
+
+#: tutorial-calligraphy.xml:165(para)
+msgid "For fun, set Width and Thinning both to 100 (maximum) and draw with jerky movements to get strangely naturalistic, neuron-like shapes:"
+msgstr "Dla zabawy ustaw zarówno szerokość, jak i pocienienie na 100 (maksimum) i gwałtownymi ruchami wykonaj rysunek, a uzyskach naturalistyczne, podobne do neuronów kształty:"
+
+#: tutorial-calligraphy.xml:180(title)
+msgid "Angle &amp; Fixation"
+msgstr "Kąt i ułożenie"
+
+#: tutorial-calligraphy.xml:182(para)
+msgid "After width, <firstterm>angle</firstterm> is the most important calligraphy parameter. It is the angle of your pen in degrees, changing from 0 (horizontal) to 90 (vertical counterclockwise) or to -90 (vertical clockwise). Note that if you turn tilt sensitivity on for a tablet, the angle parameter is greyed out and the angle is determined by the tilt of the pen."
+msgstr "<firstterm>Kąt</firstterm>, to najważniejszy po szerokości parametr kaligrafii. Jest to kąt stalówki pióra podany w stopniach, w zakresie zmian od 0 (poziomo) do 90 (pionowo, przeciwnie do kierunku ruchu wskazówek zegara) lub do -90 (pionowo, zgodnie z ruchem wskazówek zegara). Zauważ, że jeżeli dla tabletu zostanie włączona wrażliwość na nachylenie, parametr „Kąt” stanie się nieaktywny, a kąt będzie określany przez nachylenie pióra."
+
+#: tutorial-calligraphy.xml:197(para)
+msgid "Each traditional calligraphy style has its own prevalent pen angle. For example, the Unicial hand uses the angle of 25 degrees. More complex hands and more experienced calligraphers will often vary the angle while drawing, and Inkscape makes this possible by pressing <keycap>up</keycap> and <keycap>down</keycap> arrow keys or with a tablet that supports the tilt sensitivity feature. For beginning calligraphy lessons, however, keeping the angle constant will work best. Here are examples of strokes drawn at different angles (fixation = 100):"
+msgstr "Każdy tradycyjny styl kaligrafii używa swojego własnego, dominującego kąta pióra. Na przykład dla pisma uncjalnego jest to kąt 25 stopni. Bardziej złożone pisma i doświadczeni kaligrafowie często zmieniają kąt podczas rysowania i Inkscape to umożliwia poprzez naciśnięcie klawiszy [ <keycap>strzałka w górę</keycap> ] i [ <keycap>strzałka w dół</keycap> ] lub użycie tabletu, który obsługuje czułość nachylenia. Na początkowych lekcjach kaligrafii najlepiej będzie pracować ze stałym kątem. Oto przykłady linii narysowanych z różnymi kątami nachylenia (ułożenie = 100):"
+
+#: tutorial-calligraphy.xml:214(para)
+msgid "As you can see, the stroke is at its thinnest when it is drawn parallel to its angle, and at its broadest when drawn perpendicular. Positive angles are the most natural and traditional for right-handed calligraphy."
+msgstr "Jak widać, linia jest najcieńsza, kiedy rysuje się ją równolegle do kąta i najszersza, kiedy jest rysowana prostopadle. W przypadku kaligrafii praworęcznej najbardziej naturalne i tradycyjne są dodatnie ustawienia kąta."
+
+#: tutorial-calligraphy.xml:220(para)
+msgid "The level of contrast between the thinnest and the thickest is controlled by the <firstterm>fixation</firstterm> parameter. The value of 1 means that the angle is always constant, as set in the Angle field. Decreasing fixation lets the pen turn a little against the direction of the stroke. With fixation=0, pen rotates freely to be always perpendicular to the stroke, and Angle has no effect anymore:"
+msgstr "Poziom kontrastu pomiędzy najcieńszą i najgrubszą linią kontroluje parametr <firstterm>ułożenie</firstterm>. Wartość 1 oznacza, że kąt jest zawsze stały. Zmniejszenie wartości pozwala na niewielki obrót pióra w kierunku przeciwnym do linii. Przy wartości ułożenia wynoszącej 0 pióro obraca się swobodnie, pozostając zawsze prostopadłym do kierunku pociągnięć i kąt już nie wywiera żadnego wpływu:"
+
+#: tutorial-calligraphy.xml:235(para)
+msgid "Typographically speaking, maximum fixation and therefore maximum stroke width contrast (above left) are the features of antique serif typefaces, such as Times or Bodoni (because these typefaces were historically an imitation of fixed-pen calligraphy). Zero fixation and zero width contrast (above right), on the other hand, suggest modern sans serif typefaces such as Helvetica."
+msgstr "Określając to typograficznie, maksymalne ułożenie i tym samym maksymalny kontrast szerokości linii (powyżej, po lewej stronie) są cechami antycznych, szeryfowych krojów pisma takich jak Times lub Bodoni, ponieważ te kroje pism, były historycznie naśladownictwem kaligrafii piórem o stałym kącie ustawienia, a ułożenie i kontrast wynoszący 0 (powyżej, po prawej stronie) sugeruje nowoczesne kroje bezszeryfowe takie jak Helvetica."
+
+#: tutorial-calligraphy.xml:245(title)
+msgid "Tremor"
+msgstr "Drżenie"
+
+#: tutorial-calligraphy.xml:247(para)
+msgid "<firstterm>Tremor</firstterm> is intended to give a more natural look to the calligraphy strokes. Tremor is adjustable in the Controls bar with values ranging from 0.0 to 1.0. It will affect your strokes producing anything from slight unevenness to wild blotches and splotches. This significantly expands the creative range of the tool."
+msgstr "<firstterm>Drżenie</firstterm> jest przeznaczone do uzyskania bardziej naturalnego wyglądu linii. Drżenie można kontrolować suwakiem znajdującym się na pasku kontrolek i może przyjmować wartości od 0 do 100. W zależności od przyjętej wartości, uzyskamy delikatną nierówność albo mocno poszarpaną linię. Poszerza to znacznie możliwości twórcze tego narzędzia."
+
+#: tutorial-calligraphy.xml:262(title)
+msgid "Wiggle &amp; Mass"
+msgstr "Drżenie i Masa"
+
+#: tutorial-calligraphy.xml:264(para)
+msgid "Unlike width and angle, these two last parameters define how the tool “feels” rather than affect its visual output. So there won't be any illustrations in this section; instead just try them yourself to get a better idea."
+msgstr "W przeciwieństwie do szerokości i kąta, te dwa ostatnie parametry definiują sposób prowadzenia narzędzia, a nie właściwości wizualne. Tym razem nie przedstawimy żadnych ilustracji. Zamiast tego po prostu wypróbuj sam te parametry czynników, by lepiej je zrozumieć."
+
+#: tutorial-calligraphy.xml:270(para)
+msgid "<firstterm>Wiggle</firstterm> is the resistance of the paper to the movement of the pen. The default is at minimum (0), and increasing this parameter makes paper “slippery”: if the mass is big, the pen tends to run away on sharp turns; if the mass is zero, high wiggle makes the pen to wiggle wildly."
+msgstr "<firstterm>Poślizg</firstterm> to opór, jaki stawia papier podczas ruchu pióra. Domyślnie ustawiona jest minimalna wartość – 0. Zwiększanie tego parametru sprawia, że papier staje się bardziej śliski. Jeśli masa jest duża, pióro przy gwałtownych ruchach ma tendencję do „uciekania”. Jeśli parametr masy jest ustawiony na 0, duży poślizg sprawia, że linia jest pokręcona."
+
+#: tutorial-calligraphy.xml:277(para)
+msgid "In physics, <firstterm>mass</firstterm> is what causes inertia; the higher the mass of the Inkscape calligraphy tool, the more it lags behind your mouse pointer and the more it smoothes out sharp turns and quick jerks in your stroke. By default this value is quite small (2) so that the tool is fast and responsive, but you can increase mass to get slower and smoother pen."
+msgstr "W fizyce <firstterm>masa</firstterm> jest elementem powodującym inercję. Im wyższa masa narzędzia „Kaligrafia”, tym wolniej porusza się ono za kursorem myszy oraz bardziej wygładza ostre skręty i nagłe szarpnięcia. Domyślnie wartość ta jest dość mała – 2, więc narzędzie jest szybkie i szybko reaguje, ale można zwiększyć masę, by pióro stało się wolniejsze i „gładsze”."
+
+#: tutorial-calligraphy.xml:288(title)
+msgid "Calligraphy examples"
+msgstr "Przykłady kaligrafii"
+
+#: tutorial-calligraphy.xml:290(para)
+msgid "Now that you know the basic capabilities of the tool, you can try to produce some real calligraphy. If you are new to this art, get yourself a good calligraphy book and study it with Inkscape. This section will show you just a few simple examples."
+msgstr "Teraz gdy znasz już podstawowe możliwościami narzędzia „Kaligrafia”, możesz spróbować tej sztuki i utworzyć kilka obiektów kaligraficznych. Jeżeli jednak jesteś nowicjuszem w tej sztuce, zakup dobrą książkę o kaligrafii i studiuj ją z Inkscape'em. W tej części zobaczysz jedynie kilka prostych przykładów."
+
+#: tutorial-calligraphy.xml:296(para)
+msgid "First of all, to do letters, you need to create a pair of rulers to guide you. If you're going to write in a slanted or cursive hand, add some slanted guides across the two rulers as well, for example:"
+msgstr "Przede wszystkim, aby tworzyć litery, należy wprowadzić dwie linijki, które będą prowadnicami. Jeśli chcesz tworzyć pismo pochyłe lub kursywę, dodaj pochylone prowadnice przecinające wprowadzone już linijki, na przykład:"
+
+#: tutorial-calligraphy.xml:309(para)
+msgid "Then zoom in so that the height between the rulers corresponds to your most natural hand movement range, adjust width and angle, and off you go!"
+msgstr "Teraz ustaw tak skalę przybliżenia, aby odległość pomiędzy linijkami odpowiadała twojemu najbardziej naturalnemu zakresowi ruchów ręki, dostosuj szerokość i kąt, i startuj!"
+
+#: tutorial-calligraphy.xml:314(para)
+msgid "Probably the first thing you would do as a beginner calligrapher is practice the basic elements of letters — vertical and horizontal stems, round strokes, slanted stems. Here are some letter elements for the Unicial hand:"
+msgstr "Pierwszą rzeczą, którą powinien zrobić początkujący kaligraf, jest przećwiczenie podstawowych elementów liter – pionowych, poziomych oraz pochylonych słupków i zaokrąglonych konturów. Oto parę przykładów liter pisma uncjalnego."
+
+#: tutorial-calligraphy.xml:327(para)
+msgid "Several useful tips:"
+msgstr "Kilka użytecznych wskazówek:"
+
+#: tutorial-calligraphy.xml:332(para)
+msgid "If your hand is comfortable on the tablet, don't move it. Instead, scroll the canvas (<keycap>Ctrl+arrow</keycap> keys) with your left hand after finishing each letter."
+msgstr "Jeżeli prawa ręka spoczywa wygodnie na tablecie, nie przemieszczaj jej. Do przewinięcia obszaru roboczego po skończeniu litery, użyj lewej ręki, wybierając nią skrót [ <keycap>Ctrl+strzałki</keycap> ]."
+
+#: tutorial-calligraphy.xml:337(para)
+msgid "If your last stroke is bad, just undo it (<keycap>Ctrl+Z</keycap>). However, if its shape is good but the position or size are slightly off, it's better to switch to Selector temporarily (<keycap>Space</keycap>) and nudge/scale/rotate it as needed (using mouse or keys), then press <keycap>Space</keycap> again to return to Calligraphy tool."
+msgstr "Jeśli twoje ostatnie pociągnięcie okazało się złe, po prostu cofnij je za pomocą skrótu [ <keycap>Ctrl+Z</keycap> ]. Jednak jeśli jego kształt jest dobry, a tylko pozycja czy wielkość są nieznacznie wadliwe, lepiej będzie chwilowo przełączyć się na narzędzie „Wskaźnik” [ <keycap>Spacja</keycap> ] i za pomocą myszy lub klawiszy – w zależności od potrzeby – popchnąć/przeskalować/obrócić obiekt, a następnie ponownie nacisnąć [ <keycap>Spację</keycap> ], by powrócić do narzędzia „Kaligrafia”."
+
+#: tutorial-calligraphy.xml:345(para)
+msgid "Having done a word, switch to Selector again to adjust stem uniformity and letterspacing. Don't overdo this, however; good calligraphy must retain somewhat irregular handwritten look. Resist the temptation to copy over letters and letter elements; each stroke must be original."
+msgstr "Kiedy utworzysz słowo, włącz ponownie narzędzie „Wskaźnik”, aby wyregulować jednolitość osi i odległości między literami. Nie należy z tym przesadzać - dobra kaligrafia musi zachować w wyglądzie nieco nieregularności odręcznego pisma. Oprzyj się pokusie kopiowania liter i ich elementów - każda kreska musi być autentyczna."
+
+#: tutorial-calligraphy.xml:353(para)
+msgid "And here are some complete lettering examples:"
+msgstr "A oto kilka przykładów liternictwa:"
+
+#: tutorial-calligraphy.xml:369(title)
+msgid "Conclusion"
+msgstr "Podsumowanie"
+
+#: tutorial-calligraphy.xml:371(para)
+msgid "Calligraphy is not only fun; it's a deeply spiritual art that may transform your outlook on everything you do and see. Inkscape's calligraphy tool can only serve as a modest introduction. And yet it is very nice to play with and may be useful in real design. Enjoy!"
+msgstr "Kaligrafia nie jest tylko zabawą. To głęboko uduchowiona sztuka, która może zmienić twój pogląd na wszystko, co robisz i widzisz. Narzędzie kaligrafii Inkscape'a może ci posłużyć tylko jako skromne wprowadzenie. Poza tym to przecież bardzo przyjemne pobawić się nim, a może być użyteczne w rzeczywistym projekcie. Miłej zabawy!"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: tutorial-calligraphy.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Polska lokalizacja wykonana przez:\n"
+"2008-2009 – Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
+
