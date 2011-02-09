@@ -1,0 +1,1306 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.49\n"
+"POT-Creation-Date: 2011-02-02 20:37+0100\n"
+"PO-Revision-Date: 2011-02-09 19:50+0100\n"
+"Last-Translator: Marcin Floryan <mfloryan@mm.waw.pl>\n"
+"Language-Team: Polish Inkscape Translation Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+"X-Poedit-Language: POLISH\n"
+"X-Poedit-Country: POLAND\n"
+
+#. type: =head1
+#: inkscape.pod:2
+msgid "NAME"
+msgstr "NAZWA"
+
+#. type: textblock
+#: inkscape.pod:4
+msgid "Inkscape - an SVG (Scalable Vector Graphics) editing program."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:6
+msgid "SYNOPSIS"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:8
+msgid "C<inkscape [options] [filename ...]>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:10
+msgid "options:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:12
+#, no-wrap
+msgid ""
+"    -?, --help        \n"
+"        --usage       \n"
+"    -V, --version\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:16
+#, no-wrap
+msgid ""
+"    -f, --file=FILENAME               \n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:18
+#, no-wrap
+msgid ""
+"    -e, --export-png=FILENAME         \n"
+"    -a, --export-area=x0:y0:x1:y1     \n"
+"    -C, --export-area-page\n"
+"    -D, --export-area-drawing\n"
+"        --export-area-snap\n"
+"    -i, --export-id=ID     \n"
+"    -j, --export-id-only     \n"
+"    -t, --export-use-hints\n"
+"    -b, --export-background=COLOR     \n"
+"    -y, --export-background-opacity=VALUE     \n"
+"    -d, --export-dpi=DPI              \n"
+"    -w, --export-width=WIDTH          \n"
+"    -h, --export-height=HEIGHT        \n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:32
+#, no-wrap
+msgid ""
+"    -P, --export-ps=FILENAME\n"
+"    -E, --export-eps=FILENAME\n"
+"    -A, --export-pdf=FILENAME\n"
+"        --export-latex\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:37
+#, no-wrap
+msgid ""
+"    -T, --export-text-to-path\n"
+"        --export-ignore-filters\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:40
+#, no-wrap
+msgid ""
+"    -l, --export-plain-svg=FILENAME             \n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:42
+#, no-wrap
+msgid ""
+"    -p, --print=PRINTER\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:44
+#, no-wrap
+msgid ""
+"    -I, --query-id=ID     \n"
+"    -X, --query-x\n"
+"    -Y, --query-y\n"
+"    -W, --query-width\n"
+"    -H, --query-height\n"
+"    -S, --query-all\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:51
+#, no-wrap
+msgid ""
+"    -x, --extension-directory\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:53
+#, no-wrap
+msgid ""
+"        --verb-list\n"
+"        --verb=VERB-ID\n"
+"        --select=OBJECT-ID\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:57
+#, no-wrap
+msgid ""
+"        --shell\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:59
+#, no-wrap
+msgid ""
+"    -g, --with-gui                    \n"
+"    -z, --without-gui                 \n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:62
+#, no-wrap
+msgid ""
+"        --vacuum-defs\n"
+"\n"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:64
+#, no-wrap
+msgid ""
+"        --g-fatal-warnings\n"
+"\n"
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:66
+msgid "DESCRIPTION"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:68
+msgid ""
+"B<Inkscape> is a GUI editor for B<Scalable Vector Graphics (SVG)> format "
+"drawing files, with capabilities similar to B<Adobe Illustrator>, "
+"B<CorelDraw>, B<Xara Xtreme>, etc. Inkscape features include versatile "
+"shapes, bezier paths, freehand drawing, multi-line text, text on path, alpha "
+"blending, arbitrary affine transforms, gradient and pattern fills, node "
+"editing, many export and import formats including PNG and PDF, grouping, "
+"layers, live clones, and a lot more.  The interface is designed to be "
+"comfortable and efficient for skilled users, while remaining conformant to "
+"B<GNOME> standards so that users familiar with other GNOME applications can "
+"learn its interface rapidly."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:79
+msgid ""
+"B<SVG> is a W3C standard XML format for 2D vector drawing. It allows "
+"defining objects in the drawing using points, paths, and primitive shapes.  "
+"Colors, fonts, stroke width, and so forth are specified as `style' "
+"attributes to these objects.  The intent is that since SVG is a standard, "
+"and since its files are text/xml, it will be possible to use SVG files in a "
+"sizeable number of programs and for a wide range of uses."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:87
+msgid ""
+"B<Inkscape> uses SVG as its native document format, and has the goal of "
+"becoming the most fully compliant drawing program for SVG files available in "
+"the Open Source community."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:92
+msgid "OPTIONS"
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:96
+msgid "B<-?>, B<--help>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:98
+msgid "Show help message"
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:100
+msgid "B<-V>, B<--version>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:102
+msgid "Show Inkscape version and build date."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:104
+msgid "B<-a> I<x0:y0:x1:y1>, B<--export-area>=I<x0:y0:x1:y1>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:106
+msgid ""
+"In PNG export, set the exported area in SVG user units (anonymous length "
+"units normally used in Inkscape SVG).  The default is to export the entire "
+"document page.  The point (0,0)  is the lower-left corner."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:110
+msgid "B<-C>, B<--export-area-page>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:112
+msgid ""
+"In PNG, PDF, PS, and EPS export, exported area is the page. This is the "
+"default for PNG, PDF, and PS, so you don't need to specify this unless you "
+"are using --export-id to export a specific object. In EPS, however, this is "
+"not the default; moreover, for EPS, the specification of the format does not "
+"allow its bounding box to extend beyond its content.  This means that when --"
+"export-area-page is used with EPS export, the page bounding box will be "
+"trimmed inwards to the bounding box of the content if it is smaller."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:119
+msgid "B<-D>, B<--export-area-drawing>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:121
+msgid ""
+"In PNG, PDF, PS, and EPS export, exported area is the drawing (not page), i."
+"e. the bounding box of all objects of the document (or of the exported "
+"object if --export-id is used).  With this option, the exported image will "
+"display all the visible objects of the document without margins or cropping. "
+"This is the default export area for EPS. For PNG, it can be used in "
+"combination with --export-use-hints."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:127
+msgid "B<--export-area-snap>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:129
+msgid ""
+"For PNG export, snap the export area outwards to the nearest integer SVG "
+"user unit (px) values. If you are using the default export resolution of 90 "
+"dpi and your graphics are pixel-snapped to minimize antialiasing, this "
+"switch allows you to preserve this alignment even if you are exporting some "
+"object's bounding box (with --export-id or --export-area-drawing) which is "
+"itself not pixel-aligned."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:134
+msgid "B<-b> I<COLOR>, B<--export-background>=I<COLOR>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:136
+msgid ""
+"Background color of exported PNG.  This may be any SVG supported color "
+"string, for example \"#ff007f\" or \"rgb(255, 0, 128)\".  If not set, then "
+"the page color set in Inkscape in the Document Options dialog will be used "
+"(stored in the pagecolor= attribute of sodipodi:namedview)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:141
+msgid "B<-d> I<DPI>, B<--export-dpi>=I<DPI>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:143
+msgid ""
+"The resolution used for PNG export.  It is also used for fallback "
+"rasterization of filtered objects when exporting to PS, EPS, or PDF (unless "
+"you specify --export-ignore-filters to suppress rasterization). The default "
+"is 90 dpi, which corresponds to 1 SVG user unit (px, also called \"user unit"
+"\") exporting to 1 bitmap pixel.  This value overrides the DPI hint if used "
+"with --export-use-hints."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:150
+msgid "B<-e> I<FILENAME>, B<--export-png>=I<FILENAME>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:152
+msgid ""
+"Specify the filename for PNG export.  If it already exists, the file will be "
+"overwritten without asking."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:155
+msgid "B<-f> I<FILENAME>, B<--file>=I<FILENAME>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:157
+msgid ""
+"Open specified document(s).  Option string may be omitted, i.e. you can list "
+"the filenames without -f."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:160
+msgid "B<-g>, B<--with-gui>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:162
+msgid ""
+"Try to use the GUI (on Unix, use the X server even if $DISPLAY is not set)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:164
+msgid "B<-h> I<HEIGHT>, B<--export-height>=I<HEIGHT>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:166
+msgid ""
+"The height of generated bitmap in pixels.  This value overrides the --export-"
+"dpi setting (or the DPI hint if used with --export-use-hints)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:169
+msgid "B<-i> I<ID>, B<--export-id>=I<ID>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:171
+msgid ""
+"For PNG, PS, EPS, and PDF export, the id attribute value of the object that "
+"you want to export from the document; all other objects are not exported.  "
+"By default the exported area is the bounding box of the object; you can "
+"override this using --export-area (PNG only) or --export-area-page."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:176
+msgid "B<-j>, B<--export-id-only>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:178
+msgid ""
+"Only export to PNG the object whose id is given in --export-id. All other "
+"objects are hidden and won't show in export even if they overlay the "
+"exported object.  Without --export-id, this option is ignored. For PDF "
+"export, this is the default, so this option has no effect."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:182
+msgid "B<-l>, B<--export-plain-svg>=I<FILENAME>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:184
+msgid ""
+"Export document(s) to plain SVG format, without sodipodi: or inkscape: "
+"namespaces and without RDF metadata."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:186
+msgid "B<-x>, B<--extension-directory>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:188
+msgid ""
+"Lists the current extension directory that Inkscape is configured to use and "
+"then exits.  This is used for external extension to use the same "
+"configuration as the original Inkscape installation."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:192
+msgid "B<--verb-list>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:194
+msgid ""
+"Lists all the verbs that are available in Inkscape by ID.  This ID can be "
+"used in defining keymaps or menus.  It can also be used with the --verb "
+"command line option."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:198
+msgid "B<--verb>=I<VERB-ID>, B<--select>=I<OBJECT-ID>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:200
+msgid ""
+"These two options work together to provide some basic scripting for Inkscape "
+"from the command line.  They both can occur as many times as needed on the "
+"command line and are executed in order on every document that is specified."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:205
+msgid ""
+"The --verb command will execute a specific verb as if it was called from a "
+"menu or button.  Dialogs will appear if that is part of the verb.  To get a "
+"list of the verb IDs available, use the --verb-list command line option."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:210
+msgid ""
+"The --select command will cause objects that have the ID specified to be "
+"selected.  This allows various verbs to act upon them.  To remove all the "
+"selections use --verb=EditDeselect.  The object IDs available are dependent "
+"on the document specified to load."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:215
+msgid "B<-p> I<PRINTER>, B<--print>=I<PRINTER>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:217
+msgid ""
+"Print document(s) to the specified printer using `lpr -P PRINTER'.  "
+"Alternatively, use `| COMMAND' to specify a different command to pipe to, or "
+"use `> FILENAME' to write the PostScript output to a file instead of "
+"printing.  Remember to do appropriate quoting for your shell, e.g."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:222
+msgid "inkscape --print='| ps2pdf - mydoc.pdf' mydoc.svg"
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:224
+msgid "B<-t>, B<--export-use-hints>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:226
+msgid ""
+"Use export filename and DPI hints stored in the exported object (only with --"
+"export-id).  These hints are set automatically when you export selection "
+"from within Inkscape.  So, for example, if you export a shape with id="
+"\"path231\" as /home/me/shape.png at 300 dpi from document.svg using "
+"Inkscape GUI, and save the document, then later you will be able to reexport "
+"that shape to the same file with the same resolution simply with"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:231
+msgid "inkscape -i path231 -t document.svg"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:233
+msgid ""
+"If you use --export-dpi, --export-width, or --export-height with this "
+"option, then the DPI hint will be ignored and the value from the command "
+"line will be used.  If you use --export-png with this option, then the "
+"filename hint will be ignored and the filename from the command line will be "
+"used."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:238
+msgid "B<-w> I<WIDTH>, B<--export-width>=I<WIDTH>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:240
+msgid ""
+"The width of generated bitmap in pixels.  This value overrides the --export-"
+"dpi setting (or the DPI hint if used with --export-use-hints)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:243
+msgid "B<-y> I<VALUE>, B<--export-background-opacity>=I<VALUE>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:245
+msgid ""
+"Opacity of the background of exported PNG.  This may be a value either "
+"between 0.0 and 1.0 (0.0 meaning full transparency, 1.0 full opacity)  or "
+"greater than 1 up to 255 (255 meaning full opacity).  If not set and the -b "
+"option is not used, then the page opacity set in Inkscape in the Document "
+"Options dialog will be used (stored in the inkscape:pageopacity= attribute "
+"of sodipodi:namedview).  If not set but the -b option is used, then the "
+"value of 255 (full opacity) will be used."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:253
+msgid "B<-P> I<FILENAME>, B<--export-ps>=I<FILENAME>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:255
+msgid ""
+"Export document(s) to PostScript format. Note that PostScript does not "
+"support transparency, so any transparent objects in the original SVG will be "
+"automatically rasterized. Used fonts are subset and embedded. The default "
+"export area is page; you can set it to drawing by --export-area-drawing. You "
+"can specify --export-id to export a single object (all other are hidden); in "
+"that case export area is that object's bounding box, but can be set to page "
+"by --export-area-page."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:259
+msgid "B<-E> I<FILENAME>, B<--export-eps>=I<FILENAME>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:261
+msgid ""
+"Export document(s) to Encapsulated PostScript format. Note that PostScript "
+"does not support transparency, so any transparent objects in the original "
+"SVG will be automatically rasterized. Used fonts are subset and embedded. "
+"The default export area is drawing; you can set it to page, however see --"
+"export-area-page for applicable limitation. You can specify --export-id to "
+"export a single object (all other are hidden)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:263
+msgid "B<-A> I<FILENAME>, B<--export-pdf>=I<FILENAME>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:265
+msgid ""
+"Export document(s) to PDF format. This format preserves the transparency in "
+"the original SVG. Used fonts are subset and embedded.  The default export "
+"area is page; you can set it to drawing by --export-area-drawing. You can "
+"specify --export-id to export a single object (all other are hidden); in "
+"that case export area is that object's bounding box, but can be set to page "
+"by --export-area-page."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:271
+msgid "B<--export-latex>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:273
+msgid ""
+"(for PS, EPS, and PDF export)  Used for creating images for LaTeX documents, "
+"where the image's text is typeset by LaTeX.  When exporting to PDF/PS/EPS "
+"format, this option splits the output into a PDF/PS/EPS file (e.g. as "
+"specified by --export-pdf) and a LaTeX file. Text will not be output in the "
+"PDF/PS/EPS file, but instead will appear in the LaTeX file. This LaTeX file "
+"includes the PDF/PS/EPS. Inputting (\\input{image.tex}) the LaTeX file in "
+"your LaTeX document will show the image and all text will be typeset by "
+"LaTeX. See the resulting LaTeX file for more information.  Also see "
+"GNUPlot's `epslatex' output terminal."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:283
+msgid "B<-T>, B<--export-text-to-path>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:285
+msgid ""
+"Convert text objects to paths on export, where applicable (for PS, EPS, and "
+"PDF export)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:287
+msgid "B<--export-ignore-filters>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:289
+msgid ""
+"Export filtered objects (e.g. those with blur) as vectors, ignoring the "
+"filters (for PS, EPS, and PDF export).  By default, all filtered objects are "
+"rasterized at --export-dpi (default 90 dpi), preserving the appearance."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:292
+msgid "B<-I>, B<--query-id>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:294
+msgid ""
+"Set the ID of the object whose dimensions are queried. If not set, query "
+"options will return the dimensions of the drawing (i.e. all document "
+"objects), not the page or viewbox"
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:297
+msgid "B<-X>, B<--query-x>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:299
+msgid ""
+"Query the X coordinate of the drawing or, if specified, of the object with --"
+"query-id. The returned value is in px (SVG user units)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:301
+msgid "B<-Y>, B<--query-y>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:303
+msgid ""
+"Query the Y coordinate of the drawing or, if specified, of the object with --"
+"query-id. The returned value is in px (SVG user units)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:305
+msgid "B<-W>, B<--query-width>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:307
+msgid ""
+"Query the width of the drawing or, if specified, of the object with --query-"
+"id. The returned value is in px (SVG user units)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:309
+msgid "B<-H>, B<--query-height>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:311
+msgid ""
+"Query the height of the drawing or, if specified, of the object with --query-"
+"id. The returned value is in px (SVG user units)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:313
+msgid "B<-S>, B<--query-all>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:315
+msgid ""
+"Prints a comma delimited listing of all objects in the SVG document with IDs "
+"defined, along with their x, y, width, and height values."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:318
+msgid "B<--shell>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:320
+msgid ""
+"With this parameter, Inkscape will enter an interactive command line shell "
+"mode. In this mode, you type in commands at the prompt and Inkscape executes "
+"them, without you having to run a new copy of Inkscape for each command. "
+"This feature is mostly useful for scripting and server uses: it adds no new "
+"capabilities but allows you to improve the speed and memory requirements of "
+"any script that repeatedly calls Inkscape to perform command line tasks "
+"(such as export or conversions). Each command in shell mode must be a "
+"complete valid Inkscape command line but without the Inkscape program name, "
+"for example \"file.svg --export-pdf=file.pdf\"."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:329
+msgid "B<--vacuum-defs>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:331
+msgid ""
+"Remove all unused items from the <lt>defs<gt> section of the SVG file.  If "
+"this option is invoked in conjunction with --export-plain-svg, only the "
+"exported file will be affected.  If it is used alone, the specified file "
+"will be modified in place."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:335
+msgid "B<-z>, B<--without-gui>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:337
+msgid ""
+"Do not open the GUI (on Unix, do not use X server); only process the files "
+"from console.  This is assumed for -p, -e, -l, and --vacuum-defs options."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:340
+msgid "B<--g-fatal-warnings>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:342
+msgid ""
+"This standard GTK option forces any warnings, usually harmless, to cause "
+"Inkscape to abort (useful for debugging)."
+msgstr ""
+
+#. type: =item
+#: inkscape.pod:345
+msgid "B<--usage>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:347
+msgid "Display a brief usage message."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:351
+msgid "CONFIGURATION"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:353
+msgid ""
+"The main configuration file is located in ~/.config/inkscape/preferences."
+"xml; it stores a variety of customization settings that you can change in "
+"Inkscape (mostly in the Inkscape Preferences dialog).  Also in the "
+"subdirectories there, you can place your own:"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:357
+msgid "B<$HOME>/.config/inkscape/extensions/ - extension effects."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:359
+msgid "B<$HOME>/.config/inkscape/icons/ - icons."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:361
+msgid "B<$HOME>/.config/inkscape/keys/ - keyboard maps."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:363
+msgid "B<$HOME>/.config/inkscape/templates/ - new file templates."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:365
+msgid "DIAGNOSTICS"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:367
+msgid "The program returns zero on success or non-zero on failure."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:369
+msgid ""
+"A variety of error messages and warnings may be printed to STDERR or "
+"STDOUT.  If the program behaves erratically with a particular SVG file or "
+"crashes, it is useful to look at this output for clues."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:373
+msgid "EXAMPLES"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:375
+msgid ""
+"While obviously B<Inkscape> is primarily intended as a GUI application, it "
+"can be used for doing SVG processing on the command line as well."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:378
+msgid "Open an SVG file in the GUI:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:380
+#, no-wrap
+msgid ""
+"    inkscape filename.svg\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:382
+msgid "Print an SVG file from the command line:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:384
+#, no-wrap
+msgid ""
+"    inkscape filename.svg -p '| lpr'\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:386
+msgid ""
+"Export an SVG file into PNG with the default resolution of 90dpi (one SVG "
+"user unit translates to one bitmap pixel):"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:388
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --export-png=filename.png\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:390
+msgid "Same, but force the PNG file to be 600x400 pixels:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:392
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --export-png=filename.png -w600 -h400\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:394
+msgid ""
+"Same, but export the drawing (bounding box of all objects), not the page:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:396
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --export-png=filename.png --export-area-drawing\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:398
+msgid ""
+"Export to PNG the object with id=\"text1555\", using the output filename and "
+"the resolution that were used for that object last time when it was exported "
+"from the GUI:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:401
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --export-id=text1555 --export-use-hints\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:403
+msgid ""
+"Same, but use the default 90 dpi resolution, specify the filename, and snap "
+"the exported area outwards to the nearest whole SVG user unit values (to "
+"preserve pixel-alignment of objects and thus minimize aliasing):"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:407
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --export-id=text1555 --export-png=text.png --export-area-snap\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:409
+msgid "Convert an Inkscape SVG document to plain SVG:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:411
+#, no-wrap
+msgid ""
+"    inkscape filename1.svg --export-plain-svg=filename2.svg\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:413
+msgid "Convert an SVG document to EPS, converting all texts to paths:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:415
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --export-eps=filename.eps --export-text-to-path\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:417
+msgid "Query the width of the object with id=\"text1555\":"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:419
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --query-width --query-id text1555\n"
+"\n"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:421
+msgid ""
+"Duplicate the object with id=\"path1555\", rotate the duplicate 90 degrees, "
+"save SVG, and quit:"
+msgstr ""
+
+#. type: verbatim
+#: inkscape.pod:423
+#, no-wrap
+msgid ""
+"    inkscape filename.svg --select=path1555 --verb=EditDuplicate --verb=ObjectRotate90 --verb=FileSave --verb=FileClose\n"
+"\n"
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:426
+msgid "ENVIRONMENT"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:428
+msgid "B<DISPLAY> to get the default host and display number."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:430
+msgid ""
+"B<TMPDIR> to set the default path of the directory to use for temporary "
+"files.  The directory must exist."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:433
+msgid "THEMES"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:435
+msgid ""
+"To load different icons sets instead of the default B<$PREFIX>/share/"
+"inkscape/icons/icons.svg file, the directory B<$HOME>/.config/inkscape/"
+"icons/ is used.  Icons are loaded by name (e.g. I<fill_none.svg>), or if not "
+"found, then from I<icons.svg>.  If the icon is not loaded from either of "
+"those locations, it falls back to the default system location."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:442
+msgid ""
+"The needed icons are loaded from SVG files by searching for the SVG id with "
+"the matching icon name.  (For example, to load the \"fill_none\" icon from a "
+"file, the bounding box seen for SVG id \"fill_none\" is rendered as the "
+"icon, whether it comes from I<fill_none.svg> or I<icons.svg>.)"
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:449
+msgid "OTHER INFO"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:451
+msgid ""
+"The canonical place to find B<Inkscape> info is at http://www.inkscape."
+"org/.  The website has news, documentation, tutorials, examples, mailing "
+"list archives, the latest released version of the program, bugs and feature "
+"requests databases, forums, and more."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:457
+msgid "SEE ALSO"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:459
+msgid "potrace, cairo, rsvg(1), batik, ghostscript, pstoedit."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:461
+msgid "SVG compliance test suite: http://www.w3.org/Graphics/SVG/Test/"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:463
+msgid "SVG validator: http://jiggles.w3.org/svgvalidator/"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:465
+msgid ""
+"I<Scalable Vector Graphics (SVG) 1.1 Specification> I<W3C Recommendation 14 "
+"January 2003> L<http://www.w3.org/TR/SVG11/>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:469
+msgid ""
+"I<Scalable Vector Graphics (SVG) 1.2 Specification> I<W3C Working Draft 13 "
+"November 2003> L<http://www.w3.org/TR/SVG12/>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:473
+msgid ""
+"I<SVG 1.1/1.2/2.0 Requirements> I<W3C Working Draft 22 April 2002> L<http://"
+"www.w3.org/TR/SVG2Reqs/>"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:477
+msgid ""
+"I<Document Object Model (DOM): Level 2 Core> I<Arnaud Le Hors et al editors, "
+"W3C> L<http://www.w3.org/TR/DOM-Level-2-Core/>"
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:482
+msgid "GUI NOTES"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:484
+msgid ""
+"To learn Inkscape's GUI operation, read the tutorials in Help > Tutorials."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:486
+msgid ""
+"Apart from SVG, Inkscape can import (File > Import) most bitmap formats "
+"(PNG, BMP, JPG, XPM, GIF, etc.), plain text (requires Perl), PS and EPS "
+"(requires Ghostscript), PDF and AI format (AI version 9.0 or newer)."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:490
+msgid ""
+"Inkscape exports 32-bit PNG images (File > Export) as well as AI, PS, EPS, "
+"PDF, DXF, and several other formats via File > Save as."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:493
+msgid ""
+"Inkscape can use the pressure and tilt of a graphic tablet pen for width, "
+"angle, and force of action of several tools, including the Calligraphic pen."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:496
+msgid ""
+"Inkscape includes a GUI front-end to the Potrace bitmap tracing engine "
+"(http://potrace.sf.net) which is embedded into Inkscape."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:499
+msgid ""
+"Inkscape can use external scripts (stdin-to-stdout filters) that are "
+"represented by commands in the Extensions menu. A script can have a GUI "
+"dialog for setting various parameters and can get the IDs of the selected "
+"objects on which to act via the command line. Inkscape comes with an "
+"assortment of effects written in Python."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:504
+msgid "KEYBINDINGS"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:506
+msgid ""
+"To get a complete list of keyboard and mouse shortcuts, view doc/keys.html, "
+"or use the Keys and Mouse command in Help menu."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:508
+msgid "BUGS"
+msgstr "BŁĘDY"
+
+#. type: textblock
+#: inkscape.pod:510
+msgid ""
+"Many bugs are known; please refer to the website (inkscape.org) for "
+"reviewing the reported ones and to report newly found issues.  See also the "
+"Known Issues section in the Release Notes for your version (file `NEWS')."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:514
+msgid "AUTHORS"
+msgstr "AUTORZY"
+
+#. type: textblock
+#: inkscape.pod:516
+msgid ""
+"This codebase owes its existence to a large number of contributors "
+"throughout its various incarnations.  The following list is certainly "
+"incomplete, but serves to recognize the many shoulders on which this "
+"application sits:"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:521
+msgid "[% INCLUDE \"AUTHORS\" %]"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:523
+msgid ""
+"This man page was put together by Bryce Harrington "
+"E<lt>brycehar@bryceharrington.comE<gt>."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:526
+msgid "HISTORY"
+msgstr "HISTORIA"
+
+#. type: textblock
+#: inkscape.pod:528
+msgid ""
+"The codebase that would become Inkscape began life in 1999 as the program "
+"Gill, the GNOME Illustrator application, created by Raph Levien.  The stated "
+"objective for Gill was to eventually support all of SVG.  Raph implemented "
+"the PostScript bezier imaging model, including stroking and filling, line "
+"cap style, line join style, text, etc.  Raph's Gill page is at http://www."
+"levien.com/svg/.  Work on Gill appears to have slowed or ceased in 2000."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:536
+msgid ""
+"The next incarnation of the codebase was to become the highly popular "
+"program Sodipodi, led by Lauris Kaplinski.  The codebase was turned into a "
+"powerful illustration program over the course of several year's work, adding "
+"several new features, multi-lingual support, porting to Windows and other "
+"operating systems, and eliminating dependencies."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:542
+msgid ""
+"Inkscape was formed in 2003 by four active Sodipodi developers, Bryce "
+"Harrington, MenTaLguY, Nathan Hurst, and Ted Gould, wanting to take a "
+"different direction with the codebase in terms of focus on SVG compliance, "
+"interface look-and-feel, and a desire to open development opportunities to "
+"more participants.  The project progressed rapidly, gaining a number of very "
+"active contributors and features."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:549
+msgid ""
+"Much work in the early days of the project focused on code stabilization and "
+"internationalization.  The original renderer inherited from Sodipodi was "
+"laced with a number of mathematical corner cases which led to unexpected "
+"crashes when the program was pushed beyond routine uses; this renderer was "
+"replaced with Livarot which, while not perfect either, was significantly "
+"less error prone.  The project also adopted a practice of committing code "
+"frequently, and encouraging users to run developmental snapshots of the "
+"program; this helped identify new bugs swiftly, and ensure it was easy for "
+"users to verify the fixes.  As a result, Inkscape releases have generally "
+"earned a reputation for being robust and reliable."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:561
+msgid ""
+"Similarly, efforts were taken to internationalize and localize the "
+"interface, which has helped the program gain contributors worldwide."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:564
+msgid ""
+"Inkscape has had a beneficial impact on the visual attractiveness of Open "
+"Source in general, by providing a tool for creating and sharing icons, "
+"splash screens, website art, and so on.  In a way, despite being \"just an "
+"drawing program\", Inkscape has played an important role in making Open "
+"Source more visually stimulating to larger audiences."
+msgstr ""
+
+#. type: =head1
+#: inkscape.pod:570
+msgid "COPYRIGHT AND LICENSE"
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:572
+msgid "B<Copyright (C)> 1999-2010 by Authors."
+msgstr ""
+
+#. type: textblock
+#: inkscape.pod:574
+msgid ""
+"B<Inkscape> is free software; you can redistribute it and/or modify it under "
+"the terms of the GPL."
+msgstr ""
+
+#. type: =for
+#: inkscape.pod:578
+msgid "comment $Date$"
+msgstr ""
