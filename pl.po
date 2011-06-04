@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2011-04-21 17:11+0200\n"
-"PO-Revision-Date: 2011-06-04 20:41+0100\n"
+"PO-Revision-Date: 2011-06-04 21:11+0100\n"
 "Last-Translator: Marcin Floryan <mfloryan@mm.waw.pl>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: \n"
@@ -79,7 +79,6 @@ msgid "Semiperimeter (px): "
 msgstr "Pół obwód (px):"
 
 #: ../share/extensions/draw_from_triangle.py:182
-#, fuzzy
 msgid "Area (px^2): "
 msgstr "Powierzchnia (px^2): "
 
@@ -2544,7 +2543,6 @@ msgstr "Tworzy trójtonową paletę kolorów z przepływem barw"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:4
-#, fuzzy
 msgctxt "Palette"
 msgid "Black"
 msgstr "Czarny"
@@ -2635,7 +2633,6 @@ msgstr "Odcienie szarości"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:55
-#, fuzzy
 msgctxt "Palette"
 msgid "White"
 msgstr "Biały"
@@ -2650,25 +2647,25 @@ msgstr ""
 #: ../share/palettes/palettes.h:61
 msgctxt "Palette"
 msgid "Red (#FF0000)"
-msgstr ""
+msgstr "czerwony (#FF0000)"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:64
 msgctxt "Palette"
 msgid "Olive (#808000)"
-msgstr ""
+msgstr "oliwkowy (#808000)"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:67
 msgctxt "Palette"
 msgid "Yellow (#FFFF00)"
-msgstr ""
+msgstr "żółty (#FFFF00)"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:70
 msgctxt "Palette"
 msgid "Green (#008000)"
-msgstr ""
+msgstr "zielony (#008000)"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:73
@@ -2698,7 +2695,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:85
 msgctxt "Palette"
 msgid "Blue (#0000FF)"
-msgstr ""
+msgstr "niebieski (#0000FF)"
 
 #. Palette: ./inkscape.gpl
 #: ../share/palettes/palettes.h:88
@@ -2716,7 +2713,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:94
 msgctxt "Palette"
 msgid "black (#000000)"
-msgstr ""
+msgstr "czarny (#000000)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:97
@@ -2728,7 +2725,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:100
 msgctxt "Palette"
 msgid "gray (#808080)"
-msgstr ""
+msgstr "szary (#808080)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:103
@@ -2740,7 +2737,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:106
 msgctxt "Palette"
 msgid "silver (#C0C0C0)"
-msgstr ""
+msgstr "srebrny (#C0C0C0)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:109
@@ -2764,7 +2761,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:118
 msgctxt "Palette"
 msgid "white (#FFFFFF)"
-msgstr ""
+msgstr "biały (#FFFFFF)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:121
@@ -2782,7 +2779,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:127
 msgctxt "Palette"
 msgid "brown (#A52A2A)"
-msgstr ""
+msgstr "brązowy (#A52A2A)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:130
@@ -2812,7 +2809,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:142
 msgctxt "Palette"
 msgid "red (#FF0000)"
-msgstr ""
+msgstr "czerwony (#FF0000)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:145
@@ -3058,7 +3055,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:265
 msgctxt "Palette"
 msgid "yellow (#FFFF00)"
-msgstr ""
+msgstr "żółty (#FFFF00)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:268
@@ -3677,45 +3674,39 @@ msgstr "Tryb skalowania"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:571
-#, fuzzy
 msgctxt "Palette"
 msgid "Aluminium 1"
-msgstr "Aluminium"
+msgstr "Aluminium 1"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:574
-#, fuzzy
 msgctxt "Palette"
 msgid "Aluminium 2"
-msgstr "Aluminium"
+msgstr "Aluminium 2"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:577
-#, fuzzy
 msgctxt "Palette"
 msgid "Aluminium 3"
-msgstr "Aluminium"
+msgstr "Aluminium 3"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:580
-#, fuzzy
 msgctxt "Palette"
 msgid "Aluminium 4"
-msgstr "Aluminium"
+msgstr "Aluminium 4"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:583
-#, fuzzy
 msgctxt "Palette"
 msgid "Aluminium 5"
-msgstr "Aluminium"
+msgstr "Aluminium 5"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:586
-#, fuzzy
 msgctxt "Palette"
 msgid "Aluminium 6"
-msgstr "Aluminium"
+msgstr "Aluminium 6"
 
 #: ../share/patterns/patterns.svg.h:2
 msgid "Stripes 1:1"
@@ -4496,9 +4487,8 @@ msgid "Alternate the sign of blur change for each column"
 msgstr "Rozmycie będzie realizowane w co drugiej kolumnie"
 
 #: ../src/dialogs/clonetiler.cpp:2352
-#, fuzzy
 msgid "<b>Opacity:</b>"
-msgstr "Krycie:"
+msgstr "<b>Krycie:</b>"
 
 #: ../src/dialogs/clonetiler.cpp:2359
 msgid "Decrease tile opacity by this percentage for each row"
@@ -5119,7 +5109,6 @@ msgstr "Szukaj sklonowanych obiektów"
 
 #. TRANSLATORS: "Clones" is a noun indicating type of object to find
 #: ../src/dialogs/find.cpp:622 ../src/ui/dialog/find.cpp:82
-#, fuzzy
 msgctxt "Find dialog"
 msgid "Clones"
 msgstr "Klony"
@@ -5143,7 +5132,6 @@ msgid "Offsets"
 msgstr "Odsunięcia"
 
 #: ../src/dialogs/find.cpp:697 ../src/ui/dialog/find.cpp:62
-#, fuzzy
 msgid "_Text:"
 msgstr "_Tekst: "
 
@@ -5156,7 +5144,6 @@ msgstr "Znajdź obiekty zawierające tekst (w pełni lub częściowo pasujące)"
 #: ../src/dialogs/item-properties.cpp:337
 #: ../src/dialogs/item-properties.cpp:446
 #: ../src/dialogs/item-properties.cpp:453 ../src/ui/dialog/find.cpp:63
-#, fuzzy
 msgid "_ID:"
 msgstr "_ID: "
 
@@ -5167,7 +5154,6 @@ msgstr ""
 "pasujące) "
 
 #: ../src/dialogs/find.cpp:699 ../src/ui/dialog/find.cpp:64
-#, fuzzy
 msgid "_Style:"
 msgstr "St_yl: "
 
@@ -5179,7 +5165,6 @@ msgstr ""
 "pasujące)"
 
 #: ../src/dialogs/find.cpp:700 ../src/ui/dialog/find.cpp:65
-#, fuzzy
 msgid "_Attribute:"
 msgstr "_Atrybut: "
 
@@ -5254,9 +5239,8 @@ msgstr "_Ustaw"
 
 #. Create the label for the object label
 #: ../src/dialogs/item-properties.cpp:155
-#, fuzzy
 msgid "_Label:"
-msgstr "_Etykieta"
+msgstr "_Etykieta:"
 
 #: ../src/dialogs/item-properties.cpp:164
 msgid "A freeform label for the object"
@@ -5264,9 +5248,8 @@ msgstr "Dowolna etykieta tekstowa obiektu"
 
 #. Create the label for the object title
 #: ../src/dialogs/item-properties.cpp:176
-#, fuzzy
 msgid "_Title:"
-msgstr "_Tytuł"
+msgstr "_Tytuł:"
 
 #. Create the frame for the object description
 #: ../src/dialogs/item-properties.cpp:194
@@ -6422,9 +6405,8 @@ msgstr "Promień:"
 #: ../src/extension/internal/bitmap/gaussianBlur.cpp:40
 #: ../src/extension/internal/bitmap/sharpen.cpp:40
 #: ../src/extension/internal/bitmap/unsharpmask.cpp:43
-#, fuzzy
 msgid "Sigma:"
-msgstr "Sigma"
+msgstr "Sigma:"
 
 #: ../src/extension/internal/bitmap/blur.cpp:46
 msgid "Blur selected bitmap(s)"
@@ -6435,9 +6417,8 @@ msgid "Channel"
 msgstr "Kanał"
 
 #: ../src/extension/internal/bitmap/channel.cpp:49
-#, fuzzy
 msgid "Layer:"
-msgstr "Warstwa"
+msgstr "Warstwa:"
 
 #: ../src/extension/internal/bitmap/channel.cpp:50
 #: ../src/extension/internal/bitmap/levelChannel.cpp:54
@@ -7003,9 +6984,8 @@ msgid "Restrict to PDF version:"
 msgstr "Określ wersję PDF"
 
 #: ../src/extension/internal/cairo-renderer-pdf-out.cpp:244
-#, fuzzy
 msgid "PDF 1.5"
-msgstr "PDF 1.4"
+msgstr "PDF 1.5"
 
 #: ../src/extension/internal/cairo-renderer-pdf-out.cpp:246
 msgid "PDF 1.4"
@@ -7453,14 +7433,12 @@ msgid "Alpha only"
 msgstr "Krycie"
 
 #: ../src/extension/internal/filter/color.h:251
-#, fuzzy
 msgid "Color 1"
-msgstr "Kolor"
+msgstr "Kolor 1"
 
 #: ../src/extension/internal/filter/color.h:254
-#, fuzzy
 msgid "Color 2"
-msgstr "Kolor"
+msgstr "Kolor 2"
 
 #: ../src/extension/internal/filter/color.h:264
 #, fuzzy
@@ -29479,19 +29457,16 @@ msgid "Calendar"
 msgstr "Kalendarz"
 
 #: ../share/extensions/svgcalendar.inx.h:3
-#, fuzzy
 msgid "Char Encoding:"
-msgstr "Kodowanie znaków"
+msgstr "Kodowanie znaków:"
 
 #: ../share/extensions/svgcalendar.inx.h:6
-#, fuzzy
 msgid "Day color:"
-msgstr "Kolor dnia"
+msgstr "Kolor dnia:"
 
 #: ../share/extensions/svgcalendar.inx.h:7
-#, fuzzy
 msgid "Day names:"
-msgstr "Nazwy dni tygodnia"
+msgstr "Nazwy dni tygodnia:"
 
 #: ../share/extensions/svgcalendar.inx.h:8
 msgid "Fill empty day boxes with next month's days"
@@ -29514,39 +29489,32 @@ msgid "Monday"
 msgstr "poniedziałek"
 
 #: ../share/extensions/svgcalendar.inx.h:13
-#, fuzzy
 msgid "Month (0 for all):"
-msgstr "Miesiąc (0 – wszystkie)"
+msgstr "Miesiąc (0 – wszystkie):"
 
 #: ../share/extensions/svgcalendar.inx.h:14
-#, fuzzy
 msgid "Month Margin:"
-msgstr "Margines miesiąca"
+msgstr "Margines miesiąca:"
 
 #: ../share/extensions/svgcalendar.inx.h:15
-#, fuzzy
 msgid "Month Width:"
-msgstr "Szerokość miesiąca"
+msgstr "Szerokość miesiąca:"
 
 #: ../share/extensions/svgcalendar.inx.h:16
-#, fuzzy
 msgid "Month color:"
-msgstr "Kolor miesiąca"
+msgstr "Kolor miesiąca:"
 
 #: ../share/extensions/svgcalendar.inx.h:17
-#, fuzzy
 msgid "Month names:"
-msgstr "Nazwy miesięcy"
+msgstr "Nazwy miesięcy:"
 
 #: ../share/extensions/svgcalendar.inx.h:18
-#, fuzzy
 msgid "Months per line:"
-msgstr "Miesiące/wiersz"
+msgstr "Miesięcy w wierszu:"
 
 #: ../share/extensions/svgcalendar.inx.h:19
-#, fuzzy
 msgid "Next month day color:"
-msgstr "Kolor dni następnego miesiąca"
+msgstr "Kolor dni następnego miesiąca:"
 
 #: ../share/extensions/svgcalendar.inx.h:21
 msgid "Saturday"
@@ -29589,28 +29557,24 @@ msgid "Week start day"
 msgstr "Początek tygodnia"
 
 #: ../share/extensions/svgcalendar.inx.h:29
-#, fuzzy
 msgid "Weekday name color:"
-msgstr "Kolor nazwy dni tygodnia"
+msgstr "Kolor nazw dni tygodnia:"
 
 #: ../share/extensions/svgcalendar.inx.h:30
-#, fuzzy
 msgid "Weekend day color:"
-msgstr "Kolor dni weekendowych"
+msgstr "Kolor dni weekendu:"
 
 #: ../share/extensions/svgcalendar.inx.h:31
-#, fuzzy
 msgid "Weekend:"
-msgstr "Weekend"
+msgstr "Weekend:"
 
 #: ../share/extensions/svgcalendar.inx.h:32
 msgid "Year (4 digits):"
-msgstr ""
+msgstr "Rok (4 cyfry):"
 
 #: ../share/extensions/svgcalendar.inx.h:33
-#, fuzzy
 msgid "Year color:"
-msgstr "Kolor roku"
+msgstr "Kolor roku:"
 
 #: ../share/extensions/svgcalendar.inx.h:34
 msgid "You may change the names for other languages:"
@@ -30115,9 +30079,8 @@ msgid "When to transmit:"
 msgstr "Prześlij"
 
 #: ../share/extensions/whirl.inx.h:1
-#, fuzzy
 msgid "Amount of whirl:"
-msgstr "Stopień skręcenia"
+msgstr "Stopień skręcenia:"
 
 #: ../share/extensions/whirl.inx.h:3
 msgid "Rotation is clockwise"
@@ -30132,19 +30095,16 @@ msgid "Hide lines behind the sphere"
 msgstr "Ukryj linie za kulą"
 
 #: ../share/extensions/wireframe_sphere.inx.h:2
-#, fuzzy
 msgid "Lines of latitude:"
-msgstr "Linie równoleżników"
+msgstr "Linii równoleżników:"
 
 #: ../share/extensions/wireframe_sphere.inx.h:3
-#, fuzzy
 msgid "Lines of longitude:"
-msgstr "Linie podłudników"
+msgstr "Linii południków:"
 
 #: ../share/extensions/wireframe_sphere.inx.h:7
-#, fuzzy
 msgid "Tilt (deg):"
-msgstr "Nachylenie (°)"
+msgstr "Nachylenie (°):"
 
 #: ../share/extensions/wireframe_sphere.inx.h:8
 msgid "Wireframe Sphere"
@@ -30168,4 +30128,3 @@ msgstr "Źródło Metaplik Windows"
 #: ../share/extensions/xaml2svg.inx.h:3
 msgid "XAML Input"
 msgstr "Źródło XAML"
-
