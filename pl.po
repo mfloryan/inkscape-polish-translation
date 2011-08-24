@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2011-08-23 19:46+0200\n"
-"PO-Revision-Date: 2011-08-24 15:48+0100\n"
+"PO-Revision-Date: 2011-08-24 16:45+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: \n"
@@ -4663,7 +4663,7 @@ msgstr "Wiersze, kolumny:"
 
 #: ../src/dialogs/clonetiler.cpp:2789
 msgid "Create the specified number of rows and columns"
-msgstr "Tworzy określoną liczbę wierszy i kolumn"
+msgstr ""
 
 #: ../src/dialogs/clonetiler.cpp:2798
 msgid "Width, height: "
@@ -8096,32 +8096,28 @@ msgid "Null external module directory name.  Filters will not be loaded."
 msgstr "Pusta nazwa katalogu modułów zewnętrznych. Filtry nie zostaną wczytane"
 
 #: ../src/extension/internal/filter/image.h:49
-#, fuzzy
 msgid "Edge Detect"
-msgstr "Wykrywanie obrzeży"
+msgstr "Wykrywanie krawędzi"
 
 #: ../src/extension/internal/filter/image.h:51
 msgid "Detect:"
-msgstr ""
+msgstr "Krawędzie"
 
 #: ../src/extension/internal/filter/image.h:52
-#, fuzzy
 msgid "All"
 msgstr "wszystkie"
 
 #: ../src/extension/internal/filter/image.h:53
-#, fuzzy
 msgid "Vertical lines"
-msgstr "Promień pionowy"
+msgstr "Pionowe"
 
 #: ../src/extension/internal/filter/image.h:54
-#, fuzzy
 msgid "Horizontal lines"
-msgstr "Promień poziomy"
+msgstr "Poziome"
 
 #: ../src/extension/internal/filter/image.h:57
 msgid "Invert colors"
-msgstr "Odwraca kolory obiektu"
+msgstr "Negatyw"
 
 #: ../src/extension/internal/filter/image.h:62
 #, fuzzy
@@ -8177,19 +8173,16 @@ msgid "Position:"
 msgstr "Lokalizacja:"
 
 #: ../src/extension/internal/filter/morphology.h:153
-#, fuzzy
 msgid "Inside"
-msgstr "Gorące wnętrze"
+msgstr "wewnątrz"
 
 #: ../src/extension/internal/filter/morphology.h:154
-#, fuzzy
 msgid "Outside"
-msgstr "Zimne otoczenie"
+msgstr "na zewnątrz"
 
 #: ../src/extension/internal/filter/morphology.h:155
-#, fuzzy
 msgid "Overlayed"
-msgstr "Powłoki"
+msgstr "nałożone"
 
 #: ../src/extension/internal/filter/morphology.h:157
 #, fuzzy
@@ -8266,37 +8259,31 @@ msgid "Drawing mode"
 msgstr "Tryb rysowania"
 
 #: ../src/extension/internal/filter/paint.h:76
-#, fuzzy
 msgid "Drawing blend:"
-msgstr "Rysowanie anulowane"
+msgstr ""
 
 #: ../src/extension/internal/filter/paint.h:84
-#, fuzzy
 msgid "Dented"
-msgstr "środek"
+msgstr ""
 
 #: ../src/extension/internal/filter/paint.h:88
 #: ../src/extension/internal/filter/paint.h:709
-#, fuzzy
 msgid "Noise reduction:"
-msgstr "Kierunek"
+msgstr ""
 
 #: ../src/extension/internal/filter/paint.h:92
-#, fuzzy
 msgid "Grain mode"
-msgstr "Tryb rysowania"
+msgstr ""
 
 #: ../src/extension/internal/filter/paint.h:97
 #: ../src/extension/internal/filter/transparency.h:207
 #: ../src/extension/internal/filter/transparency.h:281
-#, fuzzy
 msgid "Expansion:"
-msgstr "Rozszerzenie „"
+msgstr ""
 
 #: ../src/extension/internal/filter/paint.h:100
-#, fuzzy
 msgid "Grain blend:"
-msgstr "Gradient"
+msgstr ""
 
 #: ../src/extension/internal/filter/paint.h:116
 msgid "Chromo effect with customizable edge drawing and graininess"
@@ -9407,25 +9394,21 @@ msgid "Lightness"
 msgstr "Jasność"
 
 #: ../src/flood-context.cpp:258
-#, fuzzy
 msgctxt "Flood autogap"
 msgid "None"
 msgstr "Brak"
 
 #: ../src/flood-context.cpp:259
-#, fuzzy
 msgctxt "Flood autogap"
 msgid "Small"
 msgstr "Małe"
 
 #: ../src/flood-context.cpp:260
-#, fuzzy
 msgctxt "Flood autogap"
 msgid "Medium"
 msgstr "Średnie"
 
 #: ../src/flood-context.cpp:261
-#, fuzzy
 msgctxt "Flood autogap"
 msgid "Large"
 msgstr "Duże"
@@ -15709,7 +15692,7 @@ msgstr "K4:"
 
 #: ../src/ui/dialog/filter-effects-dialog.cpp:2216
 msgid "Size:"
-msgstr "Rozmiar"
+msgstr "Rozmiar:"
 
 #: ../src/ui/dialog/filter-effects-dialog.cpp:2216
 msgid "width of the convolve matrix"
@@ -19768,18 +19751,16 @@ msgid "Vertical spacing between rows."
 msgstr "Odstępy pionowe między rzędami (w px)"
 
 #: ../src/ui/dialog/tile.cpp:662
-#, fuzzy
 msgid "_Rows:"
-msgstr "Wiersze:"
+msgstr "_Wiersze:"
 
 #: ../src/ui/dialog/tile.cpp:671
 msgid "Number of rows"
 msgstr "Liczba wierszy"
 
 #: ../src/ui/dialog/tile.cpp:675
-#, fuzzy
 msgid "Equal _height"
-msgstr "Jednakowa wysokość"
+msgstr "Jednakowa _wysokość"
 
 #: ../src/ui/dialog/tile.cpp:686
 msgid "If not set, each row has the height of the tallest object in it"
@@ -19795,18 +19776,16 @@ msgstr "Wyrównanie:"
 
 #. #### Number of columns ####
 #: ../src/ui/dialog/tile.cpp:734
-#, fuzzy
 msgid "_Columns:"
-msgstr "Kolumny:"
+msgstr "_Kolumny:"
 
 #: ../src/ui/dialog/tile.cpp:743
 msgid "Number of columns"
 msgstr "Liczba kolumn"
 
 #: ../src/ui/dialog/tile.cpp:747
-#, fuzzy
 msgid "Equal _width"
-msgstr "Jednakowa szerokość"
+msgstr "Jednakowa _szerokość"
 
 #: ../src/ui/dialog/tile.cpp:757
 msgid "If not set, each column has the width of the widest object in it"
@@ -19821,9 +19800,8 @@ msgid "_Fit into selection box"
 msgstr "Dopasuj do ramki zaznaczenia"
 
 #: ../src/ui/dialog/tile.cpp:810
-#, fuzzy
 msgid "_Set spacing:"
-msgstr "Ustawienia odstępów:"
+msgstr "Odstępy:"
 
 #. ## The OK button
 #: ../src/ui/dialog/tile.cpp:854
@@ -20146,9 +20124,8 @@ msgid "Vertical size (absolute or percentage of current)"
 msgstr "Pionowy przyrost rozmiaru (bezwzględny lub procentowy aktualnego)"
 
 #: ../src/ui/dialog/transformation.cpp:92
-#, fuzzy
 msgid "A_ngle:"
-msgstr "_Kąt"
+msgstr "_Kąt:"
 
 #: ../src/ui/dialog/transformation.cpp:92
 msgid "Rotation angle (positive = counterclockwise)"
@@ -20207,7 +20184,6 @@ msgstr ""
 "bezpośrednio edytuj bezwzględną pozycję"
 
 #: ../src/ui/dialog/transformation.cpp:107
-#, fuzzy
 msgid "_Scale proportionally"
 msgstr "S_kaluj proporcjonalne"
 
@@ -20333,9 +20309,8 @@ msgid "Add nodes"
 msgstr "Dodaj węzły"
 
 #: ../src/ui/tool/multi-path-manipulator.cpp:340
-#, fuzzy
 msgid "Duplicate nodes"
-msgstr "Powiel węzeł"
+msgstr "Powiel węzły"
 
 #: ../src/ui/tool/multi-path-manipulator.cpp:402
 #: ../src/widgets/toolbox.cpp:1392
@@ -20386,14 +20361,12 @@ msgid "Scale nodes vertically"
 msgstr "Skaluj węzły w pionie"
 
 #: ../src/ui/tool/multi-path-manipulator.cpp:770
-#, fuzzy
 msgid "Skew nodes horizontally"
-msgstr "Skaluj węzły w poziomie"
+msgstr ""
 
 #: ../src/ui/tool/multi-path-manipulator.cpp:774
-#, fuzzy
 msgid "Skew nodes vertically"
-msgstr "Skaluj węzły w pionie"
+msgstr ""
 
 #: ../src/ui/tool/multi-path-manipulator.cpp:778
 msgid "Flip nodes horizontally"
@@ -20771,9 +20744,8 @@ msgid "<b>Rotation center</b>: drag to change the origin of transforms"
 msgstr "<b>Środek obrotu</b>: ciągnij, by zmienić źródło transformacji"
 
 #: ../src/ui/widget/filter-effect-chooser.cpp:26
-#, fuzzy
 msgid "_Blur:"
-msgstr "_Rozmycie"
+msgstr "_Rozmycie:"
 
 #: ../src/ui/widget/layer-selector.cpp:115
 msgid "Toggle current layer visibility"
@@ -20800,9 +20772,8 @@ msgid "MetadataLicence|Other"
 msgstr "Inna"
 
 #: ../src/ui/widget/object-composite-settings.cpp:63
-#, fuzzy
 msgid "_Opacity (%):"
-msgstr "Krycie, %"
+msgstr "_Krycie (%):"
 
 #: ../src/ui/widget/object-composite-settings.cpp:174
 msgid "Change blur"
@@ -20904,88 +20875,74 @@ msgid "List"
 msgstr "Lista"
 
 #: ../src/ui/widget/panel.cpp:134
-#, fuzzy
 msgctxt "Swatches"
 msgid "Size"
 msgstr "Rozmiar"
 
 #: ../src/ui/widget/panel.cpp:138
-#, fuzzy
 msgctxt "Swatches height"
 msgid "Tiny"
-msgstr "Bardzo niskie"
+msgstr "Bardzo małe"
 
 #: ../src/ui/widget/panel.cpp:139
-#, fuzzy
 msgctxt "Swatches height"
 msgid "Small"
 msgstr "Małe"
 
 #: ../src/ui/widget/panel.cpp:140
-#, fuzzy
 msgctxt "Swatches height"
 msgid "Medium"
 msgstr "Średnie"
 
 #: ../src/ui/widget/panel.cpp:141
-#, fuzzy
 msgctxt "Swatches height"
 msgid "Large"
 msgstr "Duże"
 
 #: ../src/ui/widget/panel.cpp:142
-#, fuzzy
 msgctxt "Swatches height"
 msgid "Huge"
-msgstr "Barwa"
+msgstr "Bardzo duże"
 
 #: ../src/ui/widget/panel.cpp:164
-#, fuzzy
 msgctxt "Swatches"
 msgid "Width"
 msgstr "Szerokość"
 
 #: ../src/ui/widget/panel.cpp:168
-#, fuzzy
 msgctxt "Swatches width"
 msgid "Narrower"
 msgstr "Bardzo wąskie"
 
 #: ../src/ui/widget/panel.cpp:169
-#, fuzzy
 msgctxt "Swatches width"
 msgid "Narrow"
 msgstr "Wąskie"
 
 #: ../src/ui/widget/panel.cpp:170
-#, fuzzy
 msgctxt "Swatches width"
 msgid "Medium"
 msgstr "Średnie"
 
 #: ../src/ui/widget/panel.cpp:171
-#, fuzzy
 msgctxt "Swatches width"
 msgid "Wide"
-msgstr "Szeroki"
+msgstr "Szerokie"
 
 #: ../src/ui/widget/panel.cpp:172
-#, fuzzy
 msgctxt "Swatches width"
 msgid "Wider"
-msgstr "Szeroki"
+msgstr "Bardzo szerokie"
 
 #. TRANSLATORS: "Wrap" indicates how colour swatches are displayed
 #: ../src/ui/widget/panel.cpp:203
-#, fuzzy
 msgctxt "Swatches"
 msgid "Wrap"
-msgstr "Zawijaj"
+msgstr "Wrap"
 
 #: ../src/ui/widget/preferences-widget.cpp:769
-#, fuzzy
 msgid "Select a bitmap editor"
-msgstr "Edytor bitmap:"
+msgstr ""
 
 #: ../src/ui/widget/random.cpp:125
 msgid ""
@@ -21285,9 +21242,8 @@ msgstr "; kliknij, aby zmienić"
 
 #: ../src/ui/widget/selected-style.cpp:1034
 #: ../src/ui/widget/selected-style.cpp:1035
-#, fuzzy
 msgid "Opacity (%)"
-msgstr "Krycie, %"
+msgstr "Krycie (%)"
 
 #: ../src/ui/widget/selected-style.cpp:1069
 #, c-format
@@ -22285,7 +22241,6 @@ msgid "Break selected paths into subpaths"
 msgstr "Rozdziela zaznaczone ścieżki na poszczególne elementy"
 
 #: ../src/verbs.cpp:2433
-#, fuzzy
 msgid "Ro_ws and Columns..."
 msgstr "Wie_rsze i kolumny…"
 
@@ -26279,11 +26234,11 @@ msgstr ""
 
 #: ../src/widgets/toolbox.cpp:8576
 msgid "Close gaps"
-msgstr "Zamykanie przerw"
+msgstr "Domykanie przerw"
 
 #: ../src/widgets/toolbox.cpp:8577
 msgid "Close gaps:"
-msgstr "Zamknij przerwy:"
+msgstr "Domykanie przerw:"
 
 #: ../src/widgets/toolbox.cpp:8589
 msgid ""
@@ -27302,7 +27257,7 @@ msgstr "Kąt (stopnie)"
 
 #: ../share/extensions/gcodetools_about.inx.h:1
 msgid "About"
-msgstr ""
+msgstr "Informacje"
 
 #: ../share/extensions/gcodetools_about.inx.h:2
 #: ../share/extensions/gcodetools_area.inx.h:24
@@ -27316,7 +27271,7 @@ msgstr ""
 #: ../share/extensions/gcodetools_prepare_path_for_plasma.inx.h:4
 #: ../share/extensions/gcodetools_tools_library.inx.h:1
 msgid "Gcodetools"
-msgstr ""
+msgstr "Narzędzia G code"
 
 #: ../share/extensions/gcodetools_about.inx.h:3
 #: ../share/extensions/gcodetools_area.inx.h:25
@@ -27447,9 +27402,8 @@ msgstr ""
 #: ../share/extensions/gcodetools_area.inx.h:16
 #: ../share/extensions/gcodetools_lathe.inx.h:8
 #: ../share/extensions/gcodetools_path_to_gcode.inx.h:7
-#, fuzzy
 msgid "Depth function:"
-msgstr "Funkcja składowej r (czerwony)"
+msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:17
 #: ../share/extensions/gcodetools_dxf_points.inx.h:6
@@ -27457,9 +27411,8 @@ msgstr "Funkcja składowej r (czerwony)"
 #: ../share/extensions/gcodetools_graffiti.inx.h:8
 #: ../share/extensions/gcodetools_lathe.inx.h:9
 #: ../share/extensions/gcodetools_path_to_gcode.inx.h:8
-#, fuzzy
 msgid "Directory:"
-msgstr "Kierunek"
+msgstr "Katalog:"
 
 #: ../share/extensions/gcodetools_area.inx.h:18
 #: ../share/extensions/gcodetools_dxf_points.inx.h:7
@@ -27476,19 +27429,16 @@ msgstr ""
 #: ../share/extensions/gcodetools_graffiti.inx.h:10
 #: ../share/extensions/gcodetools_lathe.inx.h:11
 #: ../share/extensions/gcodetools_path_to_gcode.inx.h:10
-#, fuzzy
 msgid "File:"
-msgstr "_Plik"
+msgstr "Plik:"
 
 #: ../share/extensions/gcodetools_area.inx.h:20
-#, fuzzy
 msgid "Fill area"
-msgstr "Wypełnij obszar zamknięty"
+msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:21
-#, fuzzy
 msgid "Filling method"
-msgstr "Metoda podziału"
+msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:22
 #: ../share/extensions/gcodetools_dxf_points.inx.h:9
@@ -27505,9 +27455,8 @@ msgstr ""
 #: ../share/extensions/gcodetools_graffiti.inx.h:12
 #: ../share/extensions/gcodetools_lathe.inx.h:15
 #: ../share/extensions/gcodetools_path_to_gcode.inx.h:12
-#, fuzzy
 msgid "Full path to log file:"
-msgstr "Jednolity kolor wypełnienia"
+msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:26
 #: ../share/extensions/gcodetools_dxf_points.inx.h:13
@@ -27515,9 +27464,8 @@ msgstr "Jednolity kolor wypełnienia"
 #: ../share/extensions/gcodetools_graffiti.inx.h:15
 #: ../share/extensions/gcodetools_lathe.inx.h:18
 #: ../share/extensions/gcodetools_path_to_gcode.inx.h:15
-#, fuzzy
 msgid "Generate log file"
-msgstr "Wygeneruj ze ścieżki"
+msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:27
 #: ../share/extensions/gcodetools_engraving.inx.h:15
@@ -27581,9 +27529,8 @@ msgstr "Wklej ścieżkę"
 #: ../share/extensions/gcodetools_area.inx.h:38
 #: ../share/extensions/gcodetools_lathe.inx.h:36
 #: ../share/extensions/gcodetools_path_to_gcode.inx.h:26
-#, fuzzy
 msgid "Path to Gcode"
-msgstr "Ścieżka jest zamknięta"
+msgstr "Ścieżka na G code"
 
 #: ../share/extensions/gcodetools_area.inx.h:39
 #: ../share/extensions/gcodetools_dxf_points.inx.h:17
@@ -27673,9 +27620,8 @@ msgid "Zig zag"
 msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:51
-#, fuzzy
 msgid "delete"
-msgstr "Usuń"
+msgstr ""
 
 #: ../share/extensions/gcodetools_area.inx.h:53
 msgid "mark with an arrow"
@@ -27876,19 +27822,16 @@ msgid "Lathe Z axis remap:"
 msgstr ""
 
 #: ../share/extensions/gcodetools_lathe.inx.h:24
-#, fuzzy
 msgid "Lathe modify path"
-msgstr "Modyfikuj ścieżkę"
+msgstr ""
 
 #: ../share/extensions/gcodetools_lathe.inx.h:25
-#, fuzzy
 msgid "Lathe width:"
-msgstr "Określ szerokość:"
+msgstr ""
 
 #: ../share/extensions/gcodetools_lathe.inx.h:28
-#, fuzzy
 msgid "Move path"
-msgstr "Przesuń desenie"
+msgstr ""
 
 #: ../share/extensions/gcodetools_lathe.inx.h:44
 msgid ""
@@ -27898,7 +27841,7 @@ msgstr ""
 
 #: ../share/extensions/gcodetools_prepare_path_for_plasma.inx.h:1
 msgid "-------------------------------------------------"
-msgstr ""
+msgstr "-------------------------------------------------"
 
 #: ../share/extensions/gcodetools_prepare_path_for_plasma.inx.h:2
 #, fuzzy
@@ -28418,19 +28361,16 @@ msgid "Vertical guide each:"
 msgstr "Każda prowadnica pionowa"
 
 #: ../share/extensions/guillotine.inx.h:1
-#, fuzzy
 msgid "Directory to save images to"
-msgstr "Ścieżka do zapisania obrazka:"
+msgstr "Katalog, w którym zapisane będą obrazki"
 
 #: ../share/extensions/guillotine.inx.h:2
-#, fuzzy
 msgid "Export"
-msgstr "_Eksportuj"
+msgstr "Eksportuj"
 
 #: ../share/extensions/guillotine.inx.h:3
-#, fuzzy
 msgid "Guillotine"
-msgstr "Prowadnica"
+msgstr "Szatkownica"
 
 #: ../share/extensions/guillotine.inx.h:4
 msgid "Ignore these settings and use export hints?"
@@ -28438,7 +28378,7 @@ msgstr ""
 
 #: ../share/extensions/guillotine.inx.h:5
 msgid "Image name (without extension)"
-msgstr ""
+msgstr "Nazwa obrazka (bez rozszerzenia)"
 
 #: ../share/extensions/handles.inx.h:1
 msgid "Draw Handles"
@@ -29186,9 +29126,8 @@ msgid "Axiom and rules"
 msgstr "Aksjomaty i reguły"
 
 #: ../share/extensions/lindenmayer.inx.h:22
-#, fuzzy
 msgid "Axiom:"
-msgstr "Aksjomat"
+msgstr "Aksjomat:"
 
 #: ../share/extensions/lindenmayer.inx.h:24
 msgid "L-system"
@@ -29295,14 +29234,12 @@ msgid "Stroke"
 msgstr "Kontury"
 
 #: ../share/extensions/markers_strokepaint.inx.h:12
-#, fuzzy
 msgid "filled"
-msgstr "filtr"
+msgstr ""
 
 #: ../share/extensions/markers_strokepaint.inx.h:13
-#, fuzzy
 msgid "solid"
-msgstr "Pomiń"
+msgstr ""
 
 #: ../share/extensions/measure.inx.h:1
 #, fuzzy
@@ -29365,10 +29302,9 @@ msgstr ""
 "nawet o 0.03%."
 
 #: ../share/extensions/measure.inx.h:20
-#, fuzzy
 msgctxt "measure extension"
 msgid "Area"
-msgstr "Obszar"
+msgstr "Area"
 
 #: ../share/extensions/motion.inx.h:3
 #, fuzzy
@@ -29643,9 +29579,8 @@ msgid "Specify Width"
 msgstr "Szerokość określona poniżej"
 
 #: ../share/extensions/perfectboundcover.inx.h:19
-#, fuzzy
 msgid "Value:"
-msgstr "Wartość"
+msgstr "Wartość:"
 
 #: ../share/extensions/perspective.inx.h:2
 msgid "Perspective"
@@ -29730,24 +29665,21 @@ msgid "Filename:"
 msgstr "Nazwa pliku:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:12
-#, fuzzy
 msgid "Fill color, Blue:"
-msgstr "Kolor wypełnienia – niebieski"
+msgstr "Kolor wypełnienia, niebieski:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:13
-#, fuzzy
 msgid "Fill color, Green:"
-msgstr "Kolor wypełnienia – zielony"
+msgstr "Kolor wypełnienia, zielony:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:14
-#, fuzzy
 msgid "Fill color, Red:"
-msgstr "Kolor wypełnienia – czerwony"
+msgstr "Kolor wypełnienia, czerwony"
 
 #: ../share/extensions/polyhedron_3d.inx.h:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Fill opacity (%):"
-msgstr "Krycie wypełnienia, w %"
+msgstr "Krycie wypełnienia, w %:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:17
 msgid "Great Dodecahedron"
@@ -29797,9 +29729,8 @@ msgid "Model file"
 msgstr "Opis bryły"
 
 #: ../share/extensions/polyhedron_3d.inx.h:28
-#, fuzzy
 msgid "Object Type:"
-msgstr "Rodzaj bryły"
+msgstr "Rodzaj bryły:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:29
 msgid "Object:"
@@ -29816,14 +29747,12 @@ msgstr "Obrót wokół osi:"
 #: ../share/extensions/polyhedron_3d.inx.h:33
 #: ../share/extensions/spirograph.inx.h:7
 #: ../share/extensions/wireframe_sphere.inx.h:6
-#, fuzzy
 msgid "Rotation (deg):"
-msgstr "Obrót (°)"
+msgstr "Obrót (°):"
 
 #: ../share/extensions/polyhedron_3d.inx.h:34
-#, fuzzy
 msgid "Scaling factor:"
-msgstr "Współczynnik skalowania"
+msgstr "Współczynnik skalowania:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:35
 msgid "Shading"
@@ -29842,14 +29771,13 @@ msgid "Snub Dodecahedron"
 msgstr "Dwunastościan przycięty"
 
 #: ../share/extensions/polyhedron_3d.inx.h:41
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Stroke opacity (%):"
-msgstr "Krycie konturu w %"
+msgstr "Krycie konturu w %:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:42
-#, fuzzy
 msgid "Stroke width (px):"
-msgstr "Szerokość konturu w px"
+msgstr "Szerokość konturu w px:"
 
 #: ../share/extensions/polyhedron_3d.inx.h:44
 msgid "Tetrahedron"
@@ -30033,12 +29961,11 @@ msgstr "Rodzaj kodu:"
 
 #: ../share/extensions/render_barcode.inx.h:5
 msgid "Classic"
-msgstr ""
+msgstr "Klasyczny"
 
 #: ../share/extensions/render_barcode_datamatrix.inx.h:2
-#, fuzzy
 msgid "Datamatrix"
-msgstr "Kod kreskowy – DataMatrix"
+msgstr "Matrycowy"
 
 #: ../share/extensions/render_barcode_datamatrix.inx.h:4
 #: ../share/extensions/render_barcode_qrcode.inx.h:15
@@ -30046,57 +29973,56 @@ msgid "Size, in unit squares:"
 msgstr ""
 
 #: ../share/extensions/render_barcode_datamatrix.inx.h:5
-#, fuzzy
 msgid "Square Size (px):"
-msgstr "Wymiar kwadratu (px)"
+msgstr "Rozmiar kwadratu w px:"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:1
-#, fuzzy
 msgid "Auto"
-msgstr "Na górze"
+msgstr "Automatyczny"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:3
 msgid "Error correction level:"
-msgstr ""
+msgstr "Poziom korekcji błędów:"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:5
 #, no-c-format
 msgid "H (Approx. 30%)"
-msgstr ""
+msgstr "H (około 30%)"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:7
 #, no-c-format
 msgid "L (Approx. 7%)"
-msgstr ""
+msgstr "L (około 7%)"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:9
 #, no-c-format
 msgid "M (Approx. 15%)"
-msgstr ""
+msgstr "M (około 15%)"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:11
 #, no-c-format
 msgid "Q (Approx. 25%)"
-msgstr ""
+msgstr "Q (około 25%)"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:12
 msgid "QR Code"
-msgstr ""
+msgstr "QR Code"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:14
 msgid "See http://www.denso-wave.com/qrcode/index-e.html for details"
-msgstr ""
+msgstr "Informacje dostępne pod http://www.denso-wave.com/qrcode/index-e.html"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:16
-#, fuzzy
 msgid "Square size (px):"
-msgstr "Wymiar kwadratu (px)"
+msgstr "Rozmiar kwadratu w px:"
 
 #: ../share/extensions/render_barcode_qrcode.inx.h:18
 msgid ""
 "With \"Auto\", the size of the barcode depends on the length of the text and "
 "the error correction level"
 msgstr ""
+"Przy ustawieniu \"Automatyczny\" wielkość wygenerowanego kodu zależy od "
+"długości tekstu oraz wybranego poziomu korekcji błędów"
 
 #: ../share/extensions/replace_font.inx.h:1
 msgid "And replace with: "
@@ -31277,4 +31203,3 @@ msgstr "Źródło Metaplik Windows"
 #: ../share/extensions/xaml2svg.inx.h:3
 msgid "XAML Input"
 msgstr "Źródło XAML"
-
