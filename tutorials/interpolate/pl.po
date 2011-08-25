@@ -5,69 +5,57 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Inkscape tutorials\n"
-"POT-Creation-Date: 2009-09-30 07:10+0200\n"
+"POT-Creation-Date: 2010-11-11 11:37+0100\n"
 "PO-Revision-Date: 2009-10-10 11:44+0100\n"
 "Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
 "Language-Team: Polish <inkscapeplteam@gmail.com>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Polish\n"
 "X-Poedit-Country: POLAND\n"
 
-#: interpolate-f20.svg:55(format)
-#: interpolate-f19.svg:52(format)
-#: interpolate-f18.svg:45(format)
-#: interpolate-f17.svg:45(format)
-#: interpolate-f16.svg:45(format)
-#: interpolate-f15.svg:45(format)
-#: interpolate-f14.svg:45(format)
-#: interpolate-f13.svg:45(format)
-#: interpolate-f12.svg:45(format)
-#: interpolate-f11.svg:52(format)
-#: interpolate-f10.svg:45(format)
-#: interpolate-f09.svg:45(format)
-#: interpolate-f08.svg:45(format)
-#: interpolate-f07.svg:45(format)
-#: interpolate-f05.svg:45(format)
-#: interpolate-f04.svg:47(format)
-#: interpolate-f03.svg:45(format)
-#: interpolate-f02.svg:47(format)
+#: interpolate-f20.svg:55(format) interpolate-f19.svg:52(format)
+#: interpolate-f18.svg:45(format) interpolate-f17.svg:45(format)
+#: interpolate-f16.svg:45(format) interpolate-f15.svg:45(format)
+#: interpolate-f14.svg:45(format) interpolate-f13.svg:45(format)
+#: interpolate-f12.svg:45(format) interpolate-f11.svg:52(format)
+#: interpolate-f10.svg:45(format) interpolate-f09.svg:45(format)
+#: interpolate-f08.svg:45(format) interpolate-f07.svg:45(format)
+#: interpolate-f05.svg:45(format) interpolate-f04.svg:47(format)
+#: interpolate-f03.svg:45(format) interpolate-f02.svg:47(format)
 #: interpolate-f01.svg:45(format)
 msgid "image/svg+xml"
 msgstr "obrazek/svg+xml"
 
-#: interpolate-f11.svg:113(flowPara)
-#: interpolate-f04.svg:108(flowPara)
+#: interpolate-f11.svg:113(flowPara) interpolate-f04.svg:108(flowPara)
 #: interpolate-f02.svg:117(flowPara)
 #, no-wrap
 msgid "Exponent: 0.0"
 msgstr "Wykładnik: 0.0"
 
-#: interpolate-f11.svg:114(flowPara)
-#: interpolate-f04.svg:109(flowPara)
+#: interpolate-f11.svg:114(flowPara) interpolate-f04.svg:109(flowPara)
 #: interpolate-f02.svg:118(flowPara)
 #, no-wrap
 msgid "Interpolation Steps: 6"
 msgstr "Kroki interpolacji: 6"
 
-#: interpolate-f11.svg:115(flowPara)
-#: interpolate-f04.svg:110(flowPara)
+#: interpolate-f11.svg:115(flowPara) interpolate-f04.svg:110(flowPara)
 #: interpolate-f02.svg:119(flowPara)
 #, no-wrap
 msgid "Interpolation Method: 2"
 msgstr "Metoda interpolacji: 2"
 
-#: interpolate-f11.svg:116(flowPara)
-#: interpolate-f04.svg:111(flowPara)
+#: interpolate-f11.svg:116(flowPara) interpolate-f04.svg:111(flowPara)
 #: interpolate-f02.svg:120(flowPara)
 #, no-wrap
 msgid "Duplicate Endpaths: unchecked"
 msgstr "Powiel ścieżki końcowe: niezaznaczone"
 
-#: interpolate-f11.svg:117(flowPara)
-#: interpolate-f04.svg:112(flowPara)
+#: interpolate-f11.svg:117(flowPara) interpolate-f04.svg:112(flowPara)
 #: interpolate-f02.svg:121(flowPara)
 #, no-wrap
 msgid "Interpolate Style: unchecked"
@@ -93,8 +81,7 @@ msgstr "@@image: 'interpolate-f03.svg'; md5=28c072ceeacdb2bdd7c2259ffbe599ad"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-interpolate.xml:60(None)
-#: tutorial-interpolate.xml:82(None)
+#: tutorial-interpolate.xml:60(None) tutorial-interpolate.xml:82(None)
 msgid "@@image: 'interpolate-f04.svg'; md5=395c8919488dfea2833e4d14784d0eca"
 msgstr "@@image: 'interpolate-f04.svg'; md5=395c8919488dfea2833e4d14784d0eca"
 
@@ -205,101 +192,215 @@ msgid "Introduction"
 msgstr "Wstęp"
 
 #: tutorial-interpolate.xml:15(para)
-msgid "Interpolate does a <firstterm>linear interpolation</firstterm> between two or more selected paths. It basically means that it “fills in the gaps” between the paths and transforms them according to the number of steps given."
-msgstr "Interpolacja jest <firstterm>liniowym wypełnieniem</firstterm> pomiędzy dwoma lub więcej zaznaczonymi ścieżkami. Oznacza to wypełnienie odstępu pomiędzy ścieżkami i przekształcanie go według liczby zadanych kroków."
+msgid ""
+"Interpolate does a <firstterm>linear interpolation</firstterm> between two "
+"or more selected paths. It basically means that it “fills in the gaps” "
+"between the paths and transforms them according to the number of steps given."
+msgstr ""
+"Interpolacja jest <firstterm>liniowym wypełnieniem</firstterm> pomiędzy "
+"dwoma lub więcej zaznaczonymi ścieżkami. Oznacza to wypełnienie odstępu "
+"pomiędzy ścieżkami i przekształcanie go według liczby zadanych kroków."
 
 #: tutorial-interpolate.xml:16(para)
-msgid "To use the Interpolate effect, select the paths that you wish to transform, and choose <command>Effects &gt; Generate From Path &gt; Interpolate</command> from the menu."
-msgstr "Aby użyć efektu interpolacji, zaznacz ścieżki, które chcesz przekształcić i użyj polecenia „<command> Interpolacja…</command>” dostępnego z poziomu menu „Rozszerzenia » Wygeneruj ze ścieżki…”."
+#, fuzzy
+msgid ""
+"To use the Interpolate extension, select the paths that you wish to "
+"transform, and choose <command>Extensions &gt; Generate From Path &gt; "
+"Interpolate</command> from the menu."
+msgstr ""
+"Aby użyć efektu interpolacji, zaznacz ścieżki, które chcesz przekształcić i "
+"użyj polecenia „<command> Interpolacja…</command>” dostępnego z poziomu menu "
+"„Rozszerzenia » Wygeneruj ze ścieżki…”."
 
 #: tutorial-interpolate.xml:17(para)
-msgid "Before invoking the effect, the objects that you are going to transform need to be <emphasis>paths</emphasis>. This is done by selecting the object and using <command>Path &gt; Object to Path</command> or <keycap>Shift+Ctrl+C</keycap>. If your objects are not paths, the effect will do nothing."
-msgstr "Przed uruchomieniem efektu, obiekt, który zamierzasz przekształcić, musisz zamienić w <emphasis>ścieżkę</emphasis>. Wykonuje się poprzez zaznaczenie obiektu i użycie polecenia „<command>Obiekt w ścieżkę</command>” dostępnego z poziomu menu „Ścieżka”."
+#, fuzzy
+msgid ""
+"Before invoking the extension, the objects that you are going to transform "
+"need to be <emphasis>paths</emphasis>. This is done by selecting the object "
+"and using <command>Path &gt; Object to Path</command> or <keycap>Shift+Ctrl"
+"+C</keycap>. If your objects are not paths, the extension will do nothing."
+msgstr ""
+"Przed uruchomieniem efektu, obiekt, który zamierzasz przekształcić, musisz "
+"zamienić w <emphasis>ścieżkę</emphasis>. Wykonuje się poprzez zaznaczenie "
+"obiektu i użycie polecenia „<command>Obiekt w ścieżkę</command>” dostępnego "
+"z poziomu menu „Ścieżka”."
 
 #: tutorial-interpolate.xml:21(title)
-msgid "Interpolation between two of the same path"
-msgstr "Interpolacja pomiędzy dwoma takimi samymi ścieżkami"
+#, fuzzy
+msgid "Interpolation between two identical paths"
+msgstr "Interpolacja pomiędzy dwoma różnymi ścieżkami"
 
 #: tutorial-interpolate.xml:22(para)
-msgid "The simplest use of the Interpolate effect is to interpolate between two paths that are identical. When the effect is called, the result is that the space between the two paths is filled with duplicates of the original paths. The number of steps defines how many of these duplicates are placed."
-msgstr "Najprostszym sposobem użycia efektu interpolacji jest interpolacja pomiędzy dwoma takimi samymi ścieżkami. W wyniku zastosowania tego efektu przestrzeń pomiędzy dwoma ścieżkami zostaje wypełniona kopiami oryginalnych ścieżek. Liczba kroków określa, ile duplikatów zostanie umieszczonych w tej przestrzeni."
+#, fuzzy
+msgid ""
+"The simplest use of the Interpolate extension is to interpolate between two "
+"paths that are identical. When the extension is called, the result is that "
+"the space between the two paths is filled with duplicates of the original "
+"paths. The number of steps defines how many of these duplicates are placed."
+msgstr ""
+"Najprostszym sposobem użycia efektu interpolacji jest interpolacja pomiędzy "
+"dwoma takimi samymi ścieżkami. W wyniku zastosowania tego efektu przestrzeń "
+"pomiędzy dwoma ścieżkami zostaje wypełniona kopiami oryginalnych ścieżek. "
+"Liczba kroków określa, ile duplikatów zostanie umieszczonych w tej "
+"przestrzeni."
 
-#: tutorial-interpolate.xml:23(para)
-#: tutorial-interpolate.xml:47(para)
+#: tutorial-interpolate.xml:23(para) tutorial-interpolate.xml:47(para)
 msgid "For example, take the following two paths:"
 msgstr "Dla przykładu weźmy następujące dwie ścieżki:"
 
 #: tutorial-interpolate.xml:32(para)
-msgid "Now, select the two paths, and run the Interpolate effect with the settings shown in the following image."
-msgstr "Zaznacz obie ścieżki i uruchom efekt interpolacji z ustawieniami widocznymi na obrazku."
+#, fuzzy
+msgid ""
+"Now, select the two paths, and run the Interpolate extension with the "
+"settings shown in the following image."
+msgstr ""
+"Zaznacz obie ścieżki i uruchom efekt interpolacji z ustawieniami widocznymi "
+"na obrazku."
 
 #: tutorial-interpolate.xml:41(para)
-msgid "As can be seen from the above result, the space between the two circle-shaped paths has been filled with 6 (the number of interpolation steps) other circle-shaped paths. Also note that the effect groups these shapes together."
-msgstr "Jak można zauważyć powyżej, przestrzeń pomiędzy dwoma okrągłymi kształtami została wypełniona sześcioma (tyle zostało określonych kroków interpolacji) innymi okrągłymi kształtami. Zwróć uwagę, że kształty te zostały zgrupowane."
+#, fuzzy
+msgid ""
+"As can be seen from the above result, the space between the two circle-"
+"shaped paths has been filled with 6 (the number of interpolation steps) "
+"other circle-shaped paths. Also note that the extension groups these shapes "
+"together."
+msgstr ""
+"Jak można zauważyć powyżej, przestrzeń pomiędzy dwoma okrągłymi kształtami "
+"została wypełniona sześcioma (tyle zostało określonych kroków interpolacji) "
+"innymi okrągłymi kształtami. Zwróć uwagę, że kształty te zostały zgrupowane."
 
 #: tutorial-interpolate.xml:45(title)
 msgid "Interpolation between two different paths"
 msgstr "Interpolacja pomiędzy dwoma różnymi ścieżkami"
 
 #: tutorial-interpolate.xml:46(para)
-msgid "When interpolation is done on two different paths, the program interpolates the shape of the path from one into the other. The result is that you get a morphing sequence between the paths, with the regularity still defined by the Interpolation Steps value."
-msgstr "Gdy interpolacja jest wykonywana pomiędzy dwoma różnymi ścieżkami, program interpoluje kształt jednej ścieżki do drugiej. W wyniku tego otrzymuje się płynne przejście z jednej ścieżki do drugiej z regularnością określoną przez liczbę kroków interpolacji."
+msgid ""
+"When interpolation is done on two different paths, the program interpolates "
+"the shape of the path from one into the other. The result is that you get a "
+"morphing sequence between the paths, with the regularity still defined by "
+"the Interpolation Steps value."
+msgstr ""
+"Gdy interpolacja jest wykonywana pomiędzy dwoma różnymi ścieżkami, program "
+"interpoluje kształt jednej ścieżki do drugiej. W wyniku tego otrzymuje się "
+"płynne przejście z jednej ścieżki do drugiej z regularnością określoną przez "
+"liczbę kroków interpolacji."
 
 #: tutorial-interpolate.xml:56(para)
-msgid "Now, select the two paths, and run the Interpolate effect. The result should be like this:"
-msgstr "Zaznacz dwie ścieżki i uruchom efekt interpolacji. Otrzymasz następujący wynik:"
+#, fuzzy
+msgid ""
+"Now, select the two paths, and run the Interpolate extension. The result "
+"should be like this:"
+msgstr ""
+"Zaznacz dwie ścieżki i uruchom efekt interpolacji. Otrzymasz następujący "
+"wynik:"
 
 #: tutorial-interpolate.xml:65(para)
-msgid "As can be seen from the above result, the space between the circle-shaped path and the triangle-shaped path has been filled with 6 paths that progress in shape from one path to the other."
-msgstr "Jak można zauważyć powyżej, przestrzeń pomiędzy okrągłym kształtem a trójkątnym, została wypełniona sześcioma ścieżkami z przejściem kształtu od jednej do drugiej ścieżki."
+msgid ""
+"As can be seen from the above result, the space between the circle-shaped "
+"path and the triangle-shaped path has been filled with 6 paths that progress "
+"in shape from one path to the other."
+msgstr ""
+"Jak można zauważyć powyżej, przestrzeń pomiędzy okrągłym kształtem a "
+"trójkątnym, została wypełniona sześcioma ścieżkami z przejściem kształtu od "
+"jednej do drugiej ścieżki."
 
 #: tutorial-interpolate.xml:67(para)
-msgid "When using the Interpolate effect on two different paths, the <emphasis>position</emphasis> of the starting node of each path is important. To find the starting node of a path, select the path, then choose the Node Tool so that the nodes appear and press <keycap>TAB</keycap>. The first node that is selected is the starting node of that path."
-msgstr "Gdy interpolacja jest wykonywana pomiędzy dwoma różnymi ścieżkami, bardzo ważna jest <emphasis>pozycja</emphasis> początkowego węzła każdej ścieżki. Aby znaleźć węzeł początkowy ścieżki, zaznacz ścieżkę i wybierz narzędzie „Edycja węzłów” – węzły zostaną wyświetlone – i naciśnij klawisz [ <keycap>TAB</keycap> ]. Pierwszy zaznaczony węzeł jest węzłem początkowym ścieżki. "
+#, fuzzy
+msgid ""
+"When using the Interpolate extension on two different paths, the "
+"<emphasis>position</emphasis> of the starting node of each path is "
+"important. To find the starting node of a path, select the path, then choose "
+"the Node Tool so that the nodes appear and press <keycap>TAB</keycap>. The "
+"first node that is selected is the starting node of that path."
+msgstr ""
+"Gdy interpolacja jest wykonywana pomiędzy dwoma różnymi ścieżkami, bardzo "
+"ważna jest <emphasis>pozycja</emphasis> początkowego węzła każdej ścieżki. "
+"Aby znaleźć węzeł początkowy ścieżki, zaznacz ścieżkę i wybierz narzędzie "
+"„Edycja węzłów” – węzły zostaną wyświetlone – i naciśnij klawisz "
+"[ <keycap>TAB</keycap> ]. Pierwszy zaznaczony węzeł jest węzłem początkowym "
+"ścieżki. "
 
 #: tutorial-interpolate.xml:69(para)
-msgid "See the image below, which is identical to the previous example, apart from the node points being displayed. The node that is green on each path is the starting node."
-msgstr "Popatrz na obrazek znajdujący się poniżej. Jest on identyczny, jak w poprzednim przykładzie, ale są wyświetlone węzły. Węzły wyświetlone na zielono są węzłami początkowymi."
+msgid ""
+"See the image below, which is identical to the previous example, apart from "
+"the node points being displayed. The node that is green on each path is the "
+"starting node."
+msgstr ""
+"Popatrz na obrazek znajdujący się poniżej. Jest on identyczny, jak w "
+"poprzednim przykładzie, ale są wyświetlone węzły. Węzły wyświetlone na "
+"zielono są węzłami początkowymi."
 
 #: tutorial-interpolate.xml:78(para)
-msgid "The previous example (shown again below) was done with these nodes being the starting node."
-msgstr "Poprzedni przykład (teraz wyświetlany poniżej) został wykonany przy użyciu tych węzłów początkowych."
+msgid ""
+"The previous example (shown again below) was done with these nodes being the "
+"starting node."
+msgstr ""
+"Poprzedni przykład (teraz wyświetlany poniżej) został wykonany przy użyciu "
+"tych węzłów początkowych."
 
 #: tutorial-interpolate.xml:87(para)
-msgid "Now, notice the changes in the interpolation result when the triangle path is mirrored so the starting node is in a different position:"
-msgstr "Zaobserwuj zmiany podczas lustrzanego odbijania trójkątnego kształtu, gdy węzeł początkowy jest w innej pozycji: "
+msgid ""
+"Now, notice the changes in the interpolation result when the triangle path "
+"is mirrored so the starting node is in a different position:"
+msgstr ""
+"Zaobserwuj zmiany podczas lustrzanego odbijania trójkątnego kształtu, gdy "
+"węzeł początkowy jest w innej pozycji: "
 
 #: tutorial-interpolate.xml:106(title)
 msgid "Interpolation Method"
 msgstr "Metoda interpolacji"
 
 #: tutorial-interpolate.xml:107(para)
-msgid "One of the parameters of the Interpolate effect is the Interpolation Method. There are 2 interpolation methods implemented, and they differ in the way that they calculate the curves of the new shapes. The choices are either Interpolation Method 1 or 2."
-msgstr "Jednym z parametrów efektu „Interpolacja” jest „Metoda interpolacji”. Są dwie metody interpolacji, które stosują różne sposoby przeliczania krzywych nowych kształtów. Wybór jest pomiędzy „Metodą interpolacji 1” lub 2."
+#, fuzzy
+msgid ""
+"One of the parameters of the Interpolate extension is the Interpolation "
+"Method. There are 2 interpolation methods implemented, and they differ in "
+"the way that they calculate the curves of the new shapes. The choices are "
+"either Interpolation Method 1 or 2."
+msgstr ""
+"Jednym z parametrów efektu „Interpolacja” jest „Metoda interpolacji”. Są "
+"dwie metody interpolacji, które stosują różne sposoby przeliczania krzywych "
+"nowych kształtów. Wybór jest pomiędzy „Metodą interpolacji 1” lub 2."
 
 #: tutorial-interpolate.xml:109(para)
-msgid "In the examples above, we used Interpolation Method 2, and the result was:"
-msgstr "W powyższym przykładzie została użyta metoda nr 2 i jej wynik jest następujący:"
+msgid ""
+"In the examples above, we used Interpolation Method 2, and the result was:"
+msgstr ""
+"W powyższym przykładzie została użyta metoda nr 2 i jej wynik jest "
+"następujący:"
 
 #: tutorial-interpolate.xml:118(para)
 msgid "Now compare this to Interpolation Method 1:"
 msgstr "Teraz porównamy to z metodą nr 1:"
 
 #: tutorial-interpolate.xml:127(para)
-msgid "The differences in how these methods calculate the numbers is beyond the scope of this document, so simply try both, and use which ever one gives the result closest to what you intend."
-msgstr "Ten poradnik nie obejmuje swoim zakresem opisu różnic w sposobie przeliczania liczb przez te metody, tak więc wypróbuj te metody i zastosuj tę, która Ci najbardziej odpowiada."
+msgid ""
+"The differences in how these methods calculate the numbers is beyond the "
+"scope of this document, so simply try both, and use which ever one gives the "
+"result closest to what you intend."
+msgstr ""
+"Ten poradnik nie obejmuje swoim zakresem opisu różnic w sposobie "
+"przeliczania liczb przez te metody, tak więc wypróbuj te metody i zastosuj "
+"tę, która Ci najbardziej odpowiada."
 
 #: tutorial-interpolate.xml:132(title)
 msgid "Exponent"
 msgstr "Wykładnik"
 
 #: tutorial-interpolate.xml:134(para)
-msgid "The <firstterm>exponent parameter</firstterm> controls the spacing between steps of the interpolation. An exponent of 0 makes the spacing between the copies all even."
-msgstr "Parametr <firstterm>wykładnik</firstterm> odpowiada za odstępy pomiędzy krokami interpolacji. Wartość 0 daje w rezultacie równy odstęp pomiędzy kopiami."
+msgid ""
+"The <firstterm>exponent parameter</firstterm> controls the spacing between "
+"steps of the interpolation. An exponent of 0 makes the spacing between the "
+"copies all even."
+msgstr ""
+"Parametr <firstterm>wykładnik</firstterm> odpowiada za odstępy pomiędzy "
+"krokami interpolacji. Wartość 0 daje w rezultacie równy odstęp pomiędzy "
+"kopiami."
 
 #: tutorial-interpolate.xml:136(para)
 msgid "Here is the result of another basic example with an exponent of 0."
-msgstr "Tutaj znajduje się wynik innego podstawowego przykładu z wykładnikiem 0."
+msgstr ""
+"Tutaj znajduje się wynik innego podstawowego przykładu z wykładnikiem 0."
 
 #: tutorial-interpolate.xml:145(para)
 msgid "The same example with an exponent of 1:"
@@ -314,31 +415,62 @@ msgid "and with an exponent of -1:"
 msgstr "i z wykładnikiem -1:"
 
 #: tutorial-interpolate.xml:172(para)
-msgid "When dealing with exponents in the Interpolate effect, the <emphasis>order</emphasis> that you select the objects is important. In the examples above, the star-shaped path on the left was selected first, and the hexagon-shaped path on the right was selected second."
-msgstr "Podczas działań z wykładnikami w efekcie „Interpolacja” bardzo ważna jest <emphasis>kolejność</emphasis> zaznaczania obiektów. W powyższym przykładzie gwiazda po lewej stronie została zaznaczona pierwsza, a sześciokąt po prawej drugi."
+#, fuzzy
+msgid ""
+"When dealing with exponents in the Interpolate extension, the "
+"<emphasis>order</emphasis> that you select the objects is important. In the "
+"examples above, the star-shaped path on the left was selected first, and the "
+"hexagon-shaped path on the right was selected second."
+msgstr ""
+"Podczas działań z wykładnikami w efekcie „Interpolacja” bardzo ważna jest "
+"<emphasis>kolejność</emphasis> zaznaczania obiektów. W powyższym przykładzie "
+"gwiazda po lewej stronie została zaznaczona pierwsza, a sześciokąt po prawej "
+"drugi."
 
 #: tutorial-interpolate.xml:174(para)
-msgid "View the result when the path on the right was selected first. The exponent in this example was set to 1:"
-msgstr "Zobacz wynik, gdy kształt po prawej został zaznaczony jako pierwszy. Wykładnik w tym przykładzie był ustawiony na 1:"
+msgid ""
+"View the result when the path on the right was selected first. The exponent "
+"in this example was set to 1:"
+msgstr ""
+"Zobacz wynik, gdy kształt po prawej został zaznaczony jako pierwszy. "
+"Wykładnik w tym przykładzie był ustawiony na 1:"
 
 #: tutorial-interpolate.xml:185(title)
 msgid "Duplicate Endpaths"
 msgstr "Powiel ścieżki końcowe"
 
 #: tutorial-interpolate.xml:186(para)
-msgid "This parameter defines whether the group of paths that is generated by the effect <emphasis>includes a copy</emphasis> of the original paths that interpolate was applied on."
-msgstr "Ten parametr określa czy wygenerowana przez efekt grupa ścieżek <emphasis>zawiera kopię</emphasis> oryginalnych ścieżek, z których interpolacja została wygenerowana."
+#, fuzzy
+msgid ""
+"This parameter defines whether the group of paths that is generated by the "
+"extension <emphasis>includes a copy</emphasis> of the original paths that "
+"interpolate was applied on."
+msgstr ""
+"Ten parametr określa czy wygenerowana przez efekt grupa ścieżek "
+"<emphasis>zawiera kopię</emphasis> oryginalnych ścieżek, z których "
+"interpolacja została wygenerowana."
 
 #: tutorial-interpolate.xml:190(title)
 msgid "Interpolate Style"
 msgstr "Modelowanie"
 
 #: tutorial-interpolate.xml:191(para)
-msgid "This parameter is one of the neat functions of the interpolate effect. It tells the effect to attempt to change the style of the paths at each step. So if the start and end paths are different colors, the paths that are generated will incrementally change as well."
-msgstr "Ten parametr jest jedną z najbardziej przydatnych funkcji, jakie ma efekt interpolacji. Wskazuje on efektowi, aby podczas każdego kroku próbował zmienić styl ścieżek – modelował je. Jeśli początek i koniec ścieżek mają różne kolory, generowane ścieżki będą przyrostowo zmieniane."
+#, fuzzy
+msgid ""
+"This parameter is one of the neat functions of the interpolate extension. It "
+"tells the extension to attempt to change the style of the paths at each "
+"step. So if the start and end paths are different colors, the paths that are "
+"generated will incrementally change as well."
+msgstr ""
+"Ten parametr jest jedną z najbardziej przydatnych funkcji, jakie ma efekt "
+"interpolacji. Wskazuje on efektowi, aby podczas każdego kroku próbował "
+"zmienić styl ścieżek – modelował je. Jeśli początek i koniec ścieżek mają "
+"różne kolory, generowane ścieżki będą przyrostowo zmieniane."
 
 #: tutorial-interpolate.xml:193(para)
-msgid "Here is an example where the Interpolate Style function is used on the fill of a path:"
+msgid ""
+"Here is an example where the Interpolate Style function is used on the fill "
+"of a path:"
 msgstr "To jest przykład użycia funkcji „Modelowanie” na wypełnieniu ścieżki:"
 
 #: tutorial-interpolate.xml:203(para)
@@ -346,7 +478,9 @@ msgid "Interpolate Style also affects the stroke of a path:"
 msgstr "Modelowanie oddziałuje także na kontur ścieżki:"
 
 #: tutorial-interpolate.xml:212(para)
-msgid "Of course, the path of the start point and the end point does not have to be the same either:"
+msgid ""
+"Of course, the path of the start point and the end point does not have to be "
+"the same either:"
 msgstr "Ścieżka w punkcie początkowym i końcowym nie musi być taka sama, ale:"
 
 #: tutorial-interpolate.xml:223(title)
@@ -354,8 +488,17 @@ msgid "Using Interpolate to fake irregular-shaped gradients"
 msgstr "Stosowanie interpolacji do imitowania nieregularnych gradientów"
 
 #: tutorial-interpolate.xml:225(para)
-msgid "It is not possible in Inkscape (yet) to create a gradient other than linear (straight line) or radial (round). However, it can be faked using the Interpolate effect and Interpolate Style. A simple example follows — draw two lines of different strokes:"
-msgstr "W Inkscape'ie nie można (jeszcze) tworzyć gradientów innych niż liniowe lub radialne. Niemniej można je imitować używając efektu interpolacji i modelowania interpolacji. Oto prosty przykład – narysuj dwie linie o różnych konturach:"
+#, fuzzy
+msgid ""
+"It is not possible in Inkscape (yet) to create a gradient other than linear "
+"(straight line) or radial (round). However, it can be faked using the "
+"Interpolate extension and Interpolate Style. A simple example follows — draw "
+"two lines of different strokes:"
+msgstr ""
+"W Inkscape'ie nie można (jeszcze) tworzyć gradientów innych niż liniowe lub "
+"radialne. Niemniej można je imitować używając efektu interpolacji i "
+"modelowania interpolacji. Oto prosty przykład – narysuj dwie linie o różnych "
+"konturach:"
 
 #: tutorial-interpolate.xml:233(para)
 msgid "And interpolate between the two lines to create your gradient:"
@@ -366,14 +509,24 @@ msgid "Conclusion"
 msgstr "Podsumowanie"
 
 #: tutorial-interpolate.xml:246(para)
-msgid "As demonstrated above, the Inkscape Interpolate effect is a powerful tool. This tutorial covers the basics of this effect, but experimentation is the key to exploring interpolation further."
-msgstr "Jak przedstawiono powyżej, efekt Inkscape'a „Interpolacja” jest potężnym narzędziem. Ten poradnik omawia podstawy tego efektu, ale eksperymentowanie jest kluczem do zgłębiania innych możliwości interpolacji."
+#, fuzzy
+msgid ""
+"As demonstrated above, the Inkscape Interpolate extension is a powerful "
+"tool. This tutorial covers the basics of this extension, but experimentation "
+"is the key to exploring interpolation further."
+msgstr ""
+"Jak przedstawiono powyżej, efekt Inkscape'a „Interpolacja” jest potężnym "
+"narzędziem. Ten poradnik omawia podstawy tego efektu, ale eksperymentowanie "
+"jest kluczem do zgłębiania innych możliwości interpolacji."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: tutorial-interpolate.xml:0(None)
 msgid "translator-credits"
 msgstr ""
 "Polska lokalizacja wykonana przez:\n"
 "2008 - 2009 Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
-"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, "
+"Wojciech Ryrych, Piotr Parafiniuk i inni"
 
+#~ msgid "Interpolation between two of the same path"
+#~ msgstr "Interpolacja pomiędzy dwoma takimi samymi ścieżkami"

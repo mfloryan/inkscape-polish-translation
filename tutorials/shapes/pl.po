@@ -9,33 +9,24 @@ msgstr ""
 "PO-Revision-Date: 2009-10-10 11:44+0100\n"
 "Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
 "Language-Team: Polish <inkscapeplteam@gmail.com>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
-#: shapes-f23.svg:44(format)
-#: shapes-f22.svg:44(format)
-#: shapes-f21.svg:45(format)
-#: shapes-f20.svg:44(format)
-#: shapes-f19.svg:45(format)
-#: shapes-f18.svg:44(format)
-#: shapes-f17.svg:50(format)
-#: shapes-f16.svg:45(format)
-#: shapes-f15.svg:42(format)
-#: shapes-f14.svg:44(format)
-#: shapes-f13.svg:49(format)
-#: shapes-f12.svg:44(format)
-#: shapes-f11.svg:45(format)
-#: shapes-f10.svg:44(format)
-#: shapes-f09.svg:44(format)
-#: shapes-f08.svg:691(format)
-#: shapes-f07.svg:42(format)
-#: shapes-f06.svg:42(format)
-#: shapes-f05.svg:44(format)
-#: shapes-f04.svg:45(format)
-#: shapes-f03.svg:45(format)
-#: shapes-f02.svg:42(format)
+#: shapes-f23.svg:44(format) shapes-f22.svg:44(format)
+#: shapes-f21.svg:45(format) shapes-f20.svg:44(format)
+#: shapes-f19.svg:45(format) shapes-f18.svg:44(format)
+#: shapes-f17.svg:50(format) shapes-f16.svg:45(format)
+#: shapes-f15.svg:42(format) shapes-f14.svg:44(format)
+#: shapes-f13.svg:49(format) shapes-f12.svg:44(format)
+#: shapes-f11.svg:45(format) shapes-f10.svg:44(format)
+#: shapes-f09.svg:44(format) shapes-f08.svg:691(format)
+#: shapes-f07.svg:42(format) shapes-f06.svg:42(format)
+#: shapes-f05.svg:44(format) shapes-f04.svg:45(format)
+#: shapes-f03.svg:45(format) shapes-f02.svg:42(format)
 #: shapes-f01.svg:45(format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
@@ -105,8 +96,7 @@ msgstr "Odsunięcie połączone, wklęśnięte"
 msgid "Linked offset, outset"
 msgstr "Odsunięcie połączone, uwypuklone"
 
-#: shapes-f16.svg:280(tspan)
-#: shapes-f16.svg:297(tspan)
+#: shapes-f16.svg:280(tspan) shapes-f16.svg:297(tspan)
 #: shapes-f16.svg:314(tspan)
 #, no-wrap
 msgid "0.25"
@@ -122,15 +112,13 @@ msgstr "0.37"
 msgid "0.43"
 msgstr "0.43"
 
-#: shapes-f16.svg:383(tspan)
-#: shapes-f16.svg:398(tspan)
+#: shapes-f16.svg:383(tspan) shapes-f16.svg:398(tspan)
 #: shapes-f16.svg:501(tspan)
 #, no-wrap
 msgid "3.00"
 msgstr "3.00"
 
-#: shapes-f16.svg:396(tspan)
-#: shapes-f16.svg:499(tspan)
+#: shapes-f16.svg:396(tspan) shapes-f16.svg:499(tspan)
 #, no-wrap
 msgid "-"
 msgstr "-"
@@ -220,8 +208,7 @@ msgstr "Kilka skopiowanych prostokątów ze zmienionymi wymiarami za pomocą uch
 msgid "Snapping of rectangle - resize handles with Ctrl"
 msgstr "Przyciąganie prostokąta – zmień wielkość uchwytów z klawiszem Ctrl"
 
-#: shapes-f04.svg:67(tspan)
-#: shapes-f03.svg:67(tspan)
+#: shapes-f04.svg:67(tspan) shapes-f03.svg:67(tspan)
 #, no-wrap
 msgid "Scaling rounded rectangles "
 msgstr "Skalowanie zaokrąglonych prostokątów "
@@ -398,365 +385,925 @@ msgid "bulia byak, buliabyak@users.sf.net"
 msgstr "bulia byak, buliabyak@users.sf.net"
 
 #: tutorial-shapes.xml:9(para)
-msgid "This tutorial covers the four shape tools: Rectangle, Ellipse, Star, and Spiral. We will demonstrate the capabilities of Inkscape shapes and show examples of how and when they could be used."
-msgstr "Ten poradnik opisuje cztery narzędzia kształtów: Prostokąt, Elipsę, Gwiazdę i Spiralę. Przedstawimy możliwości tych narzędzi i pokażemy, jak i kiedy mogą być używane."
+msgid ""
+"This tutorial covers the four shape tools: Rectangle, Ellipse, Star, and "
+"Spiral. We will demonstrate the capabilities of Inkscape shapes and show "
+"examples of how and when they could be used."
+msgstr ""
+"Ten poradnik opisuje cztery narzędzia kształtów: Prostokąt, Elipsę, Gwiazdę "
+"i Spiralę. Przedstawimy możliwości tych narzędzi i pokażemy, jak i kiedy "
+"mogą być używane."
 
 #: tutorial-shapes.xml:15(para)
-msgid "Use <keycap>Ctrl+Arrows</keycap>, <keycap>mousewheel</keycap>, or <keycap>middle button drag</keycap> to scroll the page down. For basics of object creation, selection, and transformation, see the Basic tutorial in <command>Help &gt; Tutorials</command>."
-msgstr "Aby przewinąć stronę, użyj skrótu [ <keycap>Ctrl+strzałki</keycap> ], <keycap>rolki myszy</keycap> lub przewijaj stronę płynnie <keycap>środkowym przyciskiem myszy</keycap>. Podstawowe zagadnienia, takie jak tworzenie, zaznaczanie obiektów i ich przekształcenia, są opisane w poradniku „Podstawy” dostępnym z poziomu menu „<command>Pomoc » Poradniki</command>”."
+msgid ""
+"Use <keycap>Ctrl+Arrows</keycap>, <keycap>mousewheel</keycap>, or "
+"<keycap>middle button drag</keycap> to scroll the page down. For basics of "
+"object creation, selection, and transformation, see the Basic tutorial in "
+"<command>Help &gt; Tutorials</command>."
+msgstr ""
+"Aby przewinąć stronę, użyj skrótu [ <keycap>Ctrl+strzałki</keycap> ], "
+"<keycap>rolki myszy</keycap> lub przewijaj stronę płynnie <keycap>środkowym "
+"przyciskiem myszy</keycap>. Podstawowe zagadnienia, takie jak tworzenie, "
+"zaznaczanie obiektów i ich przekształcenia, są opisane w poradniku "
+"„Podstawy” dostępnym z poziomu menu „<command>Pomoc » Poradniki</command>”."
 
 #: tutorial-shapes.xml:24(para)
-msgid "Inkscape has four versatile <firstterm>shape tools</firstterm>, each tool capable of creating and editing its own type of shapes. A shape is an object which you can modify in ways unique to this shape type, using draggable <firstterm>handles</firstterm> and numeric <firstterm>parameters</firstterm> that determine the shape's appearance."
-msgstr "Inkscape ma cztery uniwersalne <firstterm>narzędzia kształtów</firstterm>. Za pomocą każdego z tych narzędzi można tworzyć i edytować unikalny dla danego narzędzia typ kształtu. Kształt to obiekt, który można modyfikować w specyficzny dla danego typu kształtu sposób za pomocą przestawnych <firstterm>uchwytów</firstterm> i <firstterm>parametrów</firstterm> liczbowych, które decydują o jego wyglądzie."
+msgid ""
+"Inkscape has four versatile <firstterm>shape tools</firstterm>, each tool "
+"capable of creating and editing its own type of shapes. A shape is an object "
+"which you can modify in ways unique to this shape type, using draggable "
+"<firstterm>handles</firstterm> and numeric <firstterm>parameters</firstterm> "
+"that determine the shape's appearance."
+msgstr ""
+"Inkscape ma cztery uniwersalne <firstterm>narzędzia kształtów</firstterm>. "
+"Za pomocą każdego z tych narzędzi można tworzyć i edytować unikalny dla "
+"danego narzędzia typ kształtu. Kształt to obiekt, który można modyfikować w "
+"specyficzny dla danego typu kształtu sposób za pomocą przestawnych "
+"<firstterm>uchwytów</firstterm> i <firstterm>parametrów</firstterm> "
+"liczbowych, które decydują o jego wyglądzie."
 
 #: tutorial-shapes.xml:31(para)
-msgid "For example, with a star you can alter the number of tips, their length, angle, rounding, etc. — but a star remains a star. A shape is “less free” than a simple path, but it's often more interesting and useful. You can always convert a shape to a path (<keycap>Ctrl+Shift+C</keycap>), but the reverse conversion is not possible."
-msgstr "Na przykład w kształcie typu gwiazda można zmienić liczbę ramion, ich długość, kąt, zaokrąglenie, itp. – ale gwiazda pozostaje zawsze gwiazdą. Kształt jest bardziej ograniczony niż zwykła ścieżka, ale jest zazwyczaj bardziej interesujący i użyteczny. Kształt zawsze można skonwertować na ścieżkę używając skrótu [ <keycap>Ctrl+Shift+C</keycap> ], ale operacja odwrotna jest niemożliwa."
+msgid ""
+"For example, with a star you can alter the number of tips, their length, "
+"angle, rounding, etc. — but a star remains a star. A shape is “less free” "
+"than a simple path, but it's often more interesting and useful. You can "
+"always convert a shape to a path (<keycap>Ctrl+Shift+C</keycap>), but the "
+"reverse conversion is not possible."
+msgstr ""
+"Na przykład w kształcie typu gwiazda można zmienić liczbę ramion, ich "
+"długość, kąt, zaokrąglenie, itp. – ale gwiazda pozostaje zawsze gwiazdą. "
+"Kształt jest bardziej ograniczony niż zwykła ścieżka, ale jest zazwyczaj "
+"bardziej interesujący i użyteczny. Kształt zawsze można skonwertować na "
+"ścieżkę używając skrótu [ <keycap>Ctrl+Shift+C</keycap> ], ale operacja "
+"odwrotna jest niemożliwa."
 
 #: tutorial-shapes.xml:38(para)
-msgid "The shape tools are <firstterm>Rectangle</firstterm>, <firstterm>Ellipse</firstterm>, <firstterm>Star</firstterm>, and <firstterm>Spiral</firstterm>. First, let's look at how shape tools work in general; then we'll explore each shape type in detail."
-msgstr "Narzędzia kształtów w Inkscape'ie to: <firstterm>Prostokąt</firstterm>, <firstterm>Elipsa</firstterm>, <firstterm>Gwiazda</firstterm> i <firstterm>Spirala</firstterm>. Najpierw zobaczymy, jak w ogóle działają te narzędzia, a potem przedstawimy każdy typ kształtu szczegółowo."
+msgid ""
+"The shape tools are <firstterm>Rectangle</firstterm>, <firstterm>Ellipse</"
+"firstterm>, <firstterm>Star</firstterm>, and <firstterm>Spiral</firstterm>. "
+"First, let's look at how shape tools work in general; then we'll explore "
+"each shape type in detail."
+msgstr ""
+"Narzędzia kształtów w Inkscape'ie to: <firstterm>Prostokąt</firstterm>, "
+"<firstterm>Elipsa</firstterm>, <firstterm>Gwiazda</firstterm> i "
+"<firstterm>Spirala</firstterm>. Najpierw zobaczymy, jak w ogóle działają te "
+"narzędzia, a potem przedstawimy każdy typ kształtu szczegółowo."
 
 #: tutorial-shapes.xml:46(title)
 msgid "General tips"
 msgstr "Wskazówki ogólne"
 
 #: tutorial-shapes.xml:47(para)
-msgid "A new shape is created by <keycap>drag</keycap>ging on canvas with the corresponding tool. Once the shape is created (and so long as it is selected), it displays its handles as white diamond-shaped marks, so you can immediately edit what you created by dragging these handles."
-msgstr "Nowy kształt tworzy się poprzez wykonanie <keycap>ciągnięcia</keycap> w obszarze roboczym odpowiednim narzędziem kształtu. Po utworzeniu kształtu i tak długo, jak pozostaje on zaznaczony, wyświetlane są uchwyty w postaci białych rombów. Za pomocą tych uchwytów można natychmiast po utworzeniu kształtu przystąpić do jego edycji."
+msgid ""
+"A new shape is created by <keycap>drag</keycap>ging on canvas with the "
+"corresponding tool. Once the shape is created (and so long as it is "
+"selected), it displays its handles as white diamond-shaped marks, so you can "
+"immediately edit what you created by dragging these handles."
+msgstr ""
+"Nowy kształt tworzy się poprzez wykonanie <keycap>ciągnięcia</keycap> w "
+"obszarze roboczym odpowiednim narzędziem kształtu. Po utworzeniu kształtu i "
+"tak długo, jak pozostaje on zaznaczony, wyświetlane są uchwyty w postaci "
+"białych rombów. Za pomocą tych uchwytów można natychmiast po utworzeniu "
+"kształtu przystąpić do jego edycji."
 
 #: tutorial-shapes.xml:54(para)
-msgid "All four kinds of shapes display their handles in all four shape tools as well as in the Node tool (<keycap>F2</keycap>). When you hover your mouse over a handle, it tells you in the statusbar what this handle will do when dragged or clicked with different modifiers."
-msgstr "Każdy typ kształtu wyświetla własne uchwyty, którymi można operować za pomocą dowolnego narzędzia kształtu, a także narzędzia „Edycja węzłów” [ <keycap>F2</keycap> ]. Po umieszczeniu wskaźnika narzędzia nad uchwytem, na pasku stanu pojawia się informacja, co się stanie w przypadku ciągnięcia bądź kliknięcia tego uchwytu ze wciśniętym klawiszem modyfikującym."
+msgid ""
+"All four kinds of shapes display their handles in all four shape tools as "
+"well as in the Node tool (<keycap>F2</keycap>). When you hover your mouse "
+"over a handle, it tells you in the statusbar what this handle will do when "
+"dragged or clicked with different modifiers."
+msgstr ""
+"Każdy typ kształtu wyświetla własne uchwyty, którymi można operować za "
+"pomocą dowolnego narzędzia kształtu, a także narzędzia „Edycja "
+"węzłów” [ <keycap>F2</keycap> ]. Po umieszczeniu wskaźnika narzędzia nad "
+"uchwytem, na pasku stanu pojawia się informacja, co się stanie w przypadku "
+"ciągnięcia bądź kliknięcia tego uchwytu ze wciśniętym klawiszem "
+"modyfikującym."
 
 #: tutorial-shapes.xml:60(para)
-msgid "Also, each shape tool displays its parameters in the <firstterm>Tool Controls bar</firstterm> (which runs horizontally above the canvas). Usually it has a few numeric entry fields and a button to reset the values to defaults. When shape(s) of the current tool's native type are selected, editing the values in the Controls bar changes the selected shape(s)."
-msgstr "Na <firstterm>pasku kontrolek</firstterm>, który znajduje się nad obszarem roboczym, są wyświetlane elementy kontrolne przypisane danemu narzędziu. Zazwyczaj jest to kilka pól liczbowych i przycisk przywracający wartości domyślne. Zmiana wartości w polach liczbowych w czasie, gdy jest zaznaczony kształt, powoduje zmiany tego kształtu."
+msgid ""
+"Also, each shape tool displays its parameters in the <firstterm>Tool "
+"Controls bar</firstterm> (which runs horizontally above the canvas). Usually "
+"it has a few numeric entry fields and a button to reset the values to "
+"defaults. When shape(s) of the current tool's native type are selected, "
+"editing the values in the Controls bar changes the selected shape(s)."
+msgstr ""
+"Na <firstterm>pasku kontrolek</firstterm>, który znajduje się nad obszarem "
+"roboczym, są wyświetlane elementy kontrolne przypisane danemu narzędziu. "
+"Zazwyczaj jest to kilka pól liczbowych i przycisk przywracający wartości "
+"domyślne. Zmiana wartości w polach liczbowych w czasie, gdy jest zaznaczony "
+"kształt, powoduje zmiany tego kształtu."
 
 #: tutorial-shapes.xml:67(para)
-msgid "Any changes made to the Tool Controls are remembered and used for the next object you draw with that tool. For example, after you change the number of tips of a star, new stars will have this number of tips as well when drawn. Moreover, even simply selecting a shape sends its parameters to the Tool Controls bar and thus sets the values for newly created shapes of this type."
-msgstr "Wszystkie zmiany wykonane na pasku kontrolek są zapamiętywane i używane dla następnego obiektu stworzonego za pomocą tego narzędzia. Na przykład, jeśli zostanie zmieniona liczba ramion gwiazdy, następna utworzona gwiazda odziedziczy tę samą liczbę ramion, co poprzednio utworzony obiekt. Co więcej, nawet zwykłe zaznaczenie kształtu przesyła jego parametry do paska kontrolek i ustala wartości dla nowo tworzonych kształtów tego typu."
+msgid ""
+"Any changes made to the Tool Controls are remembered and used for the next "
+"object you draw with that tool. For example, after you change the number of "
+"tips of a star, new stars will have this number of tips as well when drawn. "
+"Moreover, even simply selecting a shape sends its parameters to the Tool "
+"Controls bar and thus sets the values for newly created shapes of this type."
+msgstr ""
+"Wszystkie zmiany wykonane na pasku kontrolek są zapamiętywane i używane dla "
+"następnego obiektu stworzonego za pomocą tego narzędzia. Na przykład, jeśli "
+"zostanie zmieniona liczba ramion gwiazdy, następna utworzona gwiazda "
+"odziedziczy tę samą liczbę ramion, co poprzednio utworzony obiekt. Co "
+"więcej, nawet zwykłe zaznaczenie kształtu przesyła jego parametry do paska "
+"kontrolek i ustala wartości dla nowo tworzonych kształtów tego typu."
 
 #: tutorial-shapes.xml:75(para)
-msgid "When in a shape tool, selecting an object can be done by <keycap>click</keycap>ing on it. <keycap>Ctrl+click</keycap> (select in group) and <keycap>Alt+Click</keycap> (select under) also work as they do in Selector tool. <keycap>Esc</keycap> deselects."
-msgstr "Podczas pracy z narzędziami kształtów zaznaczenie obiektu może być wykonane poprzez jego <keycap>kliknięcie</keccap>. Skrót [ <keycap>Ctrl+kliknięcie</keycap> ] – zaznacza wewnątrz grupy i [ <keycap>Alt+kliknięcie</keycap> ] – zaznacza obiekty przesłonięte, działają podobnie jak narzędzie „Wskaźnik”. Naciśnięcie klawisza [ <keycap>Esc</keycap> ] powoduje anulowanie zaznaczenia."
+msgid ""
+"When in a shape tool, selecting an object can be done by <keycap>click</"
+"keycap>ing on it. <keycap>Ctrl+click</keycap> (select in group) and "
+"<keycap>Alt+Click</keycap> (select under) also work as they do in Selector "
+"tool. <keycap>Esc</keycap> deselects."
+msgstr ""
+"Podczas pracy z narzędziami kształtów zaznaczenie obiektu może być wykonane "
+"poprzez jego <keycap>kliknięcie</keccap>. Skrót [ <keycap>Ctrl+kliknięcie</"
+"keycap> ] – zaznacza wewnątrz grupy i [ <keycap>Alt+kliknięcie</keycap> ] – "
+"zaznacza obiekty przesłonięte, działają podobnie jak narzędzie „Wskaźnik”. "
+"Naciśnięcie klawisza [ <keycap>Esc</keycap> ] powoduje anulowanie "
+"zaznaczenia."
 
 #: tutorial-shapes.xml:82(title)
 msgid "Rectangles"
 msgstr "Prostokąty"
 
 #: tutorial-shapes.xml:83(para)
-msgid "A <firstterm>rectangle</firstterm> is the simplest but perhaps the most common shape in design and illustration. Inkscape attempts to make creating and editing rectangles as easy and convenient as possible."
-msgstr "<firstterm>Prostokąt</firstterm> to najprostszy, ale prawdopodobnie najczęściej używany kształt w projektowaniu i ilustracjach. Inkscape stara się, aby tworzenie i edytowanie prostokątów było proste i wygodne."
+msgid ""
+"A <firstterm>rectangle</firstterm> is the simplest but perhaps the most "
+"common shape in design and illustration. Inkscape attempts to make creating "
+"and editing rectangles as easy and convenient as possible."
+msgstr ""
+"<firstterm>Prostokąt</firstterm> to najprostszy, ale prawdopodobnie "
+"najczęściej używany kształt w projektowaniu i ilustracjach. Inkscape stara "
+"się, aby tworzenie i edytowanie prostokątów było proste i wygodne."
 
 #: tutorial-shapes.xml:89(para)
-msgid "Switch to the Rectangle tool by <keycap>F4</keycap> or by clicking its toolbar button. Draw a new rectangle alongside this blue one:"
-msgstr "Uaktywnij narzędzie „Prostokąt” poprzez naciśnięcie klawisza [ <keycap>F4</keycap> ] lub poprzez kliknięcie jego ikony znajdującej się w przyborniku. Narysuj nowy prostokąt obok tego niebieskiego."
+msgid ""
+"Switch to the Rectangle tool by <keycap>F4</keycap> or by clicking its "
+"toolbar button. Draw a new rectangle alongside this blue one:"
+msgstr ""
+"Uaktywnij narzędzie „Prostokąt” poprzez naciśnięcie klawisza [ <keycap>F4</"
+"keycap> ] lub poprzez kliknięcie jego ikony znajdującej się w przyborniku. "
+"Narysuj nowy prostokąt obok tego niebieskiego."
 
 #: tutorial-shapes.xml:101(para)
-msgid "Then, without leaving the Rectangle tool, switch selection from one rectangle to the other by clicking on them."
-msgstr "Pozostając w trybie narzędzia „Prostokąt” zaznacz na przemian raz jeden, raz drugi znajdujący się obok prostokąt klikając go."
+msgid ""
+"Then, without leaving the Rectangle tool, switch selection from one "
+"rectangle to the other by clicking on them."
+msgstr ""
+"Pozostając w trybie narzędzia „Prostokąt” zaznacz na przemian raz jeden, raz "
+"drugi znajdujący się obok prostokąt klikając go."
 
 #: tutorial-shapes.xml:106(para)
 msgid "Rectangle drawing shortcuts:"
 msgstr "Skróty używane do rysowania prostokąta:"
 
 #: tutorial-shapes.xml:110(para)
-msgid "With <keycap>Ctrl</keycap>, draw a square or an integer-ratio (2:1, 3:1, etc) rectangle."
-msgstr "Ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – rysowanie kwadratu lub prostokąta o proporcjach liczbowych 2:1, 3:1, itd."
+msgid ""
+"With <keycap>Ctrl</keycap>, draw a square or an integer-ratio (2:1, 3:1, "
+"etc) rectangle."
+msgstr ""
+"Ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – rysowanie kwadratu lub "
+"prostokąta o proporcjach liczbowych 2:1, 3:1, itd."
 
-#: tutorial-shapes.xml:113(para)
-#: tutorial-shapes.xml:319(para)
+#: tutorial-shapes.xml:113(para) tutorial-shapes.xml:319(para)
 msgid "With <keycap>Shift</keycap>, draw around the starting point as center."
-msgstr "Ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] – rysowanie od punktu początkowego jako środka obiektu."
+msgstr ""
+"Ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] – rysowanie od punktu "
+"początkowego jako środka obiektu."
 
 #: tutorial-shapes.xml:118(para)
-msgid "As you see, the selected rectangle (the just-drawn rectangle is always selected) shows three handles in three of its corners. In fact, these are four handles, but two of them (in the top right corner) overlap if the rectangle is not rounded. These two are the <firstterm>rounding handles</firstterm>; the other two (top left and bottom right) are <firstterm>resize handles</firstterm>."
-msgstr "Jak widać, razem z zaznaczonym prostokątem – nowo utworzony prostokąt jest zawsze zaznaczony – są wyświetlane trzy uchwyty w trzech narożnikach. W rzeczywistości są cztery uchwyty, ale dwa z nich (w prawym górnym narożniku) przesłaniają się, jeśli prostokąt nie jest zaokrąglony. Te dwa uchwyty są <firstterm>uchwytami zaokrąglającymi</firstterm>, pozostałe dwa – <firstterm>uchwytami skalowania</firstterm>."
+msgid ""
+"As you see, the selected rectangle (the just-drawn rectangle is always "
+"selected) shows three handles in three of its corners. In fact, these are "
+"four handles, but two of them (in the top right corner) overlap if the "
+"rectangle is not rounded. These two are the <firstterm>rounding handles</"
+"firstterm>; the other two (top left and bottom right) are <firstterm>resize "
+"handles</firstterm>."
+msgstr ""
+"Jak widać, razem z zaznaczonym prostokątem – nowo utworzony prostokąt jest "
+"zawsze zaznaczony – są wyświetlane trzy uchwyty w trzech narożnikach. W "
+"rzeczywistości są cztery uchwyty, ale dwa z nich (w prawym górnym narożniku) "
+"przesłaniają się, jeśli prostokąt nie jest zaokrąglony. Te dwa uchwyty są "
+"<firstterm>uchwytami zaokrąglającymi</firstterm>, pozostałe dwa – "
+"<firstterm>uchwytami skalowania</firstterm>."
 
 #: tutorial-shapes.xml:126(para)
-msgid "Let's look at the rounding handles first. Grab one of them and drag down. All four corners of the rectangle become rounded, and you can now see the second rounding handle — it stays in the original position in the corner. If you want circular rounded corners, that is all you need to do. If you want corners which are rounded farther along one side than along the other, you can move that other handle leftwards."
-msgstr "Spójrzmy najpierw na uchwyty zaokrąglające. Chwyć jeden z nich i przeciągnij w dół. Wszystkie cztery narożniki prostokąta zostały zaokrąglone. Teraz widać drugi z uchwytów zaokrąglających – znajduje się on w wyjściowej pozycji w narożniku. Jeśli chcesz, by narożniki były zaokrąglone, to jest to wszystko, co trzeba zrobić. Jeśli chcesz, aby narożniki prostokąta były bardziej zaokrąglone z jednej strony niż z drugiej – przeciągnij drugi z tych uchwytów w lewo."
+msgid ""
+"Let's look at the rounding handles first. Grab one of them and drag down. "
+"All four corners of the rectangle become rounded, and you can now see the "
+"second rounding handle — it stays in the original position in the corner. If "
+"you want circular rounded corners, that is all you need to do. If you want "
+"corners which are rounded farther along one side than along the other, you "
+"can move that other handle leftwards."
+msgstr ""
+"Spójrzmy najpierw na uchwyty zaokrąglające. Chwyć jeden z nich i przeciągnij "
+"w dół. Wszystkie cztery narożniki prostokąta zostały zaokrąglone. Teraz "
+"widać drugi z uchwytów zaokrąglających – znajduje się on w wyjściowej "
+"pozycji w narożniku. Jeśli chcesz, by narożniki były zaokrąglone, to jest to "
+"wszystko, co trzeba zrobić. Jeśli chcesz, aby narożniki prostokąta były "
+"bardziej zaokrąglone z jednej strony niż z drugiej – przeciągnij drugi z "
+"tych uchwytów w lewo."
 
 #: tutorial-shapes.xml:134(para)
-msgid "Here, the first two rectangles have circular rounded corners, and the other two have elliptic rounded corners:"
-msgstr "Na rysunku pierwsze dwa prostokąty mają koliście zaokrąglone narożniki, dwa pozostałe – eliptycznie."
+msgid ""
+"Here, the first two rectangles have circular rounded corners, and the other "
+"two have elliptic rounded corners:"
+msgstr ""
+"Na rysunku pierwsze dwa prostokąty mają koliście zaokrąglone narożniki, dwa "
+"pozostałe – eliptycznie."
 
 #: tutorial-shapes.xml:146(para)
-msgid "Still in the Rectangle tool, click on these rectangles to select, and observe their rounding handles."
-msgstr "Pozostając wciąż w trybie narzędzia „Prostokąt” kliknij te prostokąty, by je zaznaczyć, i obserwuj ich uchwyty zaokrąglające."
+msgid ""
+"Still in the Rectangle tool, click on these rectangles to select, and "
+"observe their rounding handles."
+msgstr ""
+"Pozostając wciąż w trybie narzędzia „Prostokąt” kliknij te prostokąty, by je "
+"zaznaczyć, i obserwuj ich uchwyty zaokrąglające."
 
 #: tutorial-shapes.xml:151(para)
-msgid "Often, the radius and shape of the rounded corners must be constant within the entire composition, even if the sizes of the rectangles are different (think diagrams with rounded boxes of various sizes). Inkscape makes this easy. Switch to the Selector tool; in its Tool Controls bar, there's a group of four toggle buttons, the second from the left showing two concentric rounded corners. This is how you control whether the rounded corners are scaled when the rectangle is scaled or not."
-msgstr "Często promień i kształt zaokrąglonych narożników musi być stały wewnątrz całej kompozycji – nawet jeśli wielkości prostokątów są różne. Na przykład w wąskich diagramach z zaokrąglonymi prostokątami różnych wielkości. W Inkscape'ie jest to proste. Po wybraniu narzędzia „Wskaźnik” zostanie wyświetlony pasek narzędzi, na którym po prawej stronie znajduje się grupa czterech przełączanych przycisków. Na drugim przycisku z lewej widać dwa koncentrycznie zaokrąglone narożniki. Za pomocą tego przycisku można kontrolować, czy podczas skalowania prostokąta będą, czy nie będą skalowane narożniki."
+msgid ""
+"Often, the radius and shape of the rounded corners must be constant within "
+"the entire composition, even if the sizes of the rectangles are different "
+"(think diagrams with rounded boxes of various sizes). Inkscape makes this "
+"easy. Switch to the Selector tool; in its Tool Controls bar, there's a group "
+"of four toggle buttons, the second from the left showing two concentric "
+"rounded corners. This is how you control whether the rounded corners are "
+"scaled when the rectangle is scaled or not."
+msgstr ""
+"Często promień i kształt zaokrąglonych narożników musi być stały wewnątrz "
+"całej kompozycji – nawet jeśli wielkości prostokątów są różne. Na przykład w "
+"wąskich diagramach z zaokrąglonymi prostokątami różnych wielkości. W "
+"Inkscape'ie jest to proste. Po wybraniu narzędzia „Wskaźnik” zostanie "
+"wyświetlony pasek narzędzi, na którym po prawej stronie znajduje się grupa "
+"czterech przełączanych przycisków. Na drugim przycisku z lewej widać dwa "
+"koncentrycznie zaokrąglone narożniki. Za pomocą tego przycisku można "
+"kontrolować, czy podczas skalowania prostokąta będą, czy nie będą skalowane "
+"narożniki."
 
 #: tutorial-shapes.xml:160(para)
-msgid "For example, here the original red rectangle is duplicated and scaled several times, up and down, to different proportions, with the “Scale rounded corners” button <emphasis>off</emphasis>:"
-msgstr "Na przykład ten czerwony prostokąt został powielony i przeskalowany kilka razy w różnych proporcjach z <emphasis>wyłączonym</emphasis> przyciskiem „Skaluj zaokrąglone narożniki”."
+msgid ""
+"For example, here the original red rectangle is duplicated and scaled "
+"several times, up and down, to different proportions, with the “Scale "
+"rounded corners” button <emphasis>off</emphasis>:"
+msgstr ""
+"Na przykład ten czerwony prostokąt został powielony i przeskalowany kilka "
+"razy w różnych proporcjach z <emphasis>wyłączonym</emphasis> przyciskiem "
+"„Skaluj zaokrąglone narożniki”."
 
 #: tutorial-shapes.xml:173(para)
-msgid "Note how the size and shape of the rounded corners is the same in all rectangles, so that the roundings align exactly in the top right corner where they all meet. All the dotted blue rectangles are obtained from the original red rectangle just by scaling in Selector, without any manual readjustment of the rounding handles."
-msgstr "Zauważ, że wielkość i kształt zaokrąglonych narożników jest taka sama we wszystkich prostokątach, więc zaokrąglenia w prawym górnym narożniku idealnie się pokrywają. Wszystkie niebieskie prostokąty z kropkowanym konturem otrzymano poprzez przeskalowanie czerwonego prostokąta narzędziem „Wskaźnik” bez żadnych ręcznych poprawek uchwytami zaokrąglenia."
+msgid ""
+"Note how the size and shape of the rounded corners is the same in all "
+"rectangles, so that the roundings align exactly in the top right corner "
+"where they all meet. All the dotted blue rectangles are obtained from the "
+"original red rectangle just by scaling in Selector, without any manual "
+"readjustment of the rounding handles."
+msgstr ""
+"Zauważ, że wielkość i kształt zaokrąglonych narożników jest taka sama we "
+"wszystkich prostokątach, więc zaokrąglenia w prawym górnym narożniku "
+"idealnie się pokrywają. Wszystkie niebieskie prostokąty z kropkowanym "
+"konturem otrzymano poprzez przeskalowanie czerwonego prostokąta narzędziem "
+"„Wskaźnik” bez żadnych ręcznych poprawek uchwytami zaokrąglenia."
 
 #: tutorial-shapes.xml:181(para)
-msgid "For a comparison, here is the same composition but now created with the “Scale rounded corners” button <emphasis>on</emphasis>:"
-msgstr "Dla porównania ta sama kompozycja, ale stworzona z <emphasis>włączonym</emphasis> przyciskiem „Skaluj zaokrąglone narożniki”."
+msgid ""
+"For a comparison, here is the same composition but now created with the "
+"“Scale rounded corners” button <emphasis>on</emphasis>:"
+msgstr ""
+"Dla porównania ta sama kompozycja, ale stworzona z <emphasis>włączonym</"
+"emphasis> przyciskiem „Skaluj zaokrąglone narożniki”."
 
 #: tutorial-shapes.xml:193(para)
-msgid "Now the rounded corners are as different as the rectangles they belong to, and there isn't a slightest agreement in the top right corner (zoom in to see). This is the same (visible) result as you would get by converting the original rectangle to a path (<keycap>Ctrl+Shift+C</keycap>) and scaling it as path."
-msgstr "Teraz zaokrąglone narożniki są różne i zależą od wielkości prostokąta. Również w prawym górnym rogu nie pokrywają się – wykonaj powiększenie, aby to sprawdzić. Jest to taki sam wizualny efekt, jaki można uzyskać konwertując czerwony prostokąt na ścieżkę [ <keycap>Ctrl+Shift+C</keycap> ] i skalując go jako ścieżkę."
+msgid ""
+"Now the rounded corners are as different as the rectangles they belong to, "
+"and there isn't a slightest agreement in the top right corner (zoom in to "
+"see). This is the same (visible) result as you would get by converting the "
+"original rectangle to a path (<keycap>Ctrl+Shift+C</keycap>) and scaling it "
+"as path."
+msgstr ""
+"Teraz zaokrąglone narożniki są różne i zależą od wielkości prostokąta. "
+"Również w prawym górnym rogu nie pokrywają się – wykonaj powiększenie, aby "
+"to sprawdzić. Jest to taki sam wizualny efekt, jaki można uzyskać "
+"konwertując czerwony prostokąt na ścieżkę [ <keycap>Ctrl+Shift+C</keycap> ] "
+"i skalując go jako ścieżkę."
 
 #: tutorial-shapes.xml:200(para)
 msgid "Here are the shortcuts for the rounding handles of a rectangle:"
-msgstr "Skróty dla uchwytów zaokrąglających prostokąta przedstawiają się następująco:"
+msgstr ""
+"Skróty dla uchwytów zaokrąglających prostokąta przedstawiają się następująco:"
 
 #: tutorial-shapes.xml:204(para)
-msgid "Drag with <keycap>Ctrl</keycap> to make the other radius the same (circular rounding)."
-msgstr "Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – promienie zaokrąglenia równomierne."
+msgid ""
+"Drag with <keycap>Ctrl</keycap> to make the other radius the same (circular "
+"rounding)."
+msgstr ""
+"Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – promienie "
+"zaokrąglenia równomierne."
 
 #: tutorial-shapes.xml:207(para)
-msgid "<keycap>Ctrl+click</keycap> to make the other radius the same without dragging."
-msgstr "[ <keycap>Ctrl+kliknięcie</keycap> ] – promienie zaokrąglenia równomierne bez ciągnięcia."
+msgid ""
+"<keycap>Ctrl+click</keycap> to make the other radius the same without "
+"dragging."
+msgstr ""
+"[ <keycap>Ctrl+kliknięcie</keycap> ] – promienie zaokrąglenia równomierne "
+"bez ciągnięcia."
 
 #: tutorial-shapes.xml:211(para)
 msgid "<keycap>Shift+click</keycap> to remove rounding."
 msgstr "[ <keycap>Shift+kliknięcie</keycap> ] – usunięcie zaokrąglenia."
 
 #: tutorial-shapes.xml:216(para)
-msgid "You may have noticed that the Rectangle tool's Controls bar shows the horizontal (<firstterm>Rx</firstterm>) and vertical (<firstterm>Ry</firstterm>) rounding radii for the selected rectangle and lets you set them precisely using any length units. The <command>Not rounded</command> button does what is says — removes rounding from the selected rectangle(s)."
-msgstr "Na pasku kontrolek narzędzia „Prostokąt” znajdują się pola wprowadzania wartości promienia zaokrąglenia narożników w płaszczyźnie poziomej (<firstterm>Rx</firstterm>) i pionowej (<firstterm>Ry</firstterm>), pozwalające dokładnie ustalić te promienie. Wartości te można podawać wybierając jednostki z dostępnej palety jednostek. Przycisk „<command>Utwórz ostre narożniki</command>” usuwa zaokrąglenie z zaznaczonych prostokątów."
+msgid ""
+"You may have noticed that the Rectangle tool's Controls bar shows the "
+"horizontal (<firstterm>Rx</firstterm>) and vertical (<firstterm>Ry</"
+"firstterm>) rounding radii for the selected rectangle and lets you set them "
+"precisely using any length units. The <command>Not rounded</command> button "
+"does what is says — removes rounding from the selected rectangle(s)."
+msgstr ""
+"Na pasku kontrolek narzędzia „Prostokąt” znajdują się pola wprowadzania "
+"wartości promienia zaokrąglenia narożników w płaszczyźnie poziomej "
+"(<firstterm>Rx</firstterm>) i pionowej (<firstterm>Ry</firstterm>), "
+"pozwalające dokładnie ustalić te promienie. Wartości te można podawać "
+"wybierając jednostki z dostępnej palety jednostek. Przycisk „<command>Utwórz "
+"ostre narożniki</command>” usuwa zaokrąglenie z zaznaczonych prostokątów."
 
 #: tutorial-shapes.xml:223(para)
-msgid "An important advantage of these controls is that they can affect many rectangles at once. For example, if you want to change all rectangles in the layer, just do <keycap>Ctrl+A</keycap> (<command>Select All</command>) and set the parameters you need in the Controls bar. If any non-rectangles are selected, they will be ignored — only rectangles will be changed."
-msgstr "Istotną zaletą tych kontrolek jest to, że wpływają na wiele prostokątów jednocześnie. Na przykład, jeśli zachodzi potrzeba zmiany wszystkich prostokątów na warstwie, należy je zaznaczyć używając skrótu [ <keycap>Ctrl+A</keycap> ] lub polecenia „<command>Zaznacz wszystko</command>” i określić żądane wartości za pomocą kontrolek. Jeżeli wśród zaznaczonych obiektów znajdują się obiekty niebędące prostokątami, zostaną pominięte – zmianie ulegną tylko prostokąty."
+msgid ""
+"An important advantage of these controls is that they can affect many "
+"rectangles at once. For example, if you want to change all rectangles in the "
+"layer, just do <keycap>Ctrl+A</keycap> (<command>Select All</command>) and "
+"set the parameters you need in the Controls bar. If any non-rectangles are "
+"selected, they will be ignored — only rectangles will be changed."
+msgstr ""
+"Istotną zaletą tych kontrolek jest to, że wpływają na wiele prostokątów "
+"jednocześnie. Na przykład, jeśli zachodzi potrzeba zmiany wszystkich "
+"prostokątów na warstwie, należy je zaznaczyć używając skrótu [ <keycap>Ctrl"
+"+A</keycap> ] lub polecenia „<command>Zaznacz wszystko</command>” i określić "
+"żądane wartości za pomocą kontrolek. Jeżeli wśród zaznaczonych obiektów "
+"znajdują się obiekty niebędące prostokątami, zostaną pominięte – zmianie "
+"ulegną tylko prostokąty."
 
 #: tutorial-shapes.xml:230(para)
-msgid "Now let's look at the resize handles of a rectangle. You might wonder, why do we need them at all, if we can just as well resize the rectangle with Selector?"
-msgstr "Spójrzmy teraz na uchwyty zmiany rozmiaru. Zastanawiasz się, po co są one potrzebne, skoro można zmienić rozmiar prostokąta za pomocą narzędzia „Wskaźnik”?"
+msgid ""
+"Now let's look at the resize handles of a rectangle. You might wonder, why "
+"do we need them at all, if we can just as well resize the rectangle with "
+"Selector?"
+msgstr ""
+"Spójrzmy teraz na uchwyty zmiany rozmiaru. Zastanawiasz się, po co są one "
+"potrzebne, skoro można zmienić rozmiar prostokąta za pomocą narzędzia "
+"„Wskaźnik”?"
 
 #: tutorial-shapes.xml:236(para)
-msgid "The problem with Selector is that its notion of horizontal and vertical is always that of the document page. By contrast, a rectangle's resize handles scale it <emphasis>along that rectangle's sides</emphasis>, even if the rectangle is rotated or skewed. For example, try to resize this rectangle first with Selector and then with its resize handles in Rectangle tool:"
-msgstr "Problem ze wskaźnikiem jest taki, że poziom i pion są zawsze postrzegane przez to narzędzie jak  strona dokumentu, a uchwyty zmiany rozmiaru narzędzia „Prostokąt” skalują go <emphasis>wzdłuż jego boków</emphasis>, nawet jeśli prostokąt jest obrócony bądź pochylony. W ramach ćwiczenia spróbuj zmienić rozmiar tego prostokąta najpierw za pomocą „Wskaźnika”, a następnie za pomocą narzędzia „Prostokąt” i jego uchwytów do zmiany rozmiaru."
+msgid ""
+"The problem with Selector is that its notion of horizontal and vertical is "
+"always that of the document page. By contrast, a rectangle's resize handles "
+"scale it <emphasis>along that rectangle's sides</emphasis>, even if the "
+"rectangle is rotated or skewed. For example, try to resize this rectangle "
+"first with Selector and then with its resize handles in Rectangle tool:"
+msgstr ""
+"Problem ze wskaźnikiem jest taki, że poziom i pion są zawsze postrzegane "
+"przez to narzędzie jak  strona dokumentu, a uchwyty zmiany rozmiaru "
+"narzędzia „Prostokąt” skalują go <emphasis>wzdłuż jego boków</emphasis>, "
+"nawet jeśli prostokąt jest obrócony bądź pochylony. W ramach ćwiczenia "
+"spróbuj zmienić rozmiar tego prostokąta najpierw za pomocą „Wskaźnika”, a "
+"następnie za pomocą narzędzia „Prostokąt” i jego uchwytów do zmiany rozmiaru."
 
 #: tutorial-shapes.xml:251(para)
-msgid "Since the resize handles are two, you can resize the rectangle into any direction or even move it along its sides. Resize handles always preserve the rounding radii."
-msgstr "Ponieważ są dwa uchwyty do zmiany rozmiaru, można skalować prostokąt w dowolnym kierunku, a nawet wzdłuż jego boków. Uchwyty te zawsze zachowują promień zaokrąglenia."
+msgid ""
+"Since the resize handles are two, you can resize the rectangle into any "
+"direction or even move it along its sides. Resize handles always preserve "
+"the rounding radii."
+msgstr ""
+"Ponieważ są dwa uchwyty do zmiany rozmiaru, można skalować prostokąt w "
+"dowolnym kierunku, a nawet wzdłuż jego boków. Uchwyty te zawsze zachowują "
+"promień zaokrąglenia."
 
 #: tutorial-shapes.xml:257(para)
 msgid "Here are the shortcuts for the resize handles:"
 msgstr "Skróty dla uchwytów zmiany rozmiaru:"
 
 #: tutorial-shapes.xml:262(para)
-msgid "Drag with <keycap>Ctrl</keycap> to snap to the sides or the diagonal of the rectangle. In other words, <keycap>Ctrl</keycap> preserves either width, or height, or the width/height ratio of the rectangle (again, in its own coordinate system which may be rotated or skewed)."
-msgstr "Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – przyciąganie do boków lub przekątnych prostokąta. Innymi słowy, wciśnięcie i przytrzymanie klawisza [ <keycap>Ctrl</keycap> ] powoduje zachowanie szerokości lub wysokości bądź stosunku szerokość/wysokość prostokąta (w jego własnym układzie współrzędnych, który może być obrócony albo pochylony)."
+msgid ""
+"Drag with <keycap>Ctrl</keycap> to snap to the sides or the diagonal of the "
+"rectangle. In other words, <keycap>Ctrl</keycap> preserves either width, or "
+"height, or the width/height ratio of the rectangle (again, in its own "
+"coordinate system which may be rotated or skewed)."
+msgstr ""
+"Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – przyciąganie "
+"do boków lub przekątnych prostokąta. Innymi słowy, wciśnięcie i "
+"przytrzymanie klawisza [ <keycap>Ctrl</keycap> ] powoduje zachowanie "
+"szerokości lub wysokości bądź stosunku szerokość/wysokość prostokąta (w jego "
+"własnym układzie współrzędnych, który może być obrócony albo pochylony)."
 
 #: tutorial-shapes.xml:268(para)
-msgid "Here is the same rectangle, with the gray dotted lines showing the directions to which the resize handles stick when dragged with <keycap>Ctrl</keycap> (try it):"
-msgstr "Obok jest ten sam prostokąt, ale ze szarymi kropkowanymi liniami, pokazującymi kierunki wzdłuż, których uchwyty zmiany rozmiaru będą podążały podczas ciągnięcia ich ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]. Wypróbuj to."
+msgid ""
+"Here is the same rectangle, with the gray dotted lines showing the "
+"directions to which the resize handles stick when dragged with <keycap>Ctrl</"
+"keycap> (try it):"
+msgstr ""
+"Obok jest ten sam prostokąt, ale ze szarymi kropkowanymi liniami, "
+"pokazującymi kierunki wzdłuż, których uchwyty zmiany rozmiaru będą podążały "
+"podczas ciągnięcia ich ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]. "
+"Wypróbuj to."
 
 #: tutorial-shapes.xml:281(para)
-msgid "By slanting and rotating a rectangle, then duplicating it and resizing with its resize handles, 3D compositions can be created easily:"
-msgstr "Pochylając i obracając prostokąt, a potem powielając go i zmieniając wymiary uchwytami zmiany wielkości, można łatwo tworzyć kompozycje 3D."
+msgid ""
+"By slanting and rotating a rectangle, then duplicating it and resizing with "
+"its resize handles, 3D compositions can be created easily:"
+msgstr ""
+"Pochylając i obracając prostokąt, a potem powielając go i zmieniając wymiary "
+"uchwytami zmiany wielkości, można łatwo tworzyć kompozycje 3D."
 
 #: tutorial-shapes.xml:293(para)
-msgid "Here are some more examples of rectangle compositions, including rounding and gradient fills:"
-msgstr "Oto przykłady kompozycji złożonych z prostokątów zawierających zaokrąglenia i gradientowe wypełnienia."
+msgid ""
+"Here are some more examples of rectangle compositions, including rounding "
+"and gradient fills:"
+msgstr ""
+"Oto przykłady kompozycji złożonych z prostokątów zawierających zaokrąglenia "
+"i gradientowe wypełnienia."
 
 #: tutorial-shapes.xml:308(title)
 msgid "Ellipses"
 msgstr "Elipsy"
 
 #: tutorial-shapes.xml:309(para)
-msgid "The Ellipse tool (<keycap>F5</keycap>) can create ellipses and circles, which you can turn into segments or arcs. The drawing shortcuts are the same as those of the rectangle tool:"
-msgstr "Narzędzie „Elipsa” [ <keycap>F5</keycap> ] służy do tworzenia elips i okręgów, które można zamienić w wycinki i łuki. Skróty do rysowania elips są analogiczne do skrótów dla narzędzia „Prostokąt”:"
+msgid ""
+"The Ellipse tool (<keycap>F5</keycap>) can create ellipses and circles, "
+"which you can turn into segments or arcs. The drawing shortcuts are the same "
+"as those of the rectangle tool:"
+msgstr ""
+"Narzędzie „Elipsa” [ <keycap>F5</keycap> ] służy do tworzenia elips i "
+"okręgów, które można zamienić w wycinki i łuki. Skróty do rysowania elips są "
+"analogiczne do skrótów dla narzędzia „Prostokąt”:"
 
 #: tutorial-shapes.xml:316(para)
-msgid "With <keycap>Ctrl</keycap>, draw a circle or an integer-ratio (2:1, 3:1, etc.) ellipse."
-msgstr "Ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – rysowanie okręgu lub elipsy o proporcjach 2:1, 3:1, itd."
+msgid ""
+"With <keycap>Ctrl</keycap>, draw a circle or an integer-ratio (2:1, 3:1, "
+"etc.) ellipse."
+msgstr ""
+"Ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – rysowanie okręgu lub "
+"elipsy o proporcjach 2:1, 3:1, itd."
 
 #: tutorial-shapes.xml:324(para)
 msgid "Let's explore the handles of an ellipse. Select this one:"
 msgstr "Poznajmy teraz uchwyty elipsy. Zaznacz poniższą elipsę:"
 
 #: tutorial-shapes.xml:335(para)
-msgid "Once again, you see three handles initially, but in fact they are four. The rightmost handle is two overlapping handles that let you “open” the ellipse. Drag that rightmost handle, then drag the other handle which becomes visible under it, to get a variety of pie-chart segments or arcs:"
-msgstr "Jak widać, wyświetlone są trzy uchwyty, ale w rzeczywistości są cztery. Najbardziej wysunięty na prawo uchwyt, to w rzeczywistości dwa uchwyty, gdzie jeden przesłania drugi. Pozwalają one „otworzyć” elipsę. Pociągnij ten uchwyt, a zobaczysz drugi, dotychczas przesłonięty uchwyt. Przeciągając ten uchwyt można tworzyć różnorodne wykresy sektorowe lub łuki."
+msgid ""
+"Once again, you see three handles initially, but in fact they are four. The "
+"rightmost handle is two overlapping handles that let you “open” the ellipse. "
+"Drag that rightmost handle, then drag the other handle which becomes visible "
+"under it, to get a variety of pie-chart segments or arcs:"
+msgstr ""
+"Jak widać, wyświetlone są trzy uchwyty, ale w rzeczywistości są cztery. "
+"Najbardziej wysunięty na prawo uchwyt, to w rzeczywistości dwa uchwyty, "
+"gdzie jeden przesłania drugi. Pozwalają one „otworzyć” elipsę. Pociągnij ten "
+"uchwyt, a zobaczysz drugi, dotychczas przesłonięty uchwyt. Przeciągając ten "
+"uchwyt można tworzyć różnorodne wykresy sektorowe lub łuki."
 
 #: tutorial-shapes.xml:349(para)
-msgid "To get a <firstterm>segment</firstterm> (an arc plus two radii), drag <emphasis>outside</emphasis> the ellipse; to get an <firstterm>arc</firstterm>, drag <emphasis>inside</emphasis> it. Above, there are 4 segments on the left and 3 arcs on the right. Note that arcs are unclosed shapes, i.e. the stroke only goes along the ellipse but does not connect the ends of the arc. You can make this obvious if you remove the fill, leaving only stroke:"
-msgstr "Aby uzyskać <firstterm>wycinek</firstterm> (łuk plus dwa promienie), ciągnij uchwyt <emphasis>na zewnątrz</emphasis> elipsy. <firstterm>Łuk</firstterm> uzyskasz ciągnąc uchwyt do <emphasis>wewnątrz</emphasis> elipsy. Powyżej znajdują się 4 wycinki po lewej i 3 łuki po prawej stronie. Zauważ, że łuki są niezamkniętymi kształtami, tj. kontur przebiega wokół elipsy, ale jego końce się nie łączą. Będzie to wyraźnie widać, jeśli usuniesz wypełnienie, zostawiając tylko kontur: "
+msgid ""
+"To get a <firstterm>segment</firstterm> (an arc plus two radii), drag "
+"<emphasis>outside</emphasis> the ellipse; to get an <firstterm>arc</"
+"firstterm>, drag <emphasis>inside</emphasis> it. Above, there are 4 segments "
+"on the left and 3 arcs on the right. Note that arcs are unclosed shapes, i."
+"e. the stroke only goes along the ellipse but does not connect the ends of "
+"the arc. You can make this obvious if you remove the fill, leaving only "
+"stroke:"
+msgstr ""
+"Aby uzyskać <firstterm>wycinek</firstterm> (łuk plus dwa promienie), ciągnij "
+"uchwyt <emphasis>na zewnątrz</emphasis> elipsy. <firstterm>Łuk</firstterm> "
+"uzyskasz ciągnąc uchwyt do <emphasis>wewnątrz</emphasis> elipsy. Powyżej "
+"znajdują się 4 wycinki po lewej i 3 łuki po prawej stronie. Zauważ, że łuki "
+"są niezamkniętymi kształtami, tj. kontur przebiega wokół elipsy, ale jego "
+"końce się nie łączą. Będzie to wyraźnie widać, jeśli usuniesz wypełnienie, "
+"zostawiając tylko kontur: "
 
 #: tutorial-shapes.xml:365(para)
-msgid "Note the fan-like group of narrow segments on the left. It was easy to create using <firstterm>angle snapping</firstterm> of the handle with <keycap>Ctrl</keycap>. Here are the arc/segment handle shortcuts:"
-msgstr "Spójrz na znajdującą się po lewej stronie grupę wąskich wycinków przypominającą swoim wyglądem wachlarz. Łatwo je było stworzyć, używając <firstterm>przyciągania kątowego<firstterm> uchwytu dostępnego podczas jego ciągnięcia ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]. Oto skróty dla uchwytów tworzących łuki/wycinki:"
+msgid ""
+"Note the fan-like group of narrow segments on the left. It was easy to "
+"create using <firstterm>angle snapping</firstterm> of the handle with "
+"<keycap>Ctrl</keycap>. Here are the arc/segment handle shortcuts:"
+msgstr ""
+"Spójrz na znajdującą się po lewej stronie grupę wąskich wycinków "
+"przypominającą swoim wyglądem wachlarz. Łatwo je było stworzyć, używając "
+"<firstterm>przyciągania kątowego<firstterm> uchwytu dostępnego podczas jego "
+"ciągnięcia ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]. Oto skróty dla "
+"uchwytów tworzących łuki/wycinki:"
 
 #: tutorial-shapes.xml:372(para)
-msgid "With <keycap>Ctrl</keycap>, snap the handle every 15 degrees when dragging."
-msgstr "Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap</keycap> ] – przeciąganie uchwytu co 15 stopni."
+msgid ""
+"With <keycap>Ctrl</keycap>, snap the handle every 15 degrees when dragging."
+msgstr ""
+"Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap</keycap> ] – "
+"przeciąganie uchwytu co 15 stopni."
 
 #: tutorial-shapes.xml:375(para)
-msgid "<keycap>Shift+click</keycap> to make the ellipse whole (not arc or segment)."
+msgid ""
+"<keycap>Shift+click</keycap> to make the ellipse whole (not arc or segment)."
 msgstr "[ <keycap>Shift+kliknięcie</keycap> ] – tworzenie pełnej elipsy."
 
 #: tutorial-shapes.xml:380(para)
-msgid "The snap angle can be changed in Inkscape Preferences (the <command>Steps</command> tab)."
-msgstr "Kąt przeciągania może być zmieniony w ustawieniach Inkscape'a na karcie „<command>Kroki</command>”."
+msgid ""
+"The snap angle can be changed in Inkscape Preferences (the <command>Steps</"
+"command> tab)."
+msgstr ""
+"Kąt przeciągania może być zmieniony w ustawieniach Inkscape'a na karcie "
+"„<command>Kroki</command>”."
 
 #: tutorial-shapes.xml:384(para)
-msgid "The other two handles of the ellipse are used for resizing it around its center. Their shortcuts are similar to those of the rounding handles of a rectangle:"
-msgstr "Pozostałe dwa uchwyty służą do zmiany wielkości elipsy względem jej środka. Ich skróty klawiaturowe podobne są do skrótów dla uchwytów zaokrąglających w prostokącie:"
+msgid ""
+"The other two handles of the ellipse are used for resizing it around its "
+"center. Their shortcuts are similar to those of the rounding handles of a "
+"rectangle:"
+msgstr ""
+"Pozostałe dwa uchwyty służą do zmiany wielkości elipsy względem jej środka. "
+"Ich skróty klawiaturowe podobne są do skrótów dla uchwytów zaokrąglających w "
+"prostokącie:"
 
 #: tutorial-shapes.xml:390(para)
-msgid "Drag with <keycap>Ctrl</keycap> to make a circle (make the other radius the same)."
-msgstr "Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – tworzenie koła (wszystkie promienie takie same)."
+msgid ""
+"Drag with <keycap>Ctrl</keycap> to make a circle (make the other radius the "
+"same)."
+msgstr ""
+"Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] – tworzenie "
+"koła (wszystkie promienie takie same)."
 
 #: tutorial-shapes.xml:393(para)
 msgid "<keycap>Ctrl+click</keycap> to make a circle without dragging."
 msgstr "[ <keycap>Ctrl+kliknięcie</keycap> ] – tworzenie koła bez ciągnięcia."
 
 #: tutorial-shapes.xml:398(para)
-msgid "And, like the rectangle resize handles, these ellipse handles adjust the height and width of the ellipse in <emphasis>the ellipse's own coordinates</emphasis>. This means that a rotated or skewed ellipse can easily be stretched or squeezed along its original axes while remaining rotated or skewed. Try to resize any of these ellipses by their resize handles:"
-msgstr "Podobnie jak uchwyty do zmiany wielkości prostokąta, uchwyty elipsy służą do zmiany wysokości i szerokości we <emphasis>własnych współrzędnych</emphasis> elipsy. Oznacza to, że obrócona lub pochylona elipsa może być łatwo rozciągana bądź zwężana wzdłuż jej początkowych osi wciąż pozostając obróconą lub pochyloną. Spróbuj zmienić wielkość dowolnej z tych elips za pomocą jej uchwytów."
+msgid ""
+"And, like the rectangle resize handles, these ellipse handles adjust the "
+"height and width of the ellipse in <emphasis>the ellipse's own coordinates</"
+"emphasis>. This means that a rotated or skewed ellipse can easily be "
+"stretched or squeezed along its original axes while remaining rotated or "
+"skewed. Try to resize any of these ellipses by their resize handles:"
+msgstr ""
+"Podobnie jak uchwyty do zmiany wielkości prostokąta, uchwyty elipsy służą do "
+"zmiany wysokości i szerokości we <emphasis>własnych współrzędnych</emphasis> "
+"elipsy. Oznacza to, że obrócona lub pochylona elipsa może być łatwo "
+"rozciągana bądź zwężana wzdłuż jej początkowych osi wciąż pozostając "
+"obróconą lub pochyloną. Spróbuj zmienić wielkość dowolnej z tych elips za "
+"pomocą jej uchwytów."
 
 #: tutorial-shapes.xml:416(title)
 msgid "Stars"
 msgstr "Gwiazdy"
 
 #: tutorial-shapes.xml:417(para)
-msgid "Stars are the most complex and the most exciting Inkscape shape. If you want to wow your friends by Inkscape, let them play with the Star tool. It's endlessly entertaining — outright addictive!"
-msgstr "Gwiazdy to najbardziej złożony i najbardziej ekscytujący kształt Inkscape'a. Jeśli chcesz, by Inkscape wywarł wrażenie na twoich przyjaciołach, pozwól im pobawić się narzędziem „Gwiazda”. To zabawa bez końca – prawie uzależniająca!"
+msgid ""
+"Stars are the most complex and the most exciting Inkscape shape. If you want "
+"to wow your friends by Inkscape, let them play with the Star tool. It's "
+"endlessly entertaining — outright addictive!"
+msgstr ""
+"Gwiazdy to najbardziej złożony i najbardziej ekscytujący kształt Inkscape'a. "
+"Jeśli chcesz, by Inkscape wywarł wrażenie na twoich przyjaciołach, pozwól im "
+"pobawić się narzędziem „Gwiazda”. To zabawa bez końca – prawie uzależniająca!"
 
 #: tutorial-shapes.xml:423(para)
-msgid "The Star tool can create two similar but distinct kinds of objects: stars and polygons. A star has two handles whose positions define the length and shape of its tips; a polygon has just one handle which simply rotates and resizes the polygon when dragged:"
-msgstr "Narzędzie „Gwiazda” może tworzyć dwa podobne, ale jednak różne rodzaje obiektów: gwiazdy i wielokąty. Gwiazda ma dwa uchwyty, których pozycje określają długość i kształt jej ramion. Wielokąt ma tylko jeden uchwyt, który służy do obracania i zmiany wielkości poprzez wykonanie ciągnięcia:"
+msgid ""
+"The Star tool can create two similar but distinct kinds of objects: stars "
+"and polygons. A star has two handles whose positions define the length and "
+"shape of its tips; a polygon has just one handle which simply rotates and "
+"resizes the polygon when dragged:"
+msgstr ""
+"Narzędzie „Gwiazda” może tworzyć dwa podobne, ale jednak różne rodzaje "
+"obiektów: gwiazdy i wielokąty. Gwiazda ma dwa uchwyty, których pozycje "
+"określają długość i kształt jej ramion. Wielokąt ma tylko jeden uchwyt, "
+"który służy do obracania i zmiany wielkości poprzez wykonanie ciągnięcia:"
 
 #: tutorial-shapes.xml:437(para)
-msgid "In the Controls bar of the Star tool, first comes a checkbox to turn a star into the corresponding polygon and back. Next, a numeric field sets the <firstterm>number of vertices</firstterm> of a star or polygon. This parameter is only editable via the Controls bar. The allowed range is from 3 (obviously) to 1024, but you shouldn't try large numbers (say, over 200) if your computer is slow."
-msgstr "Pierwsze dwa przyciski na pasku kontrolek narzędzia „Gwiazda”, to przyciski służące do zamiany gwiazdy w wielokąt i odwrotnie. Obok znajduje się pole liczbowe do ustawiania <firstterm>liczby wierzchołków</firstterm> gwiazdy lub wielokąta. Ten parametr można edytować tylko poprzez pasek kontrolek. Dopuszczalny zakres wartości to 3 do 1024, ale jeśli masz wolny komputer, nie należy używać zbyt dużych wartości – powiedzmy powyżej 200."
+msgid ""
+"In the Controls bar of the Star tool, first comes a checkbox to turn a star "
+"into the corresponding polygon and back. Next, a numeric field sets the "
+"<firstterm>number of vertices</firstterm> of a star or polygon. This "
+"parameter is only editable via the Controls bar. The allowed range is from 3 "
+"(obviously) to 1024, but you shouldn't try large numbers (say, over 200) if "
+"your computer is slow."
+msgstr ""
+"Pierwsze dwa przyciski na pasku kontrolek narzędzia „Gwiazda”, to przyciski "
+"służące do zamiany gwiazdy w wielokąt i odwrotnie. Obok znajduje się pole "
+"liczbowe do ustawiania <firstterm>liczby wierzchołków</firstterm> gwiazdy "
+"lub wielokąta. Ten parametr można edytować tylko poprzez pasek kontrolek. "
+"Dopuszczalny zakres wartości to 3 do 1024, ale jeśli masz wolny komputer, "
+"nie należy używać zbyt dużych wartości – powiedzmy powyżej 200."
 
 #: tutorial-shapes.xml:445(para)
 msgid "When drawing a new star or polygon,"
-msgstr "Rysując nową gwiazdę albo wielokąt, aby przyciągać w przyrostach kątowych co 15 stopni,"
+msgstr ""
+"Rysując nową gwiazdę albo wielokąt, aby przyciągać w przyrostach kątowych co "
+"15 stopni,"
 
 #: tutorial-shapes.xml:450(para)
-msgid "Drag with <keycap>Ctrl</keycap> to snap the angle to 15 degree increments."
-msgstr "Wykonaj ciągnięcie myszą z wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]."
+msgid ""
+"Drag with <keycap>Ctrl</keycap> to snap the angle to 15 degree increments."
+msgstr ""
+"Wykonaj ciągnięcie myszą z wciśniętym klawiszem [ <keycap>Ctrl</keycap> ]."
 
 #: tutorial-shapes.xml:455(para)
-msgid "Naturally, a star is a much more interesting shape (though polygons are often more useful in practice). The two handles of a star have slightly different functions. The first handle (initially it is on a vertex, i.e. on a <emphasis>convex</emphasis> corner of the star) makes the star rays longer or shorter, but when you rotate it (relative to the center of the shape), the other handle rotates accordingly. This means you cannot skew the star's rays with this handle."
-msgstr "Gwiazda jest bardziej interesującym kształtem niż wielokąt, ale w praktyce to wielokąty są bardziej użyteczne. Uchwyty gwiazdy mają nieco odmienne funkcje. Pierwszy, początkowo znajduje się on na wierzchołku tj. na <emphasis>zewnętrznym</emphasis> narożniku ramienia gwiazdy, odpowiada za długość ramion, ale gdy jest obracany (względem środka kształtu) – drugi uchwyt również obraca się odpowiednio. Oznacza to, że nie można  za pomocą tego uchwytu pochylać ramion gwiazdy."
+msgid ""
+"Naturally, a star is a much more interesting shape (though polygons are "
+"often more useful in practice). The two handles of a star have slightly "
+"different functions. The first handle (initially it is on a vertex, i.e. on "
+"a <emphasis>convex</emphasis> corner of the star) makes the star rays longer "
+"or shorter, but when you rotate it (relative to the center of the shape), "
+"the other handle rotates accordingly. This means you cannot skew the star's "
+"rays with this handle."
+msgstr ""
+"Gwiazda jest bardziej interesującym kształtem niż wielokąt, ale w praktyce "
+"to wielokąty są bardziej użyteczne. Uchwyty gwiazdy mają nieco odmienne "
+"funkcje. Pierwszy, początkowo znajduje się on na wierzchołku tj. na "
+"<emphasis>zewnętrznym</emphasis> narożniku ramienia gwiazdy, odpowiada za "
+"długość ramion, ale gdy jest obracany (względem środka kształtu) – drugi "
+"uchwyt również obraca się odpowiednio. Oznacza to, że nie można  za pomocą "
+"tego uchwytu pochylać ramion gwiazdy."
 
 #: tutorial-shapes.xml:464(para)
-msgid "The other handle (initially in a <emphasis>concave</emphasis> corner between two vertices) is, conversely, free to move both radially and tangentially, without affecting the vertex handle. (In fact, this handle can itself become vertex by moving farther from the center than the other handle.) This is the handle that can skew the star's tips to get all sorts of crystals, mandalas, snowflakes, and porcupines:"
-msgstr "Drugi uchwyt, początkowo znajduje się on <emphasis>wewnątrz</emphasis> gwiazdy pomiędzy dwoma wierzchołkami ramion, można swobodnie przesuwać zarówno promieniowo, jak i stycznie bez wpływu na zewnętrzny uchwyt. W rzeczywistości uchwyt ten może sam stać się zewnętrznym poprzez wysunięcie go ze środka poza drugi uchwyt. Uchwytem tym można pochylać ramiona gwiazdy i w efekcie otrzymać wszelkie rodzaje kryształów, mandali, płatków śniegu i kolczastych form."
+msgid ""
+"The other handle (initially in a <emphasis>concave</emphasis> corner between "
+"two vertices) is, conversely, free to move both radially and tangentially, "
+"without affecting the vertex handle. (In fact, this handle can itself become "
+"vertex by moving farther from the center than the other handle.) This is the "
+"handle that can skew the star's tips to get all sorts of crystals, mandalas, "
+"snowflakes, and porcupines:"
+msgstr ""
+"Drugi uchwyt, początkowo znajduje się on <emphasis>wewnątrz</emphasis> "
+"gwiazdy pomiędzy dwoma wierzchołkami ramion, można swobodnie przesuwać "
+"zarówno promieniowo, jak i stycznie bez wpływu na zewnętrzny uchwyt. W "
+"rzeczywistości uchwyt ten może sam stać się zewnętrznym poprzez wysunięcie "
+"go ze środka poza drugi uchwyt. Uchwytem tym można pochylać ramiona gwiazdy "
+"i w efekcie otrzymać wszelkie rodzaje kryształów, mandali, płatków śniegu i "
+"kolczastych form."
 
 #: tutorial-shapes.xml:479(para)
-msgid "If you want just a plain regular star without any such lacework, you can make the skewing handle behave as the non-skewing one:"
-msgstr "Jeśli chcesz uzyskać tylko regularny kształt gwiazdy bez żadnych koronkowych kształtów, możesz sprawić, że uchwyt odpowiedzialny za pochylanie będzie zachowywał się zwyczajnie:"
+msgid ""
+"If you want just a plain regular star without any such lacework, you can "
+"make the skewing handle behave as the non-skewing one:"
+msgstr ""
+"Jeśli chcesz uzyskać tylko regularny kształt gwiazdy bez żadnych koronkowych "
+"kształtów, możesz sprawić, że uchwyt odpowiedzialny za pochylanie będzie "
+"zachowywał się zwyczajnie:"
 
 #: tutorial-shapes.xml:485(para)
-msgid "Drag with <keycap>Ctrl</keycap> to keep the star rays strictly radial (no skew)."
-msgstr "Ciągnij uchwyt ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ], aby zachować promieniowe ramiona bez pochyleń."
+msgid ""
+"Drag with <keycap>Ctrl</keycap> to keep the star rays strictly radial (no "
+"skew)."
+msgstr ""
+"Ciągnij uchwyt ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ], aby "
+"zachować promieniowe ramiona bez pochyleń."
 
 #: tutorial-shapes.xml:488(para)
 msgid "<keycap>Ctrl+click</keycap> to remove the skew without dragging."
-msgstr "Skrót [ <kecycap>Ctrl+kliknięcie</keycap> ] spowoduje usunięcie pochylenia bez potrzeby wykonania ciągnięcia."
+msgstr ""
+"Skrót [ <kecycap>Ctrl+kliknięcie</keycap> ] spowoduje usunięcie pochylenia "
+"bez potrzeby wykonania ciągnięcia."
 
 #: tutorial-shapes.xml:493(para)
-msgid "As a useful complement for the on-canvas handle dragging, the Controls bar has the <command>Spoke ratio</command> field which defines the ratio of the two handles' distances to the center."
-msgstr "Jako użyteczne uzupełnienie ręcznego ciągnięcia w obszarze roboczym, pasek kontrolek ma pole „<command>Proporcje ramion</command>”, gdzie można określić stosunek odległości obu uchwytów względem środka."
+msgid ""
+"As a useful complement for the on-canvas handle dragging, the Controls bar "
+"has the <command>Spoke ratio</command> field which defines the ratio of the "
+"two handles' distances to the center."
+msgstr ""
+"Jako użyteczne uzupełnienie ręcznego ciągnięcia w obszarze roboczym, pasek "
+"kontrolek ma pole „<command>Proporcje ramion</command>”, gdzie można "
+"określić stosunek odległości obu uchwytów względem środka."
 
 #: tutorial-shapes.xml:499(para)
-msgid "Inkscape stars have two more tricks in their bag. In geometry, a polygon is a shape with straight line edges and sharp corners. In the real world, however, various degrees of curvilinearity and roundedness are normally present — and Inkscape can do that too. Rounding a star or polygon works a bit differently from rounding a rectangle, however. You don't use a dedicated handle for this, but"
-msgstr "Narzędzie Inkscape'a „Gwiazda” ma w swoich zasobach więcej różnych możliwości. W geometrii wielokąt jest kształtem o prostoliniowych krawędziach i zaostrzonych narożnikach. W rzeczywistym świecie występują rozmaite stopnie krzywizny i zaokrąglenia, zaś Inkscape potrafi to odwzorować. Zaokrąglanie gwiazdy bądź wielokąta działa trochę inaczej niż zaokrąglania prostokąta. Do tej czynności nie można używać specjalnego uchwytu, ale:"
+msgid ""
+"Inkscape stars have two more tricks in their bag. In geometry, a polygon is "
+"a shape with straight line edges and sharp corners. In the real world, "
+"however, various degrees of curvilinearity and roundedness are normally "
+"present — and Inkscape can do that too. Rounding a star or polygon works a "
+"bit differently from rounding a rectangle, however. You don't use a "
+"dedicated handle for this, but"
+msgstr ""
+"Narzędzie Inkscape'a „Gwiazda” ma w swoich zasobach więcej różnych "
+"możliwości. W geometrii wielokąt jest kształtem o prostoliniowych "
+"krawędziach i zaostrzonych narożnikach. W rzeczywistym świecie występują "
+"rozmaite stopnie krzywizny i zaokrąglenia, zaś Inkscape potrafi to "
+"odwzorować. Zaokrąglanie gwiazdy bądź wielokąta działa trochę inaczej niż "
+"zaokrąglania prostokąta. Do tej czynności nie można używać specjalnego "
+"uchwytu, ale:"
 
 #: tutorial-shapes.xml:508(para)
-msgid "<keycap>Shift+drag</keycap> a handle tangentially to round the star or polygon."
-msgstr "Kombinacja [ <keycap>Shift+ciągnięcie uchwytu stycznie</keycap> ] – zaokrągla gwiazdę lub wielokąt."
+msgid ""
+"<keycap>Shift+drag</keycap> a handle tangentially to round the star or "
+"polygon."
+msgstr ""
+"Kombinacja [ <keycap>Shift+ciągnięcie uchwytu stycznie</keycap> ] – "
+"zaokrągla gwiazdę lub wielokąt."
 
 #: tutorial-shapes.xml:511(para)
 msgid "<keycap>Shift+click</keycap> a handle to remove rounding."
 msgstr "Skrót [ <keycap>Shift+kliknięcie</keycap> ] – usuwa zaokrąglenie."
 
 #: tutorial-shapes.xml:516(para)
-msgid "“Tangentially” means in a direction perpendicular to the direction to the center. If you “rotate” a handle with Shift counterclockwise around the center, you get positive roundedness; with clockwise rotation, you get negative roundedness. (See below for examples of negative roundedness.)"
-msgstr "„Stycznie” oznacza pionowo w kierunku środka. Jeśli obrócisz uchwyt z przytrzymanym klawiszem [ <keycap>Shift</keycap> ] dookoła środka w kierunku przeciwnym do ruchu wskazówek zegara, otrzymasz dodatnie zaokrąglenie; w kierunku zgodnym z ruchem wskazówek zegara – ujemne zaokrąglenie. Przykłady ujemnego zaokrąglenia znajdują się poniżej."
+msgid ""
+"“Tangentially” means in a direction perpendicular to the direction to the "
+"center. If you “rotate” a handle with Shift counterclockwise around the "
+"center, you get positive roundedness; with clockwise rotation, you get "
+"negative roundedness. (See below for examples of negative roundedness.)"
+msgstr ""
+"„Stycznie” oznacza pionowo w kierunku środka. Jeśli obrócisz uchwyt z "
+"przytrzymanym klawiszem [ <keycap>Shift</keycap> ] dookoła środka w kierunku "
+"przeciwnym do ruchu wskazówek zegara, otrzymasz dodatnie zaokrąglenie; w "
+"kierunku zgodnym z ruchem wskazówek zegara – ujemne zaokrąglenie. Przykłady "
+"ujemnego zaokrąglenia znajdują się poniżej."
 
 #: tutorial-shapes.xml:523(para)
-msgid "Here's a comparison of a rounded square (Rectangle tool) with a rounded 4-sided polygon (Star tool):"
-msgstr "Oto porównanie zaokrąglonego kwadratu (narzędzie „Prostokąt”) z zaokrąglonym czworobocznym wielokątem (narzędzie „Gwiazda”):"
+msgid ""
+"Here's a comparison of a rounded square (Rectangle tool) with a rounded 4-"
+"sided polygon (Star tool):"
+msgstr ""
+"Oto porównanie zaokrąglonego kwadratu (narzędzie „Prostokąt”) z zaokrąglonym "
+"czworobocznym wielokątem (narzędzie „Gwiazda”):"
 
 #: tutorial-shapes.xml:535(para)
-msgid "As you can see, while a rounded rectangle has straight line segments in its sides and circular (generally, elliptic) roundings, a rounded polygon or star has no straight lines at all; its curvature varies smoothly from the maximum (in the corners) to the minimum (mid-way between the corners). Inkscape does this simply by adding collinear Bezier tangents to each node of the shape (you can see them if you convert the shape to path and examine it in Node tool)."
-msgstr "Jak widać, podczas gdy zaokrąglony prostokąt ma proste linie boczne i okrągłe (ogólnie eliptyczne) zaokrąglenia, zaokrąglony wielokąt lub gwiazda w ogóle nie ma linii prostych. Krzywizna zmienia się płynnie z maksymalnej w narożnikach do minimalnej w połowie odległości pomiędzy narożnikami. Inkscape tworzy to poprzez dodanie współliniowych stycznych Beziera do każdego węzła kształtu. Możesz to zaobserwować wykonując konwersję kształtu na ścieżkę i sprawdzając narzędziem „Edycja węzłów”."
+msgid ""
+"As you can see, while a rounded rectangle has straight line segments in its "
+"sides and circular (generally, elliptic) roundings, a rounded polygon or "
+"star has no straight lines at all; its curvature varies smoothly from the "
+"maximum (in the corners) to the minimum (mid-way between the corners). "
+"Inkscape does this simply by adding collinear Bezier tangents to each node "
+"of the shape (you can see them if you convert the shape to path and examine "
+"it in Node tool)."
+msgstr ""
+"Jak widać, podczas gdy zaokrąglony prostokąt ma proste linie boczne i "
+"okrągłe (ogólnie eliptyczne) zaokrąglenia, zaokrąglony wielokąt lub gwiazda "
+"w ogóle nie ma linii prostych. Krzywizna zmienia się płynnie z maksymalnej w "
+"narożnikach do minimalnej w połowie odległości pomiędzy narożnikami. "
+"Inkscape tworzy to poprzez dodanie współliniowych stycznych Beziera do "
+"każdego węzła kształtu. Możesz to zaobserwować wykonując konwersję kształtu "
+"na ścieżkę i sprawdzając narzędziem „Edycja węzłów”."
 
 #: tutorial-shapes.xml:544(para)
-msgid "The <command>Rounded</command> parameter which you can adjust in the Controls bar is the ratio of the length of these tangents to the length of the polygon/star sides to which they are adjacent. This parameter can be negative, which reverses the direction of tangents. The values of about 0.2 to 0.4 give “normal” rounding of the kind you would expect; other values tend to produce beautiful, intricate, and totally unpredictable patterns. A star with a large roundedness value may reach far beyond the positions of its handles. Here are a few examples, each indicating its roundedness value:"
-msgstr "Parametr „<command>Zaokrąglenie</command>”, który można dostosować na pasku kontrolek, jest stosunkiem długości stycznych do długości boków wielokąta/gwiazdy, do których są przyległe. Ten parametr może być ujemny – odwraca kierunek stycznych. Wartości z przedziału około 0.2 - 0.4 dają „normalne” zaokrąglenia, takie, jakich można oczekiwać. Inne wartości tworzą piękne, skomplikowane i całkowicie nieprzewidywalne wzory. Gwiazda, w której użyto dużej wartości wybrzuszenia, może sięgać daleko poza położenie swoich uchwytów. Oto kilka przykładów; dla każdego podano wartość wybrzuszenia:"
+msgid ""
+"The <command>Rounded</command> parameter which you can adjust in the "
+"Controls bar is the ratio of the length of these tangents to the length of "
+"the polygon/star sides to which they are adjacent. This parameter can be "
+"negative, which reverses the direction of tangents. The values of about 0.2 "
+"to 0.4 give “normal” rounding of the kind you would expect; other values "
+"tend to produce beautiful, intricate, and totally unpredictable patterns. A "
+"star with a large roundedness value may reach far beyond the positions of "
+"its handles. Here are a few examples, each indicating its roundedness value:"
+msgstr ""
+"Parametr „<command>Zaokrąglenie</command>”, który można dostosować na pasku "
+"kontrolek, jest stosunkiem długości stycznych do długości boków wielokąta/"
+"gwiazdy, do których są przyległe. Ten parametr może być ujemny – odwraca "
+"kierunek stycznych. Wartości z przedziału około 0.2 - 0.4 dają „normalne” "
+"zaokrąglenia, takie, jakich można oczekiwać. Inne wartości tworzą piękne, "
+"skomplikowane i całkowicie nieprzewidywalne wzory. Gwiazda, w której użyto "
+"dużej wartości wybrzuszenia, może sięgać daleko poza położenie swoich "
+"uchwytów. Oto kilka przykładów; dla każdego podano wartość wybrzuszenia:"
 
 #: tutorial-shapes.xml:561(para)
-msgid "If you want the tips of a star to be sharp but the concaves smooth or vice versa, this is easy to do by creating an <firstterm>offset</firstterm> (<keycap>Ctrl+J</keycap>) from the star:"
-msgstr "Jeśli chcesz, aby wierzchołki ramion gwiazdy były ostre, a wklęśnięcia gładkie – bądź na odwrót – po prostu utwórz z gwiazdy <firstterm>odsunięcie</firstterm> (offset) [ <keycap>Ctrl+J</keycap> ]:"
+msgid ""
+"If you want the tips of a star to be sharp but the concaves smooth or vice "
+"versa, this is easy to do by creating an <firstterm>offset</firstterm> "
+"(<keycap>Ctrl+J</keycap>) from the star:"
+msgstr ""
+"Jeśli chcesz, aby wierzchołki ramion gwiazdy były ostre, a wklęśnięcia "
+"gładkie – bądź na odwrót – po prostu utwórz z gwiazdy <firstterm>odsunięcie</"
+"firstterm> (offset) [ <keycap>Ctrl+J</keycap> ]:"
 
 #: tutorial-shapes.xml:574(para)
-msgid "<keycap>Shift+drag</keycap>ging star handles in Inkscape is one of the finest pursuits known to man. But it can get better still."
-msgstr "Operacja wykonywana w Inkscape'ie za pomocą [ <keycap>Shift+ciągnięcie</keycap> ] uchwytów gwiazdy to jedna z najlepszych znanych człowiekowi czynności. Jednak i to można jeszcze ulepszyć."
+msgid ""
+"<keycap>Shift+drag</keycap>ging star handles in Inkscape is one of the "
+"finest pursuits known to man. But it can get better still."
+msgstr ""
+"Operacja wykonywana w Inkscape'ie za pomocą [ <keycap>Shift+ciągnięcie</"
+"keycap> ] uchwytów gwiazdy to jedna z najlepszych znanych człowiekowi "
+"czynności. Jednak i to można jeszcze ulepszyć."
 
 #: tutorial-shapes.xml:579(para)
-msgid "To closer imitate real world shapes, Inkscape can <firstterm>randomize</firstterm> (i.e. randomly distort) its stars and polygons. Slight randomization makes a star less regular, more humane, often funny; strong randomization is an exciting way to obtain a variety of crazily unpredictable shapes. A rounded star remains smoothly rounded when randomized. Here are the shortcuts:"
-msgstr "Aby jak najwierniej naśladować kształty realnego świata, Inkscape potrafi <firstterm>w przypadkowy</firstterm > sposób zniekształcać gwiazdy i wielokąty. Delikatna deformacja czyni gwiazdę mniej regularną, bardziej zbliżoną do rzeczywistości, często zabawną. Silna deformacja jest ekscytującym sposobem uzyskania różnorodnych szalonych, nieprzewidywalnych kształtów. Podczas deformacji przypadkowej zaokrąglona gwiazda pozostaje gładko zaokrąglona. Oto skróty klawiaturowe używane do deformacji przypadkowej:"
+msgid ""
+"To closer imitate real world shapes, Inkscape can <firstterm>randomize</"
+"firstterm> (i.e. randomly distort) its stars and polygons. Slight "
+"randomization makes a star less regular, more humane, often funny; strong "
+"randomization is an exciting way to obtain a variety of crazily "
+"unpredictable shapes. A rounded star remains smoothly rounded when "
+"randomized. Here are the shortcuts:"
+msgstr ""
+"Aby jak najwierniej naśladować kształty realnego świata, Inkscape potrafi "
+"<firstterm>w przypadkowy</firstterm > sposób zniekształcać gwiazdy i "
+"wielokąty. Delikatna deformacja czyni gwiazdę mniej regularną, bardziej "
+"zbliżoną do rzeczywistości, często zabawną. Silna deformacja jest "
+"ekscytującym sposobem uzyskania różnorodnych szalonych, nieprzewidywalnych "
+"kształtów. Podczas deformacji przypadkowej zaokrąglona gwiazda pozostaje "
+"gładko zaokrąglona. Oto skróty klawiaturowe używane do deformacji "
+"przypadkowej:"
 
 #: tutorial-shapes.xml:588(para)
-msgid "<keycap>Alt+drag</keycap> a handle tangentially to randomize the star or polygon."
-msgstr "[ <keycap>Alt+ciągnięcie</keycap> ] uchwytu stycznie – deformacja przypadkowa gwiazdy albo wielokąta."
+msgid ""
+"<keycap>Alt+drag</keycap> a handle tangentially to randomize the star or "
+"polygon."
+msgstr ""
+"[ <keycap>Alt+ciągnięcie</keycap> ] uchwytu stycznie – deformacja "
+"przypadkowa gwiazdy albo wielokąta."
 
 #: tutorial-shapes.xml:591(para)
 msgid "<keycap>Alt+click</keycap> a handle to remove randomization."
-msgstr "[ <keycap>Alt+kliknięcie</keycap> ] uchwytu – usuwa deformację przypadkową."
+msgstr ""
+"[ <keycap>Alt+kliknięcie</keycap> ] uchwytu – usuwa deformację przypadkową."
 
 #: tutorial-shapes.xml:596(para)
-msgid "As you draw or handle-drag-edit a randomized star, it will “tremble” because each unique position of its handles corresponds to its own unique randomization. So, moving a handle without Alt re-randomizes the shape at the same randomization level, while Alt-dragging it keeps the same randomization but adjusts its level. Here are stars whose parameters are exactly the same, but each one is re-randomized by very slightly moving its handle (randomization level is 0.1 throughout):"
-msgstr "Podczas rysowania lub edytowania zdeformowanej gwiazdy za pomocą uchwytu będzie ona drgała, ponieważ każda unikatowa pozycja jej uchwytów odpowiada unikatowej deformacji. Przesuwanie uchwytu bez wciśniętego klawisza [ <keycap>Alt</keycap> ] powoduje ponowną deformację przypadkową kształtu na tym samym poziomie przypadkowości. Ciągnięcie ze wciśniętym klawiszem [ <keycap>Alt</keycap> ] zachowuje tę samą deformację, ale dostosowuje jej poziom. Poniżej znajdują się gwiazdy, których parametry deformacji są takie same, ale każda z nich jest ponowie zdeformowana poprzez delikatne przesunięcie jej uchwytu (poziom przypadkowości jest przez cały czas równy 0.1)."
+msgid ""
+"As you draw or handle-drag-edit a randomized star, it will “tremble” because "
+"each unique position of its handles corresponds to its own unique "
+"randomization. So, moving a handle without Alt re-randomizes the shape at "
+"the same randomization level, while Alt-dragging it keeps the same "
+"randomization but adjusts its level. Here are stars whose parameters are "
+"exactly the same, but each one is re-randomized by very slightly moving its "
+"handle (randomization level is 0.1 throughout):"
+msgstr ""
+"Podczas rysowania lub edytowania zdeformowanej gwiazdy za pomocą uchwytu "
+"będzie ona drgała, ponieważ każda unikatowa pozycja jej uchwytów odpowiada "
+"unikatowej deformacji. Przesuwanie uchwytu bez wciśniętego klawisza "
+"[ <keycap>Alt</keycap> ] powoduje ponowną deformację przypadkową kształtu na "
+"tym samym poziomie przypadkowości. Ciągnięcie ze wciśniętym klawiszem "
+"[ <keycap>Alt</keycap> ] zachowuje tę samą deformację, ale dostosowuje jej "
+"poziom. Poniżej znajdują się gwiazdy, których parametry deformacji są takie "
+"same, ale każda z nich jest ponowie zdeformowana poprzez delikatne "
+"przesunięcie jej uchwytu (poziom przypadkowości jest przez cały czas równy "
+"0.1)."
 
 #: tutorial-shapes.xml:612(para)
-msgid "And here is the middle star from the previous row, with the randomization level varying from -0.2 to 0.2:"
-msgstr "Poniżej znajduje się środkowa gwiazda z poprzedniego rzędu z poziomem deformacji wahającym się od -0.2 do 0.2."
+msgid ""
+"And here is the middle star from the previous row, with the randomization "
+"level varying from -0.2 to 0.2:"
+msgstr ""
+"Poniżej znajduje się środkowa gwiazda z poprzedniego rzędu z poziomem "
+"deformacji wahającym się od -0.2 do 0.2."
 
 #: tutorial-shapes.xml:624(para)
-msgid "<keycap>Alt+drag</keycap> a handle of the middle star in this row and observe as it morphs into its neighbors on the right and left — and beyond."
-msgstr "Ciągnij uchwyt środkowej gwiazdy w powyższym rzędzie ze wciśniętym klawiszem [ <keycap>Alt</keycap> ] i obserwuj, jak zmienia się w swoich sąsiadów z prawej i lewej."
+msgid ""
+"<keycap>Alt+drag</keycap> a handle of the middle star in this row and "
+"observe as it morphs into its neighbors on the right and left — and beyond."
+msgstr ""
+"Ciągnij uchwyt środkowej gwiazdy w powyższym rzędzie ze wciśniętym klawiszem "
+"[ <keycap>Alt</keycap> ] i obserwuj, jak zmienia się w swoich sąsiadów z "
+"prawej i lewej."
 
 #: tutorial-shapes.xml:629(para)
-msgid "You will probably find your own applications for randomized stars, but I am especially fond of rounded amoeba-like blotches and large roughened planets with fantastic landscapes:"
-msgstr "Prawdopodobnie znajdziesz swoje zastosowania dla zdeformowanych gwiazd, ale ja szczególnie upodobałem sobie plamy w kształcie ameby i duże poszarpane planetoidy z fantastycznymi krajobrazami."
+msgid ""
+"You will probably find your own applications for randomized stars, but I am "
+"especially fond of rounded amoeba-like blotches and large roughened planets "
+"with fantastic landscapes:"
+msgstr ""
+"Prawdopodobnie znajdziesz swoje zastosowania dla zdeformowanych gwiazd, ale "
+"ja szczególnie upodobałem sobie plamy w kształcie ameby i duże poszarpane "
+"planetoidy z fantastycznymi krajobrazami."
 
 #: tutorial-shapes.xml:645(title)
 msgid "Spirals"
 msgstr "Spirale"
 
 #: tutorial-shapes.xml:646(para)
-msgid "Inkscape's spiral is a versatile shape, and though not as immersing as the star, it is sometimes very useful. A spiral, like a star, is drawn from the center; while drawing as well as while editing,"
-msgstr "Spirala Inkscape'a jest wszechstronnym kształtem i chociaż nie jest tak wciągająca jak gwiazda, to czasami jest bardzo użyteczna. Spirala, podobnie jak gwiazda, jest rysowana od środka, zarówno podczas rysowania, jak i edytowania."
+msgid ""
+"Inkscape's spiral is a versatile shape, and though not as immersing as the "
+"star, it is sometimes very useful. A spiral, like a star, is drawn from the "
+"center; while drawing as well as while editing,"
+msgstr ""
+"Spirala Inkscape'a jest wszechstronnym kształtem i chociaż nie jest tak "
+"wciągająca jak gwiazda, to czasami jest bardzo użyteczna. Spirala, podobnie "
+"jak gwiazda, jest rysowana od środka, zarówno podczas rysowania, jak i "
+"edytowania."
 
 #: tutorial-shapes.xml:653(para)
 msgid "<keycap>Ctrl+drag</keycap> to snap angle to 15 degree increments."
-msgstr "Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] powoduje przyciąganie w przyrostach kątowych co 15 stopni."
+msgstr ""
+"Ciągnięcie ze wciśniętym klawiszem [ <keycap>Ctrl</keycap> ] powoduje "
+"przyciąganie w przyrostach kątowych co 15 stopni."
 
 #: tutorial-shapes.xml:658(para)
-msgid "Once drawn, a spiral has two handles at its inner and outer ends. Both handles, when simply dragged, roll or unroll the spiral (i.e. “continue” it, changing the number of turns). Other shortcuts:"
-msgstr "Narysowana spirala ma dwa uchwyty – na wewnętrznym i zewnętrznym końcu. Oba uchwyty podczas zwykłego ciągnięcia zawijają bądź rozwijają spiralę tj. „kontynuują” ją, zmieniając liczbę jej zwojów. Inne skróty:"
+msgid ""
+"Once drawn, a spiral has two handles at its inner and outer ends. Both "
+"handles, when simply dragged, roll or unroll the spiral (i.e. “continue” it, "
+"changing the number of turns). Other shortcuts:"
+msgstr ""
+"Narysowana spirala ma dwa uchwyty – na wewnętrznym i zewnętrznym końcu. Oba "
+"uchwyty podczas zwykłego ciągnięcia zawijają bądź rozwijają spiralę tj. "
+"„kontynuują” ją, zmieniając liczbę jej zwojów. Inne skróty:"
 
 #: tutorial-shapes.xml:664(para)
 msgid "Outer handle:"
 msgstr "Uchwyt zewnętrzny:"
 
 #: tutorial-shapes.xml:669(para)
-msgid "<keycap>Shift+drag</keycap> to scale/rotate around center (no rolling/unrolling)."
-msgstr "[ <keycap>Shift+ciągnięcie</keycap> ] – skaluje/obraca wokół środka (bez zwijania/rozwijania)."
+msgid ""
+"<keycap>Shift+drag</keycap> to scale/rotate around center (no rolling/"
+"unrolling)."
+msgstr ""
+"[ <keycap>Shift+ciągnięcie</keycap> ] – skaluje/obraca wokół środka (bez "
+"zwijania/rozwijania)."
 
 #: tutorial-shapes.xml:672(para)
 msgid "<keycap>Alt+drag</keycap> to lock radius while rolling/unrolling."
-msgstr "[ <keycap>Alt+ciągnięcie</keycap> ] – blokuje promień podczas zwijania/rozwijania."
+msgstr ""
+"[ <keycap>Alt+ciągnięcie</keycap> ] – blokuje promień podczas zwijania/"
+"rozwijania."
 
 #: tutorial-shapes.xml:677(para)
 msgid "Inner handle:"
@@ -764,7 +1311,9 @@ msgstr "Uchwyt wewnętrzny:"
 
 #: tutorial-shapes.xml:682(para)
 msgid "<keycap>Alt+drag</keycap> vertically to converge/diverge."
-msgstr "[ <keycap>Alt+ciągnięcie</keycap> ] pionowo – ustawianie zbieżności/rozbieżności spirali."
+msgstr ""
+"[ <keycap>Alt+ciągnięcie</keycap> ] pionowo – ustawianie zbieżności/"
+"rozbieżności spirali."
 
 #: tutorial-shapes.xml:685(para)
 msgid "<keycap>Alt+click</keycap> to reset divergence."
@@ -772,31 +1321,73 @@ msgstr "[ <keycap>Alt+kliknięcie</keycap> ] – resetuje zbieżność."
 
 #: tutorial-shapes.xml:688(para)
 msgid "<keycap>Shift+click</keycap> to move the inner handle to the center."
-msgstr "[ <keycap>Shift+kliknięcie</keycap> ] – przesuwa wewnętrzny uchwyt do środka."
+msgstr ""
+"[ <keycap>Shift+kliknięcie</keycap> ] – przesuwa wewnętrzny uchwyt do środka."
 
 #: tutorial-shapes.xml:693(para)
-msgid "The <firstterm>divergence</firstterm> of a spiral is the measure of nonlinearity of its winds. When it is equal to 1, the spiral is uniform; when it is less than 1 (<keycap>Alt+drag</keycap> upwards), the spiral is denser on the periphery; when it is greater than 1 (<keycap>Alt+drag</keycap> downwards), the spiral is denser towards the center:"
-msgstr "<firstterm>Rozbieżność</firstterm> spirali jest miarą nieliniowości jej zwojów. Gdy wynosi 1 – spirala jest jednolita, gdy jest mniejsza niż 1 [ <keycap>Alt+ciągnięcie w górę</keycap> ] – spirala jest gęstsza na obrzeżu, gdy jest większa od 1 [ <keycap>Alt+ciągnięcie w dół</keycap> ] – spirala jest gęstsza w kierunku środka:"
+msgid ""
+"The <firstterm>divergence</firstterm> of a spiral is the measure of "
+"nonlinearity of its winds. When it is equal to 1, the spiral is uniform; "
+"when it is less than 1 (<keycap>Alt+drag</keycap> upwards), the spiral is "
+"denser on the periphery; when it is greater than 1 (<keycap>Alt+drag</"
+"keycap> downwards), the spiral is denser towards the center:"
+msgstr ""
+"<firstterm>Rozbieżność</firstterm> spirali jest miarą nieliniowości jej "
+"zwojów. Gdy wynosi 1 – spirala jest jednolita, gdy jest mniejsza niż 1 "
+"[ <keycap>Alt+ciągnięcie w górę</keycap> ] – spirala jest gęstsza na "
+"obrzeżu, gdy jest większa od 1 [ <keycap>Alt+ciągnięcie w dół</keycap> ] – "
+"spirala jest gęstsza w kierunku środka:"
 
 #: tutorial-shapes.xml:708(para)
 msgid "The maximum number of spiral turns is 1024."
 msgstr "Maksymalna liczba zwojów spirali wynosi 1024."
 
 #: tutorial-shapes.xml:712(para)
-msgid "Just as the Ellipse tool is good not only for ellipses but also for arcs (lines of constant curvature), the Spiral tool is useful for making curves of <emphasis>smoothly varying</emphasis> curvature. Compared to a plain Bezier curve, an arc or a spiral is often more convenient because you can make it shorter or longer by dragging a handle along the curve without affecting its shape. Also, while a spiral is normally drawn without fill, you can add fill and remove stroke for interesting effects."
-msgstr "Tak jak narzędzie „Elipsa” służy nie tylko do tworzenia elips, ale także łuków, narzędzie „Spirala” jest użyteczne do tworzenia krzywych o krzywiźnie płynnie się zmieniającej. W porównaniu ze zwykłą krzywą Beziera łuk lub spirala są często wygodniejsze w użyciu, ponieważ można je skracać lub wydłużyć, ciągnąć uchwyt wzdłuż krzywej bez wpływania na jej kształt. Chociaż spirala jest normalnie rysowana bez wypełnienia, można je dodać i usunąć kontur w celu uzyskania interesujących efektów."
+msgid ""
+"Just as the Ellipse tool is good not only for ellipses but also for arcs "
+"(lines of constant curvature), the Spiral tool is useful for making curves "
+"of <emphasis>smoothly varying</emphasis> curvature. Compared to a plain "
+"Bezier curve, an arc or a spiral is often more convenient because you can "
+"make it shorter or longer by dragging a handle along the curve without "
+"affecting its shape. Also, while a spiral is normally drawn without fill, "
+"you can add fill and remove stroke for interesting effects."
+msgstr ""
+"Tak jak narzędzie „Elipsa” służy nie tylko do tworzenia elips, ale także "
+"łuków, narzędzie „Spirala” jest użyteczne do tworzenia krzywych o krzywiźnie "
+"płynnie się zmieniającej. W porównaniu ze zwykłą krzywą Beziera łuk lub "
+"spirala są często wygodniejsze w użyciu, ponieważ można je skracać lub "
+"wydłużyć, ciągnąć uchwyt wzdłuż krzywej bez wpływania na jej kształt. "
+"Chociaż spirala jest normalnie rysowana bez wypełnienia, można je dodać i "
+"usunąć kontur w celu uzyskania interesujących efektów."
 
 #: tutorial-shapes.xml:728(para)
-msgid "Especially interesting are spirals with dotted stroke — they combine the smooth concentration of the shape with regular equispaced marks (dots or dashes) for beautiful moire effects:"
-msgstr "Szczególnie interesujące są spirale o kropkowanym konturze – łączą płynną koncentrację kształtu z równomiernie rozłożonymi znakami, kropkami albo kreskami dając piękne efekty mory:"
+msgid ""
+"Especially interesting are spirals with dotted stroke — they combine the "
+"smooth concentration of the shape with regular equispaced marks (dots or "
+"dashes) for beautiful moire effects:"
+msgstr ""
+"Szczególnie interesujące są spirale o kropkowanym konturze – łączą płynną "
+"koncentrację kształtu z równomiernie rozłożonymi znakami, kropkami albo "
+"kreskami dając piękne efekty mory:"
 
 #: tutorial-shapes.xml:744(title)
 msgid "Conclusion"
 msgstr "Podsumowanie"
 
 #: tutorial-shapes.xml:745(para)
-msgid "Inkscape's shape tools are very powerful. Learn their tricks and play with them at your leisure — this will pay off when you do your design work, because using shapes instead of simple paths often makes vector art faster to create and easier to modify. If you have any ideas for further shape improvements, please contact the developers."
-msgstr "Narzędzia kształtu Inkscape'a są potężnymi narzędziami. Poznaj ich kruczki i baw się nimi w swoim wolnym czasie. Zdobyte w ten sposób doświadczenie będzie procentowało, gdy trzeba będzie zrobić profesjonalny projekt. Używanie kształtów zamiast zwykłych ścieżek przyspiesza pracę z wektorami i ułatwia ich modyfikowanie. Jeśli masz jakieś pomysły udoskonaleń narzędzi kształtu, skontaktuj się z twórcami Inksacape'a."
+msgid ""
+"Inkscape's shape tools are very powerful. Learn their tricks and play with "
+"them at your leisure — this will pay off when you do your design work, "
+"because using shapes instead of simple paths often makes vector art faster "
+"to create and easier to modify. If you have any ideas for further shape "
+"improvements, please contact the developers."
+msgstr ""
+"Narzędzia kształtu Inkscape'a są potężnymi narzędziami. Poznaj ich kruczki i "
+"baw się nimi w swoim wolnym czasie. Zdobyte w ten sposób doświadczenie "
+"będzie procentowało, gdy trzeba będzie zrobić profesjonalny projekt. "
+"Używanie kształtów zamiast zwykłych ścieżek przyspiesza pracę z wektorami i "
+"ułatwia ich modyfikowanie. Jeśli masz jakieś pomysły udoskonaleń narzędzi "
+"kształtu, skontaktuj się z twórcami Inksacape'a."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: tutorial-shapes.xml:0(None)
@@ -804,5 +1395,5 @@ msgid "translator-credits"
 msgstr ""
 "Polska lokalizacja wykonana przez:\n"
 "2008-2009 - Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
-"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
-
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, "
+"Wojciech Ryrych, Piotr Parafiniuk i inni"

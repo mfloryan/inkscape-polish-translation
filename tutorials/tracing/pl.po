@@ -9,24 +9,20 @@ msgstr ""
 "PO-Revision-Date: 2009-10-10 11:44+0100\n"
 "Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
 "Language-Team:  <pl@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: tracing-f06.svg:46(format)
-#: tracing-f05.svg:46(format)
-#: tracing-f04.svg:42(format)
-#: tracing-f03.svg:46(format)
-#: tracing-f02.svg:46(format)
-#: tracing-f01.svg:46(format)
+#: tracing-f06.svg:46(format) tracing-f05.svg:46(format)
+#: tracing-f04.svg:42(format) tracing-f03.svg:46(format)
+#: tracing-f02.svg:46(format) tracing-f01.svg:46(format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#: tracing-f06.svg:68(tspan)
-#: tracing-f05.svg:68(tspan)
-#: tracing-f04.svg:64(tspan)
-#: tracing-f03.svg:68(tspan)
+#: tracing-f06.svg:68(tspan) tracing-f05.svg:68(tspan)
+#: tracing-f04.svg:64(tspan) tracing-f03.svg:68(tspan)
 #: tracing-f02.svg:68(tspan)
 #, no-wrap
 msgid "Original Image"
@@ -52,34 +48,29 @@ msgstr "Obrazek po wektoryzacji/Wynikowa ścieżka"
 msgid "(1,551 nodes)"
 msgstr "(1,551 węzłów)"
 
-#: tracing-f04.svg:76(tspan)
-#: tracing-f04.svg:92(tspan)
+#: tracing-f04.svg:76(tspan) tracing-f04.svg:92(tspan)
 #, no-wrap
 msgid "Quantization (12 colors)"
 msgstr "Liczba przebiegów (12 kolorów)"
 
-#: tracing-f04.svg:80(tspan)
-#: tracing-f03.svg:84(tspan)
+#: tracing-f04.svg:80(tspan) tracing-f03.svg:84(tspan)
 #: tracing-f02.svg:84(tspan)
 #, no-wrap
 msgid "Fill, no Stroke"
 msgstr "Wypełnienie, brak konturu"
 
-#: tracing-f04.svg:96(tspan)
-#: tracing-f03.svg:100(tspan)
+#: tracing-f04.svg:96(tspan) tracing-f03.svg:100(tspan)
 #: tracing-f02.svg:99(tspan)
 #, no-wrap
 msgid "Stroke, no Fill"
 msgstr "Kontur, brak wypełnienia"
 
-#: tracing-f03.svg:80(tspan)
-#: tracing-f03.svg:96(tspan)
+#: tracing-f03.svg:80(tspan) tracing-f03.svg:96(tspan)
 #, no-wrap
 msgid "Edge Detected"
 msgstr "Wykryta krawędź"
 
-#: tracing-f02.svg:80(tspan)
-#: tracing-f02.svg:95(tspan)
+#: tracing-f02.svg:80(tspan) tracing-f02.svg:95(tspan)
 #: tutorial-tracing.xml:61(para)
 #, no-wrap
 msgid "Brightness Threshold"
@@ -131,68 +122,187 @@ msgid "Tracing"
 msgstr "Wektoryzacja"
 
 #: tutorial-tracing.xml:8(para)
-msgid "One of the features in Inkscape is a tool for tracing a bitmap image into a &lt;path&gt; element for your SVG drawing. These short notes should help you become acquainted with how it works."
-msgstr "Jednym z narzędzi Inkscape'a jest narzędzie służące do wektoryzowania obrazów bitmapowych. Zamienia ono bitmapę w &lt;ścieżkę&gt;, którą można następnie obrabiać jak każdy element SVG. Ten krótki poradnik pomoże ci zapoznać się z działaniem tego narzędzia."
+msgid ""
+"One of the features in Inkscape is a tool for tracing a bitmap image into a "
+"&lt;path&gt; element for your SVG drawing. These short notes should help you "
+"become acquainted with how it works."
+msgstr ""
+"Jednym z narzędzi Inkscape'a jest narzędzie służące do wektoryzowania "
+"obrazów bitmapowych. Zamienia ono bitmapę w &lt;ścieżkę&gt;, którą można "
+"następnie obrabiać jak każdy element SVG. Ten krótki poradnik pomoże ci "
+"zapoznać się z działaniem tego narzędzia."
 
 #: tutorial-tracing.xml:16(para)
-msgid "Currently Inkscape employs the Potrace bitmap tracing engine (<ulink url=\"http://potrace.sourceforge.net\">potrace.sourceforge.net</ulink>) by Peter Selinger. In the future we expect to allow alternate tracing programs; for now, however, this fine tool is more than sufficient for our needs."
-msgstr "Obecnie Inkscape wykorzystuje do wektoryzowania map bitowych silnik Potrace (<ulink url=\"http://potrace.sourceforge.net\">potrace.sourceforge.net</ulink>) autorstwa Petera Selingera. Niewykluczone, że w przyszłości w Inkscape'ie pojawią się inne programy służące do wektoryzacji grafik rastrowych. Aktualnie Potrace jest w zupełności wystarczającym narzędziem."
+msgid ""
+"Currently Inkscape employs the Potrace bitmap tracing engine (<ulink url="
+"\"http://potrace.sourceforge.net\">potrace.sourceforge.net</ulink>) by Peter "
+"Selinger. In the future we expect to allow alternate tracing programs; for "
+"now, however, this fine tool is more than sufficient for our needs."
+msgstr ""
+"Obecnie Inkscape wykorzystuje do wektoryzowania map bitowych silnik Potrace "
+"(<ulink url=\"http://potrace.sourceforge.net\">potrace.sourceforge.net</"
+"ulink>) autorstwa Petera Selingera. Niewykluczone, że w przyszłości w "
+"Inkscape'ie pojawią się inne programy służące do wektoryzacji grafik "
+"rastrowych. Aktualnie Potrace jest w zupełności wystarczającym narzędziem."
 
 #: tutorial-tracing.xml:23(para)
-msgid "Keep in mind that the Tracer's purpose is not to reproduce an exact duplicate of the original image; nor is it intended to produce a final product. No autotracer can do that. What it does is give you a set of curves which you can use as a resource for your drawing."
-msgstr "Proszę pamiętać, że celem narzędzia wektoryzującego nie jest dokładne odwzorowanie oryginalnego obrazka ani wytworzenie finalnego produktu – żadne narzędzie do wektoryzowania nie potrafi tego zrobić. W wyniku wektoryzacji powstanie zestaw krzywych, które będą stanowić materiał bazowy do dalszej pracy."
+msgid ""
+"Keep in mind that the Tracer's purpose is not to reproduce an exact "
+"duplicate of the original image; nor is it intended to produce a final "
+"product. No autotracer can do that. What it does is give you a set of curves "
+"which you can use as a resource for your drawing."
+msgstr ""
+"Proszę pamiętać, że celem narzędzia wektoryzującego nie jest dokładne "
+"odwzorowanie oryginalnego obrazka ani wytworzenie finalnego produktu – żadne "
+"narzędzie do wektoryzowania nie potrafi tego zrobić. W wyniku wektoryzacji "
+"powstanie zestaw krzywych, które będą stanowić materiał bazowy do dalszej "
+"pracy."
 
 #: tutorial-tracing.xml:30(para)
-msgid "Potrace interprets a black and white bitmap, and produces a set of curves. For Potrace, we currently have three types of input filters to convert from the raw image to something that Potrace can use."
-msgstr "Potrace interpretuje czarno–białe bitmapy i tworzy zestaw krzywych. Aktualnie program posiada trzy typy filtrów wejściowych przekształcających obrazek do formatu akceptowanego przez Potrace."
+msgid ""
+"Potrace interprets a black and white bitmap, and produces a set of curves. "
+"For Potrace, we currently have three types of input filters to convert from "
+"the raw image to something that Potrace can use."
+msgstr ""
+"Potrace interpretuje czarno–białe bitmapy i tworzy zestaw krzywych. "
+"Aktualnie program posiada trzy typy filtrów wejściowych przekształcających "
+"obrazek do formatu akceptowanego przez Potrace."
 
 #: tutorial-tracing.xml:36(para)
-msgid "Generally the more dark pixels in the intermediate bitmap, the more tracing that Potrace will perform. As the amount of tracing increases, more CPU time will be required, and the &lt;path&gt; element will become much larger. It is suggested that the user experiment with lighter intermediate images first, getting gradually darker to get the desired proportion and complexity of the output path."
-msgstr "Im więcej czarnych pikseli zawiera obrazek przejściowy, tym więcej operacji wektoryzowania zostanie wykonanych. W przypadku większej liczby przebiegów wektoryzacji zwiększa się użycie procesora, a także rozrasta &lt;ścieżka&gt;. Zaleca się wykonanie najpierw kilku eksperymentów z jaśniejszymi obrazkami, a następnie stopniowo z coraz ciemniejszymi aż do uzyskania pożądanej proporcji i złożoności ścieżki końcowej."
+msgid ""
+"Generally the more dark pixels in the intermediate bitmap, the more tracing "
+"that Potrace will perform. As the amount of tracing increases, more CPU time "
+"will be required, and the &lt;path&gt; element will become much larger. It "
+"is suggested that the user experiment with lighter intermediate images "
+"first, getting gradually darker to get the desired proportion and complexity "
+"of the output path."
+msgstr ""
+"Im więcej czarnych pikseli zawiera obrazek przejściowy, tym więcej operacji "
+"wektoryzowania zostanie wykonanych. W przypadku większej liczby przebiegów "
+"wektoryzacji zwiększa się użycie procesora, a także rozrasta &lt;"
+"ścieżka&gt;. Zaleca się wykonanie najpierw kilku eksperymentów z "
+"jaśniejszymi obrazkami, a następnie stopniowo z coraz ciemniejszymi aż do "
+"uzyskania pożądanej proporcji i złożoności ścieżki końcowej."
 
 #: tutorial-tracing.xml:44(para)
-msgid "To use the tracer, load or import an image, select it, and select the <command>Path &gt; Trace Bitmap</command> item, or <keycap>Shift+Alt+B</keycap>."
-msgstr "Aby dokonać wektoryzacji, należy otworzyć lub zaimportować obrazek, zaznaczyć go i z menu „Ścieżka” wybrać polecenie „Wektoryzuj bitmapę…” bądź użyć skrótu klawiaturowego [ <keycap>Shift+Alt+B</keycap> ]."
+msgid ""
+"To use the tracer, load or import an image, select it, and select the "
+"<command>Path &gt; Trace Bitmap</command> item, or <keycap>Shift+Alt+B</"
+"keycap>."
+msgstr ""
+"Aby dokonać wektoryzacji, należy otworzyć lub zaimportować obrazek, "
+"zaznaczyć go i z menu „Ścieżka” wybrać polecenie „Wektoryzuj bitmapę…” bądź "
+"użyć skrótu klawiaturowego [ <keycap>Shift+Alt+B</keycap> ]."
 
 #: tutorial-tracing.xml:56(para)
 msgid "The user will see the three filter options available:"
-msgstr "W nowo otwartym oknie dialogowym na karcie „Tryb” ukażą się trzy dostępne opcje filtrowania:"
+msgstr ""
+"W nowo otwartym oknie dialogowym na karcie „Tryb” ukażą się trzy dostępne "
+"opcje filtrowania:"
 
 #: tutorial-tracing.xml:66(para)
-msgid "This merely uses the sum of the red, green and blue (or shades of gray) of a pixel as an indicator of whether it should be considered black or white. The threshold can be set from 0.0 (black) to 1.0 (white). The higher the threshold setting, the fewer the number pixels that will be considered to be “white”, and the intermediate image with become darker."
-msgstr "Ten sposób filtrowania używa sumy koloru czerwonego, zielonego i niebieskiego, lub odcieni szarości piksela jako wskaźnika, które kolory należy traktować jako czarne lub białe. Próg może być ustawiony od 0,0 (czarny) do 1,0 (biały). Im wyższa wartość progu, tym mniejsza liczba pikseli będzie uznawana za „białe” i obrazek przejściowy będzie ciemniejszy."
+msgid ""
+"This merely uses the sum of the red, green and blue (or shades of gray) of a "
+"pixel as an indicator of whether it should be considered black or white. The "
+"threshold can be set from 0.0 (black) to 1.0 (white). The higher the "
+"threshold setting, the fewer the number pixels that will be considered to be "
+"“white”, and the intermediate image with become darker."
+msgstr ""
+"Ten sposób filtrowania używa sumy koloru czerwonego, zielonego i "
+"niebieskiego, lub odcieni szarości piksela jako wskaźnika, które kolory "
+"należy traktować jako czarne lub białe. Próg może być ustawiony od 0,0 "
+"(czarny) do 1,0 (biały). Im wyższa wartość progu, tym mniejsza liczba "
+"pikseli będzie uznawana za „białe” i obrazek przejściowy będzie ciemniejszy."
 
 #: tutorial-tracing.xml:82(para)
 msgid "Optimal Edge Detection"
 msgstr "Wykrywanie krawędzi"
 
 #: tutorial-tracing.xml:87(para)
-msgid "This uses the edge detection algorithm devised by J. Canny as a way of quickly finding isoclines of similar contrast. This will produce an intermediate bitmap that will look less like the original image than does the result of Brightness Threshold, but will likely provide curve information that would otherwise be ignored. The threshold setting here (0.0 – 1.0) adjusts the brightness threshold of whether a pixel adjacent to a contrast edge will be included in the output. This setting can adjust the darkness or thickness of the edge in the output."
-msgstr "Ten sposób filtrowania używa algorytmu wykrywania krawędzi opracowanego przez J. Canny'iego. Służy on do szybkiego wyszukiwania izoklin – linii o podobnym kontraście. Za pomocą tego filtra zostanie utworzony obrazek przejściowy, który będzie wyglądał podobnie jak obrazek oryginalny po wykonaniu rozdzielenia jasności, ale będzie zawierał informacje o krzywych. Ustawiony tutaj próg jasności (0,0 – 1,0) będzie decydował czy piksel sąsiadujący z krawędzią kontrastu zostanie włączony do obrazka wyjściowego. To ustawienie może określić stopień zaciemnienia lub grubość krawędzi w obrazku wyjściowym."
+msgid ""
+"This uses the edge detection algorithm devised by J. Canny as a way of "
+"quickly finding isoclines of similar contrast. This will produce an "
+"intermediate bitmap that will look less like the original image than does "
+"the result of Brightness Threshold, but will likely provide curve "
+"information that would otherwise be ignored. The threshold setting here (0.0 "
+"– 1.0) adjusts the brightness threshold of whether a pixel adjacent to a "
+"contrast edge will be included in the output. This setting can adjust the "
+"darkness or thickness of the edge in the output."
+msgstr ""
+"Ten sposób filtrowania używa algorytmu wykrywania krawędzi opracowanego "
+"przez J. Canny'iego. Służy on do szybkiego wyszukiwania izoklin – linii o "
+"podobnym kontraście. Za pomocą tego filtra zostanie utworzony obrazek "
+"przejściowy, który będzie wyglądał podobnie jak obrazek oryginalny po "
+"wykonaniu rozdzielenia jasności, ale będzie zawierał informacje o krzywych. "
+"Ustawiony tutaj próg jasności (0,0 – 1,0) będzie decydował czy piksel "
+"sąsiadujący z krawędzią kontrastu zostanie włączony do obrazka wyjściowego. "
+"To ustawienie może określić stopień zaciemnienia lub grubość krawędzi w "
+"obrazku wyjściowym."
 
 #: tutorial-tracing.xml:105(para)
 msgid "Color Quantization"
 msgstr "Kwantyzacja koloru"
 
 #: tutorial-tracing.xml:110(para)
-msgid "The result of this filter will produce an intermediate image that is very different from the other two, but is very useful indeed. Instead of showing isoclines of brightness or contrast, this will find edges where colors change, even at equal brightness and contrast. The setting here, Number of Colors, decides how many output colors there would be if the intermediate bitmap were in color. It then decides black/white on whether the color has an even or odd index."
-msgstr "W wyniku zastosowania tego filtra zostanie utworzony obrazek przejściowy znacznie różniący się od poprzednich, jednak również bardzo użyteczny. Filtr ten znajduje krawędzie w miejscach, w których zmieniają się kolory, nawet jeśli jasność i kontrast mają taką samą wartość. Ustawiona tutaj liczba kolorów decyduje, ile będzie kolorów wyjściowych, jeśli obrazek przejściowy jest kolorowy. Decyduje również o tym, który piksel będzie czarny/biały i czy kolor będzie miał indeks parzysty czy nieparzysty."
+msgid ""
+"The result of this filter will produce an intermediate image that is very "
+"different from the other two, but is very useful indeed. Instead of showing "
+"isoclines of brightness or contrast, this will find edges where colors "
+"change, even at equal brightness and contrast. The setting here, Number of "
+"Colors, decides how many output colors there would be if the intermediate "
+"bitmap were in color. It then decides black/white on whether the color has "
+"an even or odd index."
+msgstr ""
+"W wyniku zastosowania tego filtra zostanie utworzony obrazek przejściowy "
+"znacznie różniący się od poprzednich, jednak również bardzo użyteczny. Filtr "
+"ten znajduje krawędzie w miejscach, w których zmieniają się kolory, nawet "
+"jeśli jasność i kontrast mają taką samą wartość. Ustawiona tutaj liczba "
+"kolorów decyduje, ile będzie kolorów wyjściowych, jeśli obrazek przejściowy "
+"jest kolorowy. Decyduje również o tym, który piksel będzie czarny/biały i "
+"czy kolor będzie miał indeks parzysty czy nieparzysty."
 
 #: tutorial-tracing.xml:126(para)
-msgid "The user should try all three filters, and observe the different types of output for different types of input images. There will always be an image where one works better than the others."
-msgstr "Należy wypróbować wszystkie trzy filtry i obserwować wyniki ich działania dla różnych typów obrazków wyjściowych. Zawsze znajdzie się obrazek, na którym jeden z filtrów zadziała lepiej niż pozostałe."
+msgid ""
+"The user should try all three filters, and observe the different types of "
+"output for different types of input images. There will always be an image "
+"where one works better than the others."
+msgstr ""
+"Należy wypróbować wszystkie trzy filtry i obserwować wyniki ich działania "
+"dla różnych typów obrazków wyjściowych. Zawsze znajdzie się obrazek, na "
+"którym jeden z filtrów zadziała lepiej niż pozostałe."
 
 #: tutorial-tracing.xml:132(para)
-msgid "After tracing, it is also suggested that the user try <command>Path &gt; Simplify</command> (<keycap>Ctrl+L</keycap>) on the output path to reduce the number of nodes. This can make the output of Potrace much easier to edit. For example, here is a typical tracing of the Old Man Playing Guitar:"
-msgstr "Po wykonaniu wektoryzacji, w celu zmniejszenia liczby węzłów w otrzymanej ścieżce, zaleca się uruchomienie z poziomu menu „Ścieżka” polecenia „<command>Uprość</command>” [ <keycap>Ctrl+L</keycap> ]. Dzięki temu łatwiej będzie edytować powstałą ścieżkę. Oto typowa operacja wektoryzowania na przykładowym obrazku:"
+msgid ""
+"After tracing, it is also suggested that the user try <command>Path &gt; "
+"Simplify</command> (<keycap>Ctrl+L</keycap>) on the output path to reduce "
+"the number of nodes. This can make the output of Potrace much easier to "
+"edit. For example, here is a typical tracing of the Old Man Playing Guitar:"
+msgstr ""
+"Po wykonaniu wektoryzacji, w celu zmniejszenia liczby węzłów w otrzymanej "
+"ścieżce, zaleca się uruchomienie z poziomu menu „Ścieżka” polecenia "
+"„<command>Uprość</command>” [ <keycap>Ctrl+L</keycap> ]. Dzięki temu łatwiej "
+"będzie edytować powstałą ścieżkę. Oto typowa operacja wektoryzowania na "
+"przykładowym obrazku:"
 
 #: tutorial-tracing.xml:146(para)
-msgid "Note the enormous number of nodes in the path. After hitting <keycap>Ctrl+L</keycap>, this is a typical result:"
-msgstr "Proszę zauważyć, że otrzymana ścieżka posiada olbrzymią liczbę węzłów. Po wykonaniu redukcji węzłów otrzymujemy następujący wynik:"
+msgid ""
+"Note the enormous number of nodes in the path. After hitting <keycap>Ctrl+L</"
+"keycap>, this is a typical result:"
+msgstr ""
+"Proszę zauważyć, że otrzymana ścieżka posiada olbrzymią liczbę węzłów. Po "
+"wykonaniu redukcji węzłów otrzymujemy następujący wynik:"
 
 #: tutorial-tracing.xml:158(para)
-msgid "The representation is a bit more approximate and rough, but the drawing is much simpler and easier to edit. Keep in mind that what you want is not an exact rendering of the image, but a set of curves that you can use in your drawing."
-msgstr "Liczba węzłów w obrazku została zredukowana. Grafika jest bardziej prymitywna, ale teraz łatwiej poddaje się zmianom. W wyniku wektoryzacji nie otrzymuje się dokładnego odwzorowania obrazka, ale zestaw krzywych, który stanowi podstawę do dalszej obróbki."
+msgid ""
+"The representation is a bit more approximate and rough, but the drawing is "
+"much simpler and easier to edit. Keep in mind that what you want is not an "
+"exact rendering of the image, but a set of curves that you can use in your "
+"drawing."
+msgstr ""
+"Liczba węzłów w obrazku została zredukowana. Grafika jest bardziej "
+"prymitywna, ale teraz łatwiej poddaje się zmianom. W wyniku wektoryzacji nie "
+"otrzymuje się dokładnego odwzorowania obrazka, ale zestaw krzywych, który "
+"stanowi podstawę do dalszej obróbki."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: tutorial-tracing.xml:0(None)
@@ -200,5 +310,5 @@ msgid "translator-credits"
 msgstr ""
 "Polska lokalizacja wykonana przez:\n"
 "2008-2009 - Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
-"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
-
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, "
+"Wojciech Ryrych, Piotr Parafiniuk i inni"

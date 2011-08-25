@@ -5,49 +5,43 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: tutorial-elements\n"
-"POT-Creation-Date: 2009-09-30 07:10+0200\n"
+"POT-Creation-Date: 2011-01-16 14:42+0100\n"
 "PO-Revision-Date: 2009-10-10 11:44+0100\n"
 "Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
 "Language-Team:  <pl@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: elements-f15.svg:538(format)
-#: elements-f14.svg:169(format)
-#: elements-f13.svg:138(format)
-#: elements-f12.svg:440(format)
-#: elements-f11.svg:44(format)
-#: elements-f10.svg:44(format)
-#: elements-f09.svg:44(format)
-#: elements-f08.svg:202(format)
-#: elements-f07.svg:87(format)
-#: elements-f06.svg:87(format)
-#: elements-f05.svg:44(format)
-#: elements-f04.svg:45(format)
-#: elements-f03.svg:44(format)
-#: elements-f02.svg:44(format)
-#: elements-f01.svg:45(format)
+#: elements-f15.svg:448(format) elements-f14.svg:169(format)
+#: elements-f13.svg:98(format) elements-f12.svg:439(format)
+#: elements-f11.svg:44(format) elements-f10.svg:44(format)
+#: elements-f09.svg:44(format) elements-f08.svg:202(format)
+#: elements-f07.svg:87(format) elements-f06.svg:87(format)
+#: elements-f05.svg:44(format) elements-f04.svg:45(format)
+#: elements-f03.svg:44(format) elements-f02.svg:44(format)
+#: elements-f01.svg:44(format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#: elements-f12.svg:686(tspan)
+#: elements-f12.svg:669(tspan)
 #, no-wrap
 msgid "Random Ant &amp; 4WD"
 msgstr "Mrówka i samochód z napędem na 4 koła"
 
-#: elements-f12.svg:693(tspan)
+#: elements-f12.svg:676(tspan)
 #, no-wrap
 msgid "SVG  Image Created by Andrew Fitzsimon"
 msgstr "Obrazek SVG autorstwa Andrew Fitzsimona"
 
-#: elements-f12.svg:697(tspan)
+#: elements-f12.svg:680(tspan)
 #, no-wrap
 msgid "Courtesy of Open Clip Art Library"
 msgstr "Dzięki uprzejmości Open Clip Art LIbrary"
 
-#: elements-f12.svg:701(tspan)
+#: elements-f12.svg:684(tspan)
 #, no-wrap
 msgid "http://www.openclipart.org/"
 msgstr "http://www.openclipart.org/"
@@ -62,102 +56,87 @@ msgstr "DUŻY"
 msgid "small"
 msgstr "mały"
 
-#: elements-f01.svg:96(tspan)
-#: tutorial-elements.xml:4(title)
+#: elements-f01.svg:84(tspan) tutorial-elements.xml:4(title)
 #, no-wrap
 msgid "Elements"
 msgstr "Elementy"
 
-#: elements-f01.svg:110(tspan)
+#: elements-f01.svg:98(tspan)
 #, no-wrap
 msgid "Principles"
 msgstr "Składniki"
 
-#: elements-f01.svg:123(tspan)
-#: tutorial-elements.xml:90(title)
+#: elements-f01.svg:111(tspan) tutorial-elements.xml:90(title)
 #, no-wrap
 msgid "Color"
 msgstr "Kolor"
 
-#: elements-f01.svg:136(tspan)
-#: tutorial-elements.xml:27(title)
+#: elements-f01.svg:124(tspan) tutorial-elements.xml:27(title)
 #, no-wrap
 msgid "Line"
 msgstr "Linia"
 
-#: elements-f01.svg:149(tspan)
-#: tutorial-elements.xml:43(title)
+#: elements-f01.svg:137(tspan) tutorial-elements.xml:43(title)
 #, no-wrap
 msgid "Shape"
 msgstr "Kształt"
 
-#: elements-f01.svg:162(tspan)
-#: tutorial-elements.xml:73(title)
+#: elements-f01.svg:150(tspan) tutorial-elements.xml:73(title)
 #, no-wrap
 msgid "Space"
 msgstr "Przestrzeń"
 
-#: elements-f01.svg:175(tspan)
-#: tutorial-elements.xml:107(title)
+#: elements-f01.svg:163(tspan) tutorial-elements.xml:107(title)
 #, no-wrap
 msgid "Texture"
 msgstr "Tekstura"
 
-#: elements-f01.svg:188(tspan)
-#: tutorial-elements.xml:122(title)
+#: elements-f01.svg:176(tspan) tutorial-elements.xml:122(title)
 #, no-wrap
 msgid "Value"
 msgstr "Walor"
 
-#: elements-f01.svg:201(tspan)
-#: tutorial-elements.xml:59(title)
+#: elements-f01.svg:189(tspan) tutorial-elements.xml:59(title)
 #, no-wrap
 msgid "Size"
 msgstr "Wielkość"
 
-#: elements-f01.svg:214(tspan)
-#: tutorial-elements.xml:144(title)
+#: elements-f01.svg:202(tspan) tutorial-elements.xml:144(title)
 #, no-wrap
 msgid "Balance"
 msgstr "Równowaga"
 
-#: elements-f01.svg:227(tspan)
-#: tutorial-elements.xml:160(title)
+#: elements-f01.svg:215(tspan) tutorial-elements.xml:160(title)
 #, no-wrap
 msgid "Contrast"
 msgstr "Kontrast"
 
-#: elements-f01.svg:240(tspan)
-#: tutorial-elements.xml:173(title)
+#: elements-f01.svg:228(tspan) tutorial-elements.xml:173(title)
 #, no-wrap
 msgid "Emphasis"
 msgstr "Emfaza"
 
-#: elements-f01.svg:253(tspan)
-#: tutorial-elements.xml:188(title)
+#: elements-f01.svg:241(tspan) tutorial-elements.xml:188(title)
 #, no-wrap
 msgid "Proportion"
 msgstr "Proporcje"
 
-#: elements-f01.svg:266(tspan)
-#: tutorial-elements.xml:202(title)
+#: elements-f01.svg:254(tspan) tutorial-elements.xml:202(title)
 #, no-wrap
 msgid "Pattern"
 msgstr "Deseń"
 
-#: elements-f01.svg:280(tspan)
-#: tutorial-elements.xml:216(title)
+#: elements-f01.svg:268(tspan) tutorial-elements.xml:216(title)
 #, no-wrap
 msgid "Gradation"
 msgstr "Stopniowanie"
 
-#: elements-f01.svg:294(tspan)
-#: tutorial-elements.xml:234(title)
+#: elements-f01.svg:282(tspan) tutorial-elements.xml:234(title)
 #, no-wrap
 msgid "Composition"
 msgstr "Kompozycja"
 
-#: elements-f01.svg:308(tspan)
+#: elements-f01.svg:296(tspan)
 #, no-wrap
 msgid "Overview"
 msgstr "Przegląd"
@@ -165,7 +144,8 @@ msgstr "Przegląd"
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:17(None)
-msgid "@@image: 'elements-f01.svg'; md5=1c594de0db0cc955b97a871d99ae77cd"
+#, fuzzy
+msgid "@@image: 'elements-f01.svg'; md5=d91d902025ec6270491cea8c111fa8c4"
 msgstr "@@image: 'elements-f01.svg'; md5=1c594de0db0cc955b97a871d99ae77cd"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
@@ -177,7 +157,8 @@ msgstr "@@image: 'elements-f02.svg'; md5=177eb223201074a08b532de7017e504e"
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:52(None)
-msgid "@@image: 'elements-f03.svg'; md5=fef46af9aaec1b731f428cb0e9d84c48"
+#, fuzzy
+msgid "@@image: 'elements-f03.svg'; md5=e65e9b657139ab4414d9ffbdbc88073d"
 msgstr "@@image: 'elements-f03.svg'; md5=fef46af9aaec1b731f428cb0e9d84c48"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
@@ -189,7 +170,8 @@ msgstr "@@image: 'elements-f04.svg'; md5=db981a013d474c4333d886289ab62147"
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:83(None)
-msgid "@@image: 'elements-f05.svg'; md5=bdfb8eea5720cf57579e464bd59589cf"
+#, fuzzy
+msgid "@@image: 'elements-f05.svg'; md5=dd24ff57715416cdf78879607fc7d3f2"
 msgstr "@@image: 'elements-f05.svg'; md5=bdfb8eea5720cf57579e464bd59589cf"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
@@ -213,7 +195,8 @@ msgstr "@@image: 'elements-f08.svg'; md5=74e6530be897b5325de69c847c56e2a6"
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:153(None)
-msgid "@@image: 'elements-f09.svg'; md5=fc0fcebe2e9723d68ab66179490ba516"
+#, fuzzy
+msgid "@@image: 'elements-f09.svg'; md5=65af76c61bafce75791ea8431d19305a"
 msgstr "@@image: 'elements-f09.svg'; md5=fc0fcebe2e9723d68ab66179490ba516"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
@@ -225,19 +208,22 @@ msgstr "@@image: 'elements-f10.svg'; md5=0d342d21e272b4b56c7554bfa5ccdb31"
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:181(None)
-msgid "@@image: 'elements-f11.svg'; md5=18e595ddbddb1734d35349f536f4e8f3"
-msgstr "@@image: 'elements-f11.svg'; md5=18e595ddbddb1734d35349f536f4e8f3"
+#, fuzzy
+msgid "@@image: 'elements-f11.svg'; md5=ed150e615a140cbd267c9af0577bbb9d"
+msgstr "@@image: 'elements-f15.svg'; md5=9de52933a40491637fcbb4f728bd3448"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:195(None)
-msgid "@@image: 'elements-f12.svg'; md5=b3bb9773d5b06982b625eeccec26e737"
-msgstr "@@image: 'elements-f12.svg'; md5=b3bb9773d5b06982b625eeccec26e737"
+#, fuzzy
+msgid "@@image: 'elements-f12.svg'; md5=b1d423aad90abe6214114e639cb78ac7"
+msgstr "@@image: 'elements-f04.svg'; md5=db981a013d474c4333d886289ab62147"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:209(None)
-msgid "@@image: 'elements-f13.svg'; md5=068e805d087c9b101e2099c0ee6310f9"
+#, fuzzy
+msgid "@@image: 'elements-f13.svg'; md5=8e91b9a906224c0324c6d1883a1fd02d"
 msgstr "@@image: 'elements-f13.svg'; md5=068e805d087c9b101e2099c0ee6310f9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
@@ -249,12 +235,22 @@ msgstr "@@image: 'elements-f14.svg'; md5=c16afd57f035cbdd5b948b57ade618e7"
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: tutorial-elements.xml:238(None)
-msgid "@@image: 'elements-f15.svg'; md5=9de52933a40491637fcbb4f728bd3448"
-msgstr "@@image: 'elements-f15.svg'; md5=9de52933a40491637fcbb4f728bd3448"
+#, fuzzy
+msgid "@@image: 'elements-f15.svg'; md5=4fd16352ff10b47f931d7b82de6d59ae"
+msgstr "@@image: 'elements-f14.svg'; md5=c16afd57f035cbdd5b948b57ade618e7"
 
 #: tutorial-elements.xml:7(para)
-msgid "This tutorial will demonstrate the elements and principles of design which are normally taught to early art students in order to understand various properties used in art making. This is not an exhaustive list, so please add, subtract, and combine to make this tutorial more comprehensive."
-msgstr "Ten poradnik przedstawia elementy i zasady projektowania, których naucza się początkujących studentów akademii sztuk pięknych, by zrozumieli różne techniki używane przy tworzeniu sztuki. Poradnik nie obejmuje wszystkich zagadnień związanych z tworzeniem sztuki, zatem dodawaj do niego, usuwaj, co niepotrzebne i przerabiaj go, aby stał się bardziej wyczerpujący."
+msgid ""
+"This tutorial will demonstrate the elements and principles of design which "
+"are normally taught to early art students in order to understand various "
+"properties used in art making. This is not an exhaustive list, so please "
+"add, subtract, and combine to make this tutorial more comprehensive."
+msgstr ""
+"Ten poradnik przedstawia elementy i zasady projektowania, których naucza się "
+"początkujących studentów akademii sztuk pięknych, by zrozumieli różne "
+"techniki używane przy tworzeniu sztuki. Poradnik nie obejmuje wszystkich "
+"zagadnień związanych z tworzeniem sztuki, zatem dodawaj do niego, usuwaj, co "
+"niepotrzebne i przerabiaj go, aby stał się bardziej wyczerpujący."
 
 #: tutorial-elements.xml:23(title)
 msgid "Elements of Design"
@@ -265,32 +261,81 @@ msgid "The following elements are the building blocks of design."
 msgstr "Następujące elementy stanowią podstawę projektu:"
 
 #: tutorial-elements.xml:28(para)
-msgid "A line is defined as a mark with length and direction, created by a point that moves across a surface. A line can vary in length, width, direction, curvature, and color. Line can be two-dimensional (a pencil line on paper), or implied three-dimensional."
-msgstr "Linię definiuje się jako znak o długości i kierunku utworzony przez punkt poruszający się po powierzchni. Linia może mieć różną długość, szerokość, kierunek, krzywiznę i kolor. Może być dwuwymiarowa (linia utworzona ołówkiem na papierze) lub pseudo trójwymiarowa."
+msgid ""
+"A line is defined as a mark with length and direction, created by a point "
+"that moves across a surface. A line can vary in length, width, direction, "
+"curvature, and color. Line can be two-dimensional (a pencil line on paper), "
+"or implied three-dimensional."
+msgstr ""
+"Linię definiuje się jako znak o długości i kierunku utworzony przez punkt "
+"poruszający się po powierzchni. Linia może mieć różną długość, szerokość, "
+"kierunek, krzywiznę i kolor. Może być dwuwymiarowa (linia utworzona ołówkiem "
+"na papierze) lub pseudo trójwymiarowa."
 
 #: tutorial-elements.xml:44(para)
-msgid "A flat figure, shape is created when actual or implied lines meet to surround a space. A change in color or shading can define a shape. Shapes can be divided into several types: geometric (square, triangle, circle) and organic (irregular in outline)."
-msgstr "Kształt jest figurą płaską. Jest tworzony, kiedy rzeczywiste lub domniemane linie łączą się otaczając przestrzeń. Kształt może być definiowany przez zmianę koloru lub cieniowania. Kształty można podzielić na kilka typów: geometryczne (kwadrat, trójkąt, koło) oraz organiczne (o nieregularnym obrysie)."
+msgid ""
+"A flat figure, shape is created when actual or implied lines meet to "
+"surround a space. A change in color or shading can define a shape. Shapes "
+"can be divided into several types: geometric (square, triangle, circle) and "
+"organic (irregular in outline)."
+msgstr ""
+"Kształt jest figurą płaską. Jest tworzony, kiedy rzeczywiste lub domniemane "
+"linie łączą się otaczając przestrzeń. Kształt może być definiowany przez "
+"zmianę koloru lub cieniowania. Kształty można podzielić na kilka typów: "
+"geometryczne (kwadrat, trójkąt, koło) oraz organiczne (o nieregularnym "
+"obrysie)."
 
 #: tutorial-elements.xml:60(para)
-msgid "This refers to variations in the proportions of objects, lines or shapes. There is a variation of sizes in objects either real or imagined."
-msgstr "Wielkość odnosi się do różnic w proporcjach obiektów, linii lub kształtów. Różnice wielkości obiektów mogą być rzeczywiste albo wyobrażone."
+msgid ""
+"This refers to variations in the proportions of objects, lines or shapes. "
+"There is a variation of sizes in objects either real or imagined."
+msgstr ""
+"Wielkość odnosi się do różnic w proporcjach obiektów, linii lub kształtów. "
+"Różnice wielkości obiektów mogą być rzeczywiste albo wyobrażone."
 
 #: tutorial-elements.xml:74(para)
-msgid "Space is the empty or open area between, around, above, below, or within objects. Shapes and forms are made by the space around and within them. Space is often called three-dimensional or two- dimensional. Positive space is filled by a shape or form. Negative space surrounds a shape or form."
-msgstr "Przestrzeń to pusty lub otwarty obszar pomiędzy obiektami, dookoła, powyżej, poniżej lub wewnątrz nich. Kształty i formy są tworzone przez przestrzeń znajdującą się dookoła bądź wewnątrz nich. Przestrzeń nazywa się często dwu lub trójwymiarową. Przestrzeń pozytywna jest wypełniana przez kształt lub formę, negatywna otacza je."
+msgid ""
+"Space is the empty or open area between, around, above, below, or within "
+"objects. Shapes and forms are made by the space around and within them. "
+"Space is often called three-dimensional or two- dimensional. Positive space "
+"is filled by a shape or form. Negative space surrounds a shape or form."
+msgstr ""
+"Przestrzeń to pusty lub otwarty obszar pomiędzy obiektami, dookoła, powyżej, "
+"poniżej lub wewnątrz nich. Kształty i formy są tworzone przez przestrzeń "
+"znajdującą się dookoła bądź wewnątrz nich. Przestrzeń nazywa się często dwu "
+"lub trójwymiarową. Przestrzeń pozytywna jest wypełniana przez kształt lub "
+"formę, negatywna otacza je."
 
 #: tutorial-elements.xml:91(para)
-msgid "Color is the perceived character of a surface according to the wavelength of light reflected from it. Color has three dimensions: HUE (another word for color, indicated by its name such as red or yellow), VALUE (its lightness or darkness), INTENSITY (its brightness or dullness)."
-msgstr "Kolor to cecha powierzchni postrzegana zgodnie z częstotliwością odbijanego od niej światła. Ma on trzy cechy: BARWĘ (synonim koloru, wskazywany przez nazwę np. czerwona lub żółta), WALOR (jasność), NASYCENIE (poziom barwy)."
+msgid ""
+"Color is the perceived character of a surface according to the wavelength of "
+"light reflected from it. Color has three dimensions: HUE (another word for "
+"color, indicated by its name such as red or yellow), VALUE (its lightness or "
+"darkness), INTENSITY (its brightness or dullness)."
+msgstr ""
+"Kolor to cecha powierzchni postrzegana zgodnie z częstotliwością odbijanego "
+"od niej światła. Ma on trzy cechy: BARWĘ (synonim koloru, wskazywany przez "
+"nazwę np. czerwona lub żółta), WALOR (jasność), NASYCENIE (poziom barwy)."
 
 #: tutorial-elements.xml:108(para)
-msgid "Texture is the way a surface feels (actual texture) or how it may look (implied texture). Textures are described by word such as rough, silky, or pebbly."
-msgstr "Tekstura jest sposobem na wyrażenie odczuwanej faktury powierzchni (rzeczywista tekstura) lub, jak może ona wyglądać (domniemana tekstura). Teksturę opisują takie słowa jak: szorstka, jedwabista czy kamienista."
+msgid ""
+"Texture is the way a surface feels (actual texture) or how it may look "
+"(implied texture). Textures are described by word such as rough, silky, or "
+"pebbly."
+msgstr ""
+"Tekstura jest sposobem na wyrażenie odczuwanej faktury powierzchni "
+"(rzeczywista tekstura) lub, jak może ona wyglądać (domniemana tekstura). "
+"Teksturę opisują takie słowa jak: szorstka, jedwabista czy kamienista."
 
 #: tutorial-elements.xml:123(para)
-msgid "Value is how dark or how light something looks. We achieve value changes in color by adding black or white to the color. Chiaroscuro uses value in drawing by dramatically contrasting lights and darks in a composition."
-msgstr "Walor określa, jak ciemny albo jasny jest wygląd czegoś. Zmian waloru koloru dokonujemy dodając do barwy czerni lub bieli. Za pomocą waloru, radykalnie kontrastując światła i cienie kompozycji, uzyskuje się w rysunku światłocień."
+msgid ""
+"Value is how dark or how light something looks. We achieve value changes in "
+"color by adding black or white to the color. Chiaroscuro uses value in "
+"drawing by dramatically contrasting lights and darks in a composition."
+msgstr ""
+"Walor określa, jak ciemny albo jasny jest wygląd czegoś. Zmian waloru koloru "
+"dokonujemy dodając do barwy czerni lub bieli. Za pomocą waloru, radykalnie "
+"kontrastując światła i cienie kompozycji, uzyskuje się w rysunku światłocień."
 
 #: tutorial-elements.xml:140(title)
 msgid "Principles of Design"
@@ -301,32 +346,65 @@ msgid "The principles use the elements of design to create a composition."
 msgstr "Kompozycję tworzy się z elementów projektu według określonych zasad."
 
 #: tutorial-elements.xml:145(para)
-msgid "Balance is a feeling of visual equality in shape, form, value, color, etc. Balance can be symmetrical or evenly balanced or asymmetrical and un-evenly balanced. Objects, values, colors, textures, shapes, forms, etc., can be used in creating a balance in a composition."
-msgstr "Równowaga jest wrażeniem wizualnego zrównoważenia kształtu, formy, waloru, koloru itp. Równowaga może być symetryczna (równomiernie zrównoważona) albo asymetryczna (nierównomiernie zrównoważona). Do tworzenia równowagi w kompozycji mogą być używane obiekty, walory, kolory, tekstury, kształty, formy itp."
+msgid ""
+"Balance is a feeling of visual equality in shape, form, value, color, etc. "
+"Balance can be symmetrical or evenly balanced or asymmetrical and un-evenly "
+"balanced. Objects, values, colors, textures, shapes, forms, etc., can be "
+"used in creating a balance in a composition."
+msgstr ""
+"Równowaga jest wrażeniem wizualnego zrównoważenia kształtu, formy, waloru, "
+"koloru itp. Równowaga może być symetryczna (równomiernie zrównoważona) albo "
+"asymetryczna (nierównomiernie zrównoważona). Do tworzenia równowagi w "
+"kompozycji mogą być używane obiekty, walory, kolory, tekstury, kształty, "
+"formy itp."
 
 #: tutorial-elements.xml:161(para)
 msgid "Contrast is the juxtaposition of opposing elements"
 msgstr "Kontrast jest zestawieniem przeciwstawnych elementów."
 
 #: tutorial-elements.xml:174(para)
-msgid "Emphasis is used to make certain parts of their artwork stand out and grab your attention. The center of interest or focal point is the place a work draws your eye to first."
-msgstr "Emfazy używa się, by wyróżnić pewne elementy kompozycji oraz przyciągnąć do nich uwagę odbiorcy. Ośrodkiem zainteresowania czy punktem centralnym jest miejsce, które pierwsze przyciąga wzrok."
+msgid ""
+"Emphasis is used to make certain parts of their artwork stand out and grab "
+"your attention. The center of interest or focal point is the place a work "
+"draws your eye to first."
+msgstr ""
+"Emfazy używa się, by wyróżnić pewne elementy kompozycji oraz przyciągnąć do "
+"nich uwagę odbiorcy. Ośrodkiem zainteresowania czy punktem centralnym jest "
+"miejsce, które pierwsze przyciąga wzrok."
 
 #: tutorial-elements.xml:189(para)
-msgid "Proportion describes the size, location or amount of one thing compared to another."
-msgstr "Proporcja określa wielkość, położenie lub ilość jednej rzeczy w porównaniu do innej — stosunek jednej rzeczy do drugiej."
+msgid ""
+"Proportion describes the size, location or amount of one thing compared to "
+"another."
+msgstr ""
+"Proporcja określa wielkość, położenie lub ilość jednej rzeczy w porównaniu "
+"do innej — stosunek jednej rzeczy do drugiej."
 
 #: tutorial-elements.xml:203(para)
-msgid "Pattern is created by repeating an element (line, shape or color) over and over again."
-msgstr "Deseń tworzy się poprzez powtarzanie elementu (linii, kształtu lub koloru) raz za razem."
+msgid ""
+"Pattern is created by repeating an element (line, shape or color) over and "
+"over again."
+msgstr ""
+"Deseń tworzy się poprzez powtarzanie elementu (linii, kształtu lub koloru) "
+"raz za razem."
 
 #: tutorial-elements.xml:217(para)
-msgid "Gradation of size and direction produce linear perspective. Gradation of color from warm to cool and tone from dark to light produce aerial perspective. Gradation can add interest and movement to a shape. A gradation from dark to light will cause the eye to move along a shape."
-msgstr "Stopniowanie wielkości i kierunku tworzy perspektywę linearną. Stopniowanie koloru od ciepłego do chłodnego oraz tonów od jasnego do ciemnego tworzy perspektywę przestrzenną. Stopniowanie może uczynić kształt ciekawszym, a także przydać mu ruchu. Stopniowanie od cienia do światła wywołuje także przesuwanie wzroku wzdłuż kształtu."
+msgid ""
+"Gradation of size and direction produce linear perspective. Gradation of "
+"color from warm to cool and tone from dark to light produce aerial "
+"perspective. Gradation can add interest and movement to a shape. A gradation "
+"from dark to light will cause the eye to move along a shape."
+msgstr ""
+"Stopniowanie wielkości i kierunku tworzy perspektywę linearną. Stopniowanie "
+"koloru od ciepłego do chłodnego oraz tonów od jasnego do ciemnego tworzy "
+"perspektywę przestrzenną. Stopniowanie może uczynić kształt ciekawszym, a "
+"także przydać mu ruchu. Stopniowanie od cienia do światła wywołuje także "
+"przesuwanie wzroku wzdłuż kształtu."
 
 #: tutorial-elements.xml:235(para)
 msgid "The combining of distinct elements to form a whole."
-msgstr "Kompozycja to łączenie różnych elementów w celu ukształtowania całości."
+msgstr ""
+"Kompozycja to łączenie różnych elementów w celu ukształtowania całości."
 
 #: tutorial-elements.xml:245(title)
 msgid "Bibliography"
@@ -365,14 +443,32 @@ msgid "http://digital-web.com/articles/principles_of_design/"
 msgstr "http://digital-web.com/articles/principles_of_design/"
 
 #: tutorial-elements.xml:274(para)
-msgid "Special thanks to Linda Kim (<ulink url=\"http://www.redlucite.org\">http://www.redlucite.org</ulink>) for helping me (<ulink url=\"http://www.rejon.org/\">http://www.rejon.org/</ulink>) with this tutorial. Also, thanks to the Open Clip Art Library (<ulink url=\"http://www.openclipart.org/\">http://www.openclipart.org/</ulink>) and the graphics people have submitted to that project."
-msgstr "Specjalne podziękowania dla Lindy Kim (<ulink url=\"http://www.redlucite.org\">http://www.redlucite.org</ulink>), która pomogła mi (<ulink url=\"http://www.rejon.org/\">http://www.rejon.org/</ulink>) napisać ten poradnik. Podziękowania również dla Open Clip Art Library (<ulink url=\"http://www.openclipart.org\">http://www.openclipart.org/</ulink>) oraz osób, które udostępniły grafiki do tego projektu."
+msgid ""
+"Special thanks to Linda Kim (<ulink url=\"http://www.redlucite.org\">http://"
+"www.redlucite.org</ulink>) for helping me (<ulink url=\"http://www.rejon.org/"
+"\">http://www.rejon.org/</ulink>) with this tutorial. Also, thanks to the "
+"Open Clip Art Library (<ulink url=\"http://www.openclipart.org/\">http://www."
+"openclipart.org/</ulink>) and the graphics people have submitted to that "
+"project."
+msgstr ""
+"Specjalne podziękowania dla Lindy Kim (<ulink url=\"http://www.redlucite.org"
+"\">http://www.redlucite.org</ulink>), która pomogła mi (<ulink url=\"http://"
+"www.rejon.org/\">http://www.rejon.org/</ulink>) napisać ten poradnik. "
+"Podziękowania również dla Open Clip Art Library (<ulink url=\"http://www."
+"openclipart.org\">http://www.openclipart.org/</ulink>) oraz osób, które "
+"udostępniły grafiki do tego projektu."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: tutorial-elements.xml:0(None)
 msgid "translator-credits"
 msgstr ""
 "Polska lokalizacja wykonana przez:\n"
 "2008-2009 — Polski Zespół lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
-"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, "
+"Wojciech Ryrych, Piotr Parafiniuk i inni"
 
+#~ msgid "@@image: 'elements-f11.svg'; md5=18e595ddbddb1734d35349f536f4e8f3"
+#~ msgstr "@@image: 'elements-f11.svg'; md5=18e595ddbddb1734d35349f536f4e8f3"
+
+#~ msgid "@@image: 'elements-f12.svg'; md5=b3bb9773d5b06982b625eeccec26e737"
+#~ msgstr "@@image: 'elements-f12.svg'; md5=b3bb9773d5b06982b625eeccec26e737"

@@ -5,301 +5,713 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: tutorial-tips\n"
-"POT-Creation-Date: 2009-10-01 21:24+0200\n"
+"POT-Creation-Date: 2010-11-26 14:25+0100\n"
 "PO-Revision-Date: 2009-10-10 11:44+0100\n"
 "Last-Translator: Leszek(teo)Życzkowski <leszekz@gmail.com>\n"
 "Language-Team:  <pl@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: tips-f06.svg:132(format)
-#: tips-f05.svg:554(format)
-#: tips-f04.svg:66(format)
-#: tips-f03.svg:45(format)
-#: tips-f02.svg:45(format)
-#: tips-f01.svg:45(format)
+#: tips-f06.svg:132(format) tips-f05.svg:554(format) tips-f04.svg:66(format)
+#: tips-f03.svg:45(format) tips-f02.svg:45(format) tips-f01.svg:45(format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-tips.xml:38(None)
+#: tutorial-tips.xml:39(None)
 msgid "@@image: 'tips-f01.svg'; md5=4d0784964d00a02e2b3e7d1e0cf24ee7"
 msgstr "@@image: 'tips-f01.svg'; md5=4d0784964d00a02e2b3e7d1e0cf24ee7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-tips.xml:56(None)
+#: tutorial-tips.xml:57(None)
+#, fuzzy
 msgid "@@image: 'tips-f02.svg'; md5=5a822e44a71cbb8e091cd0fd12475df7"
-msgstr "@@image: 'tips-f02.svg'; md5=5a822e44a71cbb8e091cd0fd12475df7"
+msgstr "@@image: 'tips-f01.svg'; md5=4d0784964d00a02e2b3e7d1e0cf24ee7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-tips.xml:72(None)
+#: tutorial-tips.xml:73(None)
+#, fuzzy
 msgid "@@image: 'tips-f03.svg'; md5=53a8a340a802c8ecb0370ac4d51ef2a0"
-msgstr "@@image: 'tips-f03.svg'; md5=53a8a340a802c8ecb0370ac4d51ef2a0"
+msgstr "@@image: 'tips-f01.svg'; md5=4d0784964d00a02e2b3e7d1e0cf24ee7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-tips.xml:117(None)
+#: tutorial-tips.xml:119(None)
 msgid "@@image: 'tips-f04.svg'; md5=1bcc5ce520dc9dd4c5f831a91169609f"
 msgstr "@@image: 'tips-f04.svg'; md5=1bcc5ce520dc9dd4c5f831a91169609f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-tips.xml:129(None)
+#: tutorial-tips.xml:131(None)
+#, fuzzy
 msgid "@@image: 'tips-f05.svg'; md5=6ea20717ed0ed1cdab3f1124f8b04dec"
-msgstr "@@image: 'tips-f05.svg'; md5=6ea20717ed0ed1cdab3f1124f8b04dec"
+msgstr "@@image: 'tips-f01.svg'; md5=4d0784964d00a02e2b3e7d1e0cf24ee7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: tutorial-tips.xml:146(None)
+#: tutorial-tips.xml:148(None)
 msgid "@@image: 'tips-f06.svg'; md5=a3bf8641bd7d6b8fd3473bb5c62da666"
 msgstr "@@image: 'tips-f06.svg'; md5=a3bf8641bd7d6b8fd3473bb5c62da666"
 
-#: tutorial-tips.xml:4(title)
+#: tutorial-tips.xml:5(title)
 msgid "Tips and Tricks"
 msgstr "Porady i sztuczki"
 
-#: tutorial-tips.xml:7(para)
-msgid "This tutorial will demonstrate various tips and tricks that users have learned through the use of Inkscape and some “hidden” features that can help you speed up production tasks."
-msgstr "W poradniku tym zostaną przedstawione różne porady i sztuczki, których użytkownicy nauczyli się, używając Inkscape'a, oraz kilka „ukrytych” funkcji mogących przyspieszyć pracę."
+#: tutorial-tips.xml:8(para)
+msgid ""
+"This tutorial will demonstrate various tips and tricks that users have "
+"learned through the use of Inkscape and some “hidden” features that can help "
+"you speed up production tasks."
+msgstr ""
+"W poradniku tym zostaną przedstawione różne porady i sztuczki, których "
+"użytkownicy nauczyli się, używając Inkscape'a, oraz kilka „ukrytych” funkcji "
+"mogących przyspieszyć pracę."
 
-#: tutorial-tips.xml:15(title)
+#: tutorial-tips.xml:16(title)
 msgid "Radial placement with Tile Clones"
 msgstr "Promieniowe rozmieszczanie wielokrotnych klonów"
 
-#: tutorial-tips.xml:16(para)
-msgid "It's easy to see how to use the <command>Tile Clones</command> dialog for rectangular grids and patterns. But what if you need <firstterm>radial</firstterm> placement, where objects share a common center of rotation? It's possible too!"
-msgstr "Łatwo jest dostrzec, jak używać polecenia „<command>Utwórz układ klonów</command>” dla prostokątnych siatek i deseni, ale co zrobić, jeżeli potrzebne jest ułożenie <firstterm>promieniste</firstterm>, w którym obiekty mają wspólny środek obrotu? To również jest możliwe!"
+#: tutorial-tips.xml:17(para)
+msgid ""
+"It's easy to see how to use the <command>Tile Clones</command> dialog for "
+"rectangular grids and patterns. But what if you need <firstterm>radial</"
+"firstterm> placement, where objects share a common center of rotation? It's "
+"possible too!"
+msgstr ""
+"Łatwo jest dostrzec, jak używać polecenia „<command>Utwórz układ klonów</"
+"command>” dla prostokątnych siatek i deseni, ale co zrobić, jeżeli potrzebne "
+"jest ułożenie <firstterm>promieniste</firstterm>, w którym obiekty mają "
+"wspólny środek obrotu? To również jest możliwe!"
 
-#: tutorial-tips.xml:21(para)
-msgid "If your radial pattern need only have 3, 4, 6, 8, or 12 elements, then you can try the P3, P31M, P3M1, P4, P4M, P6, or P6M symmetries. These would work nicely for snowflakes and the like. A more general method, however, is as follows."
-msgstr "Jeśli promieniowy deseń ma mieć tylko 3, 4, 6, 8 lub 12 elementów, można spróbować symetrii P3, P31M, P3M1, P4, P4M, P6 lub P6M. Te polecenia świetnie nadają się do tworzenia płatków śniegu i tym podobnych. Poniżej została opisana bardziej ogólna metoda."
+#: tutorial-tips.xml:22(para)
+msgid ""
+"If your radial pattern need only have 3, 4, 6, 8, or 12 elements, then you "
+"can try the P3, P31M, P3M1, P4, P4M, P6, or P6M symmetries. These would work "
+"nicely for snowflakes and the like. A more general method, however, is as "
+"follows."
+msgstr ""
+"Jeśli promieniowy deseń ma mieć tylko 3, 4, 6, 8 lub 12 elementów, można "
+"spróbować symetrii P3, P31M, P3M1, P4, P4M, P6 lub P6M. Te polecenia "
+"świetnie nadają się do tworzenia płatków śniegu i tym podobnych. Poniżej "
+"została opisana bardziej ogólna metoda."
 
-#: tutorial-tips.xml:26(para)
-msgid "Choose the P1 symmetry (simple translation) and then <emphasis>compensate</emphasis> for that translation by going to the <command>Shift</command> tab and setting <command>Per row/Shift Y</command> and <command>Per column/Shift X</command> both to -100%. Now all clones will be stacked exactly on top of the original. All that remains to do is to go to the <command>Rotation</command> tab and set some rotation angle per column, then create the pattern with one row and multiple columns. For example, here's a pattern made out of a horizontal line, with 30 columns, each column rotated 6 degrees:"
-msgstr "Wybierz symetrię P1 (proste przesunięcie), a następnie <emphasis>wyrównaj</emphasis> to przesunięcie przechodząc do karty „<command>Przesunięcie</command>”. Wartość „<command>Przesunięcie Y</command>” dla wierszy i „<command>Przesunięcie X</command>” dla kolumn ustaw na -100%. Teraz wszystkie klony zostaną ułożone w stos nad oryginałem. Aby dokończyć dzieła, należy jeszcze wykonać obrócenie. Przejdź do karty „<command>Obrót</command>” i ustaw jakiś kąt obrotu dla kolumny, a następnie utwórz deseń złożony z jednego wiersza i wielu kolumn. Oto deseń utworzony z poziomej linii z 30 kolumnami, z każdą kolumną obróconą o 6 stopni."
+#: tutorial-tips.xml:27(para)
+msgid ""
+"Choose the P1 symmetry (simple translation) and then <emphasis>compensate</"
+"emphasis> for that translation by going to the <command>Shift</command> tab "
+"and setting <command>Per row/Shift Y</command> and <command>Per column/Shift "
+"X</command> both to -100%. Now all clones will be stacked exactly on top of "
+"the original. All that remains to do is to go to the <command>Rotation</"
+"command> tab and set some rotation angle per column, then create the pattern "
+"with one row and multiple columns. For example, here's a pattern made out of "
+"a horizontal line, with 30 columns, each column rotated 6 degrees:"
+msgstr ""
+"Wybierz symetrię P1 (proste przesunięcie), a następnie <emphasis>wyrównaj</"
+"emphasis> to przesunięcie przechodząc do karty „<command>Przesunięcie</"
+"command>”. Wartość „<command>Przesunięcie Y</command>” dla wierszy i "
+"„<command>Przesunięcie X</command>” dla kolumn ustaw na -100%. Teraz "
+"wszystkie klony zostaną ułożone w stos nad oryginałem. Aby dokończyć dzieła, "
+"należy jeszcze wykonać obrócenie. Przejdź do karty „<command>Obrót</"
+"command>” i ustaw jakiś kąt obrotu dla kolumny, a następnie utwórz deseń "
+"złożony z jednego wiersza i wielu kolumn. Oto deseń utworzony z poziomej "
+"linii z 30 kolumnami, z każdą kolumną obróconą o 6 stopni."
 
-#: tutorial-tips.xml:43(para)
-msgid "To get a clock dial out of this, all you need to do is cut out or simply overlay the central part by a white circle (to do boolean operations on clones, unlink them first)."
-msgstr "Aby otrzymać z tego tarczę zegarową, należy przyciąć lub przykryć środkową część białym kołem. Pamiętaj, że przed wykonaniem operacji logicznych należy najpierw odłączyć klony."
+#: tutorial-tips.xml:44(para)
+msgid ""
+"To get a clock dial out of this, all you need to do is cut out or simply "
+"overlay the central part by a white circle (to do boolean operations on "
+"clones, unlink them first)."
+msgstr ""
+"Aby otrzymać z tego tarczę zegarową, należy przyciąć lub przykryć środkową "
+"część białym kołem. Pamiętaj, że przed wykonaniem operacji logicznych należy "
+"najpierw odłączyć klony."
 
-#: tutorial-tips.xml:47(para)
-msgid "More interesting effects can be created by using both rows and columns. Here's a pattern with 10 columns and 8 rows, with rotation of 2 degrees per row and 18 degrees per column. Each group of lines here is a “column”, so the groups are 18 degrees from each other; within each column, individual lines are 2 degrees apart:"
-msgstr "Bardziej interesujące efekty można tworzyć używając jednocześnie wierszy i kolumn. Oto deseń składający się z 10 kolumn i 8 wierszy z rotacją 2 stopni dla wiersza i 18 dla kolumny. Każda grupa linii jest tutaj „kolumną”, więc grupy te są rozłożone co 18 stopni, a wewnątrz każdej kolumny pojedyncze linie są oddalone od siebie o 2 stopnie:"
+#: tutorial-tips.xml:48(para)
+msgid ""
+"More interesting effects can be created by using both rows and columns. "
+"Here's a pattern with 10 columns and 8 rows, with rotation of 2 degrees per "
+"row and 18 degrees per column. Each group of lines here is a “column”, so "
+"the groups are 18 degrees from each other; within each column, individual "
+"lines are 2 degrees apart:"
+msgstr ""
+"Bardziej interesujące efekty można tworzyć używając jednocześnie wierszy i "
+"kolumn. Oto deseń składający się z 10 kolumn i 8 wierszy z rotacją 2 stopni "
+"dla wiersza i 18 dla kolumny. Każda grupa linii jest tutaj „kolumną”, więc "
+"grupy te są rozłożone co 18 stopni, a wewnątrz każdej kolumny pojedyncze "
+"linie są oddalone od siebie o 2 stopnie:"
 
-#: tutorial-tips.xml:61(para)
-msgid "In the above examples, the line was rotated around its center. But what if you want the center to be outside of your shape? Just create an invisible (no fill, no stroke) rectangle which would cover your shape and whose center is in the point you need, group the shape and the rectangle together, and then use <command>Tile Clones</command> on that group. This is how you can do nice “explosions” or “starbursts” by randomizing scale, rotation, and possibly opacity:"
-msgstr "W powyższych przykładach linia była obracana wokół swego środka, ale co zrobić, jeśli chcemy, aby środek znajdował się poza kształtem? Należy utworzyć niewidoczny (bez wypełnienia i konturu) prostokąt, który przykryje kształt i którego środek będzie leżał w punkcie, wokół którego chcemy obrócić obiekt. Następnie należy zgrupować kształt i prostokąt oraz użyć polecenia „<command>Utwórz układ klonów</command>”. W ten sposób, dobierając losowo skalę, obroty i przypuszczalne krycie, można utworzyć ładną eksplozję lub wybuch gwiazdy."
+#: tutorial-tips.xml:62(para)
+msgid ""
+"In the above examples, the line was rotated around its center. But what if "
+"you want the center to be outside of your shape? Just create an invisible "
+"(no fill, no stroke) rectangle which would cover your shape and whose center "
+"is in the point you need, group the shape and the rectangle together, and "
+"then use <command>Tile Clones</command> on that group. This is how you can "
+"do nice “explosions” or “starbursts” by randomizing scale, rotation, and "
+"possibly opacity:"
+msgstr ""
+"W powyższych przykładach linia była obracana wokół swego środka, ale co "
+"zrobić, jeśli chcemy, aby środek znajdował się poza kształtem? Należy "
+"utworzyć niewidoczny (bez wypełnienia i konturu) prostokąt, który przykryje "
+"kształt i którego środek będzie leżał w punkcie, wokół którego chcemy "
+"obrócić obiekt. Następnie należy zgrupować kształt i prostokąt oraz użyć "
+"polecenia „<command>Utwórz układ klonów</command>”. W ten sposób, dobierając "
+"losowo skalę, obroty i przypuszczalne krycie, można utworzyć ładną eksplozję "
+"lub wybuch gwiazdy."
 
-#: tutorial-tips.xml:79(title)
-msgid "How to do slicing (multiple rectangluar export areas)?"
+#: tutorial-tips.xml:80(title)
+#, fuzzy
+msgid "How to do slicing (multiple rectangular export areas)?"
 msgstr "Fragmentowanie (eksport wielu prostokątnych obszarów)"
 
-#: tutorial-tips.xml:80(para)
-msgid "Create a new layer, in that layer create invisible rectangles covering parts of your image. Make sure your document uses the px unit (default), turn on grid and snap the rects to the grid so that each one spans a whole number of px units. Assign meaningful ids to the rects, and export each one to its own file. Then the rects will remember their export filenames. After that, it's very easy to re-export some of the rects: switch to the export layer, use Tab to select the one you need (or use Find by id), and click Export in the dialog. Or, you can write a shell script or batch file to export all of your areas, with a command like:"
-msgstr "Utwórz nową warstwę, a na niej utwórz niewidoczne prostokąty pokrywające części obrazka. Upewnij się, że w dokumencie jako jednostki pomiarowe są używane piksele (wartość domyślna). Włącz siatkę i tak przesuń prostokąty, by każdy z nich obejmował całe pole kratki. Przypisz prostokątom charakterystyczną dla każdego z nich nazwę (ID) i wyeksportuj je do pojedynczych plików. Pliki te przyjmą nazwy prostokątów podane w polu ID. Dzięki temu bardzo łatwo jest ponownie eksportować prostokąty. Wystarczy zaznaczyć warstwę, na której znajdują się pofragmentowane prostokąty, za pomocą klawisza [ <keycap>Tab</keycap> ] zaznaczyć żądany prostokąt i w oknie dialogowym kliknąć przycisk „Eksportuj”. Do zaznaczenia prostokąta można też użyć funkcji „Znajdź obiekty za pomocą identyfikatorów”. Można nawet napisać skrypt powłoki lub plik wsadowy, który wyeksportuje wszystkie obszary po wprowadzeniu do wiersza poleceń polecenia:"
+#: tutorial-tips.xml:81(para)
+#, fuzzy
+msgid ""
+"Create a new layer, in that layer create invisible rectangles covering parts "
+"of your image. Make sure your document uses the px unit (default), turn on "
+"grid and snap the rects to the grid so that each one spans a whole number of "
+"px units. Assign meaningful ids to the rects, and export each one to its own "
+"file (<command>File &gt; Export Bitmap</command> (<keycap>Shift+Ctrl+E</"
+"keycap>)). Then the rects will remember their export filenames. After that, "
+"it's very easy to re-export some of the rects: switch to the export layer, "
+"use Tab to select the one you need (or use Find by id), and click Export in "
+"the dialog. Or, you can write a shell script or batch file to export all of "
+"your areas, with a command like:"
+msgstr ""
+"Utwórz nową warstwę, a na niej utwórz niewidoczne prostokąty pokrywające "
+"części obrazka. Upewnij się, że w dokumencie jako jednostki pomiarowe są "
+"używane piksele (wartość domyślna). Włącz siatkę i tak przesuń prostokąty, "
+"by każdy z nich obejmował całe pole kratki. Przypisz prostokątom "
+"charakterystyczną dla każdego z nich nazwę (ID) i wyeksportuj je do "
+"pojedynczych plików. Pliki te przyjmą nazwy prostokątów podane w polu ID. "
+"Dzięki temu bardzo łatwo jest ponownie eksportować prostokąty. Wystarczy "
+"zaznaczyć warstwę, na której znajdują się pofragmentowane prostokąty, za "
+"pomocą klawisza [ <keycap>Tab</keycap> ] zaznaczyć żądany prostokąt i w "
+"oknie dialogowym kliknąć przycisk „Eksportuj”. Do zaznaczenia prostokąta "
+"można też użyć funkcji „Znajdź obiekty za pomocą identyfikatorów”. Można "
+"nawet napisać skrypt powłoki lub plik wsadowy, który wyeksportuje wszystkie "
+"obszary po wprowadzeniu do wiersza poleceń polecenia:"
 
-#: tutorial-tips.xml:90(para)
-msgid "inkscape -i &lt;area-id&gt; -t &lt;filename.svg&gt;"
+#: tutorial-tips.xml:92(para)
+#, fuzzy
+msgid "inkscape -i area-id -t filename.svg"
 msgstr "inkscape -i &lt;id_obszaru&gt; -t &lt;nazwa_pliku.svg&gt;"
 
-#: tutorial-tips.xml:93(para)
-msgid "for each exported area. The -t switch tells it to use the remembered filename hint, otherwise you can provide the export filename with the -e switch. Alternatively, you can use the <ulink url=\"http://www.digitalunleashed.com/\">svgslice</ulink> utility to automate exporting from Inkscape SVG documents, using either a slice layer or guides."
-msgstr "Przełącznik -t każe użyć zapamiętanej nazwy pliku. Można również użyć eksportowanej nazwy pliku z przełącznikiem -e. Alternatywnym rozwiązaniem zautomatyzowania eksportu z Inkscape'a dokumentów SVG jest użycie narzędzia <ulink url=\"http://www.digitalunleashed.com/\">svgslice</ulink> i użycie warstwy fragmentów albo prowadnic."
+#: tutorial-tips.xml:95(para)
+msgid ""
+"for each exported area. The -t switch tells it to use the remembered "
+"filename hint, otherwise you can provide the export filename with the -e "
+"switch. Alternatively, you can use the <ulink url=\"http://www."
+"digitalunleashed.com/\">svgslice</ulink> utility to automate exporting from "
+"Inkscape SVG documents, using either a slice layer or guides."
+msgstr ""
+"Przełącznik -t każe użyć zapamiętanej nazwy pliku. Można również użyć "
+"eksportowanej nazwy pliku z przełącznikiem -e. Alternatywnym rozwiązaniem "
+"zautomatyzowania eksportu z Inkscape'a dokumentów SVG jest użycie narzędzia "
+"<ulink url=\"http://www.digitalunleashed.com/\">svgslice</ulink> i użycie "
+"warstwy fragmentów albo prowadnic."
 
-#: tutorial-tips.xml:102(title)
+#: tutorial-tips.xml:104(title)
 msgid "Non-linear gradients"
 msgstr "Gradienty nieliniowe"
 
-#: tutorial-tips.xml:103(para)
-msgid "The version 1.1 of SVG does not support non-linear gradients (i.e. those which have a non-linear translations between colors). You can, however, emulate them by <firstterm>multistop</firstterm> gradients."
-msgstr "SVG w wersji 1.1 nie wspiera nieliniowych gradientów tj. takich, które mają nieliniowe przejścia między kolorami. Można jednak naśladować je za pomocą gradientów <firstterm>wielopunktowych<firstterm>."
+#: tutorial-tips.xml:105(para)
+msgid ""
+"The version 1.1 of SVG does not support non-linear gradients (i.e. those "
+"which have a non-linear translations between colors). You can, however, "
+"emulate them by <firstterm>multistop</firstterm> gradients."
+msgstr ""
+"SVG w wersji 1.1 nie wspiera nieliniowych gradientów tj. takich, które mają "
+"nieliniowe przejścia między kolorami. Można jednak naśladować je za pomocą "
+"gradientów <firstterm>wielopunktowych<firstterm>."
 
-#: tutorial-tips.xml:108(para)
-msgid "Start with a simple two-stop gradient. Open the Gradient editor (e.g. by double-clicking on any gradient handle in the Gradient tool). Add a new gradient stop in the middle; drag it a bit. Then add more stops before and after the middle stop and drag them too, so that the gradient is smooth. The more stops you add, the smoother you can make the resulting gradient. Here's the initial black-white gradient with two stops:"
-msgstr "Zacznij od prostego gradientu dwupunktowego. Otwórz „Edytor gradientu” (np. poprzez dwukrotne kliknięcie dowolnego uchwytu narzędziem „Gradient”). W środku dodaj nowy punkt i delikatnie go przeciągnij. Aby gradient miał gładsze przejścia, dodaj po obu stronach punktu środkowego po jednym nowym punkcie i także je trochę przeciągnij – gradient będzie bardziej wygładzony. Im więcej punktów dodasz, tym gładsze będą przejścia w gradiencie wynikowym. Oto wyjściowy czarno-biały gradient z dwoma punktami:"
+#: tutorial-tips.xml:110(para)
+msgid ""
+"Start with a simple two-stop gradient. Open the Gradient editor (e.g. by "
+"double-clicking on any gradient handle in the Gradient tool). Add a new "
+"gradient stop in the middle; drag it a bit. Then add more stops before and "
+"after the middle stop and drag them too, so that the gradient is smooth. The "
+"more stops you add, the smoother you can make the resulting gradient. Here's "
+"the initial black-white gradient with two stops:"
+msgstr ""
+"Zacznij od prostego gradientu dwupunktowego. Otwórz „Edytor gradientu” (np. "
+"poprzez dwukrotne kliknięcie dowolnego uchwytu narzędziem „Gradient”). W "
+"środku dodaj nowy punkt i delikatnie go przeciągnij. Aby gradient miał "
+"gładsze przejścia, dodaj po obu stronach punktu środkowego po jednym nowym "
+"punkcie i także je trochę przeciągnij – gradient będzie bardziej wygładzony. "
+"Im więcej punktów dodasz, tym gładsze będą przejścia w gradiencie wynikowym. "
+"Oto wyjściowy czarno-biały gradient z dwoma punktami:"
 
-#: tutorial-tips.xml:122(para)
-msgid "And here are various “non-linear” multi-stop gradients (examine them in the Gradient Editor):"
-msgstr "A oto różne „nieliniowe” wielopunktowe gradienty – sprawdź je w edytorze gradientu:"
+#: tutorial-tips.xml:124(para)
+msgid ""
+"And here are various “non-linear” multi-stop gradients (examine them in the "
+"Gradient Editor):"
+msgstr ""
+"A oto różne „nieliniowe” wielopunktowe gradienty – sprawdź je w edytorze "
+"gradientu:"
 
-#: tutorial-tips.xml:136(title)
+#: tutorial-tips.xml:138(title)
 msgid "Excentric radial gradients"
 msgstr "Niesymetryczne gradienty radialne"
 
-#: tutorial-tips.xml:137(para)
-msgid "Radial gradients don't have to be symmetric. In Gradient tool, drag the central handle of an elliptic gradient with <keycap>Shift</keycap>. This will move the x-shaped <firstterm>focus handle</firstterm> of the gradient away from its center. When you don't need it, you can snap the focus back by dragging it close to the center."
-msgstr "Gradienty radialne nie muszą być symetryczne. Będąc w trybie narzędzia „Gradient”, ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] przeciągnij centralny uchwyt gradientu radialnego. W wyniku tego uchwyt <firstterm>ogniska gradientu</firstterm> w kształcie litery x, zostanie odsunięty od środka i określi nowe położenie ogniska gradientu. Uchwyt ten – jeśli nie chcesz zmiany położenia ogniska – można przeciągnąć z powrotem do środka gradientu."
+#: tutorial-tips.xml:139(para)
+msgid ""
+"Radial gradients don't have to be symmetric. In Gradient tool, drag the "
+"central handle of an elliptic gradient with <keycap>Shift</keycap>. This "
+"will move the x-shaped <firstterm>focus handle</firstterm> of the gradient "
+"away from its center. When you don't need it, you can snap the focus back by "
+"dragging it close to the center."
+msgstr ""
+"Gradienty radialne nie muszą być symetryczne. Będąc w trybie narzędzia "
+"„Gradient”, ze wciśniętym klawiszem [ <keycap>Shift</keycap> ] przeciągnij "
+"centralny uchwyt gradientu radialnego. W wyniku tego uchwyt "
+"<firstterm>ogniska gradientu</firstterm> w kształcie litery x, zostanie "
+"odsunięty od środka i określi nowe położenie ogniska gradientu. Uchwyt ten – "
+"jeśli nie chcesz zmiany położenia ogniska – można przeciągnąć z powrotem do "
+"środka gradientu."
 
-#: tutorial-tips.xml:153(title)
+#: tutorial-tips.xml:155(title)
 msgid "Aligning to the center of the page"
 msgstr "Wyrównywanie do środka strony"
 
-#: tutorial-tips.xml:154(para)
-msgid "To align something to the center or side of a page, select the object or group and then choose <command>Page</command> from the <command>Relative to:</command> list in the Align dialog (<keycap>Ctrl+Shift+A</keycap>)."
-msgstr "Aby wyrównać coś do środka lub boku strony, należy zaznaczyć obiekt lub grupę obiektów, a następnie w oknie dialogowym „Wyrównaj i rozmieść”, dostępnym z poziomu menu „Obiekt” lub za pomocą skrótu [ <keycap>Ctrl+Shift+A</keycap> ], z listy rozwijanej „<command>Element sterujący</command>” wybrać element „<command>Strona</command>” i kliknąć przycisk symbolizujący żądane wyrównanie (zwróć uwagę na podpowiedzi)."
+#: tutorial-tips.xml:156(para)
+#, fuzzy
+msgid ""
+"To align something to the center or side of a page, select the object or "
+"group and then choose <command>Page</command> from the <command>Relative to:"
+"</command> list in the Align and Distribute dialog (<keycap>Ctrl+Shift+A</"
+"keycap>)."
+msgstr ""
+"Aby wyrównać coś do środka lub boku strony, należy zaznaczyć obiekt lub "
+"grupę obiektów, a następnie w oknie dialogowym „Wyrównaj i rozmieść”, "
+"dostępnym z poziomu menu „Obiekt” lub za pomocą skrótu [ <keycap>Ctrl+Shift"
+"+A</keycap> ], z listy rozwijanej „<command>Element sterujący</command>” "
+"wybrać element „<command>Strona</command>” i kliknąć przycisk symbolizujący "
+"żądane wyrównanie (zwróć uwagę na podpowiedzi)."
 
-#: tutorial-tips.xml:162(title)
+#: tutorial-tips.xml:164(title)
 msgid "Cleaning up the document"
 msgstr "Czyszczenie dokumentu"
 
-#: tutorial-tips.xml:163(para)
-msgid "Many of the no-longer-used gradients, patterns, and markers (more precisely, those which you edited manually) remain in the corresponding palettes and can be reused for new objects. However if you want to optimize your document, use the <command>Vacuum Defs</command> command in File menu. It will remove any gradients, patterns, or markers which are not used by anything in the document, making the file smaller."
-msgstr "Wiele nieużywanych gradientów, deseni i znaczników (dokładniej te, które były edytowane ręcznie) pozostaje we właściwych im paletach i można je użyć ponownie dla nowych obiektów. Chcąc zoptymalizować dokument, należy użyć polecenia „<command>Wyczyść definicje</command>”, które znajduje się w menu „Plik”. Polecenie to usunie wszystkie gradienty, desenie lub znaczniki, które nie są używane przez żadne obiekty w dokumencie. Dzięki temu plik będzie mniejszy."
+#: tutorial-tips.xml:165(para)
+msgid ""
+"Many of the no-longer-used gradients, patterns, and markers (more precisely, "
+"those which you edited manually) remain in the corresponding palettes and "
+"can be reused for new objects. However if you want to optimize your "
+"document, use the <command>Vacuum Defs</command> command in File menu. It "
+"will remove any gradients, patterns, or markers which are not used by "
+"anything in the document, making the file smaller."
+msgstr ""
+"Wiele nieużywanych gradientów, deseni i znaczników (dokładniej te, które "
+"były edytowane ręcznie) pozostaje we właściwych im paletach i można je użyć "
+"ponownie dla nowych obiektów. Chcąc zoptymalizować dokument, należy użyć "
+"polecenia „<command>Wyczyść definicje</command>”, które znajduje się w menu "
+"„Plik”. Polecenie to usunie wszystkie gradienty, desenie lub znaczniki, "
+"które nie są używane przez żadne obiekty w dokumencie. Dzięki temu plik "
+"będzie mniejszy."
 
-#: tutorial-tips.xml:173(title)
-msgid "Clipping or masking a bitmap"
-msgstr "Przycinanie lub maskowanie bitmapy"
-
-#: tutorial-tips.xml:175(para)
-msgid "By default, an imported bitmap (e.g. a photo) is an &lt;image&gt; element which is not editable by the Node tool. To work around this, convert the image into a rectangle with pattern fill by <command>Object to Pattern</command> (<keycap>Alt+I</keycap>). This will give you a rectangle <emphasis>filled</emphasis> with your bitmap. Now this object can be converted to path, node-edited, intersected with other shapes etc. In <command>Inkscape Preferences</command> (<command>Misc</command> tab), you can set the option of always importing bitmaps as pattern-filled rectangles."
-msgstr "Domyślnie zaimportowana mapa bitowa (np. zdjęcie) jest elementem &lt;image&gt;, którego nie da się edytować za pomocą narzędzia „Edycja węzłów”. Aby obejść ten problem, należy skonwertować obrazek na prostokąt. Wykonuje się to, tworząc prostokąt i wypełniając go deseniem za pomocą polecenia „<command>Obiekty na deseń</command>” [ <keycap>Alt+I</keycap> ]. Od tej chwili obiekt może być przekształcony na ścieżkę, edytowany za pomocą węzłów oraz można na nim wykonywać operacje logiczne itp."
-
-#: tutorial-tips.xml:187(title)
+#: tutorial-tips.xml:175(title)
 msgid "Hidden features and the XML editor"
 msgstr "Ukryte funkcje i edytor XML"
 
-#: tutorial-tips.xml:188(para)
-msgid "The XML editor allows you to change almost all aspects of the document without using an external text editor. Also, Inkscape usually supports more SVG features than are accessible from the GUI. For example, we now support displaying masks and clipping paths, even though there's no GUI for creating or modifying them. The XML editor is one way to get access to these features (if you know SVG)."
-msgstr "Edytor XML umożliwia zmianę prawie wszystkich aspektów dokumentu bez używania zewnętrznego edytora tekstu. Inkscape wspiera więcej funkcji SVG niż te dostępne za pomocą graficznego interfejsu użytkownika (GUI). Na przykład program wspiera wyświetlanie masek i ścieżek przycinania, pomimo że nie istnieje GUI do tworzenia lub ich edytowania."
+#: tutorial-tips.xml:176(para)
+#, fuzzy
+msgid ""
+"The XML editor (<keycap>Shift+Ctrl+X</keycap>) allows you to change almost "
+"all aspects of the document without using an external text editor. Also, "
+"Inkscape usually supports more SVG features than are accessible from the "
+"GUI. The XML editor is one way to get access to these features (if you know "
+"SVG)."
+msgstr ""
+"Edytor XML umożliwia zmianę prawie wszystkich aspektów dokumentu bez "
+"używania zewnętrznego edytora tekstu. Inkscape wspiera więcej funkcji SVG "
+"niż te dostępne za pomocą graficznego interfejsu użytkownika (GUI). Na "
+"przykład program wspiera wyświetlanie masek i ścieżek przycinania, pomimo że "
+"nie istnieje GUI do tworzenia lub ich edytowania."
 
-#: tutorial-tips.xml:198(title)
+#: tutorial-tips.xml:185(title)
 msgid "Changing the rulers' unit of measure"
 msgstr "Zmiana jednostek pomiarowych linijek"
 
-#: tutorial-tips.xml:199(para)
-msgid "In the default template, the unit of measure used by the rulers is px (“SVG user unit”, in Inkscape it's equal to 0.8pt or 1/90 of the inch). This is also the unit used in displaying coordinates at the lower-left corner and preselected in all units menus. (You can always hover your mouse over a ruler to see the tooltip with the units it uses.) To change this, open <command>Document Preferences</command> (<keycap>Ctrl+Shift+D</keycap>) and change the <command>Default units</command> on the <command>Page</command> tab."
-msgstr "W domyślnym szablonie jednostką miary użytą w linijkach jest piksel – px („jednostka użytkowa SVG”, w Inkscape'ie równa się ona 0,8pt lub 1/90 cala). Jest to też jednostka używana do wyświetlania współrzędnych w dolnym lewym rogu okna programu i wybrana wstępnie we wszystkich menu związanych z jednostkami. Zawsze można wskazać kursorem myszy linijkę i zobaczyć informację o stosowanej jednostce. By zmienić jednostkę, należy otworzyć okno dialogowe „<command>Właściwości dokumentu</command>” [ <keycap>Ctrl+Shift+D</keycap> ] i na karcie „<command>Strona</command>” zmienić <command>domyślną jednostkę</command>."
+#: tutorial-tips.xml:186(para)
+msgid ""
+"In the default template, the unit of measure used by the rulers is px (“SVG "
+"user unit”, in Inkscape it's equal to 0.8pt or 1/90 of the inch). This is "
+"also the unit used in displaying coordinates at the lower-left corner and "
+"preselected in all units menus. (You can always hover your mouse over a "
+"ruler to see the tooltip with the units it uses.) To change this, open "
+"<command>Document Preferences</command> (<keycap>Ctrl+Shift+D</keycap>) and "
+"change the <command>Default units</command> on the <command>Page</command> "
+"tab."
+msgstr ""
+"W domyślnym szablonie jednostką miary użytą w linijkach jest piksel – px "
+"(„jednostka użytkowa SVG”, w Inkscape'ie równa się ona 0,8pt lub 1/90 cala). "
+"Jest to też jednostka używana do wyświetlania współrzędnych w dolnym lewym "
+"rogu okna programu i wybrana wstępnie we wszystkich menu związanych z "
+"jednostkami. Zawsze można wskazać kursorem myszy linijkę i zobaczyć "
+"informację o stosowanej jednostce. By zmienić jednostkę, należy otworzyć "
+"okno dialogowe „<command>Właściwości dokumentu</command>” [ <keycap>Ctrl"
+"+Shift+D</keycap> ] i na karcie „<command>Strona</command>” zmienić "
+"<command>domyślną jednostkę</command>."
 
-#: tutorial-tips.xml:211(title)
+#: tutorial-tips.xml:198(title)
 msgid "Stamping"
 msgstr "Stemplowanie"
 
-#: tutorial-tips.xml:212(para)
-msgid "To quickly create many copies of an object, use <firstterm>stamping</firstterm>. Just drag an object (or scale or rotate it), and while holding the mouse button down, press <keycap>Space</keycap>. This leaves a “stamp” of the current object shape. You can repeat it as many times as you wish."
-msgstr "Aby szybko utworzyć wiele kopii obiektu, użyj „<firstterm>stemplowania</firstterm>”. W tym celu przeciągnij obiekt (lub przeskaluj go bądź obróć) i trzymając wciśnięty klawisz myszy, naciśnij <keycap>spację</keycap>. Operacja ta pozostawi „stempel” aktualnego kształtu obiektu. Stemplowanie może być wielokrotnie powtórzone."
+#: tutorial-tips.xml:199(para)
+msgid ""
+"To quickly create many copies of an object, use <firstterm>stamping</"
+"firstterm>. Just drag an object (or scale or rotate it), and while holding "
+"the mouse button down, press <keycap>Space</keycap>. This leaves a “stamp” "
+"of the current object shape. You can repeat it as many times as you wish."
+msgstr ""
+"Aby szybko utworzyć wiele kopii obiektu, użyj „<firstterm>stemplowania</"
+"firstterm>”. W tym celu przeciągnij obiekt (lub przeskaluj go bądź obróć) i "
+"trzymając wciśnięty klawisz myszy, naciśnij <keycap>spację</keycap>. "
+"Operacja ta pozostawi „stempel” aktualnego kształtu obiektu. Stemplowanie "
+"może być wielokrotnie powtórzone."
 
-#: tutorial-tips.xml:221(title)
+#: tutorial-tips.xml:208(title)
 msgid "Pen tool tricks"
 msgstr "Sztuczki z narzędziem „Pióro”"
 
-#: tutorial-tips.xml:222(para)
-msgid "In the Pen (Bezier) tool, you have the following options to finish the current line:"
-msgstr "Narzędzie „Pióro” wyposażone jest w następujące opcje zakończenia linii:"
+#: tutorial-tips.xml:209(para)
+msgid ""
+"In the Pen (Bezier) tool, you have the following options to finish the "
+"current line:"
+msgstr ""
+"Narzędzie „Pióro” wyposażone jest w następujące opcje zakończenia linii:"
 
-#: tutorial-tips.xml:226(para)
+#: tutorial-tips.xml:213(para)
 msgid "Press <keycap>Enter</keycap>"
 msgstr "Naciśnij [ <keycap>Enter</keycap> ]"
 
-#: tutorial-tips.xml:229(para)
+#: tutorial-tips.xml:216(para)
 msgid "Double click with the left mouse button"
 msgstr "Kliknij dwukrotnie lewym przyciskiem myszy"
 
-#: tutorial-tips.xml:232(para)
+#: tutorial-tips.xml:219(para)
 msgid "Select the Pen tool again"
 msgstr "Wybierz ponownie narzędzie „Pióro”"
 
-#: tutorial-tips.xml:235(para)
+#: tutorial-tips.xml:222(para)
 msgid "Select another tool"
 msgstr "Wybierz inne narzędzie"
 
-#: tutorial-tips.xml:240(para)
-msgid "Note that while the path is unfinished (i.e. is shown green, with the current segment red) it does not yet exist as an object in the document. Therefore, to cancel it, use either <keycap>Esc</keycap> (cancel the whole path) or <keycap>Backspace</keycap> (remove the last segment of the unfinished path) instead of <command>Undo</command>."
-msgstr "Zauważ, że kiedy ścieżka jest nieukończona tj. wyświetlana na zielono, a ostatni jej segment na czerwono, nie istnieje jeszcze jako obiekt w dokumencie. Tak więc, by ją usunąć, można zamiast polecenia „<command>Wycofaj</command>”, użyć klawisza [ <keycap>Esc</keycap> ] – anuluje całą ścieżkę lub klawisza [ <keycap>Backspace</keycap> ] – usuwa ostatni segment nieukończonej ścieżki."
+#: tutorial-tips.xml:227(para)
+msgid ""
+"Note that while the path is unfinished (i.e. is shown green, with the "
+"current segment red) it does not yet exist as an object in the document. "
+"Therefore, to cancel it, use either <keycap>Esc</keycap> (cancel the whole "
+"path) or <keycap>Backspace</keycap> (remove the last segment of the "
+"unfinished path) instead of <command>Undo</command>."
+msgstr ""
+"Zauważ, że kiedy ścieżka jest nieukończona tj. wyświetlana na zielono, a "
+"ostatni jej segment na czerwono, nie istnieje jeszcze jako obiekt w "
+"dokumencie. Tak więc, by ją usunąć, można zamiast polecenia "
+"„<command>Wycofaj</command>”, użyć klawisza [ <keycap>Esc</keycap> ] – "
+"anuluje całą ścieżkę lub klawisza [ <keycap>Backspace</keycap> ] – usuwa "
+"ostatni segment nieukończonej ścieżki."
 
-#: tutorial-tips.xml:247(para)
-msgid "To add a new subpath to an existing path, select that path and start drawing with <keycap>Shift</keycap> from an arbitrary point. If, however, what you want is to simply <emphasis>continue</emphasis> an existing path, Shift is not necessary; just start drawing from one of the end anchors of the selected path."
-msgstr "Aby do istniejącej ścieżki dodać nową subścieżkę, zaznacz ścieżkę i zacznij tworzyć ją z dowolnego punktu z przytrzymanym klawiszem [ <keycap>Shift</keycap> ]. Jeśli chcesz <emphasis>kontynuować</emphasis> istniejącą ścieżkę, klawisz [ <keycap>Shift</keycap> ] nie jest konieczny, po prostu rozpocznij rysowanie od jednego z końców zaznaczonej ścieżki."
+#: tutorial-tips.xml:234(para)
+msgid ""
+"To add a new subpath to an existing path, select that path and start drawing "
+"with <keycap>Shift</keycap> from an arbitrary point. If, however, what you "
+"want is to simply <emphasis>continue</emphasis> an existing path, Shift is "
+"not necessary; just start drawing from one of the end anchors of the "
+"selected path."
+msgstr ""
+"Aby do istniejącej ścieżki dodać nową subścieżkę, zaznacz ścieżkę i zacznij "
+"tworzyć ją z dowolnego punktu z przytrzymanym klawiszem [ <keycap>Shift</"
+"keycap> ]. Jeśli chcesz <emphasis>kontynuować</emphasis> istniejącą ścieżkę, "
+"klawisz [ <keycap>Shift</keycap> ] nie jest konieczny, po prostu rozpocznij "
+"rysowanie od jednego z końców zaznaczonej ścieżki."
 
-#: tutorial-tips.xml:256(title)
+#: tutorial-tips.xml:243(title)
 msgid "Entering Unicode values"
 msgstr "Wprowadzanie wartości Unicode"
 
-#: tutorial-tips.xml:257(para)
-msgid "While in the Text tool, pressing <keycap>Ctrl+U</keycap> toggles between Unicode and normal mode. In Unicode mode, each group of 4 hexadecimal digits you type becomes a single Unicode character, thus allowing you to enter arbitrary symbols (as long as you know their Unicode codepoints and the font supports them). To finish the Unicode input, press <keycap>Enter</keycap>. For example, <keycap>Ctrl+U 2 0 1 4 Enter</keycap> inserts an em-dash (—). To quit the Unicode mode without inserting anything press <keycap>Esc</keycap>."
-msgstr "W trybie narzędzia „Tekst” naciśnięcie skrótu [ <keycap>Ctrl+U</keycap> ] przełącza pomiędzy trybem Unicode a normalnym. W trybie Unicode każda grupa 4 szesnastkowych napisanych cyfr staje się pojedynczym znakiem Unicode. Ułatwia to wpisywanie zwykłych symboli pod warunkiem, że znasz odpowiednie kody Unicode i masz zainstalowaną właściwą czcionkę. Aby zakończyć wpisywanie symboli Unicode, należy nacisnąć klawisz [ <keycap>Enter</keycap> ]. Na przykład <keycap>Ctrl+U 2 0 1 4 Enter</keycap> wypisuje długi myślnik (—). Aby opuścić tryb Unicode bez wstawiania niczego, naciśnij klawisz <keycap>Esc</keycap>."
+#: tutorial-tips.xml:244(para)
+msgid ""
+"While in the Text tool, pressing <keycap>Ctrl+U</keycap> toggles between "
+"Unicode and normal mode. In Unicode mode, each group of 4 hexadecimal digits "
+"you type becomes a single Unicode character, thus allowing you to enter "
+"arbitrary symbols (as long as you know their Unicode codepoints and the font "
+"supports them). To finish the Unicode input, press <keycap>Enter</keycap>. "
+"For example, <keycap>Ctrl+U 2 0 1 4 Enter</keycap> inserts an em-dash (—). "
+"To quit the Unicode mode without inserting anything press <keycap>Esc</"
+"keycap>."
+msgstr ""
+"W trybie narzędzia „Tekst” naciśnięcie skrótu [ <keycap>Ctrl+U</keycap> ] "
+"przełącza pomiędzy trybem Unicode a normalnym. W trybie Unicode każda grupa "
+"4 szesnastkowych napisanych cyfr staje się pojedynczym znakiem Unicode. "
+"Ułatwia to wpisywanie zwykłych symboli pod warunkiem, że znasz odpowiednie "
+"kody Unicode i masz zainstalowaną właściwą czcionkę. Aby zakończyć "
+"wpisywanie symboli Unicode, należy nacisnąć klawisz [ <keycap>Enter</"
+"keycap> ]. Na przykład <keycap>Ctrl+U 2 0 1 4 Enter</keycap> wypisuje długi "
+"myślnik (—). Aby opuścić tryb Unicode bez wstawiania niczego, naciśnij "
+"klawisz <keycap>Esc</keycap>."
 
-#: tutorial-tips.xml:269(title)
+#: tutorial-tips.xml:256(title)
 msgid "Using the grid for drawing icons"
 msgstr "Stosowanie siatki do rysowania ikon"
 
-#: tutorial-tips.xml:270(para)
-msgid "Suppose you want to create a 24x24 pixel icon. Create a 24x24 px canvas (use the <command>Document Preferences</command>) and set the grid to 0.5 px (48x48 gridlines). Now, if you align filled objects to <emphasis>even</emphasis> gridlines, and stroked objects to <emphasis>odd</emphasis> gridlines with the stroke width in px being an even number, and export it at the default 90dpi (so that 1 px becomes 1 bitmap pixel), you get a crisp bitmap image without unneeded antialiasing."
-msgstr "Załóżmy, że chcesz narysować ikonę o rozmiarze 24x24 pikseli. Stwórz dokument o takim właśnie rozmiarze (użyj „<command>Właściwości dokumentu</command>”) i ustaw odstępy siatki na 0,5 px (siatka 48x48). Jeżeli teraz wyrównasz wypełnione obiekty do <emphasis>parzystych</emphasis> linii siatki, a obiekty z konturem (kontur o szerokości podanej w px i liczbie parzystej) do <emphasis>nieparzystych</emphasis> linii siatki i następnie wyeksportujesz w domyślnej rozdzielczości 90 dpi (1 px stanie się 1 pikselem bitmapy), otrzymasz wyrazisty obrazek bitmapowy bez niepotrzebnego antyaliasingu."
+#: tutorial-tips.xml:257(para)
+msgid ""
+"Suppose you want to create a 24x24 pixel icon. Create a 24x24 px canvas (use "
+"the <command>Document Preferences</command>) and set the grid to 0.5 px "
+"(48x48 gridlines). Now, if you align filled objects to <emphasis>even</"
+"emphasis> gridlines, and stroked objects to <emphasis>odd</emphasis> "
+"gridlines with the stroke width in px being an even number, and export it at "
+"the default 90dpi (so that 1 px becomes 1 bitmap pixel), you get a crisp "
+"bitmap image without unneeded antialiasing."
+msgstr ""
+"Załóżmy, że chcesz narysować ikonę o rozmiarze 24x24 pikseli. Stwórz "
+"dokument o takim właśnie rozmiarze (użyj „<command>Właściwości dokumentu</"
+"command>”) i ustaw odstępy siatki na 0,5 px (siatka 48x48). Jeżeli teraz "
+"wyrównasz wypełnione obiekty do <emphasis>parzystych</emphasis> linii "
+"siatki, a obiekty z konturem (kontur o szerokości podanej w px i liczbie "
+"parzystej) do <emphasis>nieparzystych</emphasis> linii siatki i następnie "
+"wyeksportujesz w domyślnej rozdzielczości 90 dpi (1 px stanie się 1 pikselem "
+"bitmapy), otrzymasz wyrazisty obrazek bitmapowy bez niepotrzebnego "
+"antyaliasingu."
 
-#: tutorial-tips.xml:281(title)
+#: tutorial-tips.xml:268(title)
 msgid "Object rotation"
 msgstr "Obracanie obiektu"
 
-#: tutorial-tips.xml:282(para)
-msgid "When in the Select tool, <keycap>click</keycap> on an object to see the scaling arrows, then <keycap>click again</keycap> on the object to see the rotation and shift arrows. If the arrows at the corners are clicked and dragged, the object will rotate around the center (shown as a cross mark). If you hold down the <keycap>Shift</keycap> key while doing this, the rotation will occur around the opposite corner. You can also drag the rotation center to any place."
-msgstr "Będąc w trybie narzędzia „Wskaźnik”, <keycap>kliknij</keycap> obiekt – zostaną wyświetlone strzałki skalowania. Ponowne kliknięcie obiektu spowoduje wyświetlenie strzałek służących do obracania i pochylania. Kliknięcie i ciągnięcie dowolnej narożnej strzałki powoduje obrót obiektu dookoła środka wyświetlonego jako znaczek krzyżyka. Ze wciśniętym klawiszem [ <keycap>Shift</keycap> ], nastąpi obrót względem przeciwnego narożnika. Środek obrotu można umieścić w dowolnym miejscu poprzez jego przeciągnięcie."
+#: tutorial-tips.xml:269(para)
+msgid ""
+"When in the Select tool, <keycap>click</keycap> on an object to see the "
+"scaling arrows, then <keycap>click again</keycap> on the object to see the "
+"rotation and shift arrows. If the arrows at the corners are clicked and "
+"dragged, the object will rotate around the center (shown as a cross mark). "
+"If you hold down the <keycap>Shift</keycap> key while doing this, the "
+"rotation will occur around the opposite corner. You can also drag the "
+"rotation center to any place."
+msgstr ""
+"Będąc w trybie narzędzia „Wskaźnik”, <keycap>kliknij</keycap> obiekt – "
+"zostaną wyświetlone strzałki skalowania. Ponowne kliknięcie obiektu "
+"spowoduje wyświetlenie strzałek służących do obracania i pochylania. "
+"Kliknięcie i ciągnięcie dowolnej narożnej strzałki powoduje obrót obiektu "
+"dookoła środka wyświetlonego jako znaczek krzyżyka. Ze wciśniętym klawiszem "
+"[ <keycap>Shift</keycap> ], nastąpi obrót względem przeciwnego narożnika. "
+"Środek obrotu można umieścić w dowolnym miejscu poprzez jego przeciągnięcie."
 
-#: tutorial-tips.xml:291(para)
-msgid "Or, you can rotate from keyboard by pressing <keycap>[</keycap> and <keycap>]</keycap> (by 15 degrees) or <keycap>Ctrl+[</keycap> and <keycap>Ctrl+]</keycap> (by 90 degrees). The same <keycap>[]</keycap> keys with <keycap>Alt</keycap> perform slow pixel-size rotation."
-msgstr "Obiekt można także obracać za pomocą klawiatury klawiszami [ <keycap>[</keycap> ] i [ <keycap>]</keycap> ] – obrót o 15 stopni lub skrótu [ <keycap>Ctrl+[</keycap> ] i [ <keycap>Ctrl+]</keycap> ] – obrót o 90 stopni. Te same klawisze [ <keycap>[]</keycap> ] z przytrzymanym klawiszem [ <keycap>Alt</keycap> ] wykonują obrót o rozmiarze piksela."
+#: tutorial-tips.xml:278(para)
+msgid ""
+"Or, you can rotate from keyboard by pressing <keycap>[</keycap> and <keycap>]"
+"</keycap> (by 15 degrees) or <keycap>Ctrl+[</keycap> and <keycap>Ctrl+]</"
+"keycap> (by 90 degrees). The same <keycap>[]</keycap> keys with <keycap>Alt</"
+"keycap> perform slow pixel-size rotation."
+msgstr ""
+"Obiekt można także obracać za pomocą klawiatury klawiszami [ <keycap>[</"
+"keycap> ] i [ <keycap>]</keycap> ] – obrót o 15 stopni lub skrótu "
+"[ <keycap>Ctrl+[</keycap> ] i [ <keycap>Ctrl+]</keycap> ] – obrót o 90 "
+"stopni. Te same klawisze [ <keycap>[]</keycap> ] z przytrzymanym klawiszem "
+"[ <keycap>Alt</keycap> ] wykonują obrót o rozmiarze piksela."
 
-#: tutorial-tips.xml:300(title)
-msgid "Open dialog as an object palette"
-msgstr "Okno dialogowe „Otwórz jako paleta obiektu”"
-
-#: tutorial-tips.xml:301(para)
-msgid "If you have a number of small SVG files whose contents you often reuse in other documents, you can conveniently use the Open dialog as a palette. Add the directory with your SVG sources into the bookmarks list so you can open it quickly. Then browse that directory looking at the previews. Once you found the file you need, simply drag it to the canvas and it will be imported into your current document."
-msgstr "Jeżeli masz wiele małych plików SVG, których zawartość często wykorzystujesz w innych dokumentach, możesz dla wygody użyć okna dialogowego „Otwórz jako palety”. W tym celu dodaj katalog z plikami SVG do listy zakładek, by szybko go otwierać. Otwórz go i przeglądaj, obserwując podgląd. Po znalezieniu żądanego pliku, przeciągnij go do obszaru roboczego, a zostanie on zaimportowany do bieżącego dokumentu."
-
-#: tutorial-tips.xml:311(title)
+#: tutorial-tips.xml:287(title)
 msgid "Drop shadows"
 msgstr "Tworzenie cienia"
 
-#: tutorial-tips.xml:312(para)
-msgid "Inkscape supports the Gaussian blur SVG filter, so you can easily create blurred drop shadows for objects. Select an object, duplicate it by <keycap>Ctrl+D</keycap>, press <keycap>PgDown</keycap> to put it beneath original object, place it a little to the right and lower than original object. Now open Fill And Stroke dialog and change Blur value to, say, 5.0. That's it!"
-msgstr "Inkscape obsługuje filtr SVG „Rozmycie gaussowskie”. Dzięki temu można tworzyć rozmyte cienie obiektów. Aby to zrobić, zaznacz obiekt, powiel go za pomocą skrótu [ <keycap>Ctrl+D</keycap> ] i naciśnij klawisz [ <keycap>PgDown</keycap> ], by umieścić powielony element pod oryginalnym. Następnie przesuń go nieco w prawo i trochę poniżej oryginału. Otwórz teraz okno dialogowe „Wypełnienie i kontur” i zmień wartość rozmycia, np. na 5.0. To jest właśnie to!"
+#: tutorial-tips.xml:288(para)
+msgid ""
+"Inkscape supports the Gaussian blur SVG filter, so you can easily create "
+"blurred drop shadows for objects. Select an object, duplicate it by "
+"<keycap>Ctrl+D</keycap>, press <keycap>PgDown</keycap> to put it beneath "
+"original object, place it a little to the right and lower than original "
+"object. Now open Fill And Stroke dialog and change Blur value to, say, 5.0. "
+"That's it!"
+msgstr ""
+"Inkscape obsługuje filtr SVG „Rozmycie gaussowskie”. Dzięki temu można "
+"tworzyć rozmyte cienie obiektów. Aby to zrobić, zaznacz obiekt, powiel go za "
+"pomocą skrótu [ <keycap>Ctrl+D</keycap> ] i naciśnij klawisz "
+"[ <keycap>PgDown</keycap> ], by umieścić powielony element pod oryginalnym. "
+"Następnie przesuń go nieco w prawo i trochę poniżej oryginału. Otwórz teraz "
+"okno dialogowe „Wypełnienie i kontur” i zmień wartość rozmycia, np. na 5.0. "
+"To jest właśnie to!"
 
-#: tutorial-tips.xml:322(title)
+#: tutorial-tips.xml:298(title)
 msgid "Placing text on a path"
 msgstr "Umieszczanie tekstu na ścieżce"
 
-#: tutorial-tips.xml:323(para)
-msgid "To place text along a curve, select the text and the curve together and choose <command>Put on Path</command> from the Text menu. The text will start at the beginning of the path. In general it is best to create an explicit path that you want the text to be fitted to, rather than fitting it to some other drawing element — this will give you more control without screwing over your drawing."
-msgstr "Aby umieścić tekst wzdłuż krzywej, zaznacz zarówno tekst, jak i krzywą. Z menu „Tekst” wybierz polecenie „<command>Wstaw na ścieżkę</command>”. Tekst pojawi się na początku ścieżki. Ogólnie rzecz biorąc, lepiej jest utworzyć osobną ścieżkę, do której chcesz, żeby tekst był dopasowany, zamiast dopasowywać go do innego elementu rysunku – umożliwi to lepszą kontrolę bez zniekształcania rysunku."
+#: tutorial-tips.xml:299(para)
+msgid ""
+"To place text along a curve, select the text and the curve together and "
+"choose <command>Put on Path</command> from the Text menu. The text will "
+"start at the beginning of the path. In general it is best to create an "
+"explicit path that you want the text to be fitted to, rather than fitting it "
+"to some other drawing element — this will give you more control without "
+"screwing over your drawing."
+msgstr ""
+"Aby umieścić tekst wzdłuż krzywej, zaznacz zarówno tekst, jak i krzywą. Z "
+"menu „Tekst” wybierz polecenie „<command>Wstaw na ścieżkę</command>”. Tekst "
+"pojawi się na początku ścieżki. Ogólnie rzecz biorąc, lepiej jest utworzyć "
+"osobną ścieżkę, do której chcesz, żeby tekst był dopasowany, zamiast "
+"dopasowywać go do innego elementu rysunku – umożliwi to lepszą kontrolę bez "
+"zniekształcania rysunku."
 
-#: tutorial-tips.xml:333(title)
+#: tutorial-tips.xml:309(title)
 msgid "Selecting the original"
 msgstr "Zaznaczanie oryginału"
 
-#: tutorial-tips.xml:334(para)
-msgid "When you have a text on path, a linked offset, or a clone, their source object/path may be difficult to select because it may be directly underneath, or made invisible and/or locked. The magic key <keycap>Shift+D</keycap> will help you; select the text, linked offset, or clone, and press <keycap>Shift+D</keycap> to move selection to the corresponding path, offset source, or clone original."
-msgstr "Kiedy masz już tekst na ścieżce, odsunięcie połączone lub klon, zaznaczenie źródłowego obiektu/ścieżki może być trudne, ponieważ może on leżeć poniżej lub być niewidoczny/zablokowany. Wówczas pomoże ci magiczny klawisz [ <keycap>Shift+D</keycap> ]. Zaznacz tekst, odsunięcie połączone lub klon i użyj skrótu [ <keycap>Shift+D</keycap> ], by przenieść zaznaczenie na odpowiednią ścieżkę, źródło przesunięcia lub oryginał klonu."
+#: tutorial-tips.xml:310(para)
+msgid ""
+"When you have a text on path, a linked offset, or a clone, their source "
+"object/path may be difficult to select because it may be directly "
+"underneath, or made invisible and/or locked. The magic key <keycap>Shift+D</"
+"keycap> will help you; select the text, linked offset, or clone, and press "
+"<keycap>Shift+D</keycap> to move selection to the corresponding path, offset "
+"source, or clone original."
+msgstr ""
+"Kiedy masz już tekst na ścieżce, odsunięcie połączone lub klon, zaznaczenie "
+"źródłowego obiektu/ścieżki może być trudne, ponieważ może on leżeć poniżej "
+"lub być niewidoczny/zablokowany. Wówczas pomoże ci magiczny klawisz "
+"[ <keycap>Shift+D</keycap> ]. Zaznacz tekst, odsunięcie połączone lub klon i "
+"użyj skrótu [ <keycap>Shift+D</keycap> ], by przenieść zaznaczenie na "
+"odpowiednią ścieżkę, źródło przesunięcia lub oryginał klonu."
 
-#: tutorial-tips.xml:344(title)
+#: tutorial-tips.xml:320(title)
 msgid "Window off-screen recovery"
 msgstr "Przywracanie okna spoza ekranu"
 
-#: tutorial-tips.xml:345(para)
-msgid "When moving documents between systems with different resolutions or number of displays, you may find Inkscape has saved a window position that places the window out of reach on your screen. Simply maximise the window (which will bring it back into view, use the task bar), save and reload. You can avoid this altogether by unchecking the global option to save window geometry (<command>Inkscape Preferences</command>, <command>Windows</command> tab)."
-msgstr "Podczas przenoszenia dokumentów pomiędzy systemami z różną rozdzielczością lub liczbą monitorów, może zdarzyć się, że zapisana przez Inkscape'a pozycja okna sprawi, iż znajdzie się ono poza zasięgiem twojego ekranu. Po prostu zmaksymalizuj okno, aby przywrócić jego widok – użyj do tego paska zadań, zapisz je, zamknij i ponownie wczytaj. By takiej sytuacji uniknąć, możesz wyłączyć opcję zapisywania ustawień okna w ustawieniach globalnych Inkscape'a – karta „<command>Okna</command>”."
+#: tutorial-tips.xml:321(para)
+msgid ""
+"When moving documents between systems with different resolutions or number "
+"of displays, you may find Inkscape has saved a window position that places "
+"the window out of reach on your screen. Simply maximise the window (which "
+"will bring it back into view, use the task bar), save and reload. You can "
+"avoid this altogether by unchecking the global option to save window "
+"geometry (<command>Inkscape Preferences</command>, <command>Windows</"
+"command> tab)."
+msgstr ""
+"Podczas przenoszenia dokumentów pomiędzy systemami z różną rozdzielczością "
+"lub liczbą monitorów, może zdarzyć się, że zapisana przez Inkscape'a pozycja "
+"okna sprawi, iż znajdzie się ono poza zasięgiem twojego ekranu. Po prostu "
+"zmaksymalizuj okno, aby przywrócić jego widok – użyj do tego paska zadań, "
+"zapisz je, zamknij i ponownie wczytaj. By takiej sytuacji uniknąć, możesz "
+"wyłączyć opcję zapisywania ustawień okna w ustawieniach globalnych "
+"Inkscape'a – karta „<command>Okna</command>”."
 
-#: tutorial-tips.xml:356(title)
+#: tutorial-tips.xml:332(title)
 msgid "Transparency, gradients, and PostScript export"
 msgstr "Przezroczystość, gradienty i eksport do PostSCriptu"
 
-#: tutorial-tips.xml:357(para)
-msgid "PostScript or EPS formats do not support <emphasis>transparency</emphasis>, so you should never use it if you are going to export to PS/EPS. In the case of flat transparency which overlays flat color, it's easy to fix it: Select one of the transparent objects; switch to the Dropper tool (<keycap>F7</keycap>); make sure it's in the “pick visible color without alpha” mode; click on that same object. That will pick the visible color and assign it back to the object, but this time without transparency. Repeat for all transparent objects. If your transparent object overlays several flat color areas, you will need to break it correspondingly into pieces and apply this procedure to each piece."
-msgstr "Formaty PostSCript i EPS nie obsługują <emphasis>przezroczystości</emphasis>, więc nie należy jej używać, jeżeli zamierza się eksportować dokument do PS/EPS. Łatwo to naprawić w przypadku równej przezroczystości nałożonej na jednolity kolor. Zaznacz jeden z przezroczystych obiektów, włącz narzędzie „Próbnik koloru” [ <keycap>F7</keycap> ], upewnij się, że jest tylko w trybie wybierania kolorów i kliknij ten sam obiekt. W ten sposób pobierzesz widoczny kolor i przypiszesz go z powrotem do obiektu, ale tym razem bez przezroczystości. Powtórz tę czynność dla wszystkich przezroczystych obiektów. Jeśli twój przezroczysty obiekt pokrywa kilka obszarów o jednolitej barwie, należy podzielić go odpowiednio na fragmenty i zastosować tę procedurę do każdego z nich."
+#: tutorial-tips.xml:333(para)
+msgid ""
+"PostScript or EPS formats do not support <emphasis>transparency</emphasis>, "
+"so you should never use it if you are going to export to PS/EPS. In the case "
+"of flat transparency which overlays flat color, it's easy to fix it: Select "
+"one of the transparent objects; switch to the Dropper tool (<keycap>F7</"
+"keycap>); make sure it's in the “pick visible color without alpha” mode; "
+"click on that same object. That will pick the visible color and assign it "
+"back to the object, but this time without transparency. Repeat for all "
+"transparent objects. If your transparent object overlays several flat color "
+"areas, you will need to break it correspondingly into pieces and apply this "
+"procedure to each piece."
+msgstr ""
+"Formaty PostSCript i EPS nie obsługują <emphasis>przezroczystości</"
+"emphasis>, więc nie należy jej używać, jeżeli zamierza się eksportować "
+"dokument do PS/EPS. Łatwo to naprawić w przypadku równej przezroczystości "
+"nałożonej na jednolity kolor. Zaznacz jeden z przezroczystych obiektów, "
+"włącz narzędzie „Próbnik koloru” [ <keycap>F7</keycap> ], upewnij się, że "
+"jest tylko w trybie wybierania kolorów i kliknij ten sam obiekt. W ten "
+"sposób pobierzesz widoczny kolor i przypiszesz go z powrotem do obiektu, ale "
+"tym razem bez przezroczystości. Powtórz tę czynność dla wszystkich "
+"przezroczystych obiektów. Jeśli twój przezroczysty obiekt pokrywa kilka "
+"obszarów o jednolitej barwie, należy podzielić go odpowiednio na fragmenty i "
+"zastosować tę procedurę do każdego z nich."
 
-#: tutorial-tips.xml:369(para)
-msgid "Exporting <emphasis>gradients</emphasis> to PS or EPS does not work for text (unless text is converted to path) or for stroke paint. Also, since transparency is lost on PS or EPS export, you can't use e.g. a gradient from an <emphasis>opaque</emphasis> blue to <emphasis>transparent</emphasis> blue; as a workaround, replace it by a gradient from <emphasis>opaque</emphasis> blue to <emphasis>opaque</emphasis> background color."
-msgstr "Eksport <emphasis>gradientów</emphasis> do PS lub EPS nie działa dla obiektów tekstowych, chyba że tekst został przekształcony na ścieżkę, i koloru konturu. Ponieważ przezroczystość podczas eksportu do PS lub EPS jest tracona, nie można zastosować przejścia od <emphasis>kryjącego</emphasis> niebieskiego do niebieskiego <emphasis>przezroczystego</emphasis>. Aby to obejść, zastąp je gradientem przechodzącym od <emphasis>kryjącego</emphasis> niebieskiego do <emphasis>kryjącego</emphasis> koloru tła."
+#: tutorial-tips.xml:345(para)
+msgid ""
+"Exporting <emphasis>gradients</emphasis> to PS or EPS does not work for text "
+"(unless text is converted to path) or for stroke paint. Also, since "
+"transparency is lost on PS or EPS export, you can't use e.g. a gradient from "
+"an <emphasis>opaque</emphasis> blue to <emphasis>transparent</emphasis> "
+"blue; as a workaround, replace it by a gradient from <emphasis>opaque</"
+"emphasis> blue to <emphasis>opaque</emphasis> background color."
+msgstr ""
+"Eksport <emphasis>gradientów</emphasis> do PS lub EPS nie działa dla "
+"obiektów tekstowych, chyba że tekst został przekształcony na ścieżkę, i "
+"koloru konturu. Ponieważ przezroczystość podczas eksportu do PS lub EPS jest "
+"tracona, nie można zastosować przejścia od <emphasis>kryjącego</emphasis> "
+"niebieskiego do niebieskiego <emphasis>przezroczystego</emphasis>. Aby to "
+"obejść, zastąp je gradientem przechodzącym od <emphasis>kryjącego</emphasis> "
+"niebieskiego do <emphasis>kryjącego</emphasis> koloru tła."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: tutorial-tips.xml:0(None)
 msgid "translator-credits"
 msgstr ""
 "Polska lokalizacja wykonana przez:\n"
 "2008-2009 - Polski Zespół Lokalizacyjny Inkscape (inkscapeplteam@gmail.com)\n"
-"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, Wojciech Ryrych, Piotr Parafiniuk i inni"
+"W składzie: Leszek(teo)Życzkowski, Marcin Floryan, Wojciech Szczęsny, "
+"Wojciech Ryrych, Piotr Parafiniuk i inni"
 
+#, fuzzy
+#~ msgid "@@image: 'tracing-f01.svg'; md5=2d518aa1eac57e40b354980f4196e45b"
+#~ msgstr "@@image: 'tips-f02.svg'; md5=5a822e44a71cbb8e091cd0fd12475df7"
+
+#, fuzzy
+#~ msgid "@@image: 'tracing-f02.svg'; md5=51ff94b899765a6578c7599fd971a927"
+#~ msgstr "@@image: 'tips-f02.svg'; md5=5a822e44a71cbb8e091cd0fd12475df7"
+
+#, fuzzy
+#~ msgid "@@image: 'tracing-f04.svg'; md5=b788b5eb50f2ff34f48817fcd14fae05"
+#~ msgstr "@@image: 'tips-f03.svg'; md5=53a8a340a802c8ecb0370ac4d51ef2a0"
+
+#, fuzzy
+#~ msgid "@@image: 'tracing-f05.svg'; md5=e5f60b76390fe5b5807a36b43c710fc8"
+#~ msgstr "@@image: 'tips-f05.svg'; md5=6ea20717ed0ed1cdab3f1124f8b04dec"
+
+#, fuzzy
+#~ msgid "@@image: 'tracing-f06.svg'; md5=5a14a98c0d02c23df7f79edc5284eda9"
+#~ msgstr "@@image: 'tips-f03.svg'; md5=53a8a340a802c8ecb0370ac4d51ef2a0"
+
+#~ msgid "Clipping or masking a bitmap"
+#~ msgstr "Przycinanie lub maskowanie bitmapy"
+
+#~ msgid ""
+#~ "By default, an imported bitmap (e.g. a photo) is an &lt;image&gt; element "
+#~ "which is not editable by the Node tool. To work around this, convert the "
+#~ "image into a rectangle with pattern fill by <command>Object to Pattern</"
+#~ "command> (<keycap>Alt+I</keycap>). This will give you a rectangle "
+#~ "<emphasis>filled</emphasis> with your bitmap. Now this object can be "
+#~ "converted to path, node-edited, intersected with other shapes etc. In "
+#~ "<command>Inkscape Preferences</command> (<command>Misc</command> tab), "
+#~ "you can set the option of always importing bitmaps as pattern-filled "
+#~ "rectangles."
+#~ msgstr ""
+#~ "Domyślnie zaimportowana mapa bitowa (np. zdjęcie) jest elementem &lt;"
+#~ "image&gt;, którego nie da się edytować za pomocą narzędzia „Edycja "
+#~ "węzłów”. Aby obejść ten problem, należy skonwertować obrazek na "
+#~ "prostokąt. Wykonuje się to, tworząc prostokąt i wypełniając go deseniem "
+#~ "za pomocą polecenia „<command>Obiekty na deseń</command>” [ <keycap>Alt"
+#~ "+I</keycap> ]. Od tej chwili obiekt może być przekształcony na ścieżkę, "
+#~ "edytowany za pomocą węzłów oraz można na nim wykonywać operacje logiczne "
+#~ "itp."
+
+#~ msgid "Open dialog as an object palette"
+#~ msgstr "Okno dialogowe „Otwórz jako paleta obiektu”"
+
+#~ msgid ""
+#~ "If you have a number of small SVG files whose contents you often reuse in "
+#~ "other documents, you can conveniently use the Open dialog as a palette. "
+#~ "Add the directory with your SVG sources into the bookmarks list so you "
+#~ "can open it quickly. Then browse that directory looking at the previews. "
+#~ "Once you found the file you need, simply drag it to the canvas and it "
+#~ "will be imported into your current document."
+#~ msgstr ""
+#~ "Jeżeli masz wiele małych plików SVG, których zawartość często "
+#~ "wykorzystujesz w innych dokumentach, możesz dla wygody użyć okna "
+#~ "dialogowego „Otwórz jako palety”. W tym celu dodaj katalog z plikami SVG "
+#~ "do listy zakładek, by szybko go otwierać. Otwórz go i przeglądaj, "
+#~ "obserwując podgląd. Po znalezieniu żądanego pliku, przeciągnij go do "
+#~ "obszaru roboczego, a zostanie on zaimportowany do bieżącego dokumentu."

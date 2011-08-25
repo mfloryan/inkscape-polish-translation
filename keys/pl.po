@@ -1,10 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-11-17 18:00+0100\n"
+"POT-Creation-Date: 2011-04-11 20:25+0200\n"
 "PO-Revision-Date: 2011-02-09 19:48+0100\n"
 "Last-Translator: Marcin Floryan <mfloryan@mm.waw.pl>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +31,7 @@ msgid "Last revision:"
 msgstr ""
 
 #: keys.xml:5(pubdate)
-msgid "2010-10-14"
+msgid "2010-12-29"
 msgstr ""
 
 #: keys.xml:6(note)
@@ -159,10 +160,10 @@ msgstr ""
 #: keys.xml:1292(keycap) keys.xml:1293(keycap) keys.xml:1310(keycap)
 #: keys.xml:1312(keycap) keys.xml:1320(keycap) keys.xml:1322(keycap)
 #: keys.xml:1330(keycap) keys.xml:1353(keycap) keys.xml:1354(keycap)
-#: keys.xml:1355(keycap) keys.xml:1381(keycap) keys.xml:1390(keycap)
-#: keys.xml:1403(keycap) keys.xml:1417(keycap) keys.xml:1418(keycap)
-#: keys.xml:1420(keycap) keys.xml:1446(keycap) keys.xml:1449(keycap)
-#: keys.xml:1457(keycap) keys.xml:1475(keycap) keys.xml:1477(keycap)
+#: keys.xml:1355(keycap) keys.xml:1382(keycap) keys.xml:1391(keycap)
+#: keys.xml:1404(keycap) keys.xml:1418(keycap) keys.xml:1419(keycap)
+#: keys.xml:1421(keycap) keys.xml:1447(keycap) keys.xml:1450(keycap)
+#: keys.xml:1458(keycap) keys.xml:1476(keycap) keys.xml:1478(keycap)
 msgid "Shift"
 msgstr ""
 
@@ -268,50 +269,49 @@ msgstr ""
 #: keys.xml:90(keycap) keys.xml:95(keycap) keys.xml:98(keycap)
 #: keys.xml:126(keycap) keys.xml:140(keycap) keys.xml:142(keycap)
 #: keys.xml:156(keycap) keys.xml:168(keycap) keys.xml:171(keycap)
-#: keys.xml:184(keycap) keys.xml:185(keycap) keys.xml:198(keycap)
-#: keys.xml:227(keycap) keys.xml:228(keycap) keys.xml:229(keycap)
-#: keys.xml:230(keycap) keys.xml:231(keycap) keys.xml:232(keycap)
-#: keys.xml:233(keycap) keys.xml:234(keycap) keys.xml:235(keycap)
-#: keys.xml:244(keycap) keys.xml:245(keycap) keys.xml:256(keycap)
-#: keys.xml:258(keycap) keys.xml:259(keycap) keys.xml:269(keycap)
-#: keys.xml:277(keycap) keys.xml:278(keycap) keys.xml:279(keycap)
-#: keys.xml:280(keycap) keys.xml:290(keycap) keys.xml:291(keycap)
-#: keys.xml:296(keycap) keys.xml:297(keycap) keys.xml:298(keycap)
-#: keys.xml:301(keycap) keys.xml:303(keycap) keys.xml:306(keycap)
-#: keys.xml:312(keycap) keys.xml:347(keycap) keys.xml:349(keycap)
-#: keys.xml:368(keycap) keys.xml:369(keycap) keys.xml:374(keycap)
-#: keys.xml:376(keycap) keys.xml:378(keycap) keys.xml:380(keycap)
-#: keys.xml:382(keycap) keys.xml:384(keycap) keys.xml:392(keycap)
-#: keys.xml:393(keycap) keys.xml:401(keycap) keys.xml:402(keycap)
-#: keys.xml:410(keycap) keys.xml:414(keycap) keys.xml:420(keycap)
-#: keys.xml:468(keycap) keys.xml:470(keycap) keys.xml:482(keycap)
-#: keys.xml:484(keycap) keys.xml:492(keycap) keys.xml:493(keycap)
-#: keys.xml:494(keycap) keys.xml:495(keycap) keys.xml:506(keycap)
-#: keys.xml:534(keycap) keys.xml:547(keycap) keys.xml:548(keycap)
-#: keys.xml:558(keycap) keys.xml:560(keycap) keys.xml:568(keycap)
-#: keys.xml:638(keycap) keys.xml:640(keycap) keys.xml:653(keycap)
-#: keys.xml:654(keycap) keys.xml:663(keycap) keys.xml:664(keycap)
-#: keys.xml:692(keycap) keys.xml:697(keycap) keys.xml:788(keycap)
-#: keys.xml:803(keycap) keys.xml:806(keycap) keys.xml:867(keycap)
-#: keys.xml:868(keycap) keys.xml:922(keycap) keys.xml:931(keycap)
-#: keys.xml:942(keycap) keys.xml:949(keycap) keys.xml:950(keycap)
-#: keys.xml:970(keycap) keys.xml:981(keycap) keys.xml:1015(keycap)
-#: keys.xml:1019(keycap) keys.xml:1026(keycap) keys.xml:1036(keycap)
-#: keys.xml:1037(keycap) keys.xml:1051(keycap) keys.xml:1058(keycap)
-#: keys.xml:1067(keycap) keys.xml:1071(keycap) keys.xml:1081(keycap)
-#: keys.xml:1088(keycap) keys.xml:1099(keycap) keys.xml:1109(keycap)
-#: keys.xml:1133(keycap) keys.xml:1135(keycap) keys.xml:1136(keycap)
-#: keys.xml:1153(keycap) keys.xml:1170(keycap) keys.xml:1179(keycap)
-#: keys.xml:1181(keycap) keys.xml:1182(keycap) keys.xml:1195(keycap)
-#: keys.xml:1210(keycap) keys.xml:1236(keycap) keys.xml:1237(keycap)
-#: keys.xml:1239(keycap) keys.xml:1250(keycap) keys.xml:1276(keycap)
-#: keys.xml:1281(keycap) keys.xml:1290(keycap) keys.xml:1292(keycap)
-#: keys.xml:1296(keycap) keys.xml:1302(keycap) keys.xml:1303(keycap)
-#: keys.xml:1319(keycap) keys.xml:1320(keycap) keys.xml:1321(keycap)
-#: keys.xml:1322(keycap) keys.xml:1339(keycap) keys.xml:1389(keycap)
-#: keys.xml:1390(keycap) keys.xml:1421(keycap) keys.xml:1428(keycap)
-#: keys.xml:1431(keycap) keys.xml:1441(keycap) keys.xml:1480(keycap)
-#: keys.xml:1482(keycap)
+#: keys.xml:184(keycap) keys.xml:198(keycap) keys.xml:227(keycap)
+#: keys.xml:228(keycap) keys.xml:229(keycap) keys.xml:230(keycap)
+#: keys.xml:231(keycap) keys.xml:232(keycap) keys.xml:233(keycap)
+#: keys.xml:234(keycap) keys.xml:235(keycap) keys.xml:244(keycap)
+#: keys.xml:245(keycap) keys.xml:256(keycap) keys.xml:258(keycap)
+#: keys.xml:259(keycap) keys.xml:269(keycap) keys.xml:277(keycap)
+#: keys.xml:278(keycap) keys.xml:279(keycap) keys.xml:280(keycap)
+#: keys.xml:290(keycap) keys.xml:291(keycap) keys.xml:296(keycap)
+#: keys.xml:297(keycap) keys.xml:298(keycap) keys.xml:301(keycap)
+#: keys.xml:303(keycap) keys.xml:306(keycap) keys.xml:312(keycap)
+#: keys.xml:347(keycap) keys.xml:349(keycap) keys.xml:368(keycap)
+#: keys.xml:369(keycap) keys.xml:374(keycap) keys.xml:376(keycap)
+#: keys.xml:378(keycap) keys.xml:380(keycap) keys.xml:382(keycap)
+#: keys.xml:384(keycap) keys.xml:392(keycap) keys.xml:393(keycap)
+#: keys.xml:401(keycap) keys.xml:402(keycap) keys.xml:410(keycap)
+#: keys.xml:414(keycap) keys.xml:420(keycap) keys.xml:468(keycap)
+#: keys.xml:470(keycap) keys.xml:482(keycap) keys.xml:484(keycap)
+#: keys.xml:492(keycap) keys.xml:493(keycap) keys.xml:494(keycap)
+#: keys.xml:495(keycap) keys.xml:506(keycap) keys.xml:534(keycap)
+#: keys.xml:547(keycap) keys.xml:548(keycap) keys.xml:558(keycap)
+#: keys.xml:560(keycap) keys.xml:568(keycap) keys.xml:638(keycap)
+#: keys.xml:640(keycap) keys.xml:653(keycap) keys.xml:654(keycap)
+#: keys.xml:663(keycap) keys.xml:664(keycap) keys.xml:692(keycap)
+#: keys.xml:697(keycap) keys.xml:788(keycap) keys.xml:803(keycap)
+#: keys.xml:806(keycap) keys.xml:867(keycap) keys.xml:868(keycap)
+#: keys.xml:922(keycap) keys.xml:931(keycap) keys.xml:942(keycap)
+#: keys.xml:949(keycap) keys.xml:950(keycap) keys.xml:970(keycap)
+#: keys.xml:981(keycap) keys.xml:1015(keycap) keys.xml:1019(keycap)
+#: keys.xml:1026(keycap) keys.xml:1036(keycap) keys.xml:1037(keycap)
+#: keys.xml:1051(keycap) keys.xml:1058(keycap) keys.xml:1067(keycap)
+#: keys.xml:1071(keycap) keys.xml:1081(keycap) keys.xml:1088(keycap)
+#: keys.xml:1099(keycap) keys.xml:1109(keycap) keys.xml:1133(keycap)
+#: keys.xml:1135(keycap) keys.xml:1136(keycap) keys.xml:1153(keycap)
+#: keys.xml:1170(keycap) keys.xml:1179(keycap) keys.xml:1181(keycap)
+#: keys.xml:1182(keycap) keys.xml:1195(keycap) keys.xml:1210(keycap)
+#: keys.xml:1236(keycap) keys.xml:1237(keycap) keys.xml:1239(keycap)
+#: keys.xml:1250(keycap) keys.xml:1276(keycap) keys.xml:1281(keycap)
+#: keys.xml:1290(keycap) keys.xml:1292(keycap) keys.xml:1296(keycap)
+#: keys.xml:1302(keycap) keys.xml:1303(keycap) keys.xml:1319(keycap)
+#: keys.xml:1320(keycap) keys.xml:1321(keycap) keys.xml:1322(keycap)
+#: keys.xml:1339(keycap) keys.xml:1390(keycap) keys.xml:1391(keycap)
+#: keys.xml:1422(keycap) keys.xml:1429(keycap) keys.xml:1432(keycap)
+#: keys.xml:1442(keycap) keys.xml:1481(keycap) keys.xml:1483(keycap)
 msgid "Ctrl"
 msgstr ""
 
@@ -348,7 +348,7 @@ msgstr ""
 msgid "E"
 msgstr ""
 
-#: keys.xml:48(action) keys.xml:1367(title)
+#: keys.xml:48(action) keys.xml:1368(title)
 msgid "Eraser tool"
 msgstr ""
 
@@ -368,7 +368,7 @@ msgstr ""
 msgid "g"
 msgstr ""
 
-#: keys.xml:50(action) keys.xml:1397(title)
+#: keys.xml:50(action) keys.xml:1398(title)
 msgid "Gradient tool"
 msgstr ""
 
@@ -376,7 +376,7 @@ msgstr ""
 msgid "d"
 msgstr ""
 
-#: keys.xml:51(action) keys.xml:1471(title)
+#: keys.xml:51(action) keys.xml:1472(title)
 msgid "Dropper tool"
 msgstr ""
 
@@ -436,7 +436,7 @@ msgid "Transform"
 msgstr ""
 
 #: keys.xml:66(keycap) keys.xml:420(keycap) keys.xml:773(keycap)
-#: keys.xml:1172(keycap) keys.xml:1353(keycap)
+#: keys.xml:1172(keycap) keys.xml:1355(keycap)
 msgid "L"
 msgstr ""
 
@@ -446,7 +446,7 @@ msgstr ""
 
 #: keys.xml:67(keycap) keys.xml:468(keycap) keys.xml:470(keycap)
 #: keys.xml:638(keycap) keys.xml:640(keycap) keys.xml:787(keycap)
-#: keys.xml:887(keycap) keys.xml:1296(keycap) keys.xml:1421(keycap)
+#: keys.xml:887(keycap) keys.xml:1296(keycap) keys.xml:1422(keycap)
 msgid "A"
 msgstr ""
 
@@ -530,10 +530,10 @@ msgstr ""
 #: keys.xml:1309(keycap) keys.xml:1310(keycap) keys.xml:1311(keycap)
 #: keys.xml:1312(keycap) keys.xml:1319(keycap) keys.xml:1320(keycap)
 #: keys.xml:1321(keycap) keys.xml:1322(keycap) keys.xml:1329(keycap)
-#: keys.xml:1330(keycap) keys.xml:1340(keycap) keys.xml:1386(keycap)
-#: keys.xml:1402(keycap) keys.xml:1428(keycap) keys.xml:1431(keycap)
-#: keys.xml:1443(keycap) keys.xml:1448(keycap) keys.xml:1449(keycap)
-#: keys.xml:1480(keycap)
+#: keys.xml:1330(keycap) keys.xml:1340(keycap) keys.xml:1387(keycap)
+#: keys.xml:1403(keycap) keys.xml:1429(keycap) keys.xml:1432(keycap)
+#: keys.xml:1444(keycap) keys.xml:1449(keycap) keys.xml:1450(keycap)
+#: keys.xml:1481(keycap)
 msgid "Alt"
 msgstr ""
 
@@ -556,7 +556,7 @@ msgid "Path Effects"
 msgstr ""
 
 #: keys.xml:77(keycap) keys.xml:410(keycap) keys.xml:414(keycap)
-#: keys.xml:1355(keycap)
+#: keys.xml:1354(keycap)
 msgid "K"
 msgstr ""
 
@@ -594,7 +594,7 @@ msgstr ""
 #: keys.xml:592(keycap) keys.xml:646(keycap) keys.xml:850(keycap)
 #: keys.xml:934(keycap) keys.xml:972(keycap) keys.xml:1029(keycap)
 #: keys.xml:1061(keycap) keys.xml:1091(keycap) keys.xml:1195(keycap)
-#: keys.xml:1216(keycap) keys.xml:1230(keycap) keys.xml:1422(keycap)
+#: keys.xml:1216(keycap) keys.xml:1230(keycap) keys.xml:1423(keycap)
 msgid "Esc"
 msgstr ""
 
@@ -609,7 +609,7 @@ msgstr ""
 #: keys.xml:91(keycap) keys.xml:92(keycap) keys.xml:113(keycap)
 #: keys.xml:114(keycap) keys.xml:258(keycap) keys.xml:259(keycap)
 #: keys.xml:462(keycap) keys.xml:463(keycap) keys.xml:635(keycap)
-#: keys.xml:636(keycap) keys.xml:1419(keycap) keys.xml:1420(keycap)
+#: keys.xml:636(keycap) keys.xml:1420(keycap) keys.xml:1421(keycap)
 msgid "Tab"
 msgstr ""
 
@@ -708,12 +708,12 @@ msgid "Change values"
 msgstr ""
 
 #: keys.xml:120(keycap) keys.xml:899(keycap) keys.xml:1214(keycap)
-#: keys.xml:1237(keycap)
+#: keys.xml:1237(keycap) keys.xml:1361(keycap)
 msgid "Up arrow"
 msgstr ""
 
 #: keys.xml:120(keycap) keys.xml:899(keycap) keys.xml:1214(keycap)
-#: keys.xml:1237(keycap)
+#: keys.xml:1237(keycap) keys.xml:1361(keycap)
 msgid "Down arrow"
 msgstr ""
 
@@ -913,8 +913,8 @@ msgstr ""
 #: keys.xml:1160(keycap) keys.xml:1161(keycap) keys.xml:1163(keycap)
 #: keys.xml:1164(keycap) keys.xml:1235(keycap) keys.xml:1289(keycap)
 #: keys.xml:1290(keycap) keys.xml:1329(keycap) keys.xml:1330(keycap)
-#: keys.xml:1445(keycap) keys.xml:1446(keycap) keys.xml:1448(keycap)
-#: keys.xml:1449(keycap)
+#: keys.xml:1446(keycap) keys.xml:1447(keycap) keys.xml:1449(keycap)
+#: keys.xml:1450(keycap)
 msgid "arrows"
 msgstr ""
 
@@ -990,10 +990,10 @@ msgstr ""
 #: keys.xml:1150(keycap) keys.xml:1153(keycap) keys.xml:1205(keycap)
 #: keys.xml:1206(keycap) keys.xml:1208(keycap) keys.xml:1210(keycap)
 #: keys.xml:1246(keycap) keys.xml:1248(keycap) keys.xml:1250(keycap)
-#: keys.xml:1287(keycap) keys.xml:1383(keycap) keys.xml:1386(keycap)
-#: keys.xml:1408(keycap) keys.xml:1418(keycap) keys.xml:1440(keycap)
-#: keys.xml:1441(keycap) keys.xml:1443(keycap) keys.xml:1476(keycap)
-#: keys.xml:1477(keycap) keys.xml:1480(keycap)
+#: keys.xml:1287(keycap) keys.xml:1384(keycap) keys.xml:1387(keycap)
+#: keys.xml:1409(keycap) keys.xml:1419(keycap) keys.xml:1441(keycap)
+#: keys.xml:1442(keycap) keys.xml:1444(keycap) keys.xml:1477(keycap)
+#: keys.xml:1478(keycap) keys.xml:1481(keycap)
 msgid "mouse drag"
 msgstr ""
 
@@ -1019,33 +1019,9 @@ msgstr ""
 msgid "rotate guide with angle snapping"
 msgstr ""
 
-#: keys.xml:185(keycap) keys.xml:208(keycap) keys.xml:209(keycap)
-#: keys.xml:437(keycap) keys.xml:439(keycap) keys.xml:441(keycap)
-#: keys.xml:482(keycap) keys.xml:484(keycap) keys.xml:485(keycap)
-#: keys.xml:491(keycap) keys.xml:492(keycap) keys.xml:493(keycap)
-#: keys.xml:526(keycap) keys.xml:586(keycap) keys.xml:606(keycap)
-#: keys.xml:607(keycap) keys.xml:608(keycap) keys.xml:614(keycap)
-#: keys.xml:616(keycap) keys.xml:618(keycap) keys.xml:620(keycap)
-#: keys.xml:697(keycap) keys.xml:788(keycap) keys.xml:806(keycap)
-#: keys.xml:809(keycap) keys.xml:909(keycap) keys.xml:910(keycap)
-#: keys.xml:930(keycap) keys.xml:931(keycap) keys.xml:932(keycap)
-#: keys.xml:950(keycap) keys.xml:953(keycap) keys.xml:969(keycap)
-#: keys.xml:970(keycap) keys.xml:971(keycap) keys.xml:1025(keycap)
-#: keys.xml:1026(keycap) keys.xml:1027(keycap) keys.xml:1040(keycap)
-#: keys.xml:1057(keycap) keys.xml:1058(keycap) keys.xml:1059(keycap)
-#: keys.xml:1069(keycap) keys.xml:1071(keycap) keys.xml:1087(keycap)
-#: keys.xml:1088(keycap) keys.xml:1089(keycap) keys.xml:1099(keycap)
-#: keys.xml:1101(keycap) keys.xml:1133(keycap) keys.xml:1135(keycap)
-#: keys.xml:1136(keycap) keys.xml:1145(keycap) keys.xml:1147(keycap)
-#: keys.xml:1179(keycap) keys.xml:1181(keycap) keys.xml:1182(keycap)
-#: keys.xml:1189(keycap) keys.xml:1226(keycap) keys.xml:1294(keycap)
-#: keys.xml:1295(keycap) keys.xml:1380(keycap) keys.xml:1381(keycap)
-#: keys.xml:1389(keycap) keys.xml:1390(keycap) keys.xml:1401(keycap)
-#: keys.xml:1402(keycap) keys.xml:1403(keycap) keys.xml:1410(keycap)
-#: keys.xml:1416(keycap) keys.xml:1417(keycap) keys.xml:1428(keycap)
-#: keys.xml:1429(keycap) keys.xml:1431(keycap) keys.xml:1464(keycap)
-#: keys.xml:1474(keycap) keys.xml:1475(keycap) keys.xml:1480(keycap)
-msgid "click"
+#: keys.xml:185(keycap) keys.xml:477(keycap) keys.xml:802(keycap)
+#: keys.xml:803(keycap) keys.xml:1196(keycap) keys.xml:1436(keycap)
+msgid "Del"
 msgstr ""
 
 #: keys.xml:185(action)
@@ -1127,6 +1103,35 @@ msgstr ""
 msgid ""
 "These keys work both in the floating palette dialog and in the palette frame "
 "at the bottom of the window."
+msgstr ""
+
+#: keys.xml:208(keycap) keys.xml:209(keycap) keys.xml:437(keycap)
+#: keys.xml:439(keycap) keys.xml:441(keycap) keys.xml:482(keycap)
+#: keys.xml:484(keycap) keys.xml:485(keycap) keys.xml:491(keycap)
+#: keys.xml:492(keycap) keys.xml:493(keycap) keys.xml:526(keycap)
+#: keys.xml:586(keycap) keys.xml:606(keycap) keys.xml:607(keycap)
+#: keys.xml:608(keycap) keys.xml:614(keycap) keys.xml:616(keycap)
+#: keys.xml:618(keycap) keys.xml:620(keycap) keys.xml:697(keycap)
+#: keys.xml:788(keycap) keys.xml:806(keycap) keys.xml:809(keycap)
+#: keys.xml:909(keycap) keys.xml:910(keycap) keys.xml:930(keycap)
+#: keys.xml:931(keycap) keys.xml:932(keycap) keys.xml:950(keycap)
+#: keys.xml:953(keycap) keys.xml:969(keycap) keys.xml:970(keycap)
+#: keys.xml:971(keycap) keys.xml:1025(keycap) keys.xml:1026(keycap)
+#: keys.xml:1027(keycap) keys.xml:1040(keycap) keys.xml:1057(keycap)
+#: keys.xml:1058(keycap) keys.xml:1059(keycap) keys.xml:1069(keycap)
+#: keys.xml:1071(keycap) keys.xml:1087(keycap) keys.xml:1088(keycap)
+#: keys.xml:1089(keycap) keys.xml:1099(keycap) keys.xml:1101(keycap)
+#: keys.xml:1133(keycap) keys.xml:1135(keycap) keys.xml:1136(keycap)
+#: keys.xml:1145(keycap) keys.xml:1147(keycap) keys.xml:1179(keycap)
+#: keys.xml:1181(keycap) keys.xml:1182(keycap) keys.xml:1189(keycap)
+#: keys.xml:1226(keycap) keys.xml:1294(keycap) keys.xml:1295(keycap)
+#: keys.xml:1381(keycap) keys.xml:1382(keycap) keys.xml:1390(keycap)
+#: keys.xml:1391(keycap) keys.xml:1402(keycap) keys.xml:1403(keycap)
+#: keys.xml:1404(keycap) keys.xml:1411(keycap) keys.xml:1417(keycap)
+#: keys.xml:1418(keycap) keys.xml:1429(keycap) keys.xml:1430(keycap)
+#: keys.xml:1432(keycap) keys.xml:1465(keycap) keys.xml:1475(keycap)
+#: keys.xml:1476(keycap) keys.xml:1481(keycap)
+msgid "click"
 msgstr ""
 
 #: keys.xml:208(action)
@@ -1224,7 +1229,7 @@ msgid "Window"
 msgstr ""
 
 #: keys.xml:244(keycap) keys.xml:834(keycap) keys.xml:889(keycap)
-#: keys.xml:1457(keycap)
+#: keys.xml:1458(keycap)
 msgid "R"
 msgstr ""
 
@@ -1308,8 +1313,8 @@ msgstr ""
 
 #: keys.xml:279(keycap) keys.xml:355(keycap) keys.xml:898(keycap)
 #: keys.xml:1213(keycap) keys.xml:1238(keycap) keys.xml:1239(keycap)
-#: keys.xml:1291(keycap) keys.xml:1292(keycap) keys.xml:1361(keycap)
-#: keys.xml:1371(keycap)
+#: keys.xml:1291(keycap) keys.xml:1292(keycap) keys.xml:1362(keycap)
+#: keys.xml:1372(keycap)
 msgid "Home"
 msgstr ""
 
@@ -1319,8 +1324,8 @@ msgstr ""
 
 #: keys.xml:280(keycap) keys.xml:356(keycap) keys.xml:898(keycap)
 #: keys.xml:1213(keycap) keys.xml:1238(keycap) keys.xml:1239(keycap)
-#: keys.xml:1291(keycap) keys.xml:1292(keycap) keys.xml:1361(keycap)
-#: keys.xml:1371(keycap)
+#: keys.xml:1291(keycap) keys.xml:1292(keycap) keys.xml:1362(keycap)
+#: keys.xml:1372(keycap)
 msgid "End"
 msgstr ""
 
@@ -1359,7 +1364,7 @@ msgid "Clipboard"
 msgstr ""
 
 #: keys.xml:296(keycap) keys.xml:368(keycap) keys.xml:369(keycap)
-#: keys.xml:780(keycap) keys.xml:890(keycap) keys.xml:1482(keycap)
+#: keys.xml:780(keycap) keys.xml:890(keycap) keys.xml:1483(keycap)
 msgid "C"
 msgstr ""
 
@@ -1738,7 +1743,7 @@ msgid ""
 msgstr ""
 
 #: keys.xml:401(keycap) keys.xml:402(keycap) keys.xml:793(keycap)
-#: keys.xml:891(keycap) keys.xml:1354(keycap)
+#: keys.xml:891(keycap) keys.xml:1353(keycap)
 msgid "J"
 msgstr ""
 
@@ -1840,7 +1845,7 @@ msgstr ""
 
 #: keys.xml:439(action) keys.xml:608(action) keys.xml:618(action)
 #: keys.xml:932(action) keys.xml:971(action) keys.xml:1027(action)
-#: keys.xml:1059(action) keys.xml:1089(action) keys.xml:1403(action)
+#: keys.xml:1059(action) keys.xml:1089(action) keys.xml:1404(action)
 msgid "toggle selection"
 msgstr ""
 
@@ -1876,7 +1881,7 @@ msgstr ""
 msgid "Rubberband, touch selection"
 msgstr ""
 
-#: keys.xml:449(action) keys.xml:1418(action)
+#: keys.xml:449(action) keys.xml:1419(action)
 msgid "select by rubberband"
 msgstr ""
 
@@ -2006,11 +2011,6 @@ msgstr ""
 msgid "Backspace"
 msgstr ""
 
-#: keys.xml:477(keycap) keys.xml:802(keycap) keys.xml:803(keycap)
-#: keys.xml:1196(keycap) keys.xml:1435(keycap)
-msgid "Del"
-msgstr ""
-
 #: keys.xml:477(action)
 msgid "delete selection"
 msgstr ""
@@ -2035,7 +2035,7 @@ msgstr ""
 
 #: keys.xml:485(action) keys.xml:607(action) keys.xml:931(action)
 #: keys.xml:970(action) keys.xml:1026(action) keys.xml:1058(action)
-#: keys.xml:1088(action) keys.xml:1402(action)
+#: keys.xml:1088(action) keys.xml:1403(action)
 msgid "select under"
 msgstr ""
 
@@ -2153,7 +2153,7 @@ msgid "move selection by 10x nudge distance"
 msgstr ""
 
 #: keys.xml:518(note) keys.xml:683(note) keys.xml:1162(note)
-#: keys.xml:1447(note)
+#: keys.xml:1448(note)
 msgid ""
 "The default nudge distance is 2 px (SVG pixel units, not screen pixels)."
 msgstr ""
@@ -2167,7 +2167,7 @@ msgid "move selection by 10 pixels"
 msgstr ""
 
 #: keys.xml:521(note) keys.xml:686(note) keys.xml:1165(note)
-#: keys.xml:1452(note)
+#: keys.xml:1453(note)
 msgid ""
 "The actual distance for pixel movements depends on zoom level. Zoom in for "
 "finer movement."
@@ -3014,7 +3014,7 @@ msgid ""
 "Double clicking on the path between nodes creates a node in the click point."
 msgstr ""
 
-#: keys.xml:811(keycap) keys.xml:1433(keycap)
+#: keys.xml:811(keycap) keys.xml:1434(keycap)
 msgid "Ins"
 msgstr ""
 
@@ -3038,7 +3038,7 @@ msgid ""
 "ones and are selected."
 msgstr ""
 
-#: keys.xml:833(title) keys.xml:1456(title)
+#: keys.xml:833(title) keys.xml:1457(title)
 msgid "Reverse"
 msgstr ""
 
@@ -3207,12 +3207,12 @@ msgid "Parameters"
 msgstr ""
 
 #: keys.xml:897(keycap) keys.xml:1212(keycap) keys.xml:1236(keycap)
-#: keys.xml:1360(keycap) keys.xml:1370(keycap)
+#: keys.xml:1360(keycap) keys.xml:1371(keycap)
 msgid "Left arrow"
 msgstr ""
 
 #: keys.xml:897(keycap) keys.xml:1212(keycap) keys.xml:1236(keycap)
-#: keys.xml:1360(keycap) keys.xml:1370(keycap)
+#: keys.xml:1360(keycap) keys.xml:1371(keycap)
 msgid "Right arrow"
 msgstr ""
 
@@ -3582,8 +3582,8 @@ msgstr ""
 
 #: keys.xml:1105(note)
 msgid ""
-"Dragging the outer handle adjusts the \"turns\" parameter. Use Shift+Alt"
-"+drag to roll/unroll without changing radius."
+"Dragging the outer handle adjusts the \"turns\" parameter. Use Alt+drag to "
+"roll/unroll without changing radius."
 msgstr ""
 
 #: keys.xml:1106(action)
@@ -3591,7 +3591,7 @@ msgid "scale/rotate (outer handle)"
 msgstr ""
 
 #: keys.xml:1107(note)
-msgid "Use Shift+Alt to rotate only (locks the radius of the spiral)."
+msgid "Use Shift+Alt+drag to rotate only (locks the radius of the spiral)."
 msgstr ""
 
 #: keys.xml:1109(action)
@@ -3611,7 +3611,7 @@ msgid "draw a freehand line"
 msgstr ""
 
 #: keys.xml:1124(action) keys.xml:1147(action) keys.xml:1206(action)
-#: keys.xml:1381(action)
+#: keys.xml:1382(action)
 msgid "add to selected path"
 msgstr ""
 
@@ -4186,11 +4186,11 @@ msgid "Rotation only works in regular text (not flowed text)."
 msgstr ""
 
 #: keys.xml:1353(action)
-msgid "clone mode"
+msgid "copy mode"
 msgstr ""
 
 #: keys.xml:1354(action)
-msgid "copy mode"
+msgid "clone mode"
 msgstr ""
 
 #: keys.xml:1355(action)
@@ -4202,302 +4202,306 @@ msgid "adjust spray width by 1"
 msgstr ""
 
 #: keys.xml:1361(action)
+msgid "adjust spray population by 1"
+msgstr ""
+
+#: keys.xml:1362(action)
 msgid "set spray width to 1 / 100"
 msgstr ""
 
-#: keys.xml:1370(action)
+#: keys.xml:1371(action)
 msgid "adjust eraser width by 1"
 msgstr ""
 
-#: keys.xml:1371(action)
+#: keys.xml:1372(action)
 msgid "set eraser width to 1 / 100"
 msgstr ""
 
-#: keys.xml:1377(title)
+#: keys.xml:1378(title)
 msgid "Paint Bucket"
 msgstr ""
 
-#: keys.xml:1380(action)
+#: keys.xml:1381(action)
 msgid "fill a bounded area"
 msgstr ""
 
-#: keys.xml:1382(note)
+#: keys.xml:1383(note)
 msgid ""
 "Clicking with Shift unions the newly created fill with the previous "
 "selection."
 msgstr ""
 
-#: keys.xml:1383(action)
+#: keys.xml:1384(action)
 msgid "fill from each point"
 msgstr ""
 
-#: keys.xml:1384(note)
+#: keys.xml:1385(note)
 msgid ""
 "From each point, the fill spreads to the neighbors with the colors similar "
 "to that point."
 msgstr ""
 
-#: keys.xml:1385(note)
+#: keys.xml:1386(note)
 msgid ""
 "This can be used to fill an area currently filled with a gradient or blur."
 msgstr ""
 
-#: keys.xml:1386(action)
+#: keys.xml:1387(action)
 msgid "fill from each point same as initial point"
 msgstr ""
 
-#: keys.xml:1387(note)
+#: keys.xml:1388(note)
 msgid ""
 "From each point, the fill spreads to the neighbors with the colors similar "
 "to the initial point of the drag."
 msgstr ""
 
-#: keys.xml:1388(note)
+#: keys.xml:1389(note)
 msgid ""
 "This can be used to fill several disjoint bounded areas by starting in one "
 "and dragging over all of the areas."
 msgstr ""
 
-#: keys.xml:1389(action)
+#: keys.xml:1390(action)
 msgid "set fill color"
 msgstr ""
 
-#: keys.xml:1390(action)
+#: keys.xml:1391(action)
 msgid "set stroke color"
 msgstr ""
 
-#: keys.xml:1391(note)
+#: keys.xml:1392(note)
 msgid ""
 "Ctrl+clicking an object sets its fill (or stroke with Shift) to the tool's "
 "current style; the object need not be selected."
 msgstr ""
 
-#: keys.xml:1400(title)
+#: keys.xml:1401(title)
 msgid "Select objects"
 msgstr ""
 
-#: keys.xml:1401(action)
+#: keys.xml:1402(action)
 msgid "click an object to select"
 msgstr ""
 
-#: keys.xml:1407(title)
+#: keys.xml:1408(title)
 msgid "Create gradients"
 msgstr ""
 
-#: keys.xml:1408(action)
+#: keys.xml:1409(action)
 msgid "create gradient"
 msgstr ""
 
-#: keys.xml:1409(note)
+#: keys.xml:1410(note)
 msgid ""
 "This creates gradient on selected objects. The Controls bar lets you select "
 "linear/radial and fill/stroke for the new gradient."
 msgstr ""
 
-#: keys.xml:1410(action)
+#: keys.xml:1411(action)
 msgid "create default gradient"
 msgstr ""
 
-#: keys.xml:1411(note)
+#: keys.xml:1412(note)
 msgid ""
 "This creates default (horizontal edge-to-edge for linear, centered edge-to-"
 "edge-to-edge for radial) gradient on clicked object."
 msgstr ""
 
-#: keys.xml:1415(title)
+#: keys.xml:1416(title)
 msgid "Select handles"
 msgstr ""
 
-#: keys.xml:1416(action)
+#: keys.xml:1417(action)
 msgid "select a handle"
 msgstr ""
 
-#: keys.xml:1417(action)
+#: keys.xml:1418(action)
 msgid "add handle to selection"
 msgstr ""
 
-#: keys.xml:1419(action)
+#: keys.xml:1420(action)
 msgid "select next handle"
 msgstr ""
 
-#: keys.xml:1420(action)
+#: keys.xml:1421(action)
 msgid "select previous handle"
 msgstr ""
 
-#: keys.xml:1421(action)
+#: keys.xml:1422(action)
 msgid "select all handles"
 msgstr ""
 
-#: keys.xml:1422(action)
+#: keys.xml:1423(action)
 msgid "deselect all handles"
 msgstr ""
 
-#: keys.xml:1423(note)
+#: keys.xml:1424(note)
 msgid "Single click outside all handles also deselects all handles."
 msgstr ""
 
-#: keys.xml:1427(title)
+#: keys.xml:1428(title)
 msgid "Create/delete intermediate stops"
 msgstr ""
 
-#: keys.xml:1428(action) keys.xml:1429(action)
+#: keys.xml:1429(action) keys.xml:1430(action)
 msgid "create a stop"
 msgstr ""
 
-#: keys.xml:1430(note)
+#: keys.xml:1431(note)
 msgid ""
 "Ctrl+Alt+click or double click on a gradient line creates a new intermediate "
 "stop."
 msgstr ""
 
-#: keys.xml:1431(action)
+#: keys.xml:1432(action)
 msgid "delete stop"
 msgstr ""
 
-#: keys.xml:1432(note)
+#: keys.xml:1433(note)
 msgid ""
 "Ctrl+Alt+click on a stop's handle deletes the stop; if it was an end stop, "
 "gradient shortens or disappears."
 msgstr ""
 
-#: keys.xml:1433(action)
+#: keys.xml:1434(action)
 msgid "insert new stop(s)"
 msgstr ""
 
-#: keys.xml:1434(note)
+#: keys.xml:1435(note)
 msgid ""
 "This adds new stop(s) in the middle(s) of selected segment(s), so it "
 "requires that more than two adjacent handles be selected."
 msgstr ""
 
-#: keys.xml:1435(action)
+#: keys.xml:1436(action)
 msgid "delete selected stops"
 msgstr ""
 
-#: keys.xml:1439(title)
+#: keys.xml:1440(title)
 msgid "Move handles/stops"
 msgstr ""
 
-#: keys.xml:1440(action)
+#: keys.xml:1441(action)
 msgid "move selected handle(s)"
 msgstr ""
 
-#: keys.xml:1441(action)
+#: keys.xml:1442(action)
 msgid "move stops in 1/10 range increments"
 msgstr ""
 
-#: keys.xml:1442(note)
+#: keys.xml:1443(note)
 msgid ""
 "Ctrl+dragging selected intermediate stops moves them snapping to 1/10 steps "
 "of the available range."
 msgstr ""
 
-#: keys.xml:1443(action)
+#: keys.xml:1444(action)
 msgid "sculpt selected stops"
 msgstr ""
 
-#: keys.xml:1444(note)
+#: keys.xml:1445(note)
 msgid ""
 "Sculpting moves the selected intermediate stops depending on how close each "
 "one is to the stop being dragged, using a smooth bell-like curve similar to "
 "the node sculpting feature in Node tool."
 msgstr ""
 
-#: keys.xml:1445(action)
+#: keys.xml:1446(action)
 msgid "move selected handle by the nudge distance"
 msgstr ""
 
-#: keys.xml:1446(action)
+#: keys.xml:1447(action)
 msgid "move selected handle by 10x nudge distance"
 msgstr ""
 
-#: keys.xml:1448(action)
+#: keys.xml:1449(action)
 msgid "move selected handle by 1 pixel"
 msgstr ""
 
-#: keys.xml:1449(action)
+#: keys.xml:1450(action)
 msgid "move selected handle by 10 pixels"
 msgstr ""
 
-#: keys.xml:1450(note)
+#: keys.xml:1451(note)
 msgid ""
 "If at least one end handle is selected, arrow keys move the end handle to "
 "move or resize the gradient line."
 msgstr ""
 
-#: keys.xml:1451(note)
+#: keys.xml:1452(note)
 msgid ""
 "If only mid stops are selected, arrow keys move the selected stops along the "
 "gradient line."
 msgstr ""
 
-#: keys.xml:1457(action)
+#: keys.xml:1458(action)
 msgid "reverse gradient definition"
 msgstr ""
 
-#: keys.xml:1458(note)
+#: keys.xml:1459(note)
 msgid ""
 "This mirrors the stop positions of the current gradient without moving the "
 "gradient handles."
 msgstr ""
 
-#: keys.xml:1463(title)
+#: keys.xml:1464(title)
 msgid "Gradient editor"
 msgstr ""
 
-#: keys.xml:1464(action)
+#: keys.xml:1465(action)
 msgid "open gradient editor"
 msgstr ""
 
-#: keys.xml:1465(note)
+#: keys.xml:1466(note)
 msgid ""
 "Double clicking a gradient handle opens the Gradient Editor with that "
 "gradient and the clicked handle chosen in the stops list."
 msgstr ""
 
-#: keys.xml:1474(action)
+#: keys.xml:1475(action)
 msgid "pick fill color"
 msgstr ""
 
-#: keys.xml:1475(action)
+#: keys.xml:1476(action)
 msgid "pick stroke color"
 msgstr ""
 
-#: keys.xml:1476(action)
+#: keys.xml:1477(action)
 msgid "average fill color"
 msgstr ""
 
-#: keys.xml:1477(action)
+#: keys.xml:1478(action)
 msgid "average stroke color"
 msgstr ""
 
-#: keys.xml:1478(note)
+#: keys.xml:1479(note)
 msgid ""
 "Click applies the color under cursor to the current selection. Dragging a "
 "radius calculates the average color of a circular area."
 msgstr ""
 
-#: keys.xml:1479(note)
+#: keys.xml:1480(note)
 msgid ""
 "If a gradient handle (in Gradient tool) is selected, it gets the color "
 "instead of the entire object."
 msgstr ""
 
-#: keys.xml:1480(action)
+#: keys.xml:1481(action)
 msgid "pick inverse color"
 msgstr ""
 
-#: keys.xml:1481(note)
+#: keys.xml:1482(note)
 msgid ""
 "If Alt is pressed, picking color (with or without Shift, by click or by "
 "drag) picks the inverse of the color."
 msgstr ""
 
-#: keys.xml:1482(action)
+#: keys.xml:1483(action)
 msgid "copy color"
 msgstr ""
 
-#: keys.xml:1483(note)
+#: keys.xml:1484(note)
 msgid ""
 "This copies the color under cursor to the clipboard, as text in RRGGBBAA "
 "format (8 hex digits)."
