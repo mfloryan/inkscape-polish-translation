@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.49\n"
 "POT-Creation-Date: 2011-02-02 20:37+0100\n"
-"PO-Revision-Date: 2011-02-09 19:50+0100\n"
-"Last-Translator: Marcin Floryan <mfloryan@mm.waw.pl>\n"
+"PO-Revision-Date: 2011-08-26 13:53+0100\n"
+"Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: Polish\n"
 "MIME-Version: 1.0\n"
@@ -28,21 +28,23 @@ msgstr "NAZWA"
 #: inkscape.pod:4
 msgid "Inkscape - an SVG (Scalable Vector Graphics) editing program."
 msgstr ""
+"Inkscape - program do edycji grafiki wektorowej w formacie SVG (Scalable "
+"Vector Graphics)."
 
 #. type: =head1
 #: inkscape.pod:6
 msgid "SYNOPSIS"
-msgstr ""
+msgstr "SKŁADNIA"
 
 #. type: textblock
 #: inkscape.pod:8
 msgid "C<inkscape [options] [filename ...]>"
-msgstr ""
+msgstr "C<inkscape [opcje] [plik ...]>"
 
 #. type: textblock
 #: inkscape.pod:10
 msgid "options:"
-msgstr ""
+msgstr "opcje:"
 
 #. type: verbatim
 #: inkscape.pod:12
@@ -53,6 +55,10 @@ msgid ""
 "    -V, --version\n"
 "\n"
 msgstr ""
+"    -?, --help        \n"
+"        --usage       \n"
+"    -V, --version\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:16
@@ -61,6 +67,8 @@ msgid ""
 "    -f, --file=FILENAME               \n"
 "\n"
 msgstr ""
+"    -f, --file=PLIK               \n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:18
@@ -81,6 +89,20 @@ msgid ""
 "    -h, --export-height=HEIGHT        \n"
 "\n"
 msgstr ""
+"    -e, --export-png=PLIK         \n"
+"    -a, --export-area=x0:y0:x1:y1     \n"
+"    -C, --export-area-page\n"
+"    -D, --export-area-drawing\n"
+"        --export-area-snap\n"
+"    -i, --export-id=ID     \n"
+"    -j, --export-id-only     \n"
+"    -t, --export-use-hints\n"
+"    -b, --export-background=KOLOR     \n"
+"    -y, --export-background-opacity=WARTOŚĆ     \n"
+"    -d, --export-dpi=DPI              \n"
+"    -w, --export-width=SZEROKOŚĆ          \n"
+"    -h, --export-height=WYSOKOŚĆ        \n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:32
@@ -92,6 +114,11 @@ msgid ""
 "        --export-latex\n"
 "\n"
 msgstr ""
+"    -P, --export-ps=PLIK\n"
+"    -E, --export-eps=PLIK\n"
+"    -A, --export-pdf=PLIK\n"
+"        --export-latex\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:37
@@ -101,6 +128,9 @@ msgid ""
 "        --export-ignore-filters\n"
 "\n"
 msgstr ""
+"    -T, --export-text-to-path\n"
+"        --export-ignore-filters\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:40
@@ -109,6 +139,8 @@ msgid ""
 "    -l, --export-plain-svg=FILENAME             \n"
 "\n"
 msgstr ""
+"    -l, --export-plain-svg=PLIK             \n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:42
@@ -117,6 +149,8 @@ msgid ""
 "    -p, --print=PRINTER\n"
 "\n"
 msgstr ""
+"    -p, --print=DRUKARKA\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:44
@@ -130,6 +164,13 @@ msgid ""
 "    -S, --query-all\n"
 "\n"
 msgstr ""
+"    -I, --query-id=ID     \n"
+"    -X, --query-x\n"
+"    -Y, --query-y\n"
+"    -W, --query-width\n"
+"    -H, --query-height\n"
+"    -S, --query-all\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:51
@@ -138,6 +179,8 @@ msgid ""
 "    -x, --extension-directory\n"
 "\n"
 msgstr ""
+"    -x, --extension-directory\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:53
@@ -148,6 +191,10 @@ msgid ""
 "        --select=OBJECT-ID\n"
 "\n"
 msgstr ""
+"        --verb-list\n"
+"        --verb=VERB-ID\n"
+"        --select=ID-OBIEKTU\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:57
@@ -156,6 +203,8 @@ msgid ""
 "        --shell\n"
 "\n"
 msgstr ""
+"        --shell\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:59
@@ -165,6 +214,9 @@ msgid ""
 "    -z, --without-gui                 \n"
 "\n"
 msgstr ""
+"    -g, --with-gui                    \n"
+"    -z, --without-gui                 \n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:62
@@ -173,6 +225,8 @@ msgid ""
 "        --vacuum-defs\n"
 "\n"
 msgstr ""
+"        --vacuum-defs\n"
+"\n"
 
 #. type: verbatim
 #: inkscape.pod:64
@@ -181,11 +235,13 @@ msgid ""
 "        --g-fatal-warnings\n"
 "\n"
 msgstr ""
+"        --g-fatal-warnings\n"
+"\n"
 
 #. type: =head1
 #: inkscape.pod:66
 msgid "DESCRIPTION"
-msgstr ""
+msgstr "OPIS"
 
 #. type: textblock
 #: inkscape.pod:68
@@ -224,32 +280,32 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:92
 msgid "OPTIONS"
-msgstr ""
+msgstr "OPCJE"
 
 #. type: =item
 #: inkscape.pod:96
 msgid "B<-?>, B<--help>"
-msgstr ""
+msgstr "B<-?>, B<--help>"
 
 #. type: textblock
 #: inkscape.pod:98
 msgid "Show help message"
-msgstr ""
+msgstr "Wyświetla pomoc"
 
 #. type: =item
 #: inkscape.pod:100
 msgid "B<-V>, B<--version>"
-msgstr ""
+msgstr "B<-V>, B<--version>"
 
 #. type: textblock
 #: inkscape.pod:102
 msgid "Show Inkscape version and build date."
-msgstr ""
+msgstr "Pokazuje numer wersji programu Inkscape oraz datę kompilacji."
 
 #. type: =item
 #: inkscape.pod:104
 msgid "B<-a> I<x0:y0:x1:y1>, B<--export-area>=I<x0:y0:x1:y1>"
-msgstr ""
+msgstr "B<-a> I<x0:y0:x1:y1>, B<--export-area>=I<x0:y0:x1:y1>"
 
 #. type: textblock
 #: inkscape.pod:106
@@ -262,7 +318,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:110
 msgid "B<-C>, B<--export-area-page>"
-msgstr ""
+msgstr "B<-C>, B<--export-area-page>"
 
 #. type: textblock
 #: inkscape.pod:112
@@ -279,7 +335,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:119
 msgid "B<-D>, B<--export-area-drawing>"
-msgstr ""
+msgstr "B<-D>, B<--export-area-drawing>"
 
 #. type: textblock
 #: inkscape.pod:121
@@ -295,7 +351,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:127
 msgid "B<--export-area-snap>"
-msgstr ""
+msgstr "B<--export-area-snap>"
 
 #. type: textblock
 #: inkscape.pod:129
@@ -311,7 +367,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:134
 msgid "B<-b> I<COLOR>, B<--export-background>=I<COLOR>"
-msgstr ""
+msgstr "B<-b> I<KOLOR>, B<--export-background>=I<KOLOR>"
 
 #. type: textblock
 #: inkscape.pod:136
@@ -325,7 +381,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:141
 msgid "B<-d> I<DPI>, B<--export-dpi>=I<DPI>"
-msgstr ""
+msgstr "B<-d> I<DPI>, B<--export-dpi>=I<DPI>"
 
 #. type: textblock
 #: inkscape.pod:143
@@ -341,7 +397,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:150
 msgid "B<-e> I<FILENAME>, B<--export-png>=I<FILENAME>"
-msgstr ""
+msgstr "B<-e> I<PLIK>, B<--export-png>=I<PLIK>"
 
 #. type: textblock
 #: inkscape.pod:152
@@ -353,7 +409,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:155
 msgid "B<-f> I<FILENAME>, B<--file>=I<FILENAME>"
-msgstr ""
+msgstr "B<-f> I<PLIK>, B<--file>=I<PLIK>"
 
 #. type: textblock
 #: inkscape.pod:157
@@ -365,7 +421,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:160
 msgid "B<-g>, B<--with-gui>"
-msgstr ""
+msgstr "B<-g>, B<--with-gui>"
 
 #. type: textblock
 #: inkscape.pod:162
@@ -376,7 +432,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:164
 msgid "B<-h> I<HEIGHT>, B<--export-height>=I<HEIGHT>"
-msgstr ""
+msgstr "B<-h> I<WYSOKOŚĆ>, B<--export-height>=I<WYSOKOŚĆ>"
 
 #. type: textblock
 #: inkscape.pod:166
@@ -388,7 +444,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:169
 msgid "B<-i> I<ID>, B<--export-id>=I<ID>"
-msgstr ""
+msgstr "B<-i> I<ID>, B<--export-id>=I<ID>"
 
 #. type: textblock
 #: inkscape.pod:171
@@ -402,7 +458,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:176
 msgid "B<-j>, B<--export-id-only>"
-msgstr ""
+msgstr "B<-j>, B<--export-id-only>"
 
 #. type: textblock
 #: inkscape.pod:178
@@ -416,7 +472,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:182
 msgid "B<-l>, B<--export-plain-svg>=I<FILENAME>"
-msgstr ""
+msgstr "B<-l>, B<--export-plain-svg>=I<PLIK>"
 
 #. type: textblock
 #: inkscape.pod:184
@@ -428,7 +484,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:186
 msgid "B<-x>, B<--extension-directory>"
-msgstr ""
+msgstr "B<-x>, B<--extension-directory>"
 
 #. type: textblock
 #: inkscape.pod:188
@@ -441,7 +497,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:192
 msgid "B<--verb-list>"
-msgstr ""
+msgstr "B<--verb-list>"
 
 #. type: textblock
 #: inkscape.pod:194
@@ -454,7 +510,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:198
 msgid "B<--verb>=I<VERB-ID>, B<--select>=I<OBJECT-ID>"
-msgstr ""
+msgstr "B<--verb>=I<VERB-ID>, B<--select>=I<ID-OBIEKTU>"
 
 #. type: textblock
 #: inkscape.pod:200
@@ -484,7 +540,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:215
 msgid "B<-p> I<PRINTER>, B<--print>=I<PRINTER>"
-msgstr ""
+msgstr "B<-p> I<DRUKARKA>, B<--print>=I<DRUKARKA>"
 
 #. type: textblock
 #: inkscape.pod:217
@@ -498,12 +554,12 @@ msgstr ""
 #. type: textblock
 #: inkscape.pod:222
 msgid "inkscape --print='| ps2pdf - mydoc.pdf' mydoc.svg"
-msgstr ""
+msgstr "inkscape --print='| ps2pdf - mydoc.pdf' mydoc.svg"
 
 #. type: =item
 #: inkscape.pod:224
 msgid "B<-t>, B<--export-use-hints>"
-msgstr ""
+msgstr "B<-t>, B<--export-use-hints>"
 
 #. type: textblock
 #: inkscape.pod:226
@@ -519,7 +575,7 @@ msgstr ""
 #. type: textblock
 #: inkscape.pod:231
 msgid "inkscape -i path231 -t document.svg"
-msgstr ""
+msgstr "inkscape -i ścieżka231 -t dokument.svg"
 
 #. type: textblock
 #: inkscape.pod:233
@@ -534,7 +590,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:238
 msgid "B<-w> I<WIDTH>, B<--export-width>=I<WIDTH>"
-msgstr ""
+msgstr "B<-w> I<SZEROKOŚĆ>, B<--export-width>=I<SZEROKOŚĆ>"
 
 #. type: textblock
 #: inkscape.pod:240
@@ -546,7 +602,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:243
 msgid "B<-y> I<VALUE>, B<--export-background-opacity>=I<VALUE>"
-msgstr ""
+msgstr "B<-y> I<WARTOŚĆ>, B<--export-background-opacity>=I<WARTOŚĆ>"
 
 #. type: textblock
 #: inkscape.pod:245
@@ -563,7 +619,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:253
 msgid "B<-P> I<FILENAME>, B<--export-ps>=I<FILENAME>"
-msgstr ""
+msgstr "B<-P> I<PLIK>, B<--export-ps>=I<PLIK>"
 
 #. type: textblock
 #: inkscape.pod:255
@@ -580,7 +636,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:259
 msgid "B<-E> I<FILENAME>, B<--export-eps>=I<FILENAME>"
-msgstr ""
+msgstr "B<-E> I<PLIK>, B<--export-eps>=I<PLIK>"
 
 #. type: textblock
 #: inkscape.pod:261
@@ -596,7 +652,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:263
 msgid "B<-A> I<FILENAME>, B<--export-pdf>=I<FILENAME>"
-msgstr ""
+msgstr "B<-A> I<PLIK>, B<--export-pdf>=I<PLIK>"
 
 #. type: textblock
 #: inkscape.pod:265
@@ -612,7 +668,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:271
 msgid "B<--export-latex>"
-msgstr ""
+msgstr "B<--export-latex>"
 
 #. type: textblock
 #: inkscape.pod:273
@@ -631,7 +687,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:283
 msgid "B<-T>, B<--export-text-to-path>"
-msgstr ""
+msgstr "B<-T>, B<--export-text-to-path>"
 
 #. type: textblock
 #: inkscape.pod:285
@@ -643,7 +699,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:287
 msgid "B<--export-ignore-filters>"
-msgstr ""
+msgstr "B<--export-ignore-filters>"
 
 #. type: textblock
 #: inkscape.pod:289
@@ -656,7 +712,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:292
 msgid "B<-I>, B<--query-id>"
-msgstr ""
+msgstr "B<-I>, B<--query-id>"
 
 #. type: textblock
 #: inkscape.pod:294
@@ -669,7 +725,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:297
 msgid "B<-X>, B<--query-x>"
-msgstr ""
+msgstr "B<-X>, B<--query-x>"
 
 #. type: textblock
 #: inkscape.pod:299
@@ -681,7 +737,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:301
 msgid "B<-Y>, B<--query-y>"
-msgstr ""
+msgstr "B<-Y>, B<--query-y>"
 
 #. type: textblock
 #: inkscape.pod:303
@@ -693,7 +749,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:305
 msgid "B<-W>, B<--query-width>"
-msgstr ""
+msgstr "B<-W>, B<--query-width>"
 
 #. type: textblock
 #: inkscape.pod:307
@@ -705,7 +761,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:309
 msgid "B<-H>, B<--query-height>"
-msgstr ""
+msgstr "B<-H>, B<--query-height>"
 
 #. type: textblock
 #: inkscape.pod:311
@@ -717,7 +773,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:313
 msgid "B<-S>, B<--query-all>"
-msgstr ""
+msgstr "B<-S>, B<--query-all>"
 
 #. type: textblock
 #: inkscape.pod:315
@@ -729,7 +785,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:318
 msgid "B<--shell>"
-msgstr ""
+msgstr "B<--shell>"
 
 #. type: textblock
 #: inkscape.pod:320
@@ -748,7 +804,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:329
 msgid "B<--vacuum-defs>"
-msgstr ""
+msgstr "B<--vacuum-defs>"
 
 #. type: textblock
 #: inkscape.pod:331
@@ -762,7 +818,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:335
 msgid "B<-z>, B<--without-gui>"
-msgstr ""
+msgstr "B<-z>, B<--without-gui>"
 
 #. type: textblock
 #: inkscape.pod:337
@@ -774,7 +830,7 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:340
 msgid "B<--g-fatal-warnings>"
-msgstr ""
+msgstr "B<--g-fatal-warnings>"
 
 #. type: textblock
 #: inkscape.pod:342
@@ -786,17 +842,17 @@ msgstr ""
 #. type: =item
 #: inkscape.pod:345
 msgid "B<--usage>"
-msgstr ""
+msgstr "B<--usage>"
 
 #. type: textblock
 #: inkscape.pod:347
 msgid "Display a brief usage message."
-msgstr ""
+msgstr "Wyświetla skrócony opis użycia."
 
 #. type: =head1
 #: inkscape.pod:351
 msgid "CONFIGURATION"
-msgstr ""
+msgstr "KONFIGURACJA"
 
 #. type: textblock
 #: inkscape.pod:353
@@ -806,36 +862,43 @@ msgid ""
 "Inkscape (mostly in the Inkscape Preferences dialog).  Also in the "
 "subdirectories there, you can place your own:"
 msgstr ""
+"Główny plik z konfiguracją jest zlokalizowany w ~/.config/inkscape/"
+"preferences.xml; obejmuje on cały szereg ustawień użytkownika które można "
+"zmienić w programie Inkscape (głównie w oknie Ustawienia Inkscape'a).  "
+"Tworząc w tym samym miejscu podkatalogi możesz także skonfigurować swoje "
+"własne:"
 
 #. type: textblock
 #: inkscape.pod:357
 msgid "B<$HOME>/.config/inkscape/extensions/ - extension effects."
-msgstr ""
+msgstr "B<$HOME>/.config/inkscape/extensions/ - rozszerzenia efektów."
 
 #. type: textblock
 #: inkscape.pod:359
 msgid "B<$HOME>/.config/inkscape/icons/ - icons."
-msgstr ""
+msgstr "B<$HOME>/.config/inkscape/icons/ - ikony."
 
 #. type: textblock
 #: inkscape.pod:361
 msgid "B<$HOME>/.config/inkscape/keys/ - keyboard maps."
-msgstr ""
+msgstr "B<$HOME>/.config/inkscape/keys/ - mapy klawiatry."
 
 #. type: textblock
 #: inkscape.pod:363
 msgid "B<$HOME>/.config/inkscape/templates/ - new file templates."
-msgstr ""
+msgstr "B<$HOME>/.config/inkscape/templates/ - szablony nowych plików."
 
 #. type: =head1
 #: inkscape.pod:365
 msgid "DIAGNOSTICS"
-msgstr ""
+msgstr "DIAGNOSTYKA"
 
 #. type: textblock
 #: inkscape.pod:367
 msgid "The program returns zero on success or non-zero on failure."
 msgstr ""
+"Program zwraca wartość zero jeżeli uruchomienie powiodło się lub wartość nie "
+"zerową w przypadku błędów."
 
 #. type: textblock
 #: inkscape.pod:369
@@ -848,7 +911,7 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:373
 msgid "EXAMPLES"
-msgstr ""
+msgstr "PRZYKŁADY"
 
 #. type: textblock
 #: inkscape.pod:375
@@ -982,6 +1045,8 @@ msgid ""
 "    inkscape filename.svg --export-eps=filename.eps --export-text-to-path\n"
 "\n"
 msgstr ""
+"    inkscape plik.svg --export-eps=plik.eps --export-text-to-path\n"
+"\n"
 
 #. type: textblock
 #: inkscape.pod:417
@@ -995,6 +1060,8 @@ msgid ""
 "    inkscape filename.svg --query-width --query-id text1555\n"
 "\n"
 msgstr ""
+"    inkscape plik.svg --query-width --query-id text1555\n"
+"\n"
 
 #. type: textblock
 #: inkscape.pod:421
@@ -1014,7 +1081,7 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:426
 msgid "ENVIRONMENT"
-msgstr ""
+msgstr "ŚRODOWISKO"
 
 #. type: textblock
 #: inkscape.pod:428
@@ -1031,7 +1098,7 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:433
 msgid "THEMES"
-msgstr ""
+msgstr "MOTYWY"
 
 #. type: textblock
 #: inkscape.pod:435
@@ -1055,7 +1122,7 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:449
 msgid "OTHER INFO"
-msgstr ""
+msgstr "DODATKOWE INFORMACJE"
 
 #. type: textblock
 #: inkscape.pod:451
@@ -1065,11 +1132,15 @@ msgid ""
 "list archives, the latest released version of the program, bugs and feature "
 "requests databases, forums, and more."
 msgstr ""
+"Podstawowym miejscem z informacjami o programie B<Inkscape> jest strona "
+"http://www.inkscape.org/. Publikowane są tam wiadomości, dokumentacja, "
+"poradniki, przykłady, archiwa list dyskusyjnych, najnowsze wersje programu, "
+"informacje o błędach, odnośniki do forów i inne."
 
 #. type: =head1
 #: inkscape.pod:457
 msgid "SEE ALSO"
-msgstr ""
+msgstr "ZOBACZ TAKŻĘ"
 
 #. type: textblock
 #: inkscape.pod:459
@@ -1117,7 +1188,7 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:482
 msgid "GUI NOTES"
-msgstr ""
+msgstr "INTERFEJS UŻYTKOWNIKA"
 
 #. type: textblock
 #: inkscape.pod:484
@@ -1167,7 +1238,7 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:504
 msgid "KEYBINDINGS"
-msgstr ""
+msgstr "SKRÓTY KLAWISZOWE"
 
 #. type: textblock
 #: inkscape.pod:506
@@ -1206,7 +1277,7 @@ msgstr ""
 #. type: textblock
 #: inkscape.pod:521
 msgid "[% INCLUDE \"AUTHORS\" %]"
-msgstr ""
+msgstr "[% INCLUDE \"AUTHORS\" %]"
 
 #. type: textblock
 #: inkscape.pod:523
@@ -1214,6 +1285,9 @@ msgid ""
 "This man page was put together by Bryce Harrington "
 "E<lt>brycehar@bryceharrington.comE<gt>."
 msgstr ""
+"Ta informacja została opracowana przez Bryce'a Harringtona "
+"E<lt>brycehar@bryceharrington.comE<gt>, tłumaczenie na język polski Marcin "
+"Floryan"
 
 #. type: =head1
 #: inkscape.pod:526
@@ -1287,12 +1361,12 @@ msgstr ""
 #. type: =head1
 #: inkscape.pod:570
 msgid "COPYRIGHT AND LICENSE"
-msgstr ""
+msgstr "PRAWA AUTORSKIE I LICENCJA"
 
 #. type: textblock
 #: inkscape.pod:572
 msgid "B<Copyright (C)> 1999-2010 by Authors."
-msgstr ""
+msgstr "B<Copyright (C)> 1999-2010 Autorzy."
 
 #. type: textblock
 #: inkscape.pod:574
@@ -1300,8 +1374,10 @@ msgid ""
 "B<Inkscape> is free software; you can redistribute it and/or modify it under "
 "the terms of the GPL."
 msgstr ""
+"B<Inkscape> jest wolnym oprogramowaniem; możesz go dystrybuować oraz "
+"modyfikować zgodnie z warunkami licencji GPL."
 
 #. type: =for
 #: inkscape.pod:578
 msgid "comment $Date$"
-msgstr ""
+msgstr "comment $Date$"

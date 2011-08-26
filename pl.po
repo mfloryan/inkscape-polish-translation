@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2011-08-23 19:46+0200\n"
-"PO-Revision-Date: 2011-08-24 16:45+0100\n"
+"PO-Revision-Date: 2011-08-26 13:09+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: \n"
@@ -19183,7 +19183,7 @@ msgstr "UI: "
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1414
 msgid "Icon theme: "
-msgstr "Ikony motywu:"
+msgstr "Motyw ikon:"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1429
 msgid "System info"
