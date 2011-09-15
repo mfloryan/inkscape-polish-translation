@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.49\n"
 "POT-Creation-Date: 2011-02-02 20:37+0100\n"
-"PO-Revision-Date: 2011-09-01 15:07+0100\n"
+"PO-Revision-Date: 2011-09-15 15:43+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: Polish\n"
@@ -976,8 +976,7 @@ msgstr ""
 #. type: textblock
 #: inkscape.pod:390
 msgid "Same, but force the PNG file to be 600x400 pixels:"
-msgstr ""
-"Jak powyżej, ale z określeniem wymiarów pliku PNG jako 600x400 pikseli:"
+msgstr "Jak wyżej, ale z określeniem wymiarów pliku PNG jako 600x400 pikseli:"
 
 #. type: verbatim
 #: inkscape.pod:392
@@ -994,6 +993,8 @@ msgstr ""
 msgid ""
 "Same, but export the drawing (bounding box of all objects), not the page:"
 msgstr ""
+"Jak wyżej, ale eksportuje cały rysunek (prostokąt obejmujący wszystkie "
+"obiekty), a nie stronę:"
 
 #. type: verbatim
 #: inkscape.pod:396
@@ -1002,6 +1003,8 @@ msgid ""
 "    inkscape filename.svg --export-png=filename.png --export-area-drawing\n"
 "\n"
 msgstr ""
+"    inkscape plik.svg --export-png=plik.png --export-area-drawing\n"
+"\n"
 
 #. type: textblock
 #: inkscape.pod:398
@@ -1010,6 +1013,9 @@ msgid ""
 "the resolution that were used for that object last time when it was exported "
 "from the GUI:"
 msgstr ""
+"Eksportuje do formatu PNG obiekt o id=\"text1555\", używając nawę pliku oraz "
+"rozdzielczość określone, gdy obiekt byś ostatni raz eksportowany za "
+"pośrednictwem GUI:"
 
 #. type: verbatim
 #: inkscape.pod:401
@@ -1018,6 +1024,8 @@ msgid ""
 "    inkscape filename.svg --export-id=text1555 --export-use-hints\n"
 "\n"
 msgstr ""
+"    inkscape plik.svg --export-id=text1555 --export-use-hints\n"
+"\n"
 
 #. type: textblock
 #: inkscape.pod:403
@@ -1026,6 +1034,10 @@ msgid ""
 "the exported area outwards to the nearest whole SVG user unit values (to "
 "preserve pixel-alignment of objects and thus minimize aliasing):"
 msgstr ""
+"Jak wyżej, ale używa domyślnej rozdzielczości 90 dpi, określonej nazwy "
+"pliku, oraz nieznacznie powiększa eksportowany obszar aby zaokrąglić do "
+"najbliższej całkowitej wartości jednostki użytkownika w SVG (zachowuje "
+"wyrównanie pikseli obiektów minimalizując aliasing):"
 
 #. type: verbatim
 #: inkscape.pod:407
@@ -1034,11 +1046,13 @@ msgid ""
 "    inkscape filename.svg --export-id=text1555 --export-png=text.png --export-area-snap\n"
 "\n"
 msgstr ""
+"    inkscape plik.svg --export-id=text1555 --export-png=tekst.png --export-area-snap\n"
+"\n"
 
 #. type: textblock
 #: inkscape.pod:409
 msgid "Convert an Inkscape SVG document to plain SVG:"
-msgstr "Zamienia plik SVG z formatu Inkscape'a na \"czysty\" format SVG:"
+msgstr "Konwertuje dokument SVG z formatu Inkscape'a na \"czysty\" format SVG:"
 
 #. type: verbatim
 #: inkscape.pod:411
@@ -1054,6 +1068,8 @@ msgstr ""
 #: inkscape.pod:413
 msgid "Convert an SVG document to EPS, converting all texts to paths:"
 msgstr ""
+"Konwertuje dokument SVG na format EPS, zmieniając wszystkie teksty na "
+"ścieżki:"
 
 #. type: verbatim
 #: inkscape.pod:415
@@ -1068,7 +1084,7 @@ msgstr ""
 #. type: textblock
 #: inkscape.pod:417
 msgid "Query the width of the object with id=\"text1555\":"
-msgstr ""
+msgstr "Odczytuje szerokość obiektu o id=\"text1555\":"
 
 #. type: verbatim
 #: inkscape.pod:419
@@ -1086,6 +1102,8 @@ msgid ""
 "Duplicate the object with id=\"path1555\", rotate the duplicate 90 degrees, "
 "save SVG, and quit:"
 msgstr ""
+"Kopiuje obiekt o id=\"path1555\", obraca duplikat o 90 stopni, zapisuje plik "
+"SVG i kończy:"
 
 #. type: verbatim
 #: inkscape.pod:423
@@ -1094,6 +1112,8 @@ msgid ""
 "    inkscape filename.svg --select=path1555 --verb=EditDuplicate --verb=ObjectRotate90 --verb=FileSave --verb=FileClose\n"
 "\n"
 msgstr ""
+"    inkscape plik.svg --select=path1555 --verb=EditDuplicate --verb=ObjectRotate90 --verb=FileSave --verb=FileClose\n"
+"\n"
 
 #. type: =head1
 #: inkscape.pod:426
@@ -1167,7 +1187,7 @@ msgstr "potrace, cairo, rsvg(1), batik, ghostscript, pstoedit."
 #. type: textblock
 #: inkscape.pod:461
 msgid "SVG compliance test suite: http://www.w3.org/Graphics/SVG/Test/"
-msgstr ""
+msgstr "Zestaw testów zgodności z SVG: http://www.w3.org/Graphics/SVG/Test/"
 
 #. type: textblock
 #: inkscape.pod:463
@@ -1180,7 +1200,7 @@ msgid ""
 "I<Scalable Vector Graphics (SVG) 1.1 Specification> I<W3C Recommendation 14 "
 "January 2003> L<http://www.w3.org/TR/SVG11/>"
 msgstr ""
-"I<Specyfikację Scalable Vector Graphics (SVG) 1.1> I<W3C Recommendation 14 "
+"I<Specyfikacja Scalable Vector Graphics (SVG) 1.1> I<W3C Recommendation 14 "
 "stycznia 2003> L<http://www.w3.org/TR/SVG11/>"
 
 #. type: textblock
@@ -1189,7 +1209,7 @@ msgid ""
 "I<Scalable Vector Graphics (SVG) 1.2 Specification> I<W3C Working Draft 13 "
 "November 2003> L<http://www.w3.org/TR/SVG12/>"
 msgstr ""
-"I<Specyfikację Scalable Vector Graphics (SVG) 1.2> I<W3C Working Draft 13 "
+"I<Specyfikacja Scalable Vector Graphics (SVG) 1.2> I<W3C Working Draft 13 "
 "listopada 2003> L<http://www.w3.org/TR/SVG12/>"
 
 #. type: textblock
@@ -1198,7 +1218,7 @@ msgid ""
 "I<SVG 1.1/1.2/2.0 Requirements> I<W3C Working Draft 22 April 2002> L<http://"
 "www.w3.org/TR/SVG2Reqs/>"
 msgstr ""
-"I<Wymagania SVG 1.1/1.2/2.0> I<W3C Working Draft 22 kwietnia 2002> L<http://"
+"I<Wymagania SVG 1.1/1.2/2.0> I<W3C Wersja Robocza 22 kwietnia 2002> L<http://"
 "www.w3.org/TR/SVG2Reqs/>"
 
 #. type: textblock
@@ -1220,6 +1240,8 @@ msgstr "INTERFEJS UŻYTKOWNIKA"
 msgid ""
 "To learn Inkscape's GUI operation, read the tutorials in Help > Tutorials."
 msgstr ""
+"Możesz nauczyć się korzystania z GUI Inkscape'a czytając poradniki z menu "
+"Pomoc > Poradniki."
 
 #. type: textblock
 #: inkscape.pod:486
@@ -1228,6 +1250,10 @@ msgid ""
 "(PNG, BMP, JPG, XPM, GIF, etc.), plain text (requires Perl), PS and EPS "
 "(requires Ghostscript), PDF and AI format (AI version 9.0 or newer)."
 msgstr ""
+"Poza formatem SVG, Inkscape obsługuje także (Plik > Importuj) większość "
+"formatów bitmapowych (PNG, BMP, JPG, XPM, GIF, etc.), tekst (wymaga Perl), "
+"format PS oraz EPS (wymaga Ghostscript), format PDF oraz AI (AI wersja 9.0 "
+"lub nowsza)."
 
 #. type: textblock
 #: inkscape.pod:490
@@ -1235,6 +1261,8 @@ msgid ""
 "Inkscape exports 32-bit PNG images (File > Export) as well as AI, PS, EPS, "
 "PDF, DXF, and several other formats via File > Save as."
 msgstr ""
+"Inkscape obsługuje eksport do formatu PNG 32-bit (Plik -> Eksportuj) a także "
+"AI, PS, EPS, PDF, DXF, oraz wiele innych formatów w Menu > Zapisz jako."
 
 #. type: textblock
 #: inkscape.pod:493
