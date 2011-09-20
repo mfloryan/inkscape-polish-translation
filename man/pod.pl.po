@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.49\n"
 "POT-Creation-Date: 2011-02-02 20:37+0100\n"
-"PO-Revision-Date: 2011-09-15 15:43+0100\n"
+"PO-Revision-Date: 2011-09-20 15:24+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: Polish\n"
@@ -268,6 +268,13 @@ msgid ""
 "and since its files are text/xml, it will be possible to use SVG files in a "
 "sizeable number of programs and for a wide range of uses."
 msgstr ""
+"B<SVG> jest standardem W3C opisującym format plików XML do opisu "
+"dwuwymiarowej grafiki wektorowej. Format pozwala definiować obiekty na "
+"rysunku z wykorzystaniem punktów, ścieżek oraz podstawowych Kształtów. "
+"Kolory, czcionki, grubość pióra itd.. są określone przez atrybut \"styl\" "
+"poszczególnych obiektów. Założeniem formatu SVG, jako standardu oraz biorąc "
+"pod uwagę że pliki są zwykłymi plikami tekstowymi XML, jest iż możliwe "
+"będzie wykorzystywanie go przez wiele różnych programów w szerokim zakresie."
 
 #. type: textblock
 #: inkscape.pod:87
@@ -276,6 +283,9 @@ msgid ""
 "becoming the most fully compliant drawing program for SVG files available in "
 "the Open Source community."
 msgstr ""
+"B<Inkscape> wykorzystuje format SVG jako wewnętrzny format dokumentów i ma "
+"na celu stanie się najbardziej zgodnym ze standardem programem do rysowania "
+"dla plików SVG dostępnym w ramach wolnego oprogramowania."
 
 #. type: =head1
 #: inkscape.pod:92
@@ -417,6 +427,8 @@ msgid ""
 "Open specified document(s).  Option string may be omitted, i.e. you can list "
 "the filenames without -f."
 msgstr ""
+"Otwórz podany dokument. Nazwa opcji może zostać pominięta, tzn. można "
+"określić listę plików bez wpisywania -f"
 
 #. type: =item
 #: inkscape.pod:160
@@ -428,6 +440,8 @@ msgstr "B<-g>, B<--with-gui>"
 msgid ""
 "Try to use the GUI (on Unix, use the X server even if $DISPLAY is not set)."
 msgstr ""
+"Uruchom graficzny interfejs użytkownika (GUI) (w systemach Unix, używa X "
+"servera nawet jeśli zmienna $DISPLAY nie jest definiowana)."
 
 #. type: =item
 #: inkscape.pod:164
@@ -506,6 +520,9 @@ msgid ""
 "used in defining keymaps or menus.  It can also be used with the --verb "
 "command line option."
 msgstr ""
+"Wyświetl listę identyfikatorów wszystkich poleceń dostępnych w programie "
+"Inkscape. Przy pomocy tych identyfikatorów można definiować układ klawiatury "
+"oraz menu.  Można je także używać z opcją --verb z linii poleceń."
 
 #. type: =item
 #: inkscape.pod:198
@@ -769,6 +786,8 @@ msgid ""
 "Query the height of the drawing or, if specified, of the object with --query-"
 "id. The returned value is in px (SVG user units)."
 msgstr ""
+"Odczytaj wysokość rysunku, lub, jeśli określone, obiektu wskazanego przez --"
+"query-id. Zwraca wartość w pikselach (jednostka użytkownika)."
 
 #. type: =item
 #: inkscape.pod:313
@@ -814,6 +833,10 @@ msgid ""
 "exported file will be affected.  If it is used alone, the specified file "
 "will be modified in place."
 msgstr ""
+"Usuń wszystkie niewykorzystane elementy z sekcji <lt>defs<gt> pliku SVG. "
+"Jeżeli opcja ta jest używa w połączeniu z opcją --export-plain-svg, tylko "
+"wyeksportowany plik będzie uwzględniony.  Opcja użyta samodzielnie powoduje "
+"modyfikację wskazanego pliku."
 
 #. type: =item
 #: inkscape.pod:335
@@ -838,6 +861,9 @@ msgid ""
 "This standard GTK option forces any warnings, usually harmless, to cause "
 "Inkscape to abort (useful for debugging)."
 msgstr ""
+"Ta standardowa opcja GTK powoduje, że wszystkie ostrzeżenia, zwykle "
+"niegroźne, powodują, że Inkscape przerywa działanie (pomocne przy "
+"debugowaniu)."
 
 #. type: =item
 #: inkscape.pod:345
@@ -847,7 +873,7 @@ msgstr "B<--usage>"
 #. type: textblock
 #: inkscape.pod:347
 msgid "Display a brief usage message."
-msgstr "Wyświetla skrócony opis użycia."
+msgstr "Wyświetl skrócony opis użycia."
 
 #. type: =head1
 #: inkscape.pod:351
@@ -923,6 +949,9 @@ msgid ""
 "While obviously B<Inkscape> is primarily intended as a GUI application, it "
 "can be used for doing SVG processing on the command line as well."
 msgstr ""
+"Choć B<Inkscape> został zaprojektowany przede wszystkim jako program z "
+"graficznym interfejsem użytkownika (GUI), można go także używać do "
+"przetwarzania plików SVG z linii poleceń."
 
 #. type: textblock
 #: inkscape.pod:378
