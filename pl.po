@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2011-08-31 21:37+0200\n"
-"PO-Revision-Date: 2011-09-15 15:49+0100\n"
+"PO-Revision-Date: 2011-09-20 17:25+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: \n"
@@ -137,16 +137,18 @@ msgstr "Problemy ze znalezieniem danych obrazka."
 #: ../share/extensions/gcodetools.py:6423
 msgid "No paths are selected! Trying to work on all available paths."
 msgstr ""
+"Żadne ścieżki nie zostały zaznaczone! Operacja dotyczyć będzie wszystkich "
+"dostępnych ścieżek."
 
 #: ../share/extensions/gcodetools.py:3320
 msgid "Noting is selected. Please select something."
-msgstr ""
+msgstr "Nic nie zostało zaznaczone. Proszę coś zaznaczyć."
 
 #: ../share/extensions/gcodetools.py:3860
 msgid ""
 "Directory does not exist! Please specify existing directory at Preferences "
 "tab!"
-msgstr ""
+msgstr "Katalog nie istnieje! Określ istniejący katalog w zakładce ustawienia."
 
 #: ../share/extensions/gcodetools.py:3890
 #, python-format
@@ -154,6 +156,8 @@ msgid ""
 "Can not write to specified file!\n"
 "%s"
 msgstr ""
+"Nie można zapisać do określonego pliku!\n"
+"%s"
 
 #: ../share/extensions/gcodetools.py:4036
 #, python-format
@@ -251,7 +255,7 @@ msgstr ""
 #: ../share/extensions/gcodetools.py:4746
 #: ../share/extensions/gcodetools.py:4992
 msgid "This extension requires at least one selected path."
-msgstr "To rozszerzenie wymaga wybrania co najmniej jednej ścieżki."
+msgstr "To rozszerzenie wymaga zaznaczenia co najmniej jednej ścieżki."
 
 #: ../share/extensions/gcodetools.py:4752
 #: ../share/extensions/gcodetools.py:4998
@@ -339,7 +343,7 @@ msgid ""
 msgstr ""
 
 #: ../share/extensions/inkex.py:78
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The fantastic lxml wrapper for libxml2 is required by inkex.py and therefore "
 "this extension. Please download and install the latest version from http://"
@@ -349,10 +353,11 @@ msgid ""
 "Technical details:\n"
 "%s"
 msgstr ""
-"Wrapper lxml dla libxml2 jest wymagany dla inkex.py i tego rozszerzenia. "
-"Proszę pobrać i zainstalować najnowszą wersję ze strony http://cheeseshop."
-"python.org/pypi/lxml/ lub zainstalować go przez menedżera pakietów z poziomu "
-"wiersza poleceń wpisując: sudo apt-get install python-lxml."
+"Adapter lxml dla biblioteki libxml2 jest wymagany przez inkex.py a więc i to "
+"rozszerzenie. Proszę pobrać i zainstalować najnowszą wersję ze strony http://"
+"cheeseshop.python.org/pypi/lxml/ lub zainstalować go przez menedżera "
+"pakietów z poziomu wiersza poleceń wpisując: sudo apt-get install python-"
+"lxml."
 
 #: ../share/extensions/inkex.py:242
 #, python-format
@@ -530,7 +535,7 @@ msgstr "Musisz zaznaczyć przynajmniej dwa elementy."
 
 #: ../share/extensions/webslicer_export.py:57
 msgid "You must give a directory to export the slices."
-msgstr ""
+msgstr "Należy podać katalog do którego mają zostać wyeksportowane elementy."
 
 #: ../share/extensions/webslicer_export.py:69
 #, python-format
@@ -543,9 +548,9 @@ msgid "Error: %s"
 msgstr "Błąd: %s"
 
 #: ../share/extensions/webslicer_export.py:73
-#, fuzzy, python-format
+#, python-format
 msgid "The directory \"%s\" does not exists."
-msgstr "Utwórz katalog, jeśli nie istnieje"
+msgstr "Katalog \"%s\" nie istnieje."
 
 #: ../share/extensions/webslicer_export.py:102
 #, python-format
@@ -554,7 +559,7 @@ msgstr ""
 
 #: ../share/extensions/webslicer_export.py:332
 msgid "You must install the ImageMagick to get JPG and GIF."
-msgstr ""
+msgstr "Należy zainstalować program ImageMagick aby uzyskać plik JPG lub GIF."
 
 #: ../share/filters/filters.svg.h:1
 #, fuzzy
@@ -2044,23 +2049,20 @@ msgid "Pixellize"
 msgstr ""
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Pixel tools"
-msgstr "Piksele"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
 msgid "Reduce or remove antialiasing around shapes"
 msgstr ""
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Set Resolution"
-msgstr "Rozdzielczość:"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Set filter resolution"
-msgstr "Domyślna rozdzielczość eksportu:"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
 msgid "Basic Diffuse Bump"
@@ -2180,9 +2182,8 @@ msgid "Basic noise transparency texture"
 msgstr "Podstawowa tekstura przezroczystego szumu"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Fill Background"
-msgstr "Tło"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
 #, fuzzy
@@ -2199,18 +2200,16 @@ msgid "Adds a white opaque background"
 msgstr ""
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Fill Area"
-msgstr "Kolor wypełnienia – czerwony"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
 msgid "Fills object bounding box with color"
 msgstr ""
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Blur Double"
-msgstr "Tryb rozmycia"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
 msgid ""
@@ -2649,7 +2648,7 @@ msgstr "jasnoszary (#D3D3D3)"
 #: ../share/palettes/palettes.h:34
 msgctxt "Palette"
 msgid "gainsboro (#DCDCDC)"
-msgstr ""
+msgstr "jasnoszary (#DCDCDC)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:35
@@ -2751,7 +2750,7 @@ msgstr "koralowy (#FF7F50)"
 #: ../share/palettes/palettes.h:51
 msgctxt "Palette"
 msgid "orangered (#FF4500)"
-msgstr ""
+msgstr "czerwonopomarańczowy (#FF4500)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:52
@@ -2961,7 +2960,7 @@ msgstr "żółty (#FFFF00)"
 #: ../share/palettes/palettes.h:86
 msgctxt "Palette"
 msgid "lightyellow (#FFFFE0)"
-msgstr ""
+msgstr "jasnożółty (#FFFFE0)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:87
@@ -3027,7 +3026,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:97
 msgctxt "Palette"
 msgid "lightgreen (#90EE90)"
-msgstr ""
+msgstr "jasnozielony (#90EE90)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:98
@@ -3039,7 +3038,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:99
 msgctxt "Palette"
 msgid "darkgreen (#006400)"
-msgstr ""
+msgstr "ciemnozielony (#006400)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:100
@@ -3423,7 +3422,7 @@ msgstr ""
 #: ../share/palettes/palettes.h:163
 msgctxt "Palette"
 msgid "crimson (#DC143C)"
-msgstr ""
+msgstr "karmazynowy (#DC143C)"
 
 #. Palette: ./svg.gpl
 #: ../share/palettes/palettes.h:164
@@ -3946,7 +3945,7 @@ msgstr "Nie ma następnej skali rysunku"
 
 #: ../src/dialogs/clonetiler.cpp:150
 msgid "<small>Nothing selected.</small>"
-msgstr "<small>Nic nie zaznaczono</small>"
+msgstr "<small>Niczego nie zaznaczono</small>"
 
 #: ../src/dialogs/clonetiler.cpp:156
 msgid "<small>More than one object selected.</small>"
@@ -4662,7 +4661,7 @@ msgstr "Wiersze, kolumny:"
 
 #: ../src/dialogs/clonetiler.cpp:2774
 msgid "Create the specified number of rows and columns"
-msgstr ""
+msgstr "Tworzy określoną liczbę wierszy i kolumn"
 
 #: ../src/dialogs/clonetiler.cpp:2783
 msgid "Width, height: "
@@ -6398,7 +6397,7 @@ msgstr "Zwiększa lub zmniejsza kontrast w bitmapach"
 
 #: ../src/extension/internal/bitmap/crop.cpp:65
 msgid "Crop"
-msgstr ""
+msgstr "Kadrowanie"
 
 #: ../src/extension/internal/bitmap/crop.cpp:67
 msgid "Top (px):"
@@ -6530,9 +6529,8 @@ msgstr "Poziom bieli"
 
 #: ../src/extension/internal/bitmap/level.cpp:44
 #: ../src/extension/internal/bitmap/levelChannel.cpp:66
-#, fuzzy
 msgid "Gamma Correction:"
-msgstr "Korekcja gamma"
+msgstr "Korekcja gamma:"
 
 #: ../src/extension/internal/bitmap/level.cpp:50
 #, fuzzy
@@ -6696,9 +6694,8 @@ msgstr "Cień"
 #: ../src/extension/internal/bitmap/shade.cpp:41
 #: ../src/extension/internal/filter/bumps.h:110
 #: ../src/extension/internal/filter/bumps.h:335
-#, fuzzy
 msgid "Azimuth:"
-msgstr "Azymut"
+msgstr "Azymut:"
 
 #: ../src/extension/internal/bitmap/shade.cpp:42
 #: ../src/extension/internal/filter/bumps.h:111
@@ -6807,9 +6804,8 @@ msgid "Width in px of the halo"
 msgstr "Szerokość rozmycia w px"
 
 #: ../src/extension/internal/bluredge.cpp:137
-#, fuzzy
 msgid "Number of steps:"
-msgstr "Liczba kroków"
+msgstr "Liczba kroków:"
 
 #: ../src/extension/internal/bluredge.cpp:137
 msgid "Number of inset/outset copies of the object to make"
@@ -8189,9 +8185,8 @@ msgstr "Wygładzanie na wskroś"
 
 #: ../src/extension/internal/filter/morphology.h:61
 #: ../src/extension/internal/filter/shadows.h:65
-#, fuzzy
 msgid "Inner"
-msgstr "Wewnętrzna poświata"
+msgstr "Inner"
 
 #: ../src/extension/internal/filter/morphology.h:62
 #: ../src/extension/internal/filter/shadows.h:64
@@ -8205,9 +8200,8 @@ msgstr "_Otwórz…"
 
 #: ../src/extension/internal/filter/morphology.h:69
 #: ../src/extension/internal/filter/morphology.h:190
-#, fuzzy
 msgid "Antialiasing:"
-msgstr "Wygładzanie"
+msgstr "Antyaliasing:"
 
 #: ../src/extension/internal/filter/morphology.h:70
 #, fuzzy
@@ -8743,19 +8737,16 @@ msgid "Custom stroke options"
 msgstr "Niestandardowe punkty i opcje"
 
 #: ../src/extension/internal/filter/textures.h:84
-#, fuzzy
 msgid "k1:"
-msgstr "K1:"
+msgstr "k1:"
 
 #: ../src/extension/internal/filter/textures.h:85
-#, fuzzy
 msgid "k2:"
-msgstr "K2:"
+msgstr "k2:"
 
 #: ../src/extension/internal/filter/textures.h:86
-#, fuzzy
 msgid "k3:"
-msgstr "K3:"
+msgstr "k3:"
 
 #: ../src/extension/internal/filter/textures.h:94
 msgid "Inkblot on tissue or rough paper"
@@ -8767,9 +8758,8 @@ msgid "Blend"
 msgstr "Mieszanie"
 
 #: ../src/extension/internal/filter/transparency.h:55 ../src/rdf.cpp:257
-#, fuzzy
 msgid "Source:"
-msgstr "Źródło"
+msgstr "Źródło:"
 
 #: ../src/extension/internal/filter/transparency.h:59
 #: ../src/ui/dialog/filter-effects-dialog.cpp:2190
@@ -9025,7 +9015,7 @@ msgstr ""
 
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:114
 msgid "rough"
-msgstr "niewygładzony"
+msgstr "przybliżonr"
 
 #. Text options
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:118
@@ -9056,28 +9046,24 @@ msgid "PDF Import Settings"
 msgstr "Ustawienia importu plików PDF"
 
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:395
-#, fuzzy
 msgctxt "PDF input precision"
 msgid "rough"
-msgstr "niewygładzony"
+msgstr "przybliżonr"
 
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:396
-#, fuzzy
 msgctxt "PDF input precision"
 msgid "medium"
-msgstr "Średnie"
+msgstr "średnir"
 
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:397
-#, fuzzy
 msgctxt "PDF input precision"
 msgid "fine"
-msgstr "dokładny"
+msgstr "dokładnr"
 
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:398
-#, fuzzy
 msgctxt "PDF input precision"
 msgid "very fine"
-msgstr "bardzo dokładny"
+msgstr "bardzo dokładnr"
 
 #: ../src/extension/internal/pdfinput/pdf-input.cpp:754
 msgid "PDF Input"
@@ -9212,6 +9198,8 @@ msgstr "default.svg"
 #: ../src/file.cpp:265
 msgid "Broken links have been changed to point to existing files."
 msgstr ""
+"Nieprawidłowe linki zostały zmienione tak, aby wskazywały na istniejące "
+"pliki."
 
 #: ../src/file.cpp:273 ../src/file.cpp:1072
 #, c-format
@@ -12071,15 +12059,14 @@ msgstr "_Tryb wyświetlania"
 #: ../src/menus-skeleton.h:116
 #, fuzzy
 msgid "_Color display mode"
-msgstr "_Tryb wyświetlania"
+msgstr "Tryb wyświetlania kolorów"
 
 #. Better location in menu needs to be found
 #. "         <verb verb-id=\"ViewColorModePrintColorsPreview\" radio=\"yes\"/>\n"
 #. "         <verb verb-id=\"DialogPrintColorsPreview\" />\n"
 #: ../src/menus-skeleton.h:130
-#, fuzzy
 msgid "Sh_ow/Hide"
-msgstr "Wyświetlanie elementów o_kna"
+msgstr ""
 
 #. "       <verb verb-id=\"DialogScript\" />\n"
 #. Not quite ready to be in the menus.
@@ -12535,14 +12522,12 @@ msgid "Open Font License"
 msgstr "Licencja Open Font"
 
 #: ../src/rdf.cpp:232
-#, fuzzy
 msgid "Name by which this document is formally known"
 msgstr "Oficjalna nazwa dokumentu"
 
 #: ../src/rdf.cpp:234
-#, fuzzy
 msgid "Date:"
-msgstr "Data"
+msgstr "Data:"
 
 #: ../src/rdf.cpp:235
 #, fuzzy
@@ -12575,7 +12560,6 @@ msgid ""
 msgstr "Nazwa jednostki odpowiedzialnej za zawartość tego dokumentu"
 
 #: ../src/rdf.cpp:247
-#, fuzzy
 msgid "Rights:"
 msgstr "Prawa:"
 
@@ -12586,9 +12570,8 @@ msgid ""
 msgstr "Nazwa jednostki posiadającej prawa autorskie do tego dokumentu"
 
 #: ../src/rdf.cpp:250
-#, fuzzy
 msgid "Publisher:"
-msgstr "Wydawca"
+msgstr "Wydawca:"
 
 #: ../src/rdf.cpp:251
 #, fuzzy
@@ -12596,9 +12579,8 @@ msgid "Name of entity responsible for making this document available"
 msgstr "Nazwa jednostki udostępniającej ten dokument"
 
 #: ../src/rdf.cpp:254
-#, fuzzy
 msgid "Identifier:"
-msgstr "Identyfikator"
+msgstr "Identyfikator:"
 
 #: ../src/rdf.cpp:255
 #, fuzzy
@@ -12634,9 +12616,8 @@ msgstr ""
 "tego dokumentu. (np. en-GB)"
 
 #: ../src/rdf.cpp:266
-#, fuzzy
 msgid "Keywords:"
-msgstr "Słowa kluczowe"
+msgstr "Słowa kluczowe:"
 
 #: ../src/rdf.cpp:267
 #, fuzzy
@@ -12660,9 +12641,8 @@ msgid "Extent or scope of this document"
 msgstr "Tematyka lub zakres tego dokumentu"
 
 #: ../src/rdf.cpp:275
-#, fuzzy
 msgid "Description:"
-msgstr "Opis"
+msgstr "Opis:"
 
 #: ../src/rdf.cpp:276
 #, fuzzy
@@ -12671,9 +12651,8 @@ msgstr "Krótkie podsumowanie zawartości dokumentu"
 
 #. FIXME: need to handle 1 agent per line of input
 #: ../src/rdf.cpp:280
-#, fuzzy
 msgid "Contributors:"
-msgstr "Współautorzy"
+msgstr "Współautorzy:"
 
 #: ../src/rdf.cpp:281
 #, fuzzy
@@ -12684,9 +12663,8 @@ msgstr "Nazwy jednostek biorących udział w tworzeniu zawartości tego dokument
 
 #. TRANSLATORS: URL to a page that defines the license for the document
 #: ../src/rdf.cpp:285
-#, fuzzy
 msgid "URI:"
-msgstr "URI"
+msgstr "URI:"
 
 #. TRANSLATORS: this is where you put a URL to a page that defines the license
 #: ../src/rdf.cpp:287
@@ -12696,9 +12674,8 @@ msgstr "Adres URI do strony zawierającej definicję licencji tego dokumentu"
 
 #. TRANSLATORS: fragment of XML representing the license of the document
 #: ../src/rdf.cpp:291
-#, fuzzy
 msgid "Fragment:"
-msgstr "Fragment"
+msgstr "Fragment:"
 
 #: ../src/rdf.cpp:292
 #, fuzzy
@@ -13027,10 +13004,9 @@ msgid "The selection has no applied path effect."
 msgstr "Zaznaczenie nie zaakceptowało efektu ścieżki"
 
 #: ../src/selection-chemistry.cpp:2077
-#, fuzzy
 msgctxt "Action"
 msgid "Clone"
-msgstr "Sklonowany"
+msgstr "Klonowanie"
 
 #: ../src/selection-chemistry.cpp:2093
 msgid "Select <b>clones</b> to relink."
@@ -13186,10 +13162,9 @@ msgstr "Dopasuj stronę do zaznaczenia lub rysunku"
 
 #. TRANSLATORS: "Link" means internet link (anchor)
 #: ../src/selection-describer.cpp:44
-#, fuzzy
 msgctxt "Web"
 msgid "Link"
-msgstr "Odnośnik:"
+msgstr "Odnośnik"
 
 #: ../src/selection-describer.cpp:46
 msgid "Circle"
@@ -13257,10 +13232,9 @@ msgstr "Tekst"
 
 #. TRANSLATORS: "Clone" is a noun, type of object
 #: ../src/selection-describer.cpp:71
-#, fuzzy
 msgctxt "Object"
 msgid "Clone"
-msgstr "Sklonowany"
+msgstr "Klon"
 
 #: ../src/selection-describer.cpp:75
 #: ../share/extensions/gcodetools_lathe.inx.h:31
@@ -13525,15 +13499,14 @@ msgid "Create Guides Around the Page"
 msgstr "Prowadnice wokół strony"
 
 #: ../src/sp-guide.cpp:325 ../src/verbs.cpp:2224
-#, fuzzy
 msgid "Delete All Guides"
-msgstr "Usuń prowadnicę"
+msgstr "Usuń wszystkie prowadnice"
 
 #. Guide has probably been deleted and no longer has an attached namedview.
 #: ../src/sp-guide.cpp:485
-#, fuzzy, c-format
+#, c-format
 msgid "Deleted"
-msgstr "Usuń"
+msgstr "Usunięta"
 
 #: ../src/sp-guide.cpp:494
 msgid ""
@@ -14685,10 +14658,9 @@ msgstr "Minimalny odstęp w poziomie (w pikselach) pomiędzy obwiedniami"
 
 #. TRANSLATORS: "H:" stands for horizontal gap
 #: ../src/ui/dialog/align-and-distribute.cpp:471
-#, fuzzy
 msgctxt "Gap"
 msgid "_H:"
-msgstr "_H"
+msgstr ""
 
 #: ../src/ui/dialog/align-and-distribute.cpp:480
 msgid "Minimum vertical gap (in px units) between bounding boxes"
@@ -14696,10 +14668,9 @@ msgstr "Minimalny odstęp w pionie (w pikselach) pomiędzy obwiedniami"
 
 #. TRANSLATORS: Vertical gap
 #: ../src/ui/dialog/align-and-distribute.cpp:482
-#, fuzzy
 msgctxt "Gap"
 msgid "_V:"
-msgstr "Pion:"
+msgstr ""
 
 #: ../src/ui/dialog/align-and-distribute.cpp:512
 #: ../src/ui/dialog/align-and-distribute.cpp:894
@@ -15089,7 +15060,6 @@ msgid "Color of a guideline when it is under mouse"
 msgstr "Kolor prowadnicy po umieszczeniu na niej kursora myszy"
 
 #: ../src/ui/dialog/document-properties.cpp:105
-#, fuzzy
 msgctxt "Grid"
 msgid "_New"
 msgstr "_Nowy"
@@ -15099,7 +15069,6 @@ msgid "Create new grid."
 msgstr "Utwórz nową siatkę"
 
 #: ../src/ui/dialog/document-properties.cpp:106
-#, fuzzy
 msgctxt "Grid"
 msgid "_Remove"
 msgstr "_Usuń"
@@ -15606,9 +15575,8 @@ msgstr "Kierunek kąta źródła światła na płaszczyźnie YZ (w stopniach)"
 #. default z:
 #: ../src/ui/dialog/filter-effects-dialog.cpp:968
 #: ../src/ui/dialog/filter-effects-dialog.cpp:971
-#, fuzzy
 msgid "Location:"
-msgstr "Położenie"
+msgstr "Pozycja:"
 
 #: ../src/ui/dialog/filter-effects-dialog.cpp:968
 #: ../src/ui/dialog/filter-effects-dialog.cpp:971
@@ -17886,9 +17854,8 @@ msgstr ""
 "okien."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:626
-#, fuzzy
 msgid "Dialog Transparency"
-msgstr "Krycie:"
+msgstr ""
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:628
 msgid "Opacity when focused:"
@@ -17903,7 +17870,6 @@ msgid "Time of opacity change animation:"
 msgstr "Szybkość zmiany animacji krycia:"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:635
-#, fuzzy
 msgid "Miscellaneous"
 msgstr "Różne"
 
@@ -18196,7 +18162,7 @@ msgstr "Renderowanie"
 #: ../src/ui/dialog/inkscape-preferences.cpp:756
 msgctxt "mebibyte (2^20 bytes) abbreviation"
 msgid "MiB"
-msgstr ""
+msgstr "Mib"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:756
 msgid ""
@@ -18936,9 +18902,8 @@ msgid "Swedish (sv)"
 msgstr "szwedzki (sv)"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1135
-#, fuzzy
 msgid "Telugu (te_IN)"
-msgstr "Telugu"
+msgstr "telugu (te_IN)"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1135
 msgid "Thai (th)"
@@ -19107,10 +19072,9 @@ msgid "Interval (in minutes) at which document will be autosaved"
 msgstr "Odstęp czasowy po jakim nastąpi kolejny automatyczny zapis."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1229
-#, fuzzy
 msgctxt "Filesystem"
 msgid "Path:"
-msgstr "Ścieżka"
+msgstr "Ścieżka:"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1229
 msgid "The directory where autosaves will be written"
@@ -19343,10 +19307,9 @@ msgid "Disabled"
 msgstr "Wyłączona"
 
 #: ../src/ui/dialog/input.cpp:350
-#, fuzzy
 msgctxt "Input device"
 msgid "Screen"
-msgstr "Przesiej"
+msgstr ""
 
 #: ../src/ui/dialog/input.cpp:351 ../src/ui/dialog/input.cpp:363
 msgid "Window"
@@ -19469,34 +19432,29 @@ msgid "Unlock layer"
 msgstr "Odblokuj warstwę"
 
 #: ../src/ui/dialog/layers.cpp:635
-#, fuzzy
 msgctxt "Layers"
 msgid "New"
 msgstr "Nowa"
 
 #: ../src/ui/dialog/layers.cpp:640
-#, fuzzy
 msgctxt "Layers"
 msgid "Top"
 msgstr "Na wierzch"
 
 #: ../src/ui/dialog/layers.cpp:646
-#, fuzzy
 msgctxt "Layers"
 msgid "Up"
 msgstr "W górę"
 
 #: ../src/ui/dialog/layers.cpp:652
-#, fuzzy
 msgctxt "Layers"
 msgid "Dn"
 msgstr "W dół"
 
 #: ../src/ui/dialog/layers.cpp:658
-#, fuzzy
 msgctxt "Layers"
 msgid "Bot"
-msgstr "Dół"
+msgstr "Na spód"
 
 #: ../src/ui/dialog/layers.cpp:668
 msgid "X"
@@ -22677,9 +22635,8 @@ msgid "Zoom in or out"
 msgstr "Zoom: Przybliżanie/oddalanie rysunku"
 
 #: ../src/verbs.cpp:2411
-#, fuzzy
 msgid "Measurement tool"
-msgstr "Typ pomiaru:"
+msgstr ""
 
 #: ../src/verbs.cpp:2413
 msgid "Pick colors from image"
@@ -31578,4 +31535,3 @@ msgstr "Źródło Metaplik Windows"
 #: ../share/extensions/xaml2svg.inx.h:3
 msgid "XAML Input"
 msgstr "Źródło XAML"
-
