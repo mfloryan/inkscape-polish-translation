@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2011-10-06 20:04+0200\n"
-"PO-Revision-Date: 2011-10-11 15:23+0100\n"
+"PO-Revision-Date: 2011-10-18 15:49+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: \n"
@@ -5108,7 +5108,7 @@ msgstr "Wyczyść wszystko"
 
 #: ../src/dialogs/find.cpp:755 ../src/ui/dialog/find.cpp:88
 msgid "_Find"
-msgstr "_Szukaj"
+msgstr "_Znajdź"
 
 #: ../src/dialogs/find.cpp:755 ../src/ui/dialog/find.cpp:88
 msgid "Select objects matching all of the fields you filled in"
@@ -28661,7 +28661,7 @@ msgstr "Styl"
 
 #: ../share/extensions/interp_att_g.inx.h:22
 msgid "Tag"
-msgstr "Tag"
+msgstr "Znacznik"
 
 #: ../share/extensions/interp_att_g.inx.h:23
 #, fuzzy
@@ -28703,14 +28703,12 @@ msgid "Interpolate style"
 msgstr "Styl interpolacji"
 
 #: ../share/extensions/interp.inx.h:6
-#, fuzzy
 msgid "Interpolation method:"
-msgstr "Metoda interpolacji"
+msgstr "Metoda interpolacji:"
 
 #: ../share/extensions/interp.inx.h:7
-#, fuzzy
 msgid "Interpolation steps:"
-msgstr "Kroki interpolacji"
+msgstr "Kroki interpolacji:"
 
 #: ../share/extensions/jessyInk_autoTexts.inx.h:1
 msgid "Auto-Text:"
@@ -28793,14 +28791,12 @@ msgid "Effects"
 msgstr "Efekty"
 
 #: ../share/extensions/jessyInk_effects.inx.h:6
-#, fuzzy
 msgid "Fade in"
-msgstr "Ukazywanie"
+msgstr ""
 
 #: ../share/extensions/jessyInk_effects.inx.h:7
-#, fuzzy
 msgid "Fade out"
-msgstr "Ukazywanie"
+msgstr ""
 
 #: ../share/extensions/jessyInk_effects.inx.h:10
 msgid "None (default)"
@@ -28889,9 +28885,8 @@ msgid "Decrease number of columns:"
 msgstr "Zmniejsz liczbę kolumn:"
 
 #: ../share/extensions/jessyInk_keyBindings.inx.h:6
-#, fuzzy
 msgid "Export presentation:"
-msgstr "Kierunek tekstu"
+msgstr "Eksport prezentacji:"
 
 #: ../share/extensions/jessyInk_keyBindings.inx.h:7
 msgid "First slide:"
@@ -29219,9 +29214,8 @@ msgstr ""
 #: ../share/extensions/previous_glyph_layer.inx.h:1
 #: ../share/extensions/setup_typography_canvas.inx.h:6
 #: ../share/extensions/svgfont2layers.inx.h:3
-#, fuzzy
 msgid "Typography"
-msgstr "Spirograf"
+msgstr "Typografia"
 
 #: ../share/extensions/layout_nup.inx.h:1
 msgid ""
@@ -29831,7 +29825,6 @@ msgstr ""
 "Uwaga: Obliczenia oparte na gramaturze ryzy będą jedynie dużym przybliżeniem"
 
 #: ../share/extensions/perfectboundcover.inx.h:12
-#, fuzzy
 msgid "Number of Pages:"
 msgstr "Liczba stron:"
 
@@ -29840,7 +29833,6 @@ msgid "Pages Per Inch (PPI)"
 msgstr "Strony na cal (PPI)"
 
 #: ../share/extensions/perfectboundcover.inx.h:14
-#, fuzzy
 msgid "Paper Thickness Measurement:"
 msgstr "Sposób pomiaru grubości papieru:"
 
