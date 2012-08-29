@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2012-08-15 20:35+0200\n"
-"PO-Revision-Date: 2012-08-29 21:43+0100\n"
+"PO-Revision-Date: 2012-08-29 21:59+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
@@ -1554,9 +1554,8 @@ msgid "Painting canvas emboss effect"
 msgstr ""
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Plasticine"
-msgstr "Tynk"
+msgstr "Plastelina"
 
 #: ../share/filters/filters.svg.h:1
 #, fuzzy
@@ -1645,9 +1644,8 @@ msgid "Adds a colorizable opaque background"
 msgstr "Dodaje drobny cień wewnątrz z możliwością podkolorowania"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Flatten Transparency"
-msgstr "Krycie:"
+msgstr ""
 
 #: ../share/filters/filters.svg.h:1
 msgid "Adds a white opaque background"
@@ -2954,7 +2952,7 @@ msgstr "różowy (#FFC0CB)"
 #: ../share/palettes/palettes.h:165
 msgctxt "Palette"
 msgid "lightpink (#FFB6C1)"
-msgstr ""
+msgstr "jasnoróżowy (#FFB6C1)"
 
 #. Palette: ./Tango-Palette.gpl
 #: ../share/palettes/palettes.h:166
@@ -32584,19 +32582,16 @@ msgstr ""
 "zaznaczona."
 
 #: ../share/extensions/svgcalendar.inx.h:29
-#, fuzzy
 msgid "Week number color:"
-msgstr "Kolor nazw dni tygodnia:"
+msgstr "Kolor numerów tygodni:"
 
 #: ../share/extensions/svgcalendar.inx.h:30
-#, fuzzy
 msgid "Week number column name:"
-msgstr "Zmniejsz liczbę kolumn:"
+msgstr "Nazwa kolumny numerów tygodni:"
 
 #: ../share/extensions/svgcalendar.inx.h:31
-#, fuzzy
 msgid "Week start day:"
-msgstr "Początek tygodnia"
+msgstr "Początek tygodnia:"
 
 #: ../share/extensions/svgcalendar.inx.h:32
 msgid "Weekday name color:"
@@ -32627,9 +32622,8 @@ msgid "You may change the names for other languages:"
 msgstr "Możesz podać nazwy dni i miesięcy w innym języku:"
 
 #: ../share/extensions/svgfont2layers.inx.h:1
-#, fuzzy
 msgid "Convert SVG Font to Glyph Layers"
-msgstr "Odwróć na wszystkich warstwach"
+msgstr ""
 
 #: ../share/extensions/svgfont2layers.inx.h:2
 msgid "Load only the first 30 glyphs (Recommended)"
