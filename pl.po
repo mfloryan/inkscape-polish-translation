@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.48\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2013-03-22 21:39+0100\n"
-"PO-Revision-Date: 2013-03-23 10:53-0000\n"
+"PO-Revision-Date: 2013-03-23 15:52-0000\n"
 "Last-Translator: Marcin Floryan <marcin.floryan@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
@@ -43,7 +43,6 @@ msgid "New Drawing"
 msgstr "Nowy Rysunek"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Smart Jelly"
 msgstr "Inteligentny żel"
 
@@ -384,7 +383,6 @@ msgid "Flexible bubbles effect with some displacement"
 msgstr "Elastyczny efekt bąbelków z kilkoma przesunięciami"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Glowing Bubble"
 msgstr "Błyszczące bąbelki"
 
@@ -438,18 +436,16 @@ msgid "Thin like a soap membrane"
 msgstr "Cienka jak bańka mydlana membrana"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Matte Ridge"
-msgstr "Miękka krawędź"
+msgstr "Matowa krawędź"
 
 #: ../share/filters/filters.svg.h:1
 msgid "Soft pastel ridge"
 msgstr "Miękka pastelowa krawędź"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Glowing Metal"
-msgstr "Błyszczący metal"
+msgstr "Metalowa poświata"
 
 #: ../share/filters/filters.svg.h:1
 msgid "Glowing metal texture"
@@ -477,7 +473,6 @@ msgid "Illuminated translucent plastic or glass effect"
 msgstr "Plastyczna rozświetlona przezroczystość lub efekt szkła"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Iridescent Beeswax"
 msgstr "Opalizujący wosk pszczeli"
 
@@ -486,7 +481,6 @@ msgid "Waxy texture which keeps its iridescence through color fill change"
 msgstr "Tekstura wosku utrzymująca opalizację wraz ze zmianą koloru"
 
 #: ../share/filters/filters.svg.h:1
-#, fuzzy
 msgid "Eroded Metal"
 msgstr "Zerodowany metal"
 
