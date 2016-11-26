@@ -1,14 +1,23 @@
-#FROM ubuntu:trusty
 FROM ubuntu:latest
 
-RUN apt-get update
-RUN apt-get --yes upgrade
-RUN apt-get install --yes vim intltool software-properties-common bzr
+RUN apt-get update && apt-get install --yes \
+	vim \
+	intltool \
+	cmake \
+	software-properties-common \
+	bzr \
+	x11vnc \
+	xvfb
 
-WORKDIR /opt
+RUN add-apt-repository -y ppa:inkscape.dev/trunk
 
-VOLUME ["/opt/po-pl", "/opt/inkscape"]
+RUN apt-get update \
+	&& apt-get -y build-dep inkscape \
+	&& rm -rf /var/lib/apt/lists/*
 
-RUN bzr branch lp:inkscape/0.92.x
+VOLUME ["/opt/source"]
+WORKDIR /opt/source
+
+COPY build.sh /opt/
 
 CMD ["/bin/bash"]
