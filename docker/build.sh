@@ -4,7 +4,3 @@ mkdir build
 cd build
 cmake ../source
 make
-
-#run     mkdir ~/.vnc
-# Setup a password
-#run     x11vnc -storepasswd 1234 ~/.vnc/passwd

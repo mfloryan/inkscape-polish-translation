@@ -15,9 +15,15 @@ RUN apt-get update \
 	&& apt-get -y build-dep inkscape \
 	&& rm -rf /var/lib/apt/lists/*
 
-VOLUME ["/opt/source"]
-WORKDIR /opt/source
+#configure VNC for remote access
+RUN mkdir ~/.vnc
+RUN x11vnc -storepasswd sodipodi ~/.vnc/passwd
 
-COPY build.sh /opt/
+VOLUME ["/inkscape/source"]
+
+COPY build.sh /inkscape/
+COPY run.sh /inkscape/
+
+WORKDIR /inkscape/
 
 CMD ["/bin/bash"]
