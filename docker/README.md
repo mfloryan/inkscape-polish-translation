@@ -10,4 +10,13 @@ Build the docker container.
 
 Run the container mapping volumes and network ports
 
-`docker run --name inkscape-i18n -v source/:/inkscape/source -i -t inkscape:dev`
+`docker run --name inkscape-i18n -p 15900:5900 -v (pwd)/source:/inkscape/source -i -t inkscape:dev`
+
+Inside the container
+
+If you are missing your locale do:
+```
+locale-gen pl_PL
+locale-gen pl_PL.UTF-8
+update-locale
+```

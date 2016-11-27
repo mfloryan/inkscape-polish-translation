@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install --yes \
 	software-properties-common \
 	bzr \
 	x11vnc \
+	openbox \
 	xvfb
 
 RUN add-apt-repository -y ppa:inkscape.dev/trunk
@@ -19,11 +20,11 @@ RUN apt-get update \
 RUN mkdir ~/.vnc
 RUN x11vnc -storepasswd sodipodi ~/.vnc/passwd
 
-VOLUME ["/inkscape/source"]
-
 COPY build.sh /inkscape/
 COPY run.sh /inkscape/
 
 WORKDIR /inkscape/
+
+EXPOSE 5900
 
 CMD ["/bin/bash"]
