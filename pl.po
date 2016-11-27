@@ -5,14 +5,13 @@
 # Przemysław Loesch <p_loesch@poczta.onet.pl>, 2006.
 # Polish Inkscape Translation Team <inkscapeplteam@gmail.com>, 2008 - 2010.
 #
-#: ../src/ui/dialog/clonetiler.cpp:1010
 msgid ""
 msgstr ""
 "Project-Id-Version: Inkscape 0.92\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2016-11-13 16:11+0100\n"
-"PO-Revision-Date: 2015-06-04 06:34+0100\n"
-"Last-Translator: Daniel Koć <daniel@xn--ko-wla.pl>\n"
+"PO-Revision-Date: 2016-11-27 12:04+0100\n"
+"Last-Translator: Marcin Floryan <marcin.floryan+inkscape@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
@@ -20,8 +19,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Poedit-Basepath: ../../inkscape/scr\n"
+"X-Poedit-Basepath: source/po\n"
 "X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
 
 #: ../inkscape.appdata.xml.in.h:1 ../inkscape.desktop.in.h:1
 msgid "Inkscape"
@@ -48,9 +49,8 @@ msgid ""
 msgstr ""
 
 #: ../inkscape.appdata.xml.in.h:5
-#, fuzzy
 msgid "Main application window"
-msgstr "_Powiel okno"
+msgstr "Główne okno aplikacji"
 
 #: ../inkscape.desktop.in.h:3
 msgid "Inkscape Vector Graphics Editor"
@@ -9051,7 +9051,6 @@ msgid "Wrap"
 msgstr "Zawijaj"
 
 #: ../src/filter-enums.cpp:122
-#, fuzzy
 msgctxt "Convolve matrix, edge mode"
 msgid "None"
 msgstr "Brak"
@@ -9081,19 +9080,16 @@ msgid "Spot Light"
 msgstr "Reflektor"
 
 #: ../src/gradient-chemistry.cpp:1617
-#, fuzzy
 msgid "Invert gradient colors"
-msgstr "Odwróć gradient"
+msgstr "Odwróć kolory gradientu"
 
 #: ../src/gradient-chemistry.cpp:1644
-#, fuzzy
 msgid "Reverse gradient"
 msgstr "Odwróć gradient"
 
 #: ../src/gradient-chemistry.cpp:1658 ../src/widgets/gradient-selector.cpp:222
-#, fuzzy
 msgid "Delete swatch"
-msgstr "Usuń punkt"
+msgstr "Usuń próbkę"
 
 #: ../src/gradient-drag.cpp:95 ../src/ui/tools/gradient-tool.cpp:90
 msgid "Linear gradient <b>start</b>"
@@ -9128,19 +9124,16 @@ msgid "Radial gradient <b>mid stop</b>"
 msgstr "<b>Środkowy punkt kontrolny</b> gradientu radialnego"
 
 #: ../src/gradient-drag.cpp:104 ../src/ui/tools/mesh-tool.cpp:97
-#, fuzzy
 msgid "Mesh gradient <b>corner</b>"
-msgstr "<b>Środek</b> gradientu radialnego"
+msgstr "<b>Róg</b> gradientu siatkowego"
 
 #: ../src/gradient-drag.cpp:105 ../src/ui/tools/mesh-tool.cpp:98
-#, fuzzy
 msgid "Mesh gradient <b>handle</b>"
-msgstr "Przesuń uchwyt gradientu"
+msgstr "<b>Uchwyt</b> gradientu siatkowego"
 
 #: ../src/gradient-drag.cpp:106 ../src/ui/tools/mesh-tool.cpp:99
-#, fuzzy
 msgid "Mesh gradient <b>tensor</b>"
-msgstr "<b>Koniec</b> gradientu liniowego"
+msgstr "<b>Napinacz</b> gradientu siatkowego"
 
 #: ../src/gradient-drag.cpp:563
 msgid "Added patch row or column"
@@ -9220,14 +9213,14 @@ msgid "Delete gradient stop(s)"
 msgstr "Usuń punkty sterujące"
 
 #: ../src/inkscape.cpp:242
-#, fuzzy
 msgid "Autosave failed! Cannot create directory %1."
-msgstr "Nie można utworzyć katalogu profilu %s."
+msgstr ""
+"Automatyczne zapisywanie nie powiodło się! Nie można utworzyć katalogu %1."
 
 #: ../src/inkscape.cpp:251
-#, fuzzy
 msgid "Autosave failed! Cannot open directory %1."
-msgstr "Nie można utworzyć katalogu profilu %s."
+msgstr ""
+"Automatyczne zapisywanie nie powiodło się! Nie można otworzyć katalogu %1."
 
 #: ../src/inkscape.cpp:267
 msgid "Autosaving documents..."
@@ -10431,9 +10424,8 @@ msgstr "Modyfikuj punkty sterujące gradientu"
 #: ../src/live_effects/lpe-fillet-chamfer.cpp:41
 #: ../src/widgets/text-toolbar.cpp:1799
 #: ../share/extensions/render_barcode_qrcode.inx.h:5
-#, fuzzy
 msgid "Auto"
-msgstr "Na górze"
+msgstr "Automat"
 
 #: ../src/live_effects/lpe-fillet-chamfer.cpp:42
 #, fuzzy
@@ -10726,9 +10718,8 @@ msgid "Thickness of the stroke"
 msgstr "Grubość: w 1. stronie"
 
 #: ../src/live_effects/lpe-jointype.cpp:55
-#, fuzzy
 msgid "Line cap"
-msgstr "Liniowy"
+msgstr "Końcówka linii"
 
 #: ../src/live_effects/lpe-jointype.cpp:55
 #, fuzzy
@@ -12081,9 +12072,8 @@ msgstr "Interpolacja"
 
 #: ../src/live_effects/lpe-taperstroke.cpp:73
 #: ../share/extensions/edge3d.inx.h:5 ../share/extensions/nicechart.inx.h:25
-#, fuzzy
 msgid "Stroke width:"
-msgstr "Szerokość konturu"
+msgstr "Szerokość konturu:"
 
 #: ../src/live_effects/lpe-taperstroke.cpp:73
 #, fuzzy
@@ -24694,13 +24684,12 @@ msgstr ""
 "zaznaczonych obiektach. <b>Ciągnij uchwyty</b>, aby edytować gradienty."
 
 #: ../src/ui/tools-switch.cpp:115
-#, fuzzy
 msgid ""
 "<b>Drag</b> or <b>double click</b> to create a mesh on selected objects, "
 "<b>drag handles</b> to adjust meshes."
 msgstr ""
-"<b>Ciągnij</b> lub <b>kliknij dwukrotnie</b>, aby utworzyć gradient na "
-"zaznaczonych obiektach. <b>Ciągnij uchwyty</b>, aby edytować gradienty."
+"<b>Ciągnij</b> lub <b>kliknij dwukrotnie</b>, aby utworzyć gradient siatkowy "
+"na zaznaczonych obiektach. <b>Ciągnij uchwyty</b>, aby edytować siatki."
 
 #: ../src/ui/tools-switch.cpp:116
 msgid ""
@@ -24712,7 +24701,7 @@ msgstr ""
 
 #: ../src/ui/tools-switch.cpp:117
 msgid "<b>Drag</b> to measure the dimensions of objects."
-msgstr ""
+msgstr "<b>Ciągnij</b> aby mierzyć rozmiary obiektów"
 
 #: ../src/ui/tools-switch.cpp:118 ../src/ui/tools/dropper-tool.cpp:274
 msgid ""
@@ -28592,12 +28581,11 @@ msgstr "Gradient: Tworzenie i modyfikowanie gradientów"
 #: ../src/verbs.cpp:2759
 msgctxt "ContextVerb"
 msgid "Mesh"
-msgstr ""
+msgstr "Siatka"
 
 #: ../src/verbs.cpp:2760
-#, fuzzy
 msgid "Create and edit meshes"
-msgstr "Gradient: Tworzenie i modyfikowanie gradientów"
+msgstr "Gradient: Tworzenie i modyfikowanie siatek"
 
 #: ../src/verbs.cpp:2761
 msgctxt "ContextVerb"
@@ -28609,9 +28597,8 @@ msgid "Zoom in or out"
 msgstr "Przybliżanie/oddalanie rysunku"
 
 #: ../src/verbs.cpp:2764
-#, fuzzy
 msgid "Measurement tool"
-msgstr "Typ pomiaru:"
+msgstr "Narzędzie do mierzenia"
 
 #: ../src/verbs.cpp:2765
 msgctxt "ContextVerb"
@@ -28777,14 +28764,12 @@ msgid "Open Preferences for the Gradient tool"
 msgstr "Otwiera okno ustawień dla narzędzia „Gradient”"
 
 #: ../src/verbs.cpp:2810
-#, fuzzy
 msgid "Mesh Preferences"
-msgstr "Ustawienia usuwania"
+msgstr "Ustawienia gradientu siatkowego"
 
 #: ../src/verbs.cpp:2811
-#, fuzzy
 msgid "Open Preferences for the Mesh tool"
-msgstr "Otwiera okno ustawień dla narzędzia usuwania"
+msgstr "Otwiera okno ustawień dla gradientu siatkowego"
 
 #: ../src/verbs.cpp:2812
 msgid "Zoom Preferences"
@@ -28795,14 +28780,12 @@ msgid "Open Preferences for the Zoom tool"
 msgstr "Otwiera okno ustawień dla narzędzia „Zoom”"
 
 #: ../src/verbs.cpp:2814
-#, fuzzy
 msgid "Measure Preferences"
-msgstr "Ustawienia usuwania"
+msgstr "Ustawienia pomiarów"
 
 #: ../src/verbs.cpp:2815
-#, fuzzy
 msgid "Open Preferences for the Measure tool"
-msgstr "Otwiera okno ustawień dla narzędzia usuwania"
+msgstr "Otwiera okno ustawień dla narzędzia pomiarowego"
 
 #: ../src/verbs.cpp:2816
 msgid "Dropper Preferences"
@@ -28996,9 +28979,8 @@ msgid "Stretch this document window to full screen"
 msgstr "Rozciąga okno dokumentu na cały ekran"
 
 #: ../src/verbs.cpp:2856
-#, fuzzy
 msgid "Fullscreen & Focus Mode"
-msgstr "Ukryj _zbędne paski narzędzi"
+msgstr "Tryb pełnoekranowy i skupienia"
 
 #: ../src/verbs.cpp:2858
 msgid "Toggle _Focus Mode"
@@ -29095,7 +29077,7 @@ msgstr ""
 
 #: ../src/verbs.cpp:2888
 msgid "Zoom to fit page in window"
-msgstr "Dopasowuje stronę do okna"
+msgstr "Dopasowuje powiększenie aby zmieścić całą stronę w oknie"
 
 #: ../src/verbs.cpp:2889
 msgid "Page _Width"
@@ -29103,15 +29085,15 @@ msgstr "Szerokość s_trony"
 
 #: ../src/verbs.cpp:2890
 msgid "Zoom to fit page width in window"
-msgstr "Dopasowuje szerokość strony do okna"
+msgstr "Dopasowuje powiększenie aby zmieścić stronę na szerokość w oknie"
 
 #: ../src/verbs.cpp:2892
 msgid "Zoom to fit drawing in window"
-msgstr "Dopasowuje rozmiar rysunku do okna"
+msgstr "Dopasowuje powiększenie aby zmieścić cały rysunek w oknie"
 
 #: ../src/verbs.cpp:2894
 msgid "Zoom to fit selection in window"
-msgstr "Dopasowuje rozmiar zaznaczenia do okna"
+msgstr "Dopasowuje powiększenie aby zmieścić zaznaczone elementy w oknie"
 
 #. Dialogs
 #: ../src/verbs.cpp:2897
@@ -29139,11 +29121,12 @@ msgid "Edit document metadata (to be saved with the document)"
 msgstr "Zmiana metadanych dokumentu (zapisywanych razem z dokumentem)"
 
 #: ../src/verbs.cpp:2904
-#, fuzzy
 msgid ""
 "Edit objects' colors, gradients, arrowheads, and other fill and stroke "
 "properties..."
-msgstr "Okno dialogowe Wypełnienie i kontur…"
+msgstr ""
+"Okno dialogowe pozwalające zmieniać kolory, gradienty, groty oraz inne "
+"ustawienia wypełnienia i konturu..."
 
 #. FIXME: Probably better to either use something from the icon naming spec or ship our own "select-font" icon
 #: ../src/verbs.cpp:2906
@@ -29303,24 +29286,20 @@ msgid "View Layers"
 msgstr "Okno dialogowe Warstwy"
 
 #: ../src/verbs.cpp:2948
-#, fuzzy
 msgid "Object_s..."
-msgstr "Obiekty"
+msgstr "Obiekty..."
 
 #: ../src/verbs.cpp:2949
-#, fuzzy
 msgid "View Objects"
-msgstr "Obiekty"
+msgstr "Okno dialogowe Obiekty"
 
 #: ../src/verbs.cpp:2950
-#, fuzzy
 msgid "Selection se_ts..."
-msgstr "Zaznaczenie"
+msgstr "Zestawy zaznaczeń..."
 
 #: ../src/verbs.cpp:2951
-#, fuzzy
 msgid "View Tags"
-msgstr "Okno dialogowe Warstwy"
+msgstr "Okno dialogowe Zestawy zaznaczeń"
 
 #: ../src/verbs.cpp:2952
 msgid "Path E_ffects ..."
@@ -38627,14 +38606,12 @@ msgid "Cloned"
 msgstr "Sklonowany"
 
 #: ../share/extensions/pathscatter.inx.h:16
-#, fuzzy
 msgid "Randomly"
-msgstr "Zmiana losowa"
+msgstr "Losowo"
 
 #: ../share/extensions/pathscatter.inx.h:17
-#, fuzzy
 msgid "Sequentially"
-msgstr "Ustaw wypełnienie"
+msgstr "Kolejno"
 
 #: ../share/extensions/pathscatter.inx.h:19
 msgid ""
@@ -38655,19 +38632,16 @@ msgid "Book Properties"
 msgstr "Właściwości książki"
 
 #: ../share/extensions/perfectboundcover.inx.h:3
-#, fuzzy
 msgid "Book Width (inches):"
-msgstr "Szerokość książki (w calach):"
+msgstr "Szerokość książki (w calach): "
 
 #: ../share/extensions/perfectboundcover.inx.h:4
-#, fuzzy
 msgid "Book Height (inches):"
-msgstr "Wysokość książki (w calach):"
+msgstr "Wysokość książki (w calach): "
 
 #: ../share/extensions/perfectboundcover.inx.h:5
-#, fuzzy
 msgid "Number of Pages:"
-msgstr "Liczba stron:"
+msgstr "Liczba stron: "
 
 #: ../share/extensions/perfectboundcover.inx.h:6
 msgid "Remove existing guides"
@@ -38678,9 +38652,8 @@ msgid "Interior Pages"
 msgstr "Wkład książki"
 
 #: ../share/extensions/perfectboundcover.inx.h:8
-#, fuzzy
 msgid "Paper Thickness Measurement:"
-msgstr "Sposób pomiaru grubości papieru:"
+msgstr "Sposób pomiaru grubości papieru: "
 
 #: ../share/extensions/perfectboundcover.inx.h:9
 msgid "Pages Per Inch (PPI)"
@@ -38711,14 +38684,12 @@ msgid "Cover"
 msgstr "Oprawa"
 
 #: ../share/extensions/perfectboundcover.inx.h:16
-#, fuzzy
 msgid "Cover Thickness Measurement:"
-msgstr "Sposób pomiaru grubości oprawy:"
+msgstr "Sposób pomiaru grubości oprawy: "
 
 #: ../share/extensions/perfectboundcover.inx.h:17
-#, fuzzy
 msgid "Bleed (in):"
-msgstr "Wystawanie poza margines (w calach):"
+msgstr "Wystawanie poza margines (w calach): "
 
 #: ../share/extensions/perfectboundcover.inx.h:18
 msgid "Note: Bond Weight # calculations are a best-guess estimate."
