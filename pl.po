@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 0.92\n"
 "Report-Msgid-Bugs-To: inkscape-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2016-11-13 16:11+0100\n"
-"PO-Revision-Date: 2016-11-27 12:04+0100\n"
+"PO-Revision-Date: 2016-11-27 22:12+0100\n"
 "Last-Translator: Marcin Floryan <marcin.floryan+inkscape@gmail.com>\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
@@ -21,6 +21,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Basepath: source/po\n"
 "X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Bookmarks: 3073,3149,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -968,7 +969,6 @@ msgstr ""
 "odbicia lustrzanego"
 
 #: ../share/filters/filters.svg.h:354
-#, fuzzy
 msgid "Blotting Paper"
 msgstr "Bibuła"
 
@@ -2255,7 +2255,7 @@ msgstr "Biały"
 #: ../share/palettes/palettes.h:16
 msgctxt "Palette"
 msgid "Maroon (#800000)"
-msgstr ""
+msgstr "kasztanowy (#800000)"
 
 #. Palette: inkscape.gpl
 #: ../share/palettes/palettes.h:17
@@ -2285,25 +2285,25 @@ msgstr "zielony (#008000)"
 #: ../share/palettes/palettes.h:21
 msgctxt "Palette"
 msgid "Lime (#00FF00)"
-msgstr ""
+msgstr "limonkowy (#00FF00)"
 
 #. Palette: inkscape.gpl
 #: ../share/palettes/palettes.h:22
 msgctxt "Palette"
 msgid "Teal (#008080)"
-msgstr ""
+msgstr "morski (#008080)"
 
 #. Palette: inkscape.gpl
 #: ../share/palettes/palettes.h:23
 msgctxt "Palette"
 msgid "Aqua (#00FFFF)"
-msgstr ""
+msgstr "wodny (#00FFFF)"
 
 #. Palette: inkscape.gpl
 #: ../share/palettes/palettes.h:24
 msgctxt "Palette"
 msgid "Navy (#000080)"
-msgstr ""
+msgstr "granatowy (#000080)"
 
 #. Palette: inkscape.gpl
 #: ../share/palettes/palettes.h:25
@@ -2321,7 +2321,7 @@ msgstr "purpurowy (#800080)"
 #: ../share/palettes/palettes.h:27
 msgctxt "Palette"
 msgid "Fuchsia (#FF00FF)"
-msgstr ""
+msgstr "fuksja (#FF00FF)"
 
 #. Palette: svg.gpl
 #: ../share/palettes/palettes.h:28
@@ -2345,7 +2345,7 @@ msgstr "szary (#808080)"
 #: ../share/palettes/palettes.h:31
 msgctxt "Palette"
 msgid "darkgray (#A9A9A9)"
-msgstr ""
+msgstr "ciemnoszary (#A9A9A9)"
 
 #. Palette: svg.gpl
 #: ../share/palettes/palettes.h:32
@@ -2357,7 +2357,7 @@ msgstr "srebrny (#C0C0C0)"
 #: ../share/palettes/palettes.h:33
 msgctxt "Palette"
 msgid "lightgray (#D3D3D3)"
-msgstr ""
+msgstr "jasnoszary (#D3D3D3)"
 
 #. Palette: svg.gpl
 #: ../share/palettes/palettes.h:34
@@ -12019,9 +12019,8 @@ msgstr ""
 "(spróbuj 5*offset)"
 
 #: ../src/live_effects/lpe-sketch.cpp:60
-#, fuzzy
 msgid "Max. length:"
-msgstr "Maks. długość"
+msgstr "Maks. długość:"
 
 #: ../src/live_effects/lpe-sketch.cpp:60
 msgid "Maximum length of construction lines"
@@ -12048,18 +12047,16 @@ msgstr ""
 "rozłożenie"
 
 #: ../src/live_effects/lpe-sketch.cpp:64
-#, fuzzy
 msgid "k_min:"
-msgstr "k_min"
+msgstr "k_min:"
 
 #: ../src/live_effects/lpe-sketch.cpp:64
 msgid "min curvature"
 msgstr "min. krzywizna"
 
 #: ../src/live_effects/lpe-sketch.cpp:65
-#, fuzzy
 msgid "k_max:"
-msgstr "k_max"
+msgstr "k_max:"
 
 #: ../src/live_effects/lpe-sketch.cpp:65
 msgid "max curvature"
@@ -13215,10 +13212,9 @@ msgid "Select <b>some objects</b> to group."
 msgstr "Zaznacz <b>kilka obiektów</b>, aby połączyć je w grupę"
 
 #: ../src/selection-chemistry.cpp:775
-#, fuzzy
 msgctxt "Verb"
 msgid "Group"
-msgstr "Grupa"
+msgstr "Grupuj"
 
 #: ../src/selection-chemistry.cpp:798
 #, fuzzy
@@ -13660,9 +13656,8 @@ msgid " in %s"
 msgstr " na %s"
 
 #: ../src/selection-describer.cpp:177
-#, fuzzy
 msgid " hidden in definitions"
-msgstr "Zapobiegaj współdzieleniu definicji gradientu"
+msgstr ""
 
 #: ../src/selection-describer.cpp:179
 #, c-format
@@ -13818,9 +13813,9 @@ msgstr ""
 "b> – wyłączenie przyciągania"
 
 #: ../src/shortcuts.cpp:226
-#, fuzzy, c-format
+#, c-format
 msgid "Keyboard directory (%s) is unavailable."
-msgstr "Katalog palet (%s) jest niedostępny"
+msgstr ""
 
 #: ../src/shortcuts.cpp:337 ../src/ui/dialog/export.cpp:1305
 #: ../src/ui/dialog/export.cpp:1339
@@ -13935,9 +13930,9 @@ msgid "embedded"
 msgstr "osadzony"
 
 #: ../src/sp-image.cpp:525
-#, fuzzy, c-format
+#, c-format
 msgid "[bad reference]: %s"
-msgstr "Ustawienia narzędzia „Gwiazda”"
+msgstr ""
 
 #: ../src/sp-image.cpp:526
 #, fuzzy, c-format
@@ -13949,14 +13944,14 @@ msgid "Group"
 msgstr "Grupa"
 
 #: ../src/sp-item-group.cpp:324 ../src/sp-switch.cpp:69
-#, fuzzy, c-format
+#, c-format
 msgid "of <b>%d</b> object"
-msgstr "<b>Grupa</b> z <b>%d</b> obiektem"
+msgstr "z <b>%d</b> obiektem"
 
 #: ../src/sp-item-group.cpp:324 ../src/sp-switch.cpp:69
-#, fuzzy, c-format
+#, c-format
 msgid "of <b>%d</b> objects"
-msgstr "<b>Grupa</b> z <b>%d</b> obiektem"
+msgstr "z <b>%d</b> obiektami"
 
 #: ../src/sp-item.cpp:1035 ../src/verbs.cpp:213
 msgid "Object"
@@ -13991,14 +13986,12 @@ msgid "An exception occurred during execution of the Path Effect."
 msgstr "Wystąpił błąd podczas wykonywania efektu ścieżki"
 
 #: ../src/sp-offset.cpp:331
-#, fuzzy
 msgid "Linked Offset"
-msgstr "Odsuń łą_cznie"
+msgstr ""
 
 #: ../src/sp-offset.cpp:333
-#, fuzzy
 msgid "Dynamic Offset"
-msgstr "Odsuń _dynamicznie"
+msgstr ""
 
 #. TRANSLATORS COMMENT: %s is either "outset" or "inset" depending on sign
 #: ../src/sp-offset.cpp:339
@@ -14134,19 +14127,17 @@ msgid "Symbol"
 msgstr "Symbol"
 
 #: ../src/sp-use.cpp:236
-#, fuzzy
 msgid "Clone"
-msgstr "Sklonowany"
+msgstr "Klon"
 
 #: ../src/sp-use.cpp:244 ../src/sp-use.cpp:246 ../src/sp-use.cpp:248
 #, c-format
 msgid "called %s"
-msgstr ""
+msgstr "o nazwie %s"
 
 #: ../src/sp-use.cpp:248
-#, fuzzy
 msgid "Unnamed Symbol"
-msgstr "Symbole kmerskie"
+msgstr "Symbole bez nazwy"
 
 #. TRANSLATORS: Used for statusbar description for long <use> chains:
 #. * "Clone of: Clone of: ... in Layer 1".
@@ -14155,9 +14146,9 @@ msgid "..."
 msgstr "…"
 
 #: ../src/sp-use.cpp:266
-#, fuzzy, c-format
+#, c-format
 msgid "of: %s"
-msgstr "Błędy"
+msgstr "z: %s"
 
 #: ../src/splivarot.cpp:71 ../src/splivarot.cpp:77
 msgid "Union"
@@ -15644,20 +15635,20 @@ msgid "Use antialiasing"
 msgstr "Wygładzanie"
 
 #: ../src/ui/dialog/document-properties.cpp:118
-#, fuzzy
 msgid "If unset, no antialiasing will be done on the drawing"
-msgstr "Będzie widoczny kontur strony poprzez elementy rysunku"
+msgstr "Włącza opcję wygładzania (antyaliasing) przy wyświetlaniu rusunku"
 
 #: ../src/ui/dialog/document-properties.cpp:119
-#, fuzzy
 msgid "Checkerboard background"
-msgstr "Szachownica"
+msgstr "Tło w deseń szachownicy"
 
 #: ../src/ui/dialog/document-properties.cpp:119
 msgid ""
 "If set, use checkerboard for background, otherwise use background color at "
 "full opacity."
 msgstr ""
+"Powoduje wyświetlenie w tle dokumentu deseń szachownicy zamiast jednolitego "
+"koloru"
 
 #: ../src/ui/dialog/document-properties.cpp:120
 msgid "Show page _border"
@@ -15693,6 +15684,9 @@ msgid ""
 "editing if 'Checkerboard background' unset (but used when exporting to "
 "bitmap)."
 msgstr ""
+"Kolor tła dokumentu. Uwaga: ustawienie przezroczystości koloru są pomijane "
+"chyba, że włączony jest deseń szachownicy w tle oraz przy eksportowaniu do "
+"bitmapy."
 
 #: ../src/ui/dialog/document-properties.cpp:124
 msgid "Border _color:"
@@ -15707,9 +15701,8 @@ msgid "Color of the page border"
 msgstr "Kolor konturu strony"
 
 #: ../src/ui/dialog/document-properties.cpp:125
-#, fuzzy
 msgid "Display _units:"
-msgstr "Jednostki _siatki:"
+msgstr "Jednostki:"
 
 #. ---------------------------------------------------------------
 #. General snap options
@@ -15832,41 +15825,40 @@ msgstr ""
 
 #. ---------------------------------------------------------------
 #: ../src/ui/dialog/document-properties.cpp:148
-#, fuzzy
 msgid "Snap to clip paths"
-msgstr "Przyciągaj do ścieżek"
+msgstr "Przyciągaj do ścieżek przycinania"
 
 #: ../src/ui/dialog/document-properties.cpp:148
 msgid "When snapping to paths, then also try snapping to clip paths"
 msgstr ""
+"Podczas przyciągania do ścieżek, przyciąga także do ścieżek przycinania"
 
 #: ../src/ui/dialog/document-properties.cpp:149
-#, fuzzy
 msgid "Snap to mask paths"
-msgstr "Przyciągaj do ścieżek"
+msgstr "Przyciągaj do ścieżek maskowania"
 
 #: ../src/ui/dialog/document-properties.cpp:149
 msgid "When snapping to paths, then also try snapping to mask paths"
-msgstr ""
+msgstr "Podczas przyciągania do ścieżek, przyciąga także do ścieżek maskowania"
 
 #: ../src/ui/dialog/document-properties.cpp:150
-#, fuzzy
 msgid "Snap perpendicularly"
-msgstr "Symetralna prostopadła"
+msgstr "Przyciągaj prostopadle"
 
 #: ../src/ui/dialog/document-properties.cpp:150
 msgid ""
 "When snapping to paths or guides, then also try snapping perpendicularly"
 msgstr ""
+"Podczas przyciągania do ścieżek lub prowadnic, przyciąga także prostopadle"
 
 #: ../src/ui/dialog/document-properties.cpp:151
-#, fuzzy
 msgid "Snap tangentially"
-msgstr "Ustaw wypełnienie"
+msgstr "Przyciągaj stycznie"
 
 #: ../src/ui/dialog/document-properties.cpp:151
 msgid "When snapping to paths or guides, then also try snapping tangentially"
 msgstr ""
+"Podczas przyciągania do ścieżek lub prowadnic, przyciąga także stycznie"
 
 #: ../src/ui/dialog/document-properties.cpp:154
 msgctxt "Grid"
@@ -15907,18 +15899,16 @@ msgid "<b>Page Size</b>"
 msgstr "<b>Wielkość strony</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:336
-#, fuzzy
 msgid "<b>Background</b>"
-msgstr "Tło"
+msgstr "<b>Tło</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:339
 msgid "<b>Border</b>"
-msgstr "<b>Kontur</b>"
+msgstr "<b>Ramka</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:342
-#, fuzzy
 msgid "<b>Display</b>"
-msgstr "<b>u</b>"
+msgstr "<b>Wyświetlanie</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:381
 msgid "<b>Guides</b>"
@@ -15962,26 +15952,23 @@ msgstr "<b>Dostępne profile koloru:</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:677
 msgid "Link Profile"
-msgstr "_Skojarz profil"
+msgstr "Przypisz profil"
 
 #: ../src/ui/dialog/document-properties.cpp:680
-#, fuzzy
 msgid "Unlink Profile"
-msgstr "_Skojarz profil"
+msgstr "Usuń profil"
 
 #: ../src/ui/dialog/document-properties.cpp:764
 msgid "Profile Name"
 msgstr "Nazwa profilu"
 
 #: ../src/ui/dialog/document-properties.cpp:800
-#, fuzzy
 msgid "External scripts"
-msgstr "Dodaj zewnętrzny skrypt…"
+msgstr "Skrypty zewnętrzne"
 
 #: ../src/ui/dialog/document-properties.cpp:801
-#, fuzzy
 msgid "Embedded scripts"
-msgstr "Usuń skrypt"
+msgstr "Skrypty osadzone"
 
 #: ../src/ui/dialog/document-properties.cpp:806
 msgid "<b>External script files:</b>"
@@ -15989,7 +15976,7 @@ msgstr "<b>Pliki zewnętrznych skryptów:</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:808
 msgid "Add the current file name or browse for a file"
-msgstr ""
+msgstr "Dodaje wpisaną nazwę pliku lub pozwala przeglądać w poszukiwaniu pliku"
 
 #: ../src/ui/dialog/document-properties.cpp:811
 #: ../src/ui/dialog/document-properties.cpp:888
@@ -16002,25 +15989,21 @@ msgid "Filename"
 msgstr "Nazwa pliku"
 
 #: ../src/ui/dialog/document-properties.cpp:883
-#, fuzzy
 msgid "<b>Embedded script files:</b>"
-msgstr "<b>Pliki zewnętrznych skryptów:</b>"
+msgstr "<b>Pliki osadzonych skryptów:</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:885
 #: ../src/ui/dialog/objects.cpp:1901
-#, fuzzy
 msgid "New"
-msgstr "Nowa"
+msgstr "Nowy"
 
 #: ../src/ui/dialog/document-properties.cpp:952
-#, fuzzy
 msgid "Script id"
-msgstr "Skrypt:"
+msgstr "Identyfikator skryptu"
 
 #: ../src/ui/dialog/document-properties.cpp:958
-#, fuzzy
 msgid "<b>Content:</b>"
-msgstr "<b>Wykładnik:</b>"
+msgstr "<b>Treść:</b>"
 
 #: ../src/ui/dialog/document-properties.cpp:1075
 msgid "_Save as default"
@@ -16028,16 +16011,15 @@ msgstr "Zapisz jako domyślne"
 
 #: ../src/ui/dialog/document-properties.cpp:1076
 msgid "Save this metadata as the default metadata"
-msgstr ""
+msgstr "Zapisuje bieżące metadane jako domyślne metadane"
 
 #: ../src/ui/dialog/document-properties.cpp:1077
-#, fuzzy
 msgid "Use _default"
-msgstr "Domyślny systemu"
+msgstr "Użyj _domyślne"
 
 #: ../src/ui/dialog/document-properties.cpp:1078
 msgid "Use the previously saved default metadata here"
-msgstr ""
+msgstr "Używa poprzednio zapisane domyślne metadane "
 
 #. inform the document, so we can undo
 #: ../src/ui/dialog/document-properties.cpp:1151
@@ -16045,15 +16027,13 @@ msgid "Add external script..."
 msgstr "Dodaj zewnętrzny skrypt…"
 
 #: ../src/ui/dialog/document-properties.cpp:1190
-#, fuzzy
 msgid "Select a script to load"
-msgstr "Element nie jest ścieżką ani kształtem"
+msgstr "Wybierz plik skryptu do załadowania"
 
 #. inform the document, so we can undo
 #: ../src/ui/dialog/document-properties.cpp:1218
-#, fuzzy
 msgid "Add embedded script..."
-msgstr "Dodaj zewnętrzny skrypt…"
+msgstr "Dodaj skrypt do osadzenia…"
 
 #. inform the document, so we can undo
 #: ../src/ui/dialog/document-properties.cpp:1249
@@ -16062,16 +16042,14 @@ msgstr "Usuń zewnętrzny skrypt"
 
 #. inform the document, so we can undo
 #: ../src/ui/dialog/document-properties.cpp:1278
-#, fuzzy
 msgid "Remove embedded script"
-msgstr "Usuń skrypt"
+msgstr "Usuń osadzony skrypt"
 
 #. TODO repr->set_content(_EmbeddedContent.get_buffer()->get_text());
 #. inform the document, so we can undo
 #: ../src/ui/dialog/document-properties.cpp:1374
-#, fuzzy
 msgid "Edit embedded script"
-msgstr "Usuń skrypt"
+msgstr "Edytuj osadzony skrypt"
 
 #: ../src/ui/dialog/document-properties.cpp:1458
 msgid "<b>Creation</b>"
@@ -16086,9 +16064,8 @@ msgid "Remove grid"
 msgstr "Usuń siatkę"
 
 #: ../src/ui/dialog/document-properties.cpp:1795
-#, fuzzy
 msgid "Changed default display unit"
-msgstr "Dokument bez nazwy %d"
+msgstr "Zmiana domyślnych jednostek dokumentu"
 
 #: ../src/ui/dialog/export.cpp:147 ../src/verbs.cpp:2887
 msgid "_Page"
@@ -16138,13 +16115,12 @@ msgstr ""
 "Ukrywa eksportowanym obrazku wszystkie obiekty z wyjątkiem zaznaczonych"
 
 #: ../src/ui/dialog/export.cpp:173
-#, fuzzy
 msgid "Close when complete"
-msgstr "Zakończono zapis"
+msgstr "Zamknij po zakończeniu"
 
 #: ../src/ui/dialog/export.cpp:173
 msgid "Once the export completes, close this dialog"
-msgstr ""
+msgstr "Po zakończeniu eksportowania, zamyka to okno"
 
 #: ../src/ui/dialog/export.cpp:175
 msgid "_Export"
@@ -16179,9 +16155,8 @@ msgid "Hei_ght:"
 msgstr "_Wysokość:"
 
 #: ../src/ui/dialog/export.cpp:267
-#, fuzzy
 msgid "<b>Image size</b>"
-msgstr "<b>Wielkość strony</b>"
+msgstr "<b>Rozmiar obrazka</b>"
 
 #: ../src/ui/dialog/export.cpp:285 ../src/ui/dialog/export.cpp:296
 msgid "pixels at"
@@ -16212,36 +16187,33 @@ msgid "Export the bitmap file with these settings"
 msgstr "Eksportuje bitmapę z wybranymi ustawieniami"
 
 #: ../src/ui/dialog/export.cpp:479
-#, fuzzy
 msgid "bitmap"
-msgstr "Bitmapowy"
+msgstr "bitmapa"
 
 #: ../src/ui/dialog/export.cpp:614
-#, fuzzy, c-format
+#, c-format
 msgid "B_atch export %d selected object"
 msgid_plural "B_atch export %d selected objects"
-msgstr[0] "Eksportuj grupowo %d wybrany element"
-msgstr[1] "Eksportuj grupowo %d wybrane elementy"
-msgstr[2] "Eksportuj grupowo %d wybranych elementów"
+msgstr[0] "Eksportuj %d wybrany element"
+msgstr[1] "Eksportuj poszczególne %d wybrane elementy"
+msgstr[2] "Eksportuj poszczególnych %d wybranych elementów"
 
 #: ../src/ui/dialog/export.cpp:930
 msgid "Export in progress"
 msgstr "Trwa eksportowanie…"
 
 #: ../src/ui/dialog/export.cpp:1022
-#, fuzzy
 msgid "No items selected."
-msgstr "Nie wybrano filtru"
+msgstr "Brak zaznaczonych elementów."
 
 #: ../src/ui/dialog/export.cpp:1026 ../src/ui/dialog/export.cpp:1028
-#, fuzzy
 msgid "Exporting %1 files"
-msgstr "Eksportowanie %d plików"
+msgstr "Eksportowanie %1 plików"
 
 #: ../src/ui/dialog/export.cpp:1069 ../src/ui/dialog/export.cpp:1071
-#, fuzzy, c-format
+#, c-format
 msgid "Exporting file <b>%s</b>..."
-msgstr "Eksportowanie %d plików"
+msgstr "Eksportowanie pliku <b>%s</b>..."
 
 #: ../src/ui/dialog/export.cpp:1080 ../src/ui/dialog/export.cpp:1172
 #, c-format
@@ -16249,28 +16221,27 @@ msgid "Could not export to filename %s.\n"
 msgstr "Nie można wyeksportować do pliku %s.\n"
 
 #: ../src/ui/dialog/export.cpp:1083
-#, fuzzy, c-format
+#, c-format
 msgid "Could not export to filename <b>%s</b>."
-msgstr "Nie można wyeksportować do pliku %s.\n"
+msgstr "Nie można wyeksportować do pliku <b>%s</b>."
 
 #: ../src/ui/dialog/export.cpp:1098
 #, c-format
 msgid "Successfully exported <b>%d</b> files from <b>%d</b> selected items."
 msgstr ""
+"Pomyślnie wyeksportowano <b>%d</b> plików z <b>%d</b> wybranych elementów."
 
 #: ../src/ui/dialog/export.cpp:1109
-#, fuzzy
 msgid "You have to enter a filename."
-msgstr "Nie podano nazwy pliku"
+msgstr "Musisz wprowadzić nazwę pliku."
 
 #: ../src/ui/dialog/export.cpp:1110
 msgid "You have to enter a filename"
 msgstr "Nie podano nazwy pliku"
 
 #: ../src/ui/dialog/export.cpp:1124
-#, fuzzy
 msgid "The chosen area to be exported is invalid."
-msgstr "Wybrany obszar eksportu jest nieprawidłowy"
+msgstr "Wybrany obszar eksportu jest nieprawidłowy."
 
 #: ../src/ui/dialog/export.cpp:1125
 msgid "The chosen area to be exported is invalid"
@@ -16283,19 +16254,17 @@ msgstr "Katalog %s nie istnieje lub wybrany plik nie jest katalogiem.\n"
 
 #. TRANSLATORS: %1 will be the filename, %2 the width, and %3 the height of the image
 #: ../src/ui/dialog/export.cpp:1154 ../src/ui/dialog/export.cpp:1156
-#, fuzzy
 msgid "Exporting %1 (%2 x %3)"
-msgstr "Eksportowanie %s (%lu x %lu)"
+msgstr "Eksportowanie %1 (%2 x %3)"
 
 #: ../src/ui/dialog/export.cpp:1183
-#, fuzzy, c-format
+#, c-format
 msgid "Drawing exported to <b>%s</b>."
-msgstr "Edytowanie parametru <b>%s</b>"
+msgstr "Rysunek wyeksportowany jako <b>%s</b>."
 
 #: ../src/ui/dialog/export.cpp:1187
-#, fuzzy
 msgid "Export aborted."
-msgstr "Trwa eksportowanie…"
+msgstr "Eksportowanie zostało anulowane."
 
 #: ../src/ui/dialog/export.cpp:1308 ../src/ui/interface.cpp:1401
 #: ../src/widgets/desktop-widget.cpp:1201
@@ -16498,9 +16467,8 @@ msgid "Antialias"
 msgstr "Wygładzanie"
 
 #: ../src/ui/dialog/filedialogimpl-win32.cpp:418
-#, fuzzy
 msgid "All Executable Files"
-msgstr "Wszystkie pliki Inkscape'a"
+msgstr "Wszystkie pliki wykonywalne"
 
 #: ../src/ui/dialog/filedialogimpl-win32.cpp:610
 msgid "Show Preview"
@@ -16538,10 +16506,9 @@ msgstr ""
 
 #: ../src/ui/dialog/filter-effects-dialog.cpp:550
 #: ../share/extensions/grid_polar.inx.h:4
-#, fuzzy
 msgctxt "Label"
 msgid "None"
-msgstr "Brak"
+msgstr "Nie dotyczy"
 
 #: ../src/ui/dialog/filter-effects-dialog.cpp:657
 msgid "Image File"
@@ -29405,13 +29372,12 @@ msgid "Using bitmap tracing"
 msgstr "Obsługa wektoryzacji bitmap"
 
 #: ../src/verbs.cpp:2986
-#, fuzzy
 msgid "Inkscape: Tracing Pixel Art"
-msgstr "_Wektoryzacja"
+msgstr "_Wektoryzacja sztuki pikselowej"
 
 #: ../src/verbs.cpp:2987
 msgid "Using Trace Pixel Art dialog"
-msgstr ""
+msgstr "Korzystanie z narzędzia wektoryzacji sztuki pikselowej"
 
 #: ../src/verbs.cpp:2988
 msgid "Inkscape: _Calligraphy"
@@ -29474,9 +29440,8 @@ msgid "Fit the page to the drawing"
 msgstr "Dopasuj stronę do rysunku"
 
 #: ../src/verbs.cpp:3008
-#, fuzzy
 msgid "_Resize Page to Selection"
-msgstr "Dopasuj stronę do ramki zaznaczenia"
+msgstr "Zmień rozmiar strony wg zaznaczenia"
 
 #: ../src/verbs.cpp:3009
 msgid ""
@@ -35225,45 +35190,40 @@ msgstr "Podziały"
 
 #: ../share/extensions/funcplot.inx.h:1
 msgid "Function Plotter"
-msgstr "Funkcja Plotter"
+msgstr "Wykresy funkcji"
 
 #: ../share/extensions/funcplot.inx.h:2
 msgid "Range and sampling"
 msgstr "Zakres i próbkowanie"
 
 #: ../share/extensions/funcplot.inx.h:3
-#, fuzzy
 msgid "Start X value:"
-msgstr "Wartość początkowa X"
+msgstr "Początkowa wartość  X"
 
 #: ../share/extensions/funcplot.inx.h:4
-#, fuzzy
 msgid "End X value:"
-msgstr "Wartość końcowa X"
+msgstr "Końcowa wartość  X"
 
 #: ../share/extensions/funcplot.inx.h:5
 msgid "Multiply X range by 2*pi"
 msgstr "Pomnóż zakres X przez 2*pi"
 
 #: ../share/extensions/funcplot.inx.h:6
-#, fuzzy
 msgid "Y value of rectangle's bottom:"
-msgstr "Wartość Y dołu prostokąta"
+msgstr "Wartość Y dołu prostokąta "
 
 #: ../share/extensions/funcplot.inx.h:7
-#, fuzzy
 msgid "Y value of rectangle's top:"
-msgstr "Wartość Y góry prostokąta"
+msgstr "Wartość Y góry prostokąta "
 
 #: ../share/extensions/funcplot.inx.h:8
-#, fuzzy
 msgid "Number of samples:"
-msgstr "Liczba wzorów"
+msgstr "Liczba próbek"
 
 #: ../share/extensions/funcplot.inx.h:9
 #: ../share/extensions/param_curves.inx.h:11
 msgid "Isotropic scaling"
-msgstr ""
+msgstr "Skalowanie izotropowe"
 
 #: ../share/extensions/funcplot.inx.h:10
 msgid "Use polar coordinates"
@@ -35334,9 +35294,8 @@ msgstr ""
 "Są także dostępne stałe „pi” i „e”."
 
 #: ../share/extensions/funcplot.inx.h:31
-#, fuzzy
 msgid "Function:"
-msgstr "Funkcja"
+msgstr "Funkcja:"
 
 #: ../share/extensions/funcplot.inx.h:32
 msgid "Calculate first derivative numerically"
@@ -35347,9 +35306,8 @@ msgid "First derivative:"
 msgstr "Pierwsza pochodna:"
 
 #: ../share/extensions/funcplot.inx.h:34
-#, fuzzy
 msgid "Clip with rectangle"
-msgstr "Szerokość prostokąta"
+msgstr "Przytnij prostokątem"
 
 #: ../share/extensions/funcplot.inx.h:35
 #: ../share/extensions/param_curves.inx.h:28
@@ -36575,9 +36533,8 @@ msgid "Action: "
 msgstr "Przyspieszenie:"
 
 #: ../share/extensions/hershey.inx.h:5
-#, fuzzy
 msgid "Font face: "
-msgstr "Rozmiar:"
+msgstr "Krój czcionki"
 
 #: ../share/extensions/hershey.inx.h:6
 #, fuzzy
@@ -36632,19 +36589,16 @@ msgid "Script medium"
 msgstr "Skrypt:"
 
 #: ../share/extensions/hershey.inx.h:17
-#, fuzzy
 msgid "Gothic English"
-msgstr "Gothic"
+msgstr "Gotyk angielski"
 
 #: ../share/extensions/hershey.inx.h:18
-#, fuzzy
 msgid "Gothic German"
-msgstr "Gothic"
+msgstr "Gotyk niemiecki"
 
 #: ../share/extensions/hershey.inx.h:19
-#, fuzzy
 msgid "Gothic Italian"
-msgstr "Gothic"
+msgstr "Gotyk włoski"
 
 #: ../share/extensions/hershey.inx.h:20
 #, fuzzy
@@ -36657,14 +36611,12 @@ msgid "Greek medium"
 msgstr "Średnie"
 
 #: ../share/extensions/hershey.inx.h:23
-#, fuzzy
 msgid "Japanese"
-msgstr "Jawajski"
+msgstr "Japoński"
 
 #: ../share/extensions/hershey.inx.h:24
-#, fuzzy
 msgid "Astrology"
-msgstr "Morfologia"
+msgstr "Astrologia"
 
 #: ../share/extensions/hershey.inx.h:25
 msgid "Math (lower)"
@@ -36676,13 +36628,12 @@ msgid "Math (upper)"
 msgstr "Symetralna prostopadła"
 
 #: ../share/extensions/hershey.inx.h:28
-#, fuzzy
 msgid "Meteorology"
-msgstr "Morfologia"
+msgstr "Meteorologia"
 
 #: ../share/extensions/hershey.inx.h:29
 msgid "Music"
-msgstr ""
+msgstr "Muzyka"
 
 #: ../share/extensions/hershey.inx.h:30
 msgid "Symbolic"
@@ -36702,7 +36653,7 @@ msgstr ""
 
 #: ../share/extensions/hershey.inx.h:36
 msgid "About..."
-msgstr ""
+msgstr "Informacje"
 
 #: ../share/extensions/hershey.inx.h:37
 msgid ""
