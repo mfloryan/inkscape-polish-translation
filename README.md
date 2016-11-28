@@ -10,7 +10,7 @@ If you want to help and contribute to the Polish translation of Inkscape please 
 Polish Vocabulary
 -----------------
 
-| po anglieksu | tłumaczenie na polski          |
+| po angielsku | tłumaczenie na polski          |
 | ------------ | ---------------------          |
 | drawing      | rysunek                        |
 | guide        | prowadnica                     |
