@@ -15,7 +15,8 @@ Run the container mapping volumes and network ports
 Inside the container
 
 If you are missing your locale do:
-```
+
+```sh
 locale-gen pl_PL
 locale-gen pl_PL.UTF-8
 update-locale
