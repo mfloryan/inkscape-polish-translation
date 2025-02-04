@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 1.4\n"
 "Report-Msgid-Bugs-To: inkscape-translator@lists.inkscape.org\n"
 "POT-Creation-Date: 2025-01-09 14:26+0000\n"
-"PO-Revision-Date: 2025-01-30 13:44+0100\n"
+"PO-Revision-Date: 2025-02-04 10:51+0100\n"
 "Last-Translator: Michał Kowalski\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
@@ -6825,57 +6825,51 @@ msgstr "Resetowanie odbicia obszaru roboczego"
 
 #: ../src/actions/actions-canvas-transform.cpp:290
 msgid "Zoom Absolute"
-msgstr ""
+msgstr "Ustaw powiększenie"
 
 #: ../src/actions/actions-canvas-transform.cpp:290
 msgid "Zoom to an absolute value"
-msgstr ""
+msgstr "Ustaw powiększenie zgodnie z podaną wartością"
 
 #: ../src/actions/actions-canvas-transform.cpp:291
-#, fuzzy
 msgid "Zoom Relative"
-msgstr "Względny"
+msgstr "Zmień powiększenie"
 
 #: ../src/actions/actions-canvas-transform.cpp:291
 msgid "Zoom by a relative amount"
-msgstr ""
+msgstr "Zmień powiększenie o podaną wartość"
 
 #: ../src/actions/actions-canvas-transform.cpp:293
-#, fuzzy
 msgid "Rotate Absolute (Radians)"
-msgstr "Rotacja liter"
+msgstr "Ustaw obrót (w radianach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:293
 msgid "Rotate to an absolute value (radians)"
-msgstr ""
+msgstr "Obraca do podanego kąta (wartość w radianach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:294
 msgid "Rotate Relative (Radians)"
-msgstr ""
+msgstr "Obróć (kąt w radianach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:294
 msgid "Rotate by a relative amount (radians)"
-msgstr ""
+msgstr "Obraca o podany kąt (wartość w radianach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:295
-#, fuzzy
 msgid "Rotate Absolute (Degrees)"
-msgstr "Obracanie zaznaczonych obiektów o stopnie"
+msgstr "Ustaw obrót (w stopniach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:295
-#, fuzzy
 msgid "Rotate to an absolute value (degrees)"
-msgstr "Kąt o jaki zostaną obrócone kafle"
+msgstr "Obraca do podanego kąta (wartość w stopniach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:296
-#, fuzzy
 msgid "Rotate Relative (Degrees)"
-msgstr "Obracanie zaznaczonych obiektów o stopnie"
+msgstr "Obróć (kąt w stopniach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:296
-#, fuzzy
 msgid "Rotate by a relative amount (degrees)"
-msgstr "Kąt o jaki zostaną obrócone kafle"
+msgstr "Obraca o podany kąt (wartość w stopniach)"
 
 #: ../src/actions/actions-canvas-transform.cpp:298 ../share/ui/menus.ui:450
 msgid "Lock Rotation"
@@ -6895,7 +6889,7 @@ msgstr "Wyrównywanie i rozmieszczanie obiektów"
 
 #: ../src/actions/actions-dialogs.cpp:35
 msgid "Open Clone Tiler"
-msgstr "Otwórz dialog klonowania"
+msgstr "Otwórz okno klonowania"
 
 #: ../src/actions/actions-dialogs.cpp:35
 msgid ""
@@ -6907,7 +6901,7 @@ msgstr ""
 
 #: ../src/actions/actions-dialogs.cpp:36
 msgid "Open Document Properties"
-msgstr "Właściwości doku_mentu"
+msgstr "Otwórz właściwości dokumentu"
 
 #: ../src/actions/actions-dialogs.cpp:36
 msgid "Edit properties of this document (to be saved with the document)"
@@ -6915,21 +6909,19 @@ msgstr "Edytuj właściwości dokumentu"
 
 #: ../src/actions/actions-dialogs.cpp:37
 msgid "Open Document Resources"
-msgstr "Zasoby dokumentu"
+msgstr "Otwórz zasoby dokumentu"
 
 #: ../src/actions/actions-dialogs.cpp:37
 msgid "Show document overview and resources"
-msgstr "Pokaż zasoby dokumentu"
+msgstr "Otwiera okno z poglądem dokument i jego zasobów"
 
 #: ../src/actions/actions-dialogs.cpp:38
-#, fuzzy
 msgid "Open Extension Gallery"
-msgstr "Otwórz folder rozszerzeń"
+msgstr "Otwórz przegląd rozszerzeń"
 
 #: ../src/actions/actions-dialogs.cpp:38
-#, fuzzy
 msgid "Show and run available extensions"
-msgstr "Wyświetl wszystkie dostępne czcionki"
+msgstr "Wyświetla i pozwala uruchomić dostępne rozszerzenia"
 
 #: ../src/actions/actions-dialogs.cpp:39
 msgid "Open Export"
@@ -6960,18 +6952,16 @@ msgid "Manage, edit, and apply SVG filters"
 msgstr "Zarządzanie, edycja i nakładanie filtrów SVG"
 
 #: ../src/actions/actions-dialogs.cpp:42
-#, fuzzy
 msgid "Open Filter Gallery"
-msgstr "Otwórz galerię efektów scieżek"
+msgstr "Otwórz przegląd filtrów"
 
 #: ../src/actions/actions-dialogs.cpp:42
-#, fuzzy
 msgid "Show and apply available filters"
-msgstr "Wyświetl wszystkie dostępne czcionki"
+msgstr "Wyświetla oraz pozwala użyć dostępne filtry"
 
 #: ../src/actions/actions-dialogs.cpp:43
 msgid "Open Find"
-msgstr "Otwórz dialog 'Znajdź'"
+msgstr "Otwórz okno 'Znajdź'"
 
 #: ../src/actions/actions-dialogs.cpp:43
 msgid "Find objects in document"
@@ -8063,14 +8053,12 @@ msgid "Create a new layer"
 msgstr "Tworzy nową warstwę"
 
 #: ../src/actions/actions-layer.cpp:481
-#, fuzzy
 msgid "Add Layer Above"
-msgstr "Dodaj warstwę"
+msgstr "Dodaj warstwę powyżej"
 
 #: ../src/actions/actions-layer.cpp:481
-#, fuzzy
 msgid "Create a new layer above current"
-msgstr "Tworzy nową warstwę"
+msgstr "Tworzy nową warstwę powyżej warstwy bieżącej"
 
 #: ../src/actions/actions-layer.cpp:482
 msgid "Duplicate Current Layer"
@@ -8979,7 +8967,8 @@ msgstr "Rodzaj \"szumu\" kolorów eksportowanego PNG"
 
 #: ../src/actions/actions-output.cpp:276
 msgid "Set dithering for PNG export"
-msgstr "Ustawianie trybu \"szumu\" kolorów (dithering) dla eksportu PNG"
+msgstr ""
+"Ustawianie trybu \"szumu\" kolorów (dithering) dla eksportu do formatu PNG"
 
 #: ../src/actions/actions-output.cpp:277
 msgid "Export PNG Compression"
@@ -8987,15 +8976,15 @@ msgstr "Poziom kompresji eksportowanego PNG"
 
 #: ../src/actions/actions-output.cpp:277
 msgid "Set compression level for PNG export"
-msgstr ""
+msgstr "Ustawianie poziomu kompresji dla eksportu do formatu PNG"
 
 #: ../src/actions/actions-output.cpp:278
 msgid "Export PNG Antialiasing"
-msgstr ""
+msgstr "Wygładzanie eksportowanego PNG"
 
 #: ../src/actions/actions-output.cpp:278
 msgid "Set antialiasing level for PNG export"
-msgstr ""
+msgstr "Ustawienie poziomu wygładzania dla eksportu do formatu PNG"
 
 #: ../src/actions/actions-output.cpp:280
 msgid "Do Export"
@@ -9724,19 +9713,20 @@ msgstr "Usuwa dane z pliku SVG które są rozpoznawane jako niestandardowe"
 
 #: ../src/actions/actions-svg-processing.cpp:703
 msgid "Reverse Auto Start Markers"
-msgstr "Znaczniki początkowe:"
+msgstr "Usuń automatyczne początki znaczników"
 
 #: ../src/actions/actions-svg-processing.cpp:703
 msgid "Remove auto start positions from markers"
-msgstr ""
+msgstr "Usuwa automatyczne pozycje startowe znaczników"
 
 #: ../src/actions/actions-svg-processing.cpp:704
 msgid "Try to Remove All Transforms"
-msgstr "Usuń przekształcenia"
+msgstr "Spróbuj usunąć wszytkie przekształcenia"
 
 #: ../src/actions/actions-svg-processing.cpp:704
 msgid "Attempt to remove all transforms from all shapes"
-msgstr "Usuwa wszystkie efekty ścieżki z zaznaczonych obiektów"
+msgstr ""
+"Podejmuje próbę usunięcia wszystkich przekształceń ze wszystkich kształtów"
 
 #: ../src/actions/actions-svg-processing.cpp:705
 msgid "Remove Marker Context Paint"
@@ -9748,53 +9738,56 @@ msgstr "Zdejmuje tekst ze ścieżki"
 
 #: ../src/actions/actions-svg-processing.cpp:707
 msgid "Insert Text Fallback"
-msgstr ""
+msgstr "Wstaw tekst zastępczy"
 
 #: ../src/actions/actions-svg-processing.cpp:707
 msgid "Replace SVG2 text with SVG1.1 text"
-msgstr "Zastępuje teksty SVG2 tekstami SVG 1.1"
+msgstr "Zastępuje teksty w formacie SVG2 tekstami SVG1.1"
 
 #: ../src/actions/actions-svg-processing.cpp:708
 msgid "Insert Mesh Polyfill"
-msgstr ""
+msgstr "Wstaw poliwypełnienie siatkowe"
 
 #: ../src/actions/actions-svg-processing.cpp:708
 msgid "Insert JavaScript for rendering meshes"
-msgstr ""
+msgstr "Dodaj kod JavaScript do renderowania siatek"
 
 #
 # File: ../src/ui/dialog/inkscape-preferences.cpp, line: 1555
 #: ../src/actions/actions-svg-processing.cpp:709
 msgid "Insert Hatch Polyfill"
-msgstr ""
+msgstr "Wstaw poliwypełnienie kreskowania"
 
 #: ../src/actions/actions-svg-processing.cpp:709
 msgid "Insert JavaScript for rendering hatches"
-msgstr ""
+msgstr "Dodaj kod JavaScript do renderowania kreskowań"
 
 #: ../src/actions/actions-svg-processing.cpp:711
 msgid "Unlink All Clones"
-msgstr ""
+msgstr "Usuń połączenia wszystkich klonów"
 
 #: ../src/actions/actions-svg-processing.cpp:711
 msgid "Recursively unlink all clones and symbols"
 msgstr ""
+"Rekursywnie usuwa wszystkie połączenia pomiędzy symbolami oraz ich klonami"
 
 #: ../src/actions/actions-svg-processing.cpp:712
 msgid "All Objects to Paths"
-msgstr ""
+msgstr "Przekształć obiekty na ścieżki"
 
 #: ../src/actions/actions-svg-processing.cpp:712
 msgid "Turn all shapes recursively into path elements"
 msgstr ""
+"Zmienia wszystkie kształty na fragmenty ścieżek, także w zagnieżdżonych "
+"elementach"
 
 #: ../src/actions/actions-svg-processing.cpp:713
 msgid "All Strokes to Paths"
-msgstr ""
+msgstr "Zmień kontury na ścieżki"
 
 #: ../src/actions/actions-svg-processing.cpp:713
 msgid "Turn all strokes recursively into fill-only paths"
-msgstr ""
+msgstr "Zmienia wszystkie kontury na proste ścieżki z wypełnieniem"
 
 #: ../src/actions/actions-svg-processing.cpp:714
 msgid "Normalize Path Data"
@@ -9890,16 +9883,15 @@ msgstr ""
 
 #: ../src/actions/actions-text.cpp:79
 msgid "Convert to Glyphs"
-msgstr ""
+msgstr "Konwertuj na glify"
 
 #: ../src/actions/actions-text.cpp:79
-#, fuzzy
 msgid "Convert text into individual glyphs"
-msgstr "Konwertowanie tekstu na ścieżki"
+msgstr "Zmienia istniejący tekst na poszczególne glify"
 
 #: ../src/actions/actions-text.cpp:80
 msgid "Remove Manual Kerns"
-msgstr ""
+msgstr "Usuń ręczne kerningi"
 
 #: ../src/actions/actions-text.cpp:80
 msgid "Remove all manual kerns and glyph rotations from a text object"
@@ -11029,11 +11021,11 @@ msgstr "środek marginesu strony"
 
 #: ../src/display/control/snap-indicator.cpp:98
 msgid "page bleed border"
-msgstr ""
+msgstr "Kontur spadu strony"
 
 #: ../src/display/control/snap-indicator.cpp:99
 msgid "page bleed corner"
-msgstr ""
+msgstr "narożnik spadu strony"
 
 #: ../src/display/control/snap-indicator.cpp:100
 msgid "object midpoint"
@@ -18741,7 +18733,7 @@ msgstr "Nie pokazuj żadnych strzałek"
 
 #: ../src/live_effects/lpe-measure-segments.cpp:99
 msgid "Multiply values &lt; 1"
-msgstr "Mnożenie wartości < 1"
+msgstr "Mnożenie wartości &lt; 1"
 
 #
 # File: ../src/live_effects/lpe-measure-segments.cpp, line: 92
@@ -19937,69 +19929,74 @@ msgstr "Koniec"
 
 #: ../src/live_effects/lpe-ruler.cpp:40
 msgid "_Mark distance:"
-msgstr "_Oznacz odległość:"
+msgstr "Odległość podziałki:"
 
 #: ../src/live_effects/lpe-ruler.cpp:40
 msgid "Distance between successive ruler marks"
-msgstr "Odległość pomiędzy kolejnymi znakami linijki"
+msgstr "Odległość pomiędzy kolejnymi liniami podziałki"
 
 #: ../src/live_effects/lpe-ruler.cpp:42
 msgid "Ma_jor length:"
-msgstr "Główna długość:"
+msgstr "Długość głównych:"
 
 #: ../src/live_effects/lpe-ruler.cpp:42
 msgid "Length of major ruler marks"
-msgstr "Długość głównych znaków linijki"
+msgstr "Długość głównych linii podziałki"
 
 #: ../src/live_effects/lpe-ruler.cpp:43
 msgid "Mino_r length:"
-msgstr "Pomniejsza długość:"
+msgstr "Długość drugorzędnych:"
 
 #: ../src/live_effects/lpe-ruler.cpp:43
 msgid "Length of minor ruler marks"
-msgstr "Długość drugorzędnych znaków linijki"
+msgstr "Długość drugorzędnych linii podziałki"
 
 #: ../src/live_effects/lpe-ruler.cpp:44
 msgid "Minor mark _gap:"
-msgstr ""
+msgstr "Odstęp głównych:"
 
 #: ../src/live_effects/lpe-ruler.cpp:46
 #, no-c-format
 msgid "Space between path and minor ruler mark, % of mark length"
 msgstr ""
+"Odstęp pomiędzy ścieżka a drugorzędnymi liniami podziałki wyrażona w % "
+"długości linii"
 
 #: ../src/live_effects/lpe-ruler.cpp:48
 msgid "Major mar_k gap:"
-msgstr ""
+msgstr "Odstęp drugorzędnych:"
 
 #: ../src/live_effects/lpe-ruler.cpp:50
 #, no-c-format
 msgid "Space between path and major ruler mark, % of mark length"
 msgstr ""
+"Odstęp pomiędzy ścieżka a głównymi liniami podziałki wyrażona w % długości "
+"linii"
 
 #: ../src/live_effects/lpe-ruler.cpp:52
 msgid "Major steps_:"
-msgstr "Główne kroki:"
+msgstr "Częstość głównych:"
 
 #: ../src/live_effects/lpe-ruler.cpp:52
 msgid "Draw a major mark every ... steps"
-msgstr "Rysuje główny znacznik co … kroków"
+msgstr "Jak często rysowane są główne linie podziałki"
 
 #: ../src/live_effects/lpe-ruler.cpp:53
 msgid "Mark angle:"
-msgstr ""
+msgstr "Nachylenie podziałki"
 
 #: ../src/live_effects/lpe-ruler.cpp:53
 msgid "Rotate marks (-180° to 180°)"
-msgstr ""
+msgstr "Kąt nachylenia linii podziałki względem ścieżki (-180° do 180°)"
 
 #: ../src/live_effects/lpe-ruler.cpp:54
 msgid "Shift marks _by:"
-msgstr "Przesuń znaczniki o:"
+msgstr "Przesunięcie pierwszej głównej:"
 
 #: ../src/live_effects/lpe-ruler.cpp:54
 msgid "Shift marks by this many steps"
-msgstr "Przesuwa znaczniki o podaną liczbę kroków"
+msgstr ""
+"O ile kroków przesunąć pierwszą główną linię podziałki od początku linijki"
 
 #: ../src/live_effects/lpe-ruler.cpp:55
 msgid "Mark direction:"
@@ -20008,7 +20005,8 @@ msgstr "Kierunek oznaczenia:"
 #: ../src/live_effects/lpe-ruler.cpp:55
 msgid "Direction of marks (when viewing along the path from start to end)"
 msgstr ""
-"Kierunek znaków (podczas oglądania wzdłuż ścieżki od początku do końca)"
+"Kierunek linii podziałki (podczas oglądania wzdłuż ścieżki od początku do "
+"końca)"
 
 #: ../src/live_effects/lpe-ruler.cpp:56
 msgid "_Offset:"
@@ -20016,15 +20014,16 @@ msgstr "Przesunięcie:"
 
 #: ../src/live_effects/lpe-ruler.cpp:56
 msgid "Offset of first mark"
-msgstr "Przesunięcie pierwszego znacznika"
+msgstr "Przesunięcie pierwszej linii podziałki od początku ścieżki"
 
 #: ../src/live_effects/lpe-ruler.cpp:57
 msgid "Border marks:"
-msgstr "Znaki obramowania:"
+msgstr "Linie na końcach:"
 
 #: ../src/live_effects/lpe-ruler.cpp:57
 msgid "Choose whether to draw marks at the beginning and end of the path"
-msgstr "Wybierz czy rysować znaczniki od początku, czy od końca ścieżki"
+msgstr ""
+"Rysowanie dodatkowych linii podziałki na początku oraz na końcu ścieżki"
 
 #: ../src/live_effects/lpe-show_handles.cpp:30
 msgid "Show nodes"
@@ -20324,11 +20323,11 @@ msgstr "Ekstrapolowany"
 
 #: ../src/live_effects/lpe-taperstroke.cpp:94
 msgid "Center"
-msgstr "Środek"
+msgstr "środek"
 
 #: ../src/live_effects/lpe-taperstroke.cpp:97
 msgid "Clamp"
-msgstr ""
+msgstr "przycięty"
 
 #: ../src/live_effects/lpe-taperstroke.cpp:105
 msgid "Select subpath:"
@@ -22627,11 +22626,11 @@ msgstr "Uwolnij tekst wpisany"
 
 #: ../src/text-chemistry.cpp:645
 msgid "Select <b>text(s)</b> to convert to glyphs."
-msgstr ""
+msgstr "Wybierz <b>teksty</b>, które mają być zamienione na glify."
 
 #: ../src/text-chemistry.cpp:647
 msgid "Convert text to glyphs"
-msgstr ""
+msgstr "Zamień tekst na glify"
 
 #: ../src/text-chemistry.cpp:661
 msgid "Select <b>flowed text(s)</b> to convert."
@@ -23990,7 +23989,7 @@ msgstr "_Eksportuj"
 
 #: ../src/ui/dialog/dialog-data.cpp:36
 msgid "_Extension Gallery"
-msgstr "Przegląd rozszedzeń"
+msgstr "Przegląd rozszerzeń"
 
 #: ../src/ui/dialog/dialog-data.cpp:37
 msgid "_Fill and Stroke"
@@ -24917,11 +24916,11 @@ msgstr "Wybierz filtr do użycia:"
 
 #: ../src/ui/dialog/extensions-gallery.cpp:309
 msgid "Toggle list of effect categories"
-msgstr ""
+msgstr "Przełącz widoczność listy kategorii efektów"
 
 #: ../src/ui/dialog/extensions-gallery.cpp:310
 msgid "Toggle list of filter categories"
-msgstr ""
+msgstr "Przełącz widoczność listy kategorii filtrów"
 
 #: ../src/ui/dialog/extensions-gallery.cpp:459
 msgctxt "take-input"
@@ -27149,9 +27148,8 @@ msgid "X:"
 msgstr "X:"
 
 #: ../src/ui/dialog/grid-arrange-tab.cpp:470
-#, fuzzy
 msgid "Horizontal spacing between columns"
-msgstr "Odstępy w poziomie między kolumnami."
+msgstr "Odstępy w poziomie między kolumnami"
 
 #: ../src/ui/dialog/grid-arrange-tab.cpp:471
 #: ../src/ui/widget/registered-widget.cpp:560
@@ -27162,9 +27160,8 @@ msgid "Y:"
 msgstr "Y:"
 
 #: ../src/ui/dialog/grid-arrange-tab.cpp:471
-#, fuzzy
 msgid "Vertical spacing between rows"
-msgstr "Odstępy w pionie między wierszami."
+msgstr "Odstępy w pionie między wierszami"
 
 #: ../src/ui/dialog/grid-arrange-tab.cpp:489
 msgid "_Rows:"
@@ -27199,9 +27196,8 @@ msgstr ""
 "znajdującego się w niej obiektu"
 
 #: ../src/ui/dialog/grid-arrange-tab.cpp:561
-#, fuzzy
 msgid "<b>Alignment:</b>"
-msgstr "<b>Wycinek</b>"
+msgstr "<b>Wyrównanie:</b>"
 
 #: ../src/ui/dialog/grid-arrange-tab.cpp:574
 msgid "_Fit into selection box"
@@ -27311,24 +27307,22 @@ msgid "Whether selected objects display gradient editing controls"
 msgstr "Wyświetlanie punktów sterujących gradientu na zaznaczonych obiektach"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:763
-#, fuzzy
 msgid "Change layer on selection"
-msgstr "Zmiana wszystkich obrazów w zaznaczeniu"
+msgstr "Zmień warstwę przy zaznaczaniu"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:764
-#, fuzzy
 msgid "Whether selecting objects in another layer changes the active layer"
-msgstr "Podczas wybierania obiektu ostatni jest ten, do którego przeskakujemy."
+msgstr ""
+"Podczas wybierania obiektu na innej warstwie, staje się ona warstwą aktywną"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:770
-#, fuzzy
 msgid "Change page on selection"
-msgstr "Zmiana wszystkich obrazów w zaznaczeniu"
+msgstr "Zmień stronę przy zaznaczaniu"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:771
-#, fuzzy
 msgid "Whether selecting objects on another page changes the current page"
-msgstr "Przenosi zaznaczenie na warstwę ponad aktywną"
+msgstr ""
+"Podczas wybierania obiektu na innej stronie, staje się ona stroną aktywną"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:776
 msgid "Conversion to guides uses edges instead of bounding box"
@@ -30695,7 +30689,7 @@ msgstr "Zaawansowane opcje rysowania dokumentu"
 #: ../src/ui/dialog/inkscape-preferences.cpp:2982
 #: ../share/ui/dialog-symbols.glade:33
 msgid "Tile size"
-msgstr "Rozmiar kafelka"
+msgstr "Rozmiar próbki"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2982
 msgid ""
@@ -31239,7 +31233,7 @@ msgid ""
 "access to that folder (on the same computer or in the network). Requires a "
 "restart of Inkscape to work when changed."
 msgstr ""
-"Opcjonalna ścieżka do zasobów, które można dzilić z innymi użytkownikami "
+"Opcjonalna ścieżka do zasobów, które można dzielić z innymi użytkownikami "
 "(rozszerzenia, czcionki, ikony, farby, palety kolorów, symbole, wzorce i "
 "motywy). Ten folder powinien mieć taką samą strukturę jak katalog ustawień i "
 "preferencji użytkownika. Zmiana tej ścieżki wymaga ponownego startu programu."
@@ -33963,7 +33957,7 @@ msgstr "Obiekt 3D: Zmienia perspektywę (kąt osi nieskończonej)"
 #: ../src/ui/toolbar/calligraphy-toolbar.cpp:98
 #: ../src/ui/toolbar/eraser-toolbar.cpp:73
 msgid "(hairline)"
-msgstr "(włosowy)"
+msgstr "(Ultracienki)"
 
 #: ../src/ui/toolbar/calligraphy-toolbar.cpp:102
 #: ../src/ui/toolbar/calligraphy-toolbar.cpp:136
@@ -34712,7 +34706,7 @@ msgstr "Normalny"
 
 #: ../src/ui/toolbar/text-toolbar.cpp:323
 msgid "Font Family"
-msgstr ""
+msgstr "Rodzina czcionek"
 
 #: ../src/ui/toolbar/text-toolbar.cpp:324
 msgid "Select Font Family (Alt-X to access)"
@@ -35631,7 +35625,7 @@ msgstr "<b>Ctrl</b> – tworzy kwadrat, lub prostokąt o równych proporcjach"
 
 #: ../src/ui/tools/rect-tool.cpp:226
 msgid "<b>Alt</b>: use with Ctrl to make square"
-msgstr ""
+msgstr "<b>Alt</b>: razem z Ctrl tworzy kwadrat"
 
 #: ../src/ui/tools/rect-tool.cpp:368
 #, c-format
@@ -36993,7 +36987,7 @@ msgstr "Ustawienia funkcji w formie CSS (np. \"wxyz\" lub \"wxyz\" 3)."
 #: ../src/ui/widget/font-variations.cpp:52
 msgctxt "Variable font axis"
 msgid "Grade"
-msgstr ""
+msgstr "Gradacja grubości kreski"
 
 #: ../src/ui/widget/font-variations.cpp:52
 msgid ""
@@ -37217,7 +37211,7 @@ msgstr ""
 #: ../src/ui/widget/font-variations.cpp:106
 msgctxt "Variable font axis"
 msgid "Slant"
-msgstr ""
+msgstr "Pochylenie"
 
 #: ../src/ui/widget/font-variations.cpp:106
 msgid "Controls the font file’s slant parameter for oblique styles"
@@ -37226,7 +37220,7 @@ msgstr ""
 #: ../src/ui/widget/font-variations.cpp:108
 msgctxt "Variable font axis"
 msgid "Italic"
-msgstr ""
+msgstr "Kursywa"
 
 #: ../src/ui/widget/font-variations.cpp:108
 msgid "Turns on the font’s italic forms"
@@ -37235,7 +37229,7 @@ msgstr ""
 #: ../src/ui/widget/font-variations.cpp:110
 msgctxt "Variable font axis"
 msgid "Weight"
-msgstr ""
+msgstr "Waga"
 
 #: ../src/ui/widget/font-variations.cpp:110
 msgid "Controls the font file’s weight parameter"
@@ -37244,7 +37238,7 @@ msgstr ""
 #: ../src/ui/widget/font-variations.cpp:112
 msgctxt "Variable font axis"
 msgid "Width"
-msgstr ""
+msgstr "Szerokość"
 
 #: ../src/ui/widget/font-variations.cpp:112
 msgid "Controls the font file’s width parameter"
@@ -37253,7 +37247,7 @@ msgstr ""
 #: ../src/ui/widget/font-variations.cpp:114
 msgctxt "Variable font axis"
 msgid "Tabular width"
-msgstr ""
+msgstr "Szerokość tabulacji"
 
 #: ../src/ui/widget/font-variations.cpp:114
 msgid "Controls the tabular width"
@@ -37352,7 +37346,7 @@ msgstr ""
 #: ../src/ui/widget/font-variations.cpp:125
 msgctxt "Variable font axis"
 msgid "Unicode variation"
-msgstr ""
+msgstr "Wariant Unicode"
 
 #: ../src/ui/widget/font-variations.cpp:125
 msgid "Controls the glyph’s unicode ID"
@@ -37946,12 +37940,11 @@ msgstr ""
 #: ../src/ui/widget/stroke-style.cpp:232 ../src/ui/widget/style-swatch.cpp:301
 #: ../src/ui/widget/style-swatch.cpp:304
 msgid "Hairline"
-msgstr "CieńkaLinia"
+msgstr "Ultracienki"
 
 #: ../src/ui/widget/selected-style.cpp:989
-#, fuzzy
 msgid "Stroke width: Hairline"
-msgstr "Szerokość konturu:"
+msgstr "Szerokość konturu: Ultracienki"
 
 #: ../src/ui/widget/selected-style.cpp:1008
 #, c-format
@@ -37963,14 +37956,12 @@ msgid " (averaged)"
 msgstr " (uśredniona)"
 
 #: ../src/ui/widget/selected-style.cpp:1035
-#, fuzzy
 msgid "0% (Transparent)"
-msgstr "0 (przezroczysty)"
+msgstr "0% (przezroczysty)"
 
 #: ../src/ui/widget/selected-style.cpp:1039
-#, fuzzy
 msgid "100% (Opaque)"
-msgstr "100% (nieprzezroczysty)"
+msgstr "100% (kryjący)"
 
 #: ../src/ui/widget/selected-style.cpp:1182
 msgid "Adjust alpha"
@@ -38157,7 +38148,7 @@ msgstr "Ustaw zakończenia"
 
 #: ../src/ui/widget/stroke-style.cpp:615
 msgid "Remove hairline stroke"
-msgstr "Usuń cienki jak włos kontur"
+msgstr "Usuń ultracienki kontur"
 
 #: ../src/ui/widget/stroke-style.cpp:1015
 msgid "Set stroke width"
@@ -38837,24 +38828,20 @@ msgid "Load palette of colors or swatches"
 msgstr ""
 
 #: ../share/ui/dialog-swatches.glade:118
-#, fuzzy
 msgid "New swatch"
-msgstr "Przypnij próbkę koloru"
+msgstr "Nowa próbka koloru"
 
 #: ../share/ui/dialog-swatches.glade:134
-#, fuzzy
 msgid "Edit swatch"
-msgstr "Przypnij próbkę koloru"
+msgstr "Zmień próbkę koloru"
 
 #: ../share/ui/dialog-swatches.glade:170
-#, fuzzy
 msgid "Show colors with names"
-msgstr "Pokaż etykiety kolorów"
+msgstr "Wyświetla próbki kolorów oraz ich nazwy"
 
 #: ../share/ui/dialog-swatches.glade:188
-#, fuzzy
 msgid "Show colors in a grid"
-msgstr "Wyświetla lub ukrywa siatkę"
+msgstr "Wyświetla tylko próbki kolorów (w układzie kafelkowym)"
 
 #: ../share/ui/dialog-symbols.glade:58 ../share/ui/pattern-edit.glade:79
 msgid "Show names"
@@ -38901,9 +38888,8 @@ msgid "Open the Font Collections Manager dialogue"
 msgstr "Otwórz dialog kolekcji czcionek"
 
 #: ../share/ui/dialog-text-edit.glade:50
-#, fuzzy
 msgid "Clear all filters"
-msgstr "Wybierz filtr"
+msgstr "Usuń wszystkie filtry"
 
 #: ../share/ui/dialog-text-edit.glade:54
 msgid "Reset filters and show all available fonts"
@@ -39229,17 +39215,14 @@ msgid "Abort trace operation"
 msgstr "Przerwij wektoryzację"
 
 #: ../share/ui/dialog-xml.glade:9
-#, fuzzy
 msgid "Automatic Layout"
 msgstr "Układ automatyczny"
 
 #: ../share/ui/dialog-xml.glade:14
-#, fuzzy
 msgid "Horizontal Layout"
 msgstr "Układ poziomy"
 
 #: ../share/ui/dialog-xml.glade:19
-#, fuzzy
 msgid "Vertical Layout"
 msgstr "Układ pionowy"
 
@@ -39323,10 +39306,9 @@ msgstr "<b>F</b>"
 
 #: ../share/ui/extension-pdfinput.glade:19
 msgid "Media Box"
-msgstr "Obszaru MediaBox"
+msgstr "Obszar MediaBox"
 
 #: ../share/ui/extension-pdfinput.glade:23
-#, fuzzy
 msgid "Crop Box"
 msgstr "Obszar przycięcia"
 
@@ -39556,11 +39538,11 @@ msgstr "Widok"
 
 #: ../share/ui/font-list.glade:541
 msgid "Show all fonts in a flat list"
-msgstr ""
+msgstr "Wyświetla wszystkie czcionki w widoku listy"
 
 #: ../share/ui/font-list.glade:558
 msgid "Arrange all fonts in a compact grid display"
-msgstr ""
+msgstr "Wyświetla podgląd czcionek w widoku siatki"
 
 #. A short text sample for when fonts are arranged in grid
 #: ../share/ui/font-list.glade:573
@@ -39572,7 +39554,7 @@ msgstr "Aą"
 # File: ../share/extensions/hershey.inx, line: 75
 #: ../share/ui/font-list.glade:575
 msgid "Sample text to show in a font grid display"
-msgstr "Tekst poglądowy w tabeli czcionek"
+msgstr "Tekst używany jako podgląd czcionki w widoku siatki"
 
 #: ../share/ui/font-list.glade:615 ../share/extensions/nicechart.inx:52
 #: ../share/extensions/path_number_nodes.inx:8
@@ -39590,7 +39572,7 @@ msgstr "Odwróć kierunek gradientu"
 
 #: ../share/ui/gradient-edit.glade:83
 msgid "Rotate gradient 90 degrees"
-msgstr ""
+msgstr "Obróć gradient o 90 stopni"
 
 #: ../share/ui/gradient-edit.glade:140
 msgid "Stop Offset:"
@@ -40135,9 +40117,8 @@ msgid "Path vertical position"
 msgstr "Pionowa pozycja ścieżki"
 
 #: ../share/ui/object-attributes.glade:1108
-#, fuzzy
 msgid "Path horizontal position"
-msgstr "Punkt poziomy:"
+msgstr "Pozioma pozycja ścieżki"
 
 #: ../share/ui/object-attributes.glade:1147
 msgid "Location"
@@ -40145,11 +40126,11 @@ msgstr "Położenie"
 
 #: ../share/ui/object-attributes.glade:1169
 msgid "Width of path shape"
-msgstr ""
+msgstr "Szerokość kształtu ścieżki"
 
 #: ../share/ui/object-attributes.glade:1195
 msgid "Height of path shape"
-msgstr ""
+msgstr "Wysokość kształtu ścieżki"
 
 #: ../share/ui/object-attributes.glade:1354
 msgid "Press Shift+Enter to commit editing changes"
@@ -40294,18 +40275,16 @@ msgid "If unset, no antialiasing will be done on the drawing."
 msgstr "Włącza opcję wygładzania (antyaliasing) przy wyświetlaniu rusunku."
 
 #: ../share/ui/pattern-edit.glade:125
-#, fuzzy
 msgid "Gap control:"
-msgstr "Pasek kontrolek pr_zyciągania:"
+msgstr "Kontrola odstępu:"
 
 #: ../share/ui/pattern-edit.glade:135
 msgid "Mouse-friendly"
-msgstr ""
+msgstr "Przyjazna myszce"
 
 #: ../share/ui/pattern-edit.glade:150
-#, fuzzy
 msgid "Precise"
-msgstr "Precyzja"
+msgstr "Precyzyjna"
 
 #: ../share/ui/pattern-edit.glade:193
 msgid "Pattern fill"
@@ -40406,7 +40385,6 @@ msgstr ""
 "Wyrównaj lewe krawędzie obiektów do prawej krawędzi elementu sterującego"
 
 #: ../share/ui/align-and-distribute.ui:315
-#, fuzzy
 msgid "Align text anchors horizontally"
 msgstr "Wyrównaj zakotwiczenie tekstu w poziomie"
 
@@ -40433,15 +40411,13 @@ msgstr ""
 "Wyrównaj górne krawędzie obiektów do dolnej krawędzi elementu sterującego"
 
 #: ../share/ui/align-and-distribute.ui:435
-#, fuzzy
 msgid "Align text anchors vertically"
 msgstr "Wyrównaj zakotwiczenie tekstu w pionie"
 
 #: ../share/ui/align-and-distribute.ui:886
-#, fuzzy
 msgctxt "Abbreviation of Horizontal"
 msgid "H:"
-msgstr "Wysokość:"
+msgstr "Pion:"
 
 #: ../share/ui/align-and-distribute.ui:895
 msgid "Minimum horizontal gap (in pixel units) between bounding boxes"
@@ -40449,7 +40425,7 @@ msgstr "Minimalny odstęp w poziomie (w pikselach) pomiędzy obwiedniami"
 
 #: ../share/ui/align-and-distribute.ui:902
 msgid "V:"
-msgstr "V:"
+msgstr "Poziom:"
 
 #: ../share/ui/align-and-distribute.ui:911
 msgid "Minimum vertical gap (in pixel units) between bounding boxes"
@@ -41091,18 +41067,16 @@ msgid "Remove Manual _Kerns"
 msgstr "Usuń ręczne po_dcięcie"
 
 #: ../share/ui/menus.ui:1160
-#, fuzzy
 msgid "Text to Glyphs"
-msgstr "Otwórz glify"
+msgstr "Zmień tekst na glify"
 
 #: ../share/ui/menus.ui:1174
 msgid "Filter_s"
 msgstr "_Filtry"
 
 #: ../share/ui/menus.ui:1177
-#, fuzzy
 msgid "Filter _Gallery..."
-msgstr "Edytor filtrów…"
+msgstr "Przegląd filtrów…"
 
 #: ../share/ui/menus.ui:1183
 msgid "Filter _Editor..."
@@ -41125,9 +41099,8 @@ msgid "_Previous Extension Settings..."
 msgstr "_Ustawienia poprzedniego efektu…"
 
 #: ../share/ui/menus.ui:1209
-#, fuzzy
 msgid "_Extension Gallery..."
-msgstr "Rozszerzenia…"
+msgstr "Przegląd rozszerzeń…"
 
 #: ../share/ui/menus.ui:1218
 #: ../share/extensions/other/inkman/manage_extensions.inx:3
@@ -41540,7 +41513,6 @@ msgid "Link gradients to change all related gradients"
 msgstr "Połącz gradienty, aby zmienić wszystkie powiązane gradienty"
 
 #: ../share/ui/toolbar-gradient.ui:273 ../share/ui/toolbar-select.ui:457
-#, fuzzy
 msgid "Width of selection"
 msgstr "Szerokość zaznaczenia"
 
@@ -41549,27 +41521,22 @@ msgid "No geometric tool is active"
 msgstr "Żadne narzędzie do tworzenia kształtów geometrycznych nie jest aktywne"
 
 #: ../share/ui/toolbar-lpe.ui:69
-#, fuzzy
 msgid "Line Segment"
 msgstr "Odcinek"
 
 #: ../share/ui/toolbar-lpe.ui:88
-#, fuzzy
 msgid "Circle by 3 points"
 msgstr "Okrąg oparty na 3 punktach"
 
 #: ../share/ui/toolbar-lpe.ui:145
-#, fuzzy
 msgid "Perpendicular bisector"
 msgstr "Prostopadła dwusieczna"
 
 #: ../share/ui/toolbar-lpe.ui:164
-#, fuzzy
 msgid "Angle Bisector"
 msgstr "Dwusieczna kąta"
 
 #: ../share/ui/toolbar-lpe.ui:183
-#, fuzzy
 msgid "Mirror symmetry"
 msgstr "Symetria lustrzana"
 
@@ -41832,9 +41799,8 @@ msgstr ""
 "Wyświetla elementy sterujące ścieżkami przycinania zaznaczonych obiektów"
 
 #: ../share/ui/toolbar-objectpicker.ui:15
-#, fuzzy
 msgid "Select object on canvas"
-msgstr "Tylko wybrane obiekty"
+msgstr "Wybierz obiekt na obszarze roboczym"
 
 #: ../share/ui/toolbar-page.ui:122
 msgid "Page Margins"
@@ -41977,17 +41943,16 @@ msgid "Deselect any selected objects"
 msgstr "Usuwa zaznaczenie wszystkich zaznaczonych obiektów"
 
 #: ../share/ui/toolbar-select.ui:161
-#, fuzzy
 msgid "Toggle selection box to select all touched objects"
-msgstr "Włącz tryb zaznaczania obiektów przez ich dotykanie."
+msgstr ""
+"Tryb zaznaczania który uwzględnia każdy obiekt nawet częściowo objęty "
+"zaznaczeniem."
 
 #: ../share/ui/toolbar-select.ui:209
-#, fuzzy
 msgid "Rotate selection 90\\xc2\\xb0 counter-clockwise"
 msgstr "Obraca zaznaczone obiekty o 90° w lewo"
 
 #: ../share/ui/toolbar-select.ui:228
-#, fuzzy
 msgid "Rotate selection 90\\xc2\\xb0 clockwise"
 msgstr "Obraca zaznaczone obiekty o 90° w prawo"
 
@@ -42139,7 +42104,6 @@ msgstr ""
 "Promień położonego najbliżej środka obrotu (względem wielkości spirali)"
 
 #: ../share/ui/toolbar-spiral.ui:100
-#, fuzzy
 msgid "Inner Radius:"
 msgstr "Wewnętrzny promień:"
 
@@ -42211,9 +42175,8 @@ msgid "Increase to scatter sprayed objects"
 msgstr "Zwiększ, by rozrzucić natryskiwane obiekty."
 
 #: ../share/ui/toolbar-spray.ui:388
-#, fuzzy
 msgid "Scatter:"
-msgstr "Rozpraszanie"
+msgstr "Rozpraszanie:"
 
 #: ../share/ui/toolbar-spray.ui:409
 msgid "0 to spray a spot; increase to enlarge the ring radius"
@@ -42417,7 +42380,7 @@ msgstr "POZOSTAŁE"
 
 #: ../share/ui/toolbar-tool-prefs.ui:720
 msgid "CANVAS TOOLS"
-msgstr "NARZĘDZIA PŁÓTNA"
+msgstr "NARZĘDZIA OBSZARU ROBOCZEGO"
 
 #: ../share/ui/toolbar-tweak.ui:102
 msgid "Move objects in any direction"
