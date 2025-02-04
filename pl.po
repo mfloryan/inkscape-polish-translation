@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 1.4\n"
 "Report-Msgid-Bugs-To: inkscape-translator@lists.inkscape.org\n"
 "POT-Creation-Date: 2025-01-09 14:26+0000\n"
-"PO-Revision-Date: 2025-02-04 10:51+0100\n"
+"PO-Revision-Date: 2025-02-04 11:08+0100\n"
 "Last-Translator: Michał Kowalski\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
@@ -9791,31 +9791,36 @@ msgstr "Zmienia wszystkie kontury na proste ścieżki z wypełnieniem"
 
 #: ../src/actions/actions-svg-processing.cpp:714
 msgid "Normalize Path Data"
-msgstr ""
+msgstr "Normalizują dane ścieżek"
 
 #: ../src/actions/actions-svg-processing.cpp:714
 msgid "Make all paths absolute and predictable"
 msgstr ""
+"Przekształca wszystkie ścieżki na współrzędne bezwzględne i ujednolicone"
 
 #: ../src/actions/actions-svg-processing.cpp:716
 msgid "Annotate all Bounding Boxes"
-msgstr ""
+msgstr "Dodaj informacje o obramowaniach do wszystkich obiektów"
 
 #: ../src/actions/actions-svg-processing.cpp:716
 msgid ""
 "Annotate every shape and group with its current bounding box (not kept up to "
 "date)"
 msgstr ""
+"Dodaje informacje o obramowaniach do każdej figury i grupy na podstawie ich "
+"aktualnych obwiedni (nie są aktualizowane na bieżąco)."
 
 #: ../src/actions/actions-svg-processing.cpp:717
 msgid "Annotate all Shape Paths"
-msgstr ""
+msgstr "Dodaj informacje o obramowaniach do wszystkich ścieżek"
 
 #: ../src/actions/actions-svg-processing.cpp:717
 msgid ""
 "Annotate every non-path shape with their equivalent path string (not kept up "
 "to date)"
 msgstr ""
+"Dodaj informacje o przekształceniu figur na ścieżki dla wszystkich "
+"kształtów, które nie są ścieżkami (nie jest aktualizowane na bieżąco)"
 
 #: ../src/actions/actions-svg-processing.cpp:719
 msgid "Clean up Document"
