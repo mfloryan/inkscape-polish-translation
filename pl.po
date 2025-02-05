@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Inkscape 1.4\n"
 "Report-Msgid-Bugs-To: inkscape-translator@lists.inkscape.org\n"
 "POT-Creation-Date: 2025-01-09 14:26+0000\n"
-"PO-Revision-Date: 2025-02-04 11:08+0100\n"
+"PO-Revision-Date: 2025-02-05 20:56+0100\n"
 "Last-Translator: Michał Kowalski\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Basepath: ../../gitlab.com/inkscape/po\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: ../build/share/filters/filters.svg.h:2
@@ -24684,7 +24684,7 @@ msgstr "Profile koloru"
 #: ../src/ui/dialog/document-resources.cpp:902
 #: ../share/ui/dialog-document-resources.glade:90
 msgid "Swatches"
-msgstr "Przykładowe kolory"
+msgstr "Próbki kolorów"
 
 #: ../src/ui/dialog/document-resources.cpp:903
 #: ../share/ui/dialog-document-resources.glade:48
@@ -28824,37 +28824,34 @@ msgid "Text and Font dialog"
 msgstr "Tekst i czcionka"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2035
-#, fuzzy
 msgid "List fonts and styles"
-msgstr "Ostatnio użyty styl"
+msgstr "Wyświetlaj czcionki i style"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2035
-#, fuzzy
 msgid "List fonts and styles separately"
-msgstr "Zmieniaj oddzielnie światła i cienie"
+msgstr "Wyświetla osobno czcionki oraz ich style"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2036
 msgid "Unified font browser (experimental)"
-msgstr ""
+msgstr "Ujednolicone przeglądanie czcionek (eksperymentalne)"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2036
-#, fuzzy
 msgid "Show all font styles in a single list"
-msgstr "Wyświetlaj podgląd czcionki"
+msgstr "Wyświetla czcionki i ich style w ramach jednej listy"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2038
-#, fuzzy
 msgid "Font selector"
-msgstr "Z zaznaczenia"
+msgstr "Wybór czcionek"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2041
-#, fuzzy
 msgid "Unified font scale factor"
-msgstr "Współczynnik skali tekstu:"
+msgstr "Powiększenie podglądu czcionek"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2041
 msgid "Correction multiplier to scale up font previews in unified browser"
 msgstr ""
+"Współczynnik korekty skali podglądu czcionek w ujednoliconym przeglądaniu "
+"czcionek"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2043
 msgid "Miscellaneous"
@@ -30049,7 +30046,7 @@ msgstr ""
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2656
 msgid "Restrict Snap Targets"
-msgstr ""
+msgstr "Ogranicz co przyciąga"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2658
 msgid "Always snap to grids"
@@ -30060,6 +30057,8 @@ msgid ""
 "When a grid is visible, and snapping to grids is active, other snap targets "
 "will be ignored, unless explicitly allowed below."
 msgstr ""
+"Kiedy siatka jest widoczna i przyciąganie do siatki jest aktywne, inne "
+"obiekty przyciągania będą ignorowane, chyba, że zostaną uwzględnione poniżej"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2661
 msgid "Always snap to guides"
@@ -30071,41 +30070,51 @@ msgid ""
 "guides is active, other snap targets will be ignored, unless explicitly "
 "allowed below."
 msgstr ""
+"Kiedy w oknie widoczne są prowadnice oraz przyciąganie do prowadnic jest "
+"aktywne, inne obiekty przyciągania będą ignorowane, chyba, że zostaną "
+"uwzględnione poniżej"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2664
-#, fuzzy
 msgid "While Always Snapping to Grid/Guides"
-msgstr "Przełącznik przyciągania do siatek"
+msgstr ""
+"Dodatkowe cele przyciągania jeśli włączone jest przyciąganie do siatki/"
+"prowadnic"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2666
 msgid "Allow snapping to objects"
-msgstr ""
+msgstr "Przyciąganie do obiektów"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2667
 msgid ""
 "Allow snapping to objects while 'Always snap to grids / guides' is active, "
 "if an object is closer."
 msgstr ""
+"Pozawala na przyciąganie do obiektów gdy “Zawsze przyciągaj do siatki/"
+"prowadnic” jest aktywne oraz obiekt jest bliżej"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2669
 msgid "Allow alignment snapping"
-msgstr ""
+msgstr "Przyciąganie do wyrównania"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2670
 msgid ""
 "Allow alignment snapping while 'Always snap to grids / guides' is active, if "
 "an alignment snap target is closer."
 msgstr ""
+"Pozawala na przyciąganie do wyrwania gdy “Zawsze przyciągaj do siatki/"
+"prowadnic” jest aktywne oraz cel wyrównania jest bliżej."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2672
 msgid "Allow distribution snapping"
-msgstr ""
+msgstr "Przyciąganie do rozłożenia"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2673
 msgid ""
 "Allow distribution snapping while 'Always snap to grids / guides' is active, "
 "if a distribution snap target is closer."
 msgstr ""
+"Pozawala na przyciąganie do rozłożenia gdy “Zawsze przyciągaj do siatki/"
+"prowadnic” jest aktywne oraz cel równomiernego rozłożenia jest bliżej."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2681
 msgid "_Arrow keys move by:"
@@ -30229,9 +30238,8 @@ msgstr ""
 "Obróć płótno w prawo i przeciwnie do ruchu wskazówek zegara o tę wartość."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2725
-#, fuzzy
 msgid "Arrow keys move object relative to screen"
-msgstr "Pomniejszyć wybrane obiekty względem ekranu"
+msgstr "Strzałki przesuwają obiekty względem ekranu"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2727
 msgid ""
@@ -30239,10 +30247,13 @@ msgid ""
 "rotated, the selection will then still be moved horizontally and vertically "
 "relative to the screen, not to the rotated document."
 msgstr ""
+"Klawisze strzałek przesuwają obiekty względem ekranu. Ma to znaczenie gdy "
+"obszar roboczy jest obrócony, zaznaczone obiekty będą wtedy przesuwane w "
+"pionie i poziomie względem ekrany a nie względem obróconego dokumentu."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2729
 msgid "Steps"
-msgstr "Liczba kroków"
+msgstr "Skok wartości"
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:2732
 msgid "Move in parallel"
@@ -31711,9 +31722,8 @@ msgid "Change object attribute"
 msgstr "Zmień właściwości o_biektu"
 
 #: ../src/ui/dialog/object-attributes.cpp:521
-#, fuzzy
 msgid "Add fillet/chamfer effect"
-msgstr "Dodawanie efektu ścieżki"
+msgstr "Dodaj efekt zaokrąglenia/sfazowania"
 
 #: ../src/ui/dialog/object-attributes.cpp:664
 msgid "Change arc type"
@@ -31725,7 +31735,7 @@ msgstr "Węzły: "
 
 #: ../src/ui/dialog/object-attributes.cpp:926
 msgid "Change path"
-msgstr ""
+msgstr "Zmiana ścieżki"
 
 #: ../src/ui/dialog/object-properties.cpp:61
 #: ../src/ui/dialog/object-properties.cpp:367
@@ -32159,11 +32169,11 @@ msgstr "Wartość bieżąca"
 
 #: ../src/ui/dialog/styledialog.cpp:544
 msgid "Used in style attribute"
-msgstr ""
+msgstr "Używane w atrybucie stylu"
 
 #: ../src/ui/dialog/styledialog.cpp:720
 msgid "Stylesheet value"
-msgstr ""
+msgstr "Wartość arkusza stylów"
 
 #: ../src/ui/dialog/styledialog.cpp:726
 msgid "This value is commented out."
@@ -32178,7 +32188,7 @@ msgstr "Używane w %1"
 
 #: ../src/ui/dialog/styledialog.cpp:840
 msgid "Used in inline attributes"
-msgstr ""
+msgstr "Używane w atrybutach inline"
 
 #: ../src/ui/dialog/svg-fonts-dialog.cpp:181
 #: ../src/ui/dialog/svg-fonts-dialog.cpp:251
@@ -33390,35 +33400,33 @@ msgid "<b>Alt</b>: double click to change line type"
 msgstr "<b>Alt</b>: kliknij dwukrotnie, aby zmienić typ linii"
 
 #: ../src/ui/tool/curve-drag-point.cpp:218
-#, fuzzy
 msgctxt "Path segment tip"
 msgid ""
 "<b>BSpline segment</b>: drag to shape the segment, doubleclick to insert "
 "node, click to select (more: Alt, Shift, Ctrl+Alt)"
 msgstr ""
 "<b>Segment krzywej B-sklejanej</b>: przeciągnij, aby ukształtować segment, "
-"kliknij dwukrotnie, aby wstawić węzeł, zaznacz (więcej: Shift, Ctrl + Alt)"
+"kliknij dwukrotnie, aby wstawić węzeł, kliknij, by zaznaczyć (więcej: Alt, "
+"Shift, Ctrl+Alt)"
 
 #: ../src/ui/tool/curve-drag-point.cpp:222
-#, fuzzy
 msgctxt "Path segment tip"
 msgid ""
 "<b>Linear segment</b>: drag to convert to a Bezier segment, doubleclick to "
 "insert node, click to select (more: Alt, Shift, Ctrl+Alt)"
 msgstr ""
 "<b>Odcinek prosty</b>: ciągnij, by zmienić na odcinek krzywych, kliknij "
-"dwukrotnie, by wstawić węzeł, kliknij, by zaznaczyć (więcej z: Shift, "
+"dwukrotnie, by wstawić węzeł, kliknij, by zaznaczyć (więcej z: Alt, Shift, "
 "Ctrl+Alt)"
 
 #: ../src/ui/tool/curve-drag-point.cpp:225
-#, fuzzy
 msgctxt "Path segment tip"
 msgid ""
 "<b>Bezier segment</b>: drag to shape the segment, doubleclick to insert "
 "node, click to select (more: Alt, Shift, Ctrl+Alt)"
 msgstr ""
 "<b>Odcinek krzywych</b>: ciągnij, by formować odcinek, kliknij dwukrotnie, "
-"by wstawić węzeł, kliknij, by zaznaczyć (więcej z: Shift, Ctrl+Alt)"
+"by wstawić węzeł, kliknij, by zaznaczyć (więcej z: Alt, Shift, Ctrl+Alt)"
 
 #: ../src/ui/tool/multi-path-manipulator.cpp:315
 msgid "Retract handles"
@@ -34888,9 +34896,8 @@ msgid "<b>Shift</b>: draw around the starting point"
 msgstr "<b>Shift</b>: rysowanie od punktu startowego we wszystkich kierunkach"
 
 #: ../src/ui/tools/arc-tool.cpp:210
-#, fuzzy
 msgid "<b>Alt</b>: snap ellipse to mouse pointer"
-msgstr "<b>Alt</b>: skalowanie z użyciem proporcji"
+msgstr "<b>Alt</b>: przyciąga elipsę do wskaźnika myszy"
 
 #: ../src/ui/tools/arc-tool.cpp:372
 #, c-format
@@ -35423,12 +35430,11 @@ msgid "<b>Shift</b>: drag to add nodes to the selection"
 msgstr "<b>Shift</b>: pociągnij, by dodać węzły do zaznaczenia"
 
 #: ../src/ui/tools/node-tool.cpp:686
-#, fuzzy
 msgid "<b>%1 of %2</b> node selected."
 msgid_plural "<b>%1 of %2</b> nodes selected."
-msgstr[0] "<b>%u z %u wybranego węzła</b> ."
-msgstr[1] "<b>%u z %u wybranych węzłów</b>."
-msgstr[2] "<b>%u z %u wybranych węzłów</b>."
+msgstr[0] "Zaznaczono <b>%1 z %2</b> węzła."
+msgstr[1] "Zaznaczono <b>%1 z %2</b> węzłów."
+msgstr[2] "Zaznaczono <b>%1 z %2</b> węzłów."
 
 #. TRANSLATORS: %1 is an angle in degrees, formatted with two decimal places.
 #: ../src/ui/tools/node-tool.cpp:704
@@ -35436,18 +35442,16 @@ msgid "Angle: %1°."
 msgstr "Kąt: %1°."
 
 #: ../src/ui/tools/node-tool.cpp:711
-#, fuzzy
 msgctxt "Node tool tip"
 msgid "%1 Drag to select nodes, click to edit only this object (more: Shift)"
 msgstr ""
-"%s przeciągnij, aby wybrać węzły, kliknij, aby edytować tylko ten obiekt "
+"%1 przeciągnij, aby wybrać węzły, kliknij, aby edytować tylko ten obiekt "
 "(więcej: Shift)"
 
 #: ../src/ui/tools/node-tool.cpp:717
-#, fuzzy
 msgctxt "Node tool tip"
 msgid "%1 Drag to select nodes, click to clear the selection"
-msgstr "Pociągnij, by zaznaczyć węzły, kliknij, by usunąć zaznaczenie"
+msgstr "%1 Przeciągnij, by zaznaczyć węzły, kliknij, by usunąć zaznaczenie"
 
 #: ../src/ui/tools/node-tool.cpp:724
 msgctxt "Node tool tip"
@@ -35732,53 +35736,51 @@ msgstr "Szybki podgląd"
 
 #: ../src/ui/tools/shortcuts.cpp:20
 msgid "Preview how the document will look while the key is pressed."
-msgstr ""
+msgstr "Pokazuje podgląd dokumentu kiedy wybrany klawisz jest wciśnięty."
 
 #: ../src/ui/tools/shortcuts.cpp:21
 msgid "Quick Zoom"
 msgstr "Szybkie powiększenie"
 
 #: ../src/ui/tools/shortcuts.cpp:21
-#, fuzzy
 msgid "Zoom into the selected objects while the key is pressed."
-msgstr "Wszystkie zaznaczone obiekty mają ten sam styl konturu"
+msgstr ""
+"Ustawia powiększenie tak aby objąć zaznaczone obiekty kiedy wybrany klawisz "
+"jest wciśnięty."
 
 #: ../src/ui/tools/shortcuts.cpp:22
-#, fuzzy
 msgid "Quick Pan Canvas"
-msgstr "Płótno lniane"
+msgstr "Szybkie przesuwanie obszaru roboczego"
 
 #: ../src/ui/tools/shortcuts.cpp:22
 msgid "Pan the canvas with the mouse while the key is pressed."
 msgstr ""
+"Przesuwaj obszar roboczy przy użyciu myszki kiedy wybrany klawisz jest "
+"wciśnięty."
 
 #: ../src/ui/tools/shortcuts.cpp:24
-#, fuzzy
 msgid "Pen Segment To Line"
-msgstr "Rozmiar segmentu"
+msgstr "Pociągnięcie pióra na prostą"
 
 #: ../src/ui/tools/shortcuts.cpp:24
 msgid "Convert the last pen segment to a straight line."
-msgstr ""
+msgstr "Zmienia ostatnio wykonanie pociągniecie piórem na linę prostą."
 
 #: ../src/ui/tools/shortcuts.cpp:25
-#, fuzzy
 msgid "Pen Segment To Curve"
-msgstr "Styczna do krzywej"
+msgstr "Pociągnięcie pióra na krzywą"
 
 #: ../src/ui/tools/shortcuts.cpp:25
 msgid "Convert the last pen segment to a curved line."
-msgstr ""
+msgstr "Zmienia ostatnio wykonanie pociągniecie piórem na krzywą."
 
 #: ../src/ui/tools/shortcuts.cpp:26
-#, fuzzy
 msgid "Pen Segments To Guides"
-msgstr "Zamień odcinki na krzywe"
+msgstr "Pociągnięcia pióra na prowadnice"
 
 #: ../src/ui/tools/shortcuts.cpp:26
-#, fuzzy
 msgid "Convert the pen shape into guides."
-msgstr "Konwersja na prowadnice"
+msgstr "Zmienia wykonanie pociągnięcia piórem na prowadnice."
 
 #: ../src/ui/tools/spiral-tool.cpp:207
 msgid "<b>Ctrl</b>: snap angle"
@@ -35813,31 +35815,34 @@ msgid "<b>Nothing</b> selected"
 msgstr "<b>Nic</b> nie zaznaczono"
 
 #: ../src/ui/tools/spray-tool.cpp:206
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "%s. Drag, click or click and scroll to spray <b>copies</b> of the initial "
 "selection. Right-click + move to update single click item."
 msgstr ""
 "%s. Przeciągnij, kliknij lub kliknij i przewiń do rozpylania <b>kopii</b> "
-"początkowego zaznaczenia."
+"początkowego zaznaczenia. Przeciągnij z prawym przyciskiem aby zmienić "
+"wybrany obiekt."
 
 #: ../src/ui/tools/spray-tool.cpp:209
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "%s. Drag, click or click and scroll to spray <b>clones</b> of the initial "
 "selection. Right-click + move to update single click item."
 msgstr ""
 "%s. Przeciągnij, kliknij lub kliknij i przewiń do rozpylania <b>klonów</b> "
-"początkowego zaznaczenia."
+"początkowego zaznaczenia. Przeciągnij z prawym przyciskiem aby zmienić "
+"wybrany obiekt."
 
 #: ../src/ui/tools/spray-tool.cpp:212
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "%s. Drag, click or click and scroll to spray into a <b>single path</b>. "
 "Right-click + move to update single click item.."
 msgstr ""
 "%s. Przeciągnij, kliknij lub kliknij i przewiń do rozpylania w "
-"<b>pojedynczej ścieżce</b> początkowego zaznaczenia."
+"<b>pojedynczej ścieżce</b> początkowego zaznaczenia. Przeciągnij z prawym "
+"przyciskiem aby zmienić wybrany obiekt."
 
 #: ../src/ui/tools/spray-tool.cpp:1273
 msgid "<b>Nothing selected!</b> Select objects to spray."
@@ -36041,7 +36046,7 @@ msgstr[2] ""
 
 #: ../src/ui/tools/tool-base.cpp:651
 msgid "<b>Space+mouse move</b> to pan canvas"
-msgstr "<b>Spacja + mysz przenosi</b> do panoramowania obszaru roboczego"
+msgstr "<b>Spacja + ruch myszką</b> przesuwa obszar roboczy"
 
 #: ../src/ui/tools/tweak-tool.cpp:143
 #, c-format
@@ -36992,379 +36997,404 @@ msgstr "Ustawienia funkcji w formie CSS (np. \"wxyz\" lub \"wxyz\" 3)."
 #: ../src/ui/widget/font-variations.cpp:52
 msgctxt "Variable font axis"
 msgid "Grade"
-msgstr "Gradacja grubości kreski"
+msgstr "Gradacja grubości kreski (GRAD)"
 
 #: ../src/ui/widget/font-variations.cpp:52
 msgid ""
 "Alter stroke thicknesses (or other forms) without affecting the type’s "
 "overall width"
 msgstr ""
+"Zmienia grubość kreski (lub innych form) bez wpływania na ogólną szerokość "
+"tekstu"
 
 #: ../src/ui/widget/font-variations.cpp:55
 msgctxt "Variable font axis"
 msgid "X opaque"
-msgstr ""
+msgstr "X opaque (XOPQ)"
 
 #: ../src/ui/widget/font-variations.cpp:55
 msgid "Alter the opaque stroke forms of glyphs in the X dimension"
 msgstr ""
+"Kontroluje grubość pionowych elementów czcionki, takich jak trzonki w "
+"literze H"
 
 #: ../src/ui/widget/font-variations.cpp:58
 msgctxt "Variable font axis"
 msgid "Y opaque"
-msgstr ""
+msgstr "Y opaque (YOPQ)"
 
 #: ../src/ui/widget/font-variations.cpp:58
 msgid "Alter the opaque stroke forms of glyphs in the Y dimension"
 msgstr ""
+"Kontroluje grubość poziomych elementów czcionki, takich jak poprzeczka w "
+"literze H"
 
 #: ../src/ui/widget/font-variations.cpp:62
 msgctxt "Variable font axis"
 msgid "X transparent"
-msgstr ""
+msgstr "X transparent (XTRA)"
 
 #: ../src/ui/widget/font-variations.cpp:62
 msgid ""
 "Alter the transparent spaces inside and around all glyphs along the X "
 "dimension"
 msgstr ""
+"Kontroluje przestrzenie negatywne wewnątrz i wokół glifów w kierunku poziomym"
 
 #: ../src/ui/widget/font-variations.cpp:63
 msgctxt "Variable font axis"
 msgid "Y transparent"
-msgstr ""
+msgstr "Y transparent (YTRA)"
 
 #: ../src/ui/widget/font-variations.cpp:63
 msgid ""
 "Alter the transparent spaces inside and around all glyphs along the Y "
 "dimension"
 msgstr ""
+"Kontroluje przestrzenie negatywne wewnątrz i wokół glifów w kierunku pinowym"
 
 #: ../src/ui/widget/font-variations.cpp:65
 msgctxt "Variable font axis"
 msgid "X transparent Chinese"
-msgstr ""
+msgstr "X transparent - chińskie (XTCH)"
 
 #: ../src/ui/widget/font-variations.cpp:65
 msgid "Alter the width of Chinese glyphs"
-msgstr ""
+msgstr "Zmienia szerokość glifów pisma chińskiego"
 
 #: ../src/ui/widget/font-variations.cpp:66
 msgctxt "Variable font axis"
 msgid "Y transparent Chinese"
-msgstr ""
+msgstr "Y transparent - chińskie (YTCH)"
 
 #: ../src/ui/widget/font-variations.cpp:66
 msgid "Alter the height of Chinese glyphs"
-msgstr ""
+msgstr "Zmienia wysokość glifów pisma chińskiego"
 
 #: ../src/ui/widget/font-variations.cpp:68
 msgctxt "Variable font axis"
 msgid "Lowercase height"
-msgstr ""
+msgstr "Wysokość małych liter (YTLC)"
 
 #: ../src/ui/widget/font-variations.cpp:68
 msgid ""
 "Vary the height of counters and other spaces between the baseline and x-"
 "height"
 msgstr ""
+"Reguluje wysokość światła wewnętrznego oraz innych przestrzeni między linią "
+"bazową a wysokością."
 
 #: ../src/ui/widget/font-variations.cpp:70
 msgctxt "Variable font axis"
 msgid "Uppercase height"
-msgstr "Wysokość wielkich liter"
+msgstr "Wysokość wielkich liter (YTUC)"
 
 #: ../src/ui/widget/font-variations.cpp:70
 msgid "Vary the height of uppercase letterforms"
-msgstr ""
+msgstr "Kontroluje wysokość wielkich liter."
 
 #: ../src/ui/widget/font-variations.cpp:72
 msgctxt "Variable font axis"
 msgid "Ascender height"
-msgstr ""
+msgstr "Wydłużenie górne (YTAS)"
 
 #: ../src/ui/widget/font-variations.cpp:72
 msgid "Vary the height of lowercase ascenders"
-msgstr ""
+msgstr "Kontroluje długość wydłużenia górnego liter takich jak “h”"
 
 #: ../src/ui/widget/font-variations.cpp:74
 msgctxt "Variable font axis"
 msgid "Descender depth"
-msgstr ""
+msgstr "Wydłużenie dolne (YTDE)"
 
 #: ../src/ui/widget/font-variations.cpp:74
 msgid "Vary the depth of lowercase descenders"
-msgstr ""
+msgstr "Kontroluje długość wydłużenia dolnego liter takich jak “p”"
 
 #: ../src/ui/widget/font-variations.cpp:76
 msgctxt "Variable font axis"
 msgid "Figure height"
-msgstr ""
+msgstr "Wysokość cyfr (YTFI)"
 
 #: ../src/ui/widget/font-variations.cpp:76
 msgid "Vary the height of figures"
-msgstr ""
+msgstr "Kontroluje wysokość cyfr"
 
 #: ../src/ui/widget/font-variations.cpp:78
 msgctxt "Variable font axis"
 msgid "Serif rise"
-msgstr ""
+msgstr "Podniesienie szeryfu (YTSE)"
 
 #: ../src/ui/widget/font-variations.cpp:78
 msgid "Vary the shape of the serifs"
-msgstr ""
+msgstr "Kontroluje kształt szeryfów"
 
 #: ../src/ui/widget/font-variations.cpp:80
 msgctxt "Variable font axis"
 msgid "Flare"
-msgstr ""
+msgstr "Rozkloszowanie (FLAR)"
 
 #: ../src/ui/widget/font-variations.cpp:80
 msgid "Controls the flaring of the stems"
 msgstr ""
+"Kontroluje rozszerzanie trzonów liter określając sposób, w jaki kreski "
+"przechodzą od prostych części do rozszerzonych zakończeń"
 
 #: ../src/ui/widget/font-variations.cpp:83
 msgctxt "Variable font axis"
 msgid "Volume"
-msgstr ""
+msgstr "Wyrazistość (VOLM)"
 
 #: ../src/ui/widget/font-variations.cpp:83
 msgid "Volume works in combination with flare to transform serifs"
 msgstr ""
+"Wyrazistość która pozwala wzmacniać detale kroju pisma, aby podkreślić jego "
+"charakter."
 
 #: ../src/ui/widget/font-variations.cpp:85
 msgctxt "Variable font axis"
 msgid "Softness"
-msgstr ""
+msgstr "Miękkość (SOFT)"
 
 #: ../src/ui/widget/font-variations.cpp:85
 msgid "Softness makes letterforms more soft and rounded"
 msgstr ""
+"Miękkość powoduje że formy liter stają się bardziej miękkie i zaokrąglone"
 
 #: ../src/ui/widget/font-variations.cpp:87
 msgctxt "Variable font axis"
 msgid "Casual"
-msgstr ""
+msgstr "Charakter (CASL)"
 
 #: ../src/ui/widget/font-variations.cpp:87
 msgid "Adjust the letterforms from a more serious style to a more casual style"
 msgstr ""
+"Zmienia formy liter of bardziej poważnego, formalnego stylu do stylu "
+"bardziej swobodnego, codzinnego."
 
 #: ../src/ui/widget/font-variations.cpp:89
 msgctxt "Variable font axis"
 msgid "Cursive"
-msgstr ""
+msgstr "Kursywa (CRSV)"
 
 #: ../src/ui/widget/font-variations.cpp:89
 msgid "Control the substitution of cursive forms"
-msgstr ""
+msgstr "Kontroluje zamianę form na kursywę."
 
 #: ../src/ui/widget/font-variations.cpp:91
 msgctxt "Variable font axis"
 msgid "Fill"
-msgstr ""
+msgstr "Wypełnienie (FILL)"
 
 #: ../src/ui/widget/font-variations.cpp:91
 msgid "Fill can turn transparent forms opaque"
 msgstr ""
+"Kontroluje wypełnienie kształtów. Może zmienić przejrzyste symbole na "
+"kryjące."
 
 #: ../src/ui/widget/font-variations.cpp:93
 msgctxt "Variable font axis"
 msgid "Monospace"
-msgstr ""
+msgstr "Jednolita szerokość (MONO)"
 
 #: ../src/ui/widget/font-variations.cpp:93
 msgid "Adjust the glyphs from a proportional width to a fixed width"
-msgstr ""
+msgstr "Kontroluje szerokość znaków od proporcjonalnej do jednolitej"
 
 #: ../src/ui/widget/font-variations.cpp:95
 msgctxt "Variable font axis"
 msgid "Wonky"
-msgstr ""
+msgstr "Pokrzywienie (WONK)"
 
 #: ../src/ui/widget/font-variations.cpp:95
 msgid "Binary switch used to control substitution of “wonky” forms"
-msgstr ""
+msgstr "Wartość binarna sterująca zamianą form na pokrzywione odpowiedniki."
 
 #: ../src/ui/widget/font-variations.cpp:97
 msgctxt "Variable font axis"
 msgid "Element shape"
-msgstr ""
+msgstr "Kształt elementów (ELSH)"
 
 #: ../src/ui/widget/font-variations.cpp:97
 msgid "Selection of the base element glyphs are composed of"
 msgstr ""
+"Określa kształt bazowego elementu, z którego budowane są glify. Może płynnie "
+"przechodzić między kształtami lub przeskakiwać między nimi."
 
 #: ../src/ui/widget/font-variations.cpp:99
 msgctxt "Variable font axis"
 msgid "Element grid"
-msgstr ""
+msgstr "Siatka elementów (ELGR)"
 
 #: ../src/ui/widget/font-variations.cpp:99
 msgid "Controls how many elements are used per one grid unit"
-msgstr ""
+msgstr "Kontroluje liczbę elementów użytych na jedno oczko siatki"
 
 #: ../src/ui/widget/font-variations.cpp:104
 msgctxt "Variable font axis"
 msgid "Optical size"
-msgstr ""
+msgstr "Rozmiar optyczny (OPSZ)"
 
 #: ../src/ui/widget/font-variations.cpp:104
 msgid "Optimize the typeface for use at specific size"
 msgstr ""
+"Dostosowuje krój pisma do określonego rozmiaru w celu optymalizacji "
+"czytelności."
 
 #: ../src/ui/widget/font-variations.cpp:106
 msgctxt "Variable font axis"
 msgid "Slant"
-msgstr "Pochylenie"
+msgstr "Nachylenie (SLNT)"
 
 #: ../src/ui/widget/font-variations.cpp:106
 msgid "Controls the font file’s slant parameter for oblique styles"
-msgstr ""
+msgstr "Kontroluje stopień nachylenia czcionki w stylach pochylonych."
 
 #: ../src/ui/widget/font-variations.cpp:108
 msgctxt "Variable font axis"
 msgid "Italic"
-msgstr "Kursywa"
+msgstr "Kursywa (ITAL)"
 
 #: ../src/ui/widget/font-variations.cpp:108
 msgid "Turns on the font’s italic forms"
-msgstr ""
+msgstr "Przełącza czcionkę na kursywę"
 
 #: ../src/ui/widget/font-variations.cpp:110
 msgctxt "Variable font axis"
 msgid "Weight"
-msgstr "Waga"
+msgstr "Grubość (WGHT)"
 
 #: ../src/ui/widget/font-variations.cpp:110
 msgid "Controls the font file’s weight parameter"
-msgstr ""
+msgstr "Kontroluje grubość czcionki"
 
 #: ../src/ui/widget/font-variations.cpp:112
 msgctxt "Variable font axis"
 msgid "Width"
-msgstr "Szerokość"
+msgstr "Szerokość (WDTH)"
 
 #: ../src/ui/widget/font-variations.cpp:112
 msgid "Controls the font file’s width parameter"
-msgstr ""
+msgstr "Kontroluje szerokość czcionki"
 
 #: ../src/ui/widget/font-variations.cpp:114
 msgctxt "Variable font axis"
 msgid "Tabular width"
-msgstr "Szerokość tabulacji"
+msgstr "Szerokość tabulacji (XTAB)"
 
 #: ../src/ui/widget/font-variations.cpp:114
 msgid "Controls the tabular width"
-msgstr ""
+msgstr "Kontroluje szerokość tabulacji"
 
 #: ../src/ui/widget/font-variations.cpp:115
 msgctxt "Variable font axis"
 msgid "Underline"
-msgstr "Podkreślenie"
+msgstr "Podkreślenie (UDLN)"
 
 #: ../src/ui/widget/font-variations.cpp:115
 msgid "Controls the weight of an underline"
-msgstr ""
+msgstr "Kontroluje grubość podkreślenia"
 
 #: ../src/ui/widget/font-variations.cpp:116
 msgctxt "Variable font axis"
 msgid "Shadow"
-msgstr "Cień"
+msgstr "Cień (SHDW)"
 
 #: ../src/ui/widget/font-variations.cpp:116
 msgid "Controls the depth of a shadow"
-msgstr ""
+msgstr "Kontroluje głębokość cienia"
 
 #: ../src/ui/widget/font-variations.cpp:117
 msgctxt "Variable font axis"
 msgid "Reflection"
-msgstr "Odbicie"
+msgstr "Odbicie (REFL)"
 
 #: ../src/ui/widget/font-variations.cpp:117
 msgid "Controls the Y reflection"
-msgstr ""
+msgstr "Kontroluje stopień odbicia w osi Y"
 
 #: ../src/ui/widget/font-variations.cpp:118
 msgctxt "Variable font axis"
 msgid "Outline"
-msgstr "Zarys"
+msgstr "Obrys (OTLN)"
 
 #: ../src/ui/widget/font-variations.cpp:118
 msgid "Controls the weight of a font’s outline"
-msgstr ""
+msgstr "Kontroluje grubość obrysu czcionki"
 
 #: ../src/ui/widget/font-variations.cpp:119
 msgctxt "Variable font axis"
 msgid "Engrave"
-msgstr ""
+msgstr "Grawerowanie (ENGR)"
 
 #: ../src/ui/widget/font-variations.cpp:119
 msgid "Controls the width of an engraving"
-msgstr ""
+msgstr "Kontroluje szerokość grawerowania"
 
 #: ../src/ui/widget/font-variations.cpp:120
 msgctxt "Variable font axis"
 msgid "Emboss"
-msgstr ""
+msgstr "Uwypuklenie (EMBO)"
 
 #: ../src/ui/widget/font-variations.cpp:120
 msgid "Controls the depth of an emboss"
-msgstr ""
+msgstr "Kontroluje głębokość uwypuklenia"
 
 #: ../src/ui/widget/font-variations.cpp:121
 msgctxt "Variable font axis"
 msgid "Relative X advance"
-msgstr ""
+msgstr "Względne przesunięcie X (RXAD)"
 
 #: ../src/ui/widget/font-variations.cpp:121
 msgid "Controls the relative X advance - horizontal motion of the glyph"
-msgstr ""
+msgstr "Kontroluje względne przesunięcie - ruch glifów w poziomie"
 
 #: ../src/ui/widget/font-variations.cpp:122
 msgctxt "Variable font axis"
 msgid "Relative Y advance"
-msgstr ""
+msgstr "Względne przesunięcie Y (RYAD)"
 
 #: ../src/ui/widget/font-variations.cpp:122
 msgid "Controls the relative Y advance - vertical motion of the glyph"
-msgstr ""
+msgstr "Kontroluje względne przesunięcie - ruch glifów w pionie"
 
 #: ../src/ui/widget/font-variations.cpp:123
 msgctxt "Variable font axis"
 msgid "Relative second"
-msgstr ""
+msgstr "Względna sekunda (RSEC)"
 
 #: ../src/ui/widget/font-variations.cpp:123
 msgid "Controls the relative second value - as in one second of animation time"
 msgstr ""
+"Kontroluje prędkość animacji - określając względną długość trwania jednej "
+"sekundy"
 
 #: ../src/ui/widget/font-variations.cpp:124
 msgctxt "Variable font axis"
 msgid "Rotation"
-msgstr ""
+msgstr "Nachylenie (VROT)"
 
 #: ../src/ui/widget/font-variations.cpp:124
 msgid "Controls the rotation of the glyph in degrees"
-msgstr ""
+msgstr "Kontroluje nachylenie glifów w stopniach"
 
 #: ../src/ui/widget/font-variations.cpp:125
 msgctxt "Variable font axis"
 msgid "Unicode variation"
-msgstr "Wariant Unicode"
+msgstr "Wariant Unicode (VUID)"
 
 #: ../src/ui/widget/font-variations.cpp:125
 msgid "Controls the glyph’s unicode ID"
-msgstr ""
+msgstr "Określa identyfikator Unicode glifu"
 
 #: ../src/ui/widget/font-variations.cpp:126
 msgctxt "Variable font axis"
 msgid "Feature variation"
-msgstr ""
+msgstr "Wariant cech (VOTF)"
 
 #: ../src/ui/widget/font-variations.cpp:126
 msgid "Controls the glyph’s feature variation"
-msgstr ""
+msgstr "Kontroluje wariant cech czcionki"
 
 #: ../src/ui/widget/gradient-editor.cpp:216
 msgid "Stop color"
@@ -37883,23 +37913,19 @@ msgstr "Wyzeruj przezroczystość konturu"
 
 #. TRANSLATORS COMMENT: unset is a verb here
 #: ../src/ui/widget/selected-style.cpp:724
-#, fuzzy
 msgid "Unset Fill"
-msgstr "Nie określono wypełnienia"
+msgstr "Cofnij ustawienie wypełnienia"
 
 #: ../src/ui/widget/selected-style.cpp:725
-#, fuzzy
 msgid "Unset Stroke"
-msgstr "Nie określono konturu"
+msgstr "Cofnij ustawienie konturu"
 
 #: ../src/ui/widget/selected-style.cpp:726
-#, fuzzy
 msgid "Remove Fill"
 msgstr "Usuń wypełnienie"
 
 #: ../src/ui/widget/selected-style.cpp:727
 #: ../src/ui/widget/selected-style.cpp:764
-#, fuzzy
 msgid "Remove Stroke"
 msgstr "Usuń kontur"
 
@@ -37924,14 +37950,12 @@ msgid "Stroke is averaged over selected objects"
 msgstr "Uśredniony styl konturu z zaznaczonych obiektów"
 
 #: ../src/ui/widget/selected-style.cpp:934
-#, fuzzy
 msgid "Multiple selected objects have same fill"
-msgstr "Wszystkie zaznaczone obiekty mają ten sam styl wypełnienia"
+msgstr "Wiele zaznaczonych obiektów ma ten sam styl wypełnienia"
 
 #: ../src/ui/widget/selected-style.cpp:935
-#, fuzzy
 msgid "Multiple selected objects have same stroke"
-msgstr "Wszystkie zaznaczone obiekty mają ten sam styl konturu"
+msgstr "Wiele zaznaczonych obiektów ma ten sam styl konturu"
 
 #: ../src/ui/widget/selected-style.cpp:965
 msgid ""
@@ -38830,7 +38854,7 @@ msgstr "Znajdź kolor według nazwy"
 
 #: ../share/ui/dialog-swatches.glade:102
 msgid "Load palette of colors or swatches"
-msgstr ""
+msgstr "Wczytaj paletę kolorów lub próbki kolorów"
 
 #: ../share/ui/dialog-swatches.glade:118
 msgid "New swatch"
