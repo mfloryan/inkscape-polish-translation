@@ -9,14 +9,15 @@
 # Artur Krzysztof Wróblewski <krypalkora1984@gmail.com>, 2021.
 # Rafał Siejakowski <rs@rs-math.net>, 2022.
 # Michał Kowalski <michal_kowalski@hotmail.com>, 2023.
+# Marcin Floryan <marcin.floryan@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Inkscape 1.4\n"
 "Report-Msgid-Bugs-To: inkscape-translator@lists.inkscape.org\n"
-"POT-Creation-Date: 2025-01-09 14:26+0000\n"
-"PO-Revision-Date: 2025-02-05 20:56+0100\n"
-"Last-Translator: Michał Kowalski\n"
+"POT-Creation-Date: 2025-02-06 12:16+0100\n"
+"PO-Revision-Date: 2025-02-06 12:17+0100\n"
+"Last-Translator: Marcin Floryan\n"
 "Language-Team: Polish Inkscape Translation Team\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
@@ -24,9 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Poedit-Basepath: ../../gitlab.com/inkscape/po\n"
 "X-Generator: Poedit 3.5\n"
-"X-Poedit-SearchPath-0: .\n"
 
 #: ../build/share/filters/filters.svg.h:2
 msgid "Fast Crop"
@@ -6711,7 +6710,7 @@ msgid "Zoom to 2:1"
 msgstr "Skala 2:1"
 
 #: ../src/actions/actions-canvas-transform.cpp:274 ../share/ui/menus.ui:396
-#: ../share/ui/statusbar.ui:13 ../share/ui/toolbar-commands.ui:315
+#: ../share/ui/statusbar.ui:13 ../share/ui/toolbar-commands.ui:336
 #: ../share/ui/toolbar-zoom.ui:112
 msgid "Zoom Selection"
 msgstr "Powiększ zaznaczenie"
@@ -6721,7 +6720,7 @@ msgid "Zoom to fit selection in window"
 msgstr "Dopasowuje rozmiar zaznaczenia do okna"
 
 #: ../src/actions/actions-canvas-transform.cpp:275 ../share/ui/menus.ui:401
-#: ../share/ui/statusbar.ui:18 ../share/ui/toolbar-commands.ui:337
+#: ../share/ui/statusbar.ui:18 ../share/ui/toolbar-commands.ui:361
 #: ../share/ui/toolbar-zoom.ui:129
 msgid "Zoom Drawing"
 msgstr "Powiększ rysunek"
@@ -6731,7 +6730,7 @@ msgid "Zoom to fit drawing in window"
 msgstr "Dopasowuje rozmiar rysunku do okna"
 
 #: ../src/actions/actions-canvas-transform.cpp:276 ../share/ui/menus.ui:406
-#: ../share/ui/statusbar.ui:23 ../share/ui/toolbar-commands.ui:359
+#: ../share/ui/statusbar.ui:23 ../share/ui/toolbar-commands.ui:386
 #: ../share/ui/toolbar-zoom.ui:146
 msgid "Zoom Page"
 msgstr "Powiększ stronę"
@@ -6750,7 +6749,7 @@ msgid "Zoom to fit page width in window"
 msgstr "Dopasowuje szerokość strony do okna"
 
 #: ../src/actions/actions-canvas-transform.cpp:278
-#: ../share/ui/toolbar-commands.ui:381
+#: ../share/ui/toolbar-commands.ui:411
 msgid "Zoom Center Page"
 msgstr "Powiększ i wycentruj stronę"
 
@@ -7378,7 +7377,7 @@ msgstr ""
 #: ../src/actions/actions-edit.cpp:304 ../src/filter-enums.cpp:95
 #: ../src/selection-chemistry.cpp:599 ../src/selection-chemistry.cpp:603
 #: ../share/ui/dialog-livepatheffect-item.glade:8
-#: ../share/ui/toolbar-commands.ui:435
+#: ../share/ui/toolbar-commands.ui:447
 msgid "Duplicate"
 msgstr "Powiel"
 
@@ -7390,7 +7389,7 @@ msgstr "Duplikuje zaznaczone obiekty"
 msgid "Duplicate selected objects and reapply last transformation"
 msgstr "Duplikuj zaznaczone obiekty i zastosuj ostatnie przekształcenie"
 
-#: ../src/actions/actions-edit.cpp:306 ../share/ui/toolbar-commands.ui:460
+#: ../src/actions/actions-edit.cpp:306 ../share/ui/toolbar-commands.ui:472
 msgid "Create Clone"
 msgstr "Utwórz klon"
 
@@ -7398,7 +7397,7 @@ msgstr "Utwórz klon"
 msgid "Create a clone (a copy linked to the original) of selected object"
 msgstr "Tworzy klon zaznaczonego obiektu (kopia połączona z oryginałem)"
 
-#: ../src/actions/actions-edit.cpp:307 ../share/ui/toolbar-commands.ui:485
+#: ../src/actions/actions-edit.cpp:307 ../share/ui/toolbar-commands.ui:497
 msgid "Unlink Clone"
 msgstr "Odłącz klon"
 
@@ -9363,14 +9362,14 @@ msgstr "Usuwa wybrany obiekty po zakończeniu tworzenia nowego kształtu"
 
 #: ../src/actions/actions-selection-object.cpp:37
 #: ../src/actions/actions-selection-object.cpp:147
-#: ../share/ui/toolbar-commands.ui:524
+#: ../share/ui/toolbar-commands.ui:536
 msgctxt "Verb"
 msgid "Group"
 msgstr "Zgrupuj"
 
 #: ../src/actions/actions-selection-object.cpp:46
 #: ../src/actions/actions-selection-object.cpp:148
-#: ../src/selection-chemistry.cpp:945 ../share/ui/toolbar-commands.ui:549
+#: ../src/selection-chemistry.cpp:945 ../share/ui/toolbar-commands.ui:561
 msgid "Ungroup"
 msgstr "Rozdziel grupę"
 
@@ -9499,7 +9498,7 @@ msgstr ""
 "Zaznacza wszystkie obiekty na wszystkich widocznych i odblokowanych warstwach"
 
 #: ../src/actions/actions-selection-window.cpp:126
-#: ../share/ui/toolbar-commands.ui:588
+#: ../share/ui/toolbar-commands.ui:600
 msgid "Fill and Stroke"
 msgstr "Wypełnienie i kontur"
 
@@ -22770,7 +22769,7 @@ msgstr "Przenieś stronę do _tyłu"
 msgid "Move Page _Forward"
 msgstr "Przenieś stronę do _przodu"
 
-#: ../src/ui/contextmenu.cpp:201 ../share/ui/toolbar-commands.ui:758
+#: ../src/ui/contextmenu.cpp:201 ../share/ui/toolbar-commands.ui:770
 msgid "Document Properties..."
 msgstr "Właściwości dokumentu…"
 
@@ -28533,7 +28532,7 @@ msgid "This preference fixes icon positions in menus."
 msgstr "To ustawienie może poprawić wygląd ikon w menu."
 
 #: ../src/ui/dialog/inkscape-preferences.cpp:1826
-#: ../share/ui/toolbar-commands.ui:666
+#: ../share/ui/toolbar-commands.ui:678
 msgid "XML Editor"
 msgstr "Edytor XML"
 
@@ -33183,6 +33182,36 @@ msgstr "Przekształcenia"
 msgid "Shape Builder"
 msgstr "Fabryka kształtów"
 
+#: ../src/ui/modifiers.cpp:236
+msgid "[NEVER]"
+msgstr "[NIGDY]"
+
+#
+# File: ../src/ui/tool/node.cpp, line: 611
+#: ../src/ui/modifiers.cpp:239
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: ../src/ui/modifiers.cpp:242
+msgid "Shift"
+msgstr "Shift"
+
+#: ../src/ui/modifiers.cpp:246
+msgid "Alt"
+msgstr "Alt"
+
+#: ../src/ui/modifiers.cpp:250
+msgid "Super"
+msgstr "Super"
+
+#: ../src/ui/modifiers.cpp:254
+msgid "Hyper"
+msgstr "Hyper"
+
+#: ../src/ui/modifiers.cpp:258
+msgid "Meta"
+msgstr "Meta"
+
 #: ../src/ui/shape-editor-knotholders.cpp:576
 msgid ""
 "Adjust the <b>horizontal rounding</b> radius; with <b>Ctrl</b> to make the "
@@ -36994,6 +37023,8 @@ msgstr "Warianty Ruby. Tabela OpenType: \"Ruby\"."
 msgid "Feature settings in CSS form (e.g. \"wxyz\" or \"wxyz\" 3)."
 msgstr "Ustawienia funkcji w formie CSS (np. \"wxyz\" lub \"wxyz\" 3)."
 
+#. TRANSLATORS: “Grade” (GRAD in CSS) is an axis that can be used to alter stroke thicknesses (or other forms)
+#. without affecting the type's overall width, inter-letter spacing, or kerning — unlike altering weight.
 #: ../src/ui/widget/font-variations.cpp:52
 msgctxt "Variable font axis"
 msgid "Grade"
@@ -37007,6 +37038,8 @@ msgstr ""
 "Zmienia grubość kreski (lub innych form) bez wpływania na ogólną szerokość "
 "tekstu"
 
+#. TRANSLATORS: “Parametric Thick Stroke”, XOPQ, is a reference to its logical name, “X Opaque”,
+#. which describes how it alters the opaque stroke forms of glyphs typically in the X dimension
 #: ../src/ui/widget/font-variations.cpp:55
 msgctxt "Variable font axis"
 msgid "X opaque"
@@ -37018,6 +37051,8 @@ msgstr ""
 "Kontroluje grubość pionowych elementów czcionki, takich jak trzonki w "
 "literze H"
 
+#. TRANSLATORS: “Parametric Thin Stroke”, YOPQ, is a reference to its logical name, “Y Opaque”,
+#. which describes how it alters the opaque stroke forms of glyphs typically in the Y dimension
 #: ../src/ui/widget/font-variations.cpp:58
 msgctxt "Variable font axis"
 msgid "Y opaque"
@@ -37029,6 +37064,9 @@ msgstr ""
 "Kontroluje grubość poziomych elementów czcionki, takich jak poprzeczka w "
 "literze H"
 
+#. TRANSLATORS: “Parametric Counter Width”, XTRA, is a reference to its logical name, “X-Transparent,”
+#. which describes how it alters a font’s transparent spaces (also known as negative shapes)
+#. inside and around all glyphs along the X dimension
 #: ../src/ui/widget/font-variations.cpp:62
 msgctxt "Variable font axis"
 msgid "X transparent"
@@ -37053,6 +37091,7 @@ msgid ""
 msgstr ""
 "Kontroluje przestrzenie negatywne wewnątrz i wokół glifów w kierunku pinowym"
 
+#. TRANSLATORS: Width/height of Chinese glyphs
 #: ../src/ui/widget/font-variations.cpp:65
 msgctxt "Variable font axis"
 msgid "X transparent Chinese"
@@ -37071,6 +37110,7 @@ msgstr "Y transparent - chińskie (YTCH)"
 msgid "Alter the height of Chinese glyphs"
 msgstr "Zmienia wysokość glifów pisma chińskiego"
 
+#. TRANSLATORS: “Parametric Lowercase Height”
 #: ../src/ui/widget/font-variations.cpp:68
 msgctxt "Variable font axis"
 msgid "Lowercase height"
@@ -37084,6 +37124,7 @@ msgstr ""
 "Reguluje wysokość światła wewnętrznego oraz innych przestrzeni między linią "
 "bazową a wysokością."
 
+#. TRANSLATORS: “Parametric Uppercase Counter Height”
 #: ../src/ui/widget/font-variations.cpp:70
 msgctxt "Variable font axis"
 msgid "Uppercase height"
@@ -37093,6 +37134,7 @@ msgstr "Wysokość wielkich liter (YTUC)"
 msgid "Vary the height of uppercase letterforms"
 msgstr "Kontroluje wysokość wielkich liter."
 
+#. TRANSLATORS: “Parametric Ascender Height”
 #: ../src/ui/widget/font-variations.cpp:72
 msgctxt "Variable font axis"
 msgid "Ascender height"
@@ -37102,6 +37144,7 @@ msgstr "Wydłużenie górne (YTAS)"
 msgid "Vary the height of lowercase ascenders"
 msgstr "Kontroluje długość wydłużenia górnego liter takich jak “h”"
 
+#. TRANSLATORS: “Parametric Descender Depth”
 #: ../src/ui/widget/font-variations.cpp:74
 msgctxt "Variable font axis"
 msgid "Descender depth"
@@ -37111,6 +37154,7 @@ msgstr "Wydłużenie dolne (YTDE)"
 msgid "Vary the depth of lowercase descenders"
 msgstr "Kontroluje długość wydłużenia dolnego liter takich jak “p”"
 
+#. TRANSLATORS: “Parametric Figure Height”
 #: ../src/ui/widget/font-variations.cpp:76
 msgctxt "Variable font axis"
 msgid "Figure height"
@@ -37120,6 +37164,7 @@ msgstr "Wysokość cyfr (YTFI)"
 msgid "Vary the height of figures"
 msgstr "Kontroluje wysokość cyfr"
 
+#. TRANSLATORS: "Serif rise" - found in the wild (https://github.com/googlefonts/amstelvar)
 #: ../src/ui/widget/font-variations.cpp:78
 msgctxt "Variable font axis"
 msgid "Serif rise"
@@ -37129,6 +37174,7 @@ msgstr "Podniesienie szeryfu (YTSE)"
 msgid "Vary the shape of the serifs"
 msgstr "Kontroluje kształt szeryfów"
 
+#. TRANSLATORS: Flare - flaring of the stems
 #: ../src/ui/widget/font-variations.cpp:80
 msgctxt "Variable font axis"
 msgid "Flare"
@@ -37140,6 +37186,8 @@ msgstr ""
 "Kontroluje rozszerzanie trzonów liter określając sposób, w jaki kreski "
 "przechodzą od prostych części do rozszerzonych zakończeń"
 
+#. TRANSLATORS: Volume - The volume axis works only in combination with the Flare axis. It transforms the serifs
+#. and adds a little more edge to details.
 #: ../src/ui/widget/font-variations.cpp:83
 msgctxt "Variable font axis"
 msgid "Volume"
@@ -37230,6 +37278,10 @@ msgstr "Siatka elementów (ELGR)"
 msgid "Controls how many elements are used per one grid unit"
 msgstr "Kontroluje liczbę elementów użytych na jedno oczko siatki"
 
+#. TRANSLATORS: “Optical Size”
+#. Optical sizes in a variable font are different versions of a typeface optimized for use at singular specific sizes,
+#. such as 14 pt or 144 pt. Small (or body) optical sizes tend to have less stroke contrast, more open and wider spacing,
+#. and a taller x-height than those of their large (or display) counterparts.
 #: ../src/ui/widget/font-variations.cpp:104
 msgctxt "Variable font axis"
 msgid "Optical size"
@@ -37241,6 +37293,7 @@ msgstr ""
 "Dostosowuje krój pisma do określonego rozmiaru w celu optymalizacji "
 "czytelności."
 
+#. TRANSLATORS: Slant controls the font file’s slant parameter for oblique styles.
 #: ../src/ui/widget/font-variations.cpp:106
 msgctxt "Variable font axis"
 msgid "Slant"
@@ -37259,6 +37312,7 @@ msgstr "Kursywa (ITAL)"
 msgid "Turns on the font’s italic forms"
 msgstr "Przełącza czcionkę na kursywę"
 
+#. TRANSLATORS: Weight controls the font file’s weight parameter.
 #: ../src/ui/widget/font-variations.cpp:110
 msgctxt "Variable font axis"
 msgid "Weight"
@@ -37268,6 +37322,7 @@ msgstr "Grubość (WGHT)"
 msgid "Controls the font file’s weight parameter"
 msgstr "Kontroluje grubość czcionki"
 
+#. TRANSLATORS: Width controls the font file’s width parameter.
 #: ../src/ui/widget/font-variations.cpp:112
 msgctxt "Variable font axis"
 msgid "Width"
@@ -39625,9 +39680,8 @@ msgid "Orientation:"
 msgstr "Orientacja:"
 
 #: ../share/ui/gradient-edit.glade:283
-#, fuzzy
 msgid "Adjust angle of the gradient"
-msgstr "Dopasowywanie początku obrotu"
+msgstr "Dopasowywanie nachylenie gradientu"
 
 #: ../share/ui/gradient-edit.glade:299
 msgid "Repeat:"
@@ -40227,7 +40281,7 @@ msgstr "Niedozwolony rozmiar procentowy!"
 #: ../share/ui/page-properties.glade:583
 msgid ""
 "Link the scale of the viewbox to the scale of the content in the document."
-msgstr ""
+msgstr "Powiąż skalę ramki wyświetlania ze skalą zawartości dokumentu."
 
 #: ../share/ui/page-properties.glade:660
 msgid "Display units:"
@@ -41234,49 +41288,43 @@ msgid "Accept"
 msgstr "Akceptuj"
 
 #: ../share/ui/toolbar-box3d.ui:32
-#, fuzzy
 msgid "Angle of perspective lines in x-direction"
-msgstr "Kąt linii perspektywy w orientacji X"
+msgstr "Nachylenie linii perspektywy w osi X"
 
 #: ../share/ui/toolbar-box3d.ui:61
-#, fuzzy
 msgid ""
 "Toggle vanishing point in x-direction between 'finite' and 'infinite' (= "
 "parallel)"
 msgstr ""
-"Przełącza punkt zbiegu w orientacji X pomiędzy „skończony” i „nieskończony” "
+"Przełącza punkt zbiegu w osi X pomiędzy „skończony” i „nieskończony” "
 "(=równoległy)"
 
 #: ../share/ui/toolbar-box3d.ui:77
-#, fuzzy
 msgid "Angle of perspective lines in y-direction"
-msgstr "Kąt linii perspektywy w orientacji X"
+msgstr "Nachylenie linii perspektywy w osi Y"
 
 #: ../share/ui/toolbar-box3d.ui:81
 msgid "Angle Y:"
 msgstr "Kąt Y:"
 
 #: ../share/ui/toolbar-box3d.ui:108
-#, fuzzy
 msgid ""
 "Toggle vanishing point in y-direction between 'finite' and 'infinite' (= "
 "parallel)"
 msgstr ""
-"Przełącza punkt zbiegu w orientacji X pomiędzy „skończony” i „nieskończony” "
+"Przełącza punkt zbiegu w osi Y pomiędzy „skończony” i „nieskończony” "
 "(=równoległy)"
 
 #: ../share/ui/toolbar-box3d.ui:124
-#, fuzzy
 msgid "Angle of perspective lines in z-direction"
-msgstr "Kąt linii perspektywy w orientacji X"
+msgstr "Nachylenie linii perspektywy w osi Z"
 
 #: ../share/ui/toolbar-box3d.ui:155
-#, fuzzy
 msgid ""
 "Toggle vanishing point in z-direction between 'finite' and 'infinite' (= "
 "parallel)"
 msgstr ""
-"Przełącza punkt zbiegu w orientacji X pomiędzy „skończony” i „nieskończony” "
+"Przełącza punkt zbiegu w osi Y pomiędzy „skończony” i „nieskończony” "
 "(=równoległy)"
 
 #: ../share/ui/toolbar-calligraphy.ui:88
@@ -41421,23 +41469,23 @@ msgstr "Importuj…"
 msgid "Export..."
 msgstr "Eksportuj…"
 
-#: ../share/ui/toolbar-commands.ui:614
+#: ../share/ui/toolbar-commands.ui:626
 msgid "Text and Font"
 msgstr "Tekst i czcionka"
 
-#: ../share/ui/toolbar-commands.ui:640
+#: ../share/ui/toolbar-commands.ui:652
 msgid "Layers and Objects"
 msgstr "Warstwy i obiekty"
 
-#: ../share/ui/toolbar-commands.ui:692
+#: ../share/ui/toolbar-commands.ui:704
 msgid "Selectors and CSS..."
 msgstr "Selektory i CSS..."
 
-#: ../share/ui/toolbar-commands.ui:718
+#: ../share/ui/toolbar-commands.ui:730
 msgid "Align and Distribute..."
 msgstr "Wyrównaj i rozmieść…"
 
-#: ../share/ui/toolbar-commands.ui:784
+#: ../share/ui/toolbar-commands.ui:796
 msgid "Preferences..."
 msgstr "Ustawienia..."
 
@@ -42734,6 +42782,8 @@ msgid ""
 "To use the export hints option, you need to have previously exported the "
 "document. Otherwise no export hints exist!"
 msgstr ""
+"Aby użyć tej opcji, dokument musiał zostać wcześniej wyeksportowany. W "
+"przeciwnym razie brak jest informacji, które można by użyć."
 
 #: ../share/extensions/guillotine.py:191
 msgid ""
@@ -43148,19 +43198,9 @@ msgstr ""
 "\n"
 "Slajd {0!s}:"
 
-#: ../share/extensions/jessyink_summary.py:67
-#, python-brace-format
-msgid "{prefix}Layer name: {node.label}"
-msgstr "{prefix}Nazwa warstwy: {node.label}"
-
 #: ../share/extensions/jessyink_summary.py:82
 msgid "{0}Transition {1}: {2} ({3!s} s)"
 msgstr "{0} Przejście {1}: {2} ({3!s} s)"
-
-#: ../share/extensions/jessyink_summary.py:88
-#, python-brace-format
-msgid "{prefix}Transition {transition}: {name}"
-msgstr "{prefix}Przejście {transition}: {name}"
 
 #: ../share/extensions/jessyink_summary.py:95
 #, python-brace-format
@@ -43635,11 +43675,6 @@ msgstr "Wystąpił błąd podczas kompilacji typst: "
 msgid "No svg has been produced by compilation: "
 msgstr "Plik svg nie został utworzony w wyniku kompilacji: "
 
-#: ../share/extensions/typst_formula.py:69
-#, python-brace-format
-msgid "Expected file name was: {svg_file}."
-msgstr "Oczekiwana nazwa pliku to: {svg_file}."
-
 #: ../share/extensions/voronoi_diagram.py:163
 msgid "Please select objects!"
 msgstr "Proszę wybrać obiekty!"
@@ -43661,11 +43696,6 @@ msgstr "Musisz zaznaczyć przynajmniej dwa elementy."
 msgid ""
 "You must to select some \"Slicer rectangles\" or other \"Layout groups\"."
 msgstr "Musisz wybrać \"prostokąty fragmentatora\" lub inne \"grupy układów\"."
-
-#: ../share/extensions/webslicer_create_group.py:50
-#, python-brace-format
-msgid "The element \"{key}\" is not in the Web Slicer layer"
-msgstr "Element \"{key}\" nie znajduje się w warstwie do pocięcia sieci Web"
 
 #: ../share/extensions/webslicer_export.py:44
 msgid "You must give a directory to export the slices."
@@ -52210,12 +52240,12 @@ msgid "The Inkscape Community"
 msgstr "Społeczność użytkowników Inkscape'a"
 
 #: ../org.inkscape.Inkscape.appdata.xml.in:11
-#: ../org.inkscape.Inkscape.desktop.template:5
+#: ../org.inkscape.Inkscape.desktop.template:4
 msgid "Inkscape"
 msgstr "Inkscape"
 
 #: ../org.inkscape.Inkscape.appdata.xml.in:12
-#: ../org.inkscape.Inkscape.desktop.template:6
+#: ../org.inkscape.Inkscape.desktop.template:5
 msgid "Vector Graphics Editor"
 msgstr "Edytor grafiki wektorowej"
 
@@ -52264,358 +52294,15 @@ msgstr ""
 msgid "Main application window"
 msgstr "Główne okno aplikacji"
 
-#: ../org.inkscape.Inkscape.appdata.xml.in:49
-msgid "Inkscape 1.4"
-msgstr "Inkscape 1.4"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:51
-msgid "Extension Gallery"
-msgstr "Galeria rozszerzeń"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:52
-msgid "Experimental unified font browser"
-msgstr "Eksperymentalna, ujednolicona przeglądarka czcionek"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:53
-msgid "Customizable handles"
-msgstr "Możliwość dostosowania uchwytów"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:60
-msgid "Inkscape 1.3"
-msgstr "Inkscape 1.3"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:62
-msgid "Shape builder tool"
-msgstr "Narzędzie do budowania kształtów"
-
-#
-# File: ../src/ui/dialog/align-and-distribute.cpp, line: 1107
-#: ../org.inkscape.Inkscape.appdata.xml.in:63
-msgid "On-canvas pattern editing"
-msgstr "Edycja deseni bezpośrednio na płótnie"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:64
-msgid "Pattern editor"
-msgstr "Edytow deseni"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:65
-msgid "Pages margins and bleed"
-msgstr "Marginesy i spady strony"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:66
-msgid "Document resources dialog"
-msgstr "Okno zasobów dokumentu"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:67
-msgid "Font collections"
-msgstr "Kolekcje czcionek"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:68
-msgid "Syntax highlighting in XML Editor"
-msgstr "Podświetlanie składni tekstu w edytorze XML"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:69
-msgid "LPE dialog user interface redesign"
-msgstr "Nowo zaprojektowane okno efektów ścieżek"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:70
-msgid "Lots of performance improvements and bugfixes"
-msgstr "Poprawa wydajności i wiele usuniętych błędów"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:77
-msgid "Inkscape 1.2"
-msgstr "Inkscape 1.2"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:79
-msgid "Multiple pages support"
-msgstr "Możliwość definiowania wielu stron"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:80
-msgid "Editable markers and dash patterns"
-msgstr "Edycja znaczników i wzoru przerywanych kresek konturu"
-
-#
-# File: ../src/ui/dialog/align-and-distribute.cpp, line: 1107
-#: ../org.inkscape.Inkscape.appdata.xml.in:81
-msgid "On-canvas alignment and snapping"
-msgstr "Wyrównywanie położenia obiektów na płótnie"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:82
-msgid "Selectable origin for numerical transforms"
-msgstr "Wybór początku układu współrzędnych dla przekształceń"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:83
-msgid "Single dialog for alignment options"
-msgstr "Okno dialogowe z opcjami do wyrównywania obiektów"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:84
-msgid "Gradient editing in Fill and Stroke dialog"
-msgstr "Edycja gradientów w oknie wypełnienia i konturu"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:85
-msgid "Layers and Objects dialog merged"
-msgstr "Okna obiektów i warstw zostały połączone w jedno"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:86
-msgid "New UI for Snap settings"
-msgstr "Nowe UI do ustawienia opcji przyciągania"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:87
-msgid "More customization options"
-msgstr "Więcej nowych opcji dostosowywania programu"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:88
-msgid "Various performance improvements and bugfixes"
-msgstr "Różne ulepszenia wydajności i poprawki"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:95
-msgid "Inkscape 1.1"
-msgstr "Inkscape 1.1"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:97
-msgid "Welcome dialog"
-msgstr "Okno powitalne"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:98
-msgid "Command palette to search for functions"
-msgstr "Pasek poleceń z wyszukiwaniem funkcji programu"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:99
-msgid "Copypaste parts of paths"
-msgstr "Kopiowanie/wstawianie fragmentów ścieżek"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:100
-msgid "Complete rework of the dialog docking system"
-msgstr "Nowy system dokowania okien dialogowych"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:101
-msgid "New outline overlay mode"
-msgstr "Nowy tryb wyświetlania: nakładanie konturu"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:102
-msgid "Search field in Preferences dialog"
-msgstr "Pole wyszukiwania w oknie dialogowym preferencji"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:103
-msgid "Improved Export PNG dialog"
-msgstr "Ulepszony dialog eksportu do PNG"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:104
-msgid "Ability to directly export JPG, TIFF, optimized PNG, and WebP"
-msgstr ""
-"Możliwość bezpośredniego eksportu do JPG, TIFF, zoptymalizowanego PNG i WebP"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:105
-msgid "Paste now pastes directly above selected object"
-msgstr "Wstawianie ze schowka wstawia bezpośrednio ponad zaznaczonym obiektem"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:106
-msgid "Beta Extension Manager"
-msgstr "Zarządzanie rozszerzeniami, beta"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:113
-msgid "Inkscape 1.0"
-msgstr "Inkscape 1.0"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:115
-msgid "Theming support and more new customization options"
-msgstr "Obsługa motywów i więcej nowych opcji dostosowywania"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:116
-msgid "Better HiDPI (high resolution) screen support"
-msgstr "Lepsza obsluga ekranu wysokiej rozdzilczości (HiDPI)"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:117
-msgid "Native support for macOS with a signed and notarized .dmg file"
-msgstr ""
-"Natywna obsługa systemu macOS z podpisanym i poświadczonym plikiem .dmg"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:118
-msgid "Coordinate origin in top left corner by default"
-msgstr "Współrzędne w lewym górnym rogu domyślnie"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:119
-msgid "Canvas rotation and mirroring"
-msgstr "Obracanie i odbijanie płótna"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:120
-msgid "On-Canvas alignment of objects"
-msgstr "Wyrównanie obiektów na płótnie"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:121
-msgid "Split view and X-Ray modes"
-msgstr "Tryby widoku podzielonego i rentgenowskiego"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:122
-msgid ""
-"PowerPencil for drawing editable, variable width strokes with a pressure "
-"sensitive graphics tablet"
-msgstr ""
-"PowerPencil do rysowania edytowalnych pociągnięć o zmiennej szerokości za "
-"pomocą tabletu graficznego czułego na nacisk"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:123
-msgid "New PNG export options"
-msgstr "Nowe opcje eksportu PNG"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:124
-msgid "Integrated centerline tracing for vectorizing line drawings"
-msgstr ""
-"Zintegrowane obrysowanie linii środkowej do wektoryzacji rysunków liniowych"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:125
-msgid "Searchable Symbols dialog"
-msgstr "Okno dialogowe Symbole do wyszukania"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:126
-msgid "New Live Path Effect (LPE) selection dialog"
-msgstr "Nowe okno dialogowe wyboru Efekt ścieżki aktywnej (LPE)"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:127
-msgid ""
-"New Corners (Fillet/chamfer) LPE, (lossless) Boolean Operation LPE "
-"(experimental), Offset LPE and Measure Segments LPE (and more!)"
-msgstr ""
-"Nowe narożniki (zaokrąglenie/sfazowanie) LPE, (bezstratne) operacje logiczne "
-"LPE (eksperymentalne), offsetowe LPE i segmenty miary LPE (i nie tylko!)"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:128
-msgid ""
-"Path operations, deselection of a large number of paths as well as grouping/"
-"ungrouping are much faster now"
-msgstr ""
-"Operacje ścieżki, deselekcja dużej liczby ścieżek, a także grupowanie/"
-"rozgrupowywanie są teraz znacznie szybsze"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:129
-msgid "Much improved text line-height settings"
-msgstr "Znacznie ulepszone ustawienia wysokości linii tekstu"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:130
-msgid ""
-"Variable fonts support (only if compiled with pango library version &gt;= "
-"1.41.1)"
-msgstr ""
-"Obsługa czcionek zmiennych (tylko w przypadku kompilacji z wersją biblioteki "
-"pango > = 1.41.1)"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:131
-msgid "Browser-compatible flowed text"
-msgstr "Tekst płynny zgodny z przeglądarką"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:132
-msgid ""
-"Extensions programming interface updated, with many new options - Note: this "
-"introduces breaking changes, some third-party extensions will have to be "
-"updated to work with Inkscape 1.0"
-msgstr ""
-"Zaktualizowano interfejs programowania rozszerzeń, z wieloma nowymi opcjami "
-"- Uwaga: wprowadza to przełomowe zmiany, niektóre rozszerzenia innych firm "
-"będą musiały zostać zaktualizowane, aby działały z Inkscape 1.0"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:133
-msgid "Python 3 support for extensions"
-msgstr "Obsługa rozszerzeń w języku Python 3"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:141
-msgid "Bugfix release"
-msgstr "Wydanie poprawki"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:142
-msgid "More python3 compatibility for extensions"
-msgstr "Więcej zgodności z python3 dla rozszerzeń"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:149
-#: ../org.inkscape.Inkscape.appdata.xml.in:162
-#: ../org.inkscape.Inkscape.appdata.xml.in:175
-msgid "New 0.92.x bugfix release."
-msgstr "Nowe wydanie 0.92.x bugfix."
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:151
-msgid "Improvements to the align and distribute tool"
-msgstr "Ulepszenia narzędzia wyrównywania i dystrybucji"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:152
-msgid "Support for piping standard input and output"
-msgstr "Obsługa standardowego wejścia i wyjścia rurociągów"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:153
-msgid "The color slider can be constrained to stepped values"
-msgstr "Suwak kolorów można powiązać z wartościami stopniowanymi"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:154
-msgid "Performance improvements"
-msgstr "Poprawa wydajności"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:155
-#: ../org.inkscape.Inkscape.appdata.xml.in:168
-msgid "And many more bugfixes"
-msgstr "I wiele innych poprawek"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:164
-msgid "New command-line options to control page size when exporting to SVG"
-msgstr ""
-"Nowe opcje wiersza polecenia do kontrolowania rozmiaru strony podczas "
-"eksportowania do SVG"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:165
-msgid "Support for left-to-right languages in the text tool"
-msgstr "Obsługa języków od lewej do prawej w narzędziu tekstowym"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:166
-msgid "Improvements to the circle/ellipse/arc tool"
-msgstr "Ulepszenia narzędzia koło/elipsa/łuk"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:167
-msgid "Support for multi-line text when exporting to PDF+LaTeX"
-msgstr ""
-"Obsługa tekstu wielowierszowego podczas eksportowania do formatu PDF+LaTeX"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:177
-msgid "Better importing and exporting"
-msgstr "Lepsze importowanie i eksportowanie"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:178
-msgid "Greater stability when printing on Windows"
-msgstr "Większa stabilność podczas drukowania w systemie Windows"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:179
-msgid "Improved fill and stroke HSL color selection"
-msgstr "Ulepszone zaznaczanie kolorów wypełnienia i obrysu HSL"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:180
-msgid "Greater stability when reverting and saving files"
-msgstr "Większa stabilność podczas przywracania i zapisywania plików"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:181
-msgid "An additional handle at the center of shapes"
-msgstr "Dodatkowy uchwyt w środku kształtów"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:182
-msgid "A command line option for updating the file's DPI"
-msgstr "Opcja wiersza polecenia służąca do aktualizowania dpi pliku"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:183
-msgid "Improvements to user-defined shortcuts"
-msgstr "Ulepszenia skrótów zdefiniowanych przez użytkownika"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:184
-msgid "Migration to Gitlab to make contribution easier"
-msgstr "Migracja do Gitlab w celu ułatwienia wkładu społecznosci"
-
-#: ../org.inkscape.Inkscape.appdata.xml.in:185
-msgid "And many more bugfixes!"
-msgstr "I wiele innych poprawek!"
-
-#: ../org.inkscape.Inkscape.desktop.template:8
+#: ../org.inkscape.Inkscape.desktop.template:7
 msgid "Create and edit Scalable Vector Graphics images"
 msgstr "Tworzenie i edycja grafiki wektorowej SVG"
 
-#: ../org.inkscape.Inkscape.desktop.template:9
+#: ../org.inkscape.Inkscape.desktop.template:8
 msgid "image;editor;vector;drawing;"
 msgstr "obaz; edytor; wektor; rysowanie;"
 
-#: ../org.inkscape.Inkscape.desktop.template:21
+#: ../org.inkscape.Inkscape.desktop.template:20
 msgid "Open a New Window"
 msgstr "Otwórz Nowe Okno"
 
@@ -52784,6 +52471,290 @@ msgstr "połowy em"
 #: ../share/ui/units.xml:99
 msgid "Half of font height"
 msgstr "Połowa wysokości czcionki"
+
+#, python-brace-format
+#~ msgid "{prefix}Layer name: {node.label}"
+#~ msgstr "{prefix}Nazwa warstwy: {node.label}"
+
+#, python-brace-format
+#~ msgid "{prefix}Transition {transition}: {name}"
+#~ msgstr "{prefix}Przejście {transition}: {name}"
+
+#, python-brace-format
+#~ msgid "Expected file name was: {svg_file}."
+#~ msgstr "Oczekiwana nazwa pliku to: {svg_file}."
+
+#, python-brace-format
+#~ msgid "The element \"{key}\" is not in the Web Slicer layer"
+#~ msgstr "Element \"{key}\" nie znajduje się w warstwie do pocięcia sieci Web"
+
+#~ msgid "Inkscape 1.4"
+#~ msgstr "Inkscape 1.4"
+
+#~ msgid "Extension Gallery"
+#~ msgstr "Galeria rozszerzeń"
+
+#~ msgid "Experimental unified font browser"
+#~ msgstr "Eksperymentalna, ujednolicona przeglądarka czcionek"
+
+#~ msgid "Customizable handles"
+#~ msgstr "Możliwość dostosowania uchwytów"
+
+#~ msgid "Inkscape 1.3"
+#~ msgstr "Inkscape 1.3"
+
+#~ msgid "Shape builder tool"
+#~ msgstr "Narzędzie do budowania kształtów"
+
+#
+# File: ../src/ui/dialog/align-and-distribute.cpp, line: 1107
+#~ msgid "On-canvas pattern editing"
+#~ msgstr "Edycja deseni bezpośrednio na płótnie"
+
+#~ msgid "Pattern editor"
+#~ msgstr "Edytow deseni"
+
+#~ msgid "Pages margins and bleed"
+#~ msgstr "Marginesy i spady strony"
+
+#~ msgid "Document resources dialog"
+#~ msgstr "Okno zasobów dokumentu"
+
+#~ msgid "Font collections"
+#~ msgstr "Kolekcje czcionek"
+
+#~ msgid "Syntax highlighting in XML Editor"
+#~ msgstr "Podświetlanie składni tekstu w edytorze XML"
+
+#~ msgid "LPE dialog user interface redesign"
+#~ msgstr "Nowo zaprojektowane okno efektów ścieżek"
+
+#~ msgid "Lots of performance improvements and bugfixes"
+#~ msgstr "Poprawa wydajności i wiele usuniętych błędów"
+
+#~ msgid "Inkscape 1.2"
+#~ msgstr "Inkscape 1.2"
+
+#~ msgid "Multiple pages support"
+#~ msgstr "Możliwość definiowania wielu stron"
+
+#~ msgid "Editable markers and dash patterns"
+#~ msgstr "Edycja znaczników i wzoru przerywanych kresek konturu"
+
+#
+# File: ../src/ui/dialog/align-and-distribute.cpp, line: 1107
+#~ msgid "On-canvas alignment and snapping"
+#~ msgstr "Wyrównywanie położenia obiektów na płótnie"
+
+#~ msgid "Selectable origin for numerical transforms"
+#~ msgstr "Wybór początku układu współrzędnych dla przekształceń"
+
+#~ msgid "Single dialog for alignment options"
+#~ msgstr "Okno dialogowe z opcjami do wyrównywania obiektów"
+
+#~ msgid "Gradient editing in Fill and Stroke dialog"
+#~ msgstr "Edycja gradientów w oknie wypełnienia i konturu"
+
+#~ msgid "Layers and Objects dialog merged"
+#~ msgstr "Okna obiektów i warstw zostały połączone w jedno"
+
+#~ msgid "New UI for Snap settings"
+#~ msgstr "Nowe UI do ustawienia opcji przyciągania"
+
+#~ msgid "More customization options"
+#~ msgstr "Więcej nowych opcji dostosowywania programu"
+
+#~ msgid "Various performance improvements and bugfixes"
+#~ msgstr "Różne ulepszenia wydajności i poprawki"
+
+#~ msgid "Inkscape 1.1"
+#~ msgstr "Inkscape 1.1"
+
+#~ msgid "Welcome dialog"
+#~ msgstr "Okno powitalne"
+
+#~ msgid "Command palette to search for functions"
+#~ msgstr "Pasek poleceń z wyszukiwaniem funkcji programu"
+
+#~ msgid "Copypaste parts of paths"
+#~ msgstr "Kopiowanie/wstawianie fragmentów ścieżek"
+
+#~ msgid "Complete rework of the dialog docking system"
+#~ msgstr "Nowy system dokowania okien dialogowych"
+
+#~ msgid "New outline overlay mode"
+#~ msgstr "Nowy tryb wyświetlania: nakładanie konturu"
+
+#~ msgid "Search field in Preferences dialog"
+#~ msgstr "Pole wyszukiwania w oknie dialogowym preferencji"
+
+#~ msgid "Improved Export PNG dialog"
+#~ msgstr "Ulepszony dialog eksportu do PNG"
+
+#~ msgid "Ability to directly export JPG, TIFF, optimized PNG, and WebP"
+#~ msgstr ""
+#~ "Możliwość bezpośredniego eksportu do JPG, TIFF, zoptymalizowanego PNG i "
+#~ "WebP"
+
+#~ msgid "Paste now pastes directly above selected object"
+#~ msgstr ""
+#~ "Wstawianie ze schowka wstawia bezpośrednio ponad zaznaczonym obiektem"
+
+#~ msgid "Beta Extension Manager"
+#~ msgstr "Zarządzanie rozszerzeniami, beta"
+
+#~ msgid "Inkscape 1.0"
+#~ msgstr "Inkscape 1.0"
+
+#~ msgid "Theming support and more new customization options"
+#~ msgstr "Obsługa motywów i więcej nowych opcji dostosowywania"
+
+#~ msgid "Better HiDPI (high resolution) screen support"
+#~ msgstr "Lepsza obsluga ekranu wysokiej rozdzilczości (HiDPI)"
+
+#~ msgid "Native support for macOS with a signed and notarized .dmg file"
+#~ msgstr ""
+#~ "Natywna obsługa systemu macOS z podpisanym i poświadczonym plikiem .dmg"
+
+#~ msgid "Coordinate origin in top left corner by default"
+#~ msgstr "Współrzędne w lewym górnym rogu domyślnie"
+
+#~ msgid "Canvas rotation and mirroring"
+#~ msgstr "Obracanie i odbijanie płótna"
+
+#~ msgid "On-Canvas alignment of objects"
+#~ msgstr "Wyrównanie obiektów na płótnie"
+
+#~ msgid "Split view and X-Ray modes"
+#~ msgstr "Tryby widoku podzielonego i rentgenowskiego"
+
+#~ msgid ""
+#~ "PowerPencil for drawing editable, variable width strokes with a pressure "
+#~ "sensitive graphics tablet"
+#~ msgstr ""
+#~ "PowerPencil do rysowania edytowalnych pociągnięć o zmiennej szerokości za "
+#~ "pomocą tabletu graficznego czułego na nacisk"
+
+#~ msgid "New PNG export options"
+#~ msgstr "Nowe opcje eksportu PNG"
+
+#~ msgid "Integrated centerline tracing for vectorizing line drawings"
+#~ msgstr ""
+#~ "Zintegrowane obrysowanie linii środkowej do wektoryzacji rysunków "
+#~ "liniowych"
+
+#~ msgid "Searchable Symbols dialog"
+#~ msgstr "Okno dialogowe Symbole do wyszukania"
+
+#~ msgid "New Live Path Effect (LPE) selection dialog"
+#~ msgstr "Nowe okno dialogowe wyboru Efekt ścieżki aktywnej (LPE)"
+
+#~ msgid ""
+#~ "New Corners (Fillet/chamfer) LPE, (lossless) Boolean Operation LPE "
+#~ "(experimental), Offset LPE and Measure Segments LPE (and more!)"
+#~ msgstr ""
+#~ "Nowe narożniki (zaokrąglenie/sfazowanie) LPE, (bezstratne) operacje "
+#~ "logiczne LPE (eksperymentalne), offsetowe LPE i segmenty miary LPE (i nie "
+#~ "tylko!)"
+
+#~ msgid ""
+#~ "Path operations, deselection of a large number of paths as well as "
+#~ "grouping/ungrouping are much faster now"
+#~ msgstr ""
+#~ "Operacje ścieżki, deselekcja dużej liczby ścieżek, a także grupowanie/"
+#~ "rozgrupowywanie są teraz znacznie szybsze"
+
+#~ msgid "Much improved text line-height settings"
+#~ msgstr "Znacznie ulepszone ustawienia wysokości linii tekstu"
+
+#~ msgid ""
+#~ "Variable fonts support (only if compiled with pango library version &gt;= "
+#~ "1.41.1)"
+#~ msgstr ""
+#~ "Obsługa czcionek zmiennych (tylko w przypadku kompilacji z wersją "
+#~ "biblioteki pango > = 1.41.1)"
+
+#~ msgid "Browser-compatible flowed text"
+#~ msgstr "Tekst płynny zgodny z przeglądarką"
+
+#~ msgid ""
+#~ "Extensions programming interface updated, with many new options - Note: "
+#~ "this introduces breaking changes, some third-party extensions will have "
+#~ "to be updated to work with Inkscape 1.0"
+#~ msgstr ""
+#~ "Zaktualizowano interfejs programowania rozszerzeń, z wieloma nowymi "
+#~ "opcjami - Uwaga: wprowadza to przełomowe zmiany, niektóre rozszerzenia "
+#~ "innych firm będą musiały zostać zaktualizowane, aby działały z Inkscape "
+#~ "1.0"
+
+#~ msgid "Python 3 support for extensions"
+#~ msgstr "Obsługa rozszerzeń w języku Python 3"
+
+#~ msgid "Bugfix release"
+#~ msgstr "Wydanie poprawki"
+
+#~ msgid "More python3 compatibility for extensions"
+#~ msgstr "Więcej zgodności z python3 dla rozszerzeń"
+
+#~ msgid "New 0.92.x bugfix release."
+#~ msgstr "Nowe wydanie 0.92.x bugfix."
+
+#~ msgid "Improvements to the align and distribute tool"
+#~ msgstr "Ulepszenia narzędzia wyrównywania i dystrybucji"
+
+#~ msgid "Support for piping standard input and output"
+#~ msgstr "Obsługa standardowego wejścia i wyjścia rurociągów"
+
+#~ msgid "The color slider can be constrained to stepped values"
+#~ msgstr "Suwak kolorów można powiązać z wartościami stopniowanymi"
+
+#~ msgid "Performance improvements"
+#~ msgstr "Poprawa wydajności"
+
+#~ msgid "And many more bugfixes"
+#~ msgstr "I wiele innych poprawek"
+
+#~ msgid "New command-line options to control page size when exporting to SVG"
+#~ msgstr ""
+#~ "Nowe opcje wiersza polecenia do kontrolowania rozmiaru strony podczas "
+#~ "eksportowania do SVG"
+
+#~ msgid "Support for left-to-right languages in the text tool"
+#~ msgstr "Obsługa języków od lewej do prawej w narzędziu tekstowym"
+
+#~ msgid "Improvements to the circle/ellipse/arc tool"
+#~ msgstr "Ulepszenia narzędzia koło/elipsa/łuk"
+
+#~ msgid "Support for multi-line text when exporting to PDF+LaTeX"
+#~ msgstr ""
+#~ "Obsługa tekstu wielowierszowego podczas eksportowania do formatu PDF+LaTeX"
+
+#~ msgid "Better importing and exporting"
+#~ msgstr "Lepsze importowanie i eksportowanie"
+
+#~ msgid "Greater stability when printing on Windows"
+#~ msgstr "Większa stabilność podczas drukowania w systemie Windows"
+
+#~ msgid "Improved fill and stroke HSL color selection"
+#~ msgstr "Ulepszone zaznaczanie kolorów wypełnienia i obrysu HSL"
+
+#~ msgid "Greater stability when reverting and saving files"
+#~ msgstr "Większa stabilność podczas przywracania i zapisywania plików"
+
+#~ msgid "An additional handle at the center of shapes"
+#~ msgstr "Dodatkowy uchwyt w środku kształtów"
+
+#~ msgid "A command line option for updating the file's DPI"
+#~ msgstr "Opcja wiersza polecenia służąca do aktualizowania dpi pliku"
+
+#~ msgid "Improvements to user-defined shortcuts"
+#~ msgstr "Ulepszenia skrótów zdefiniowanych przez użytkownika"
+
+#~ msgid "Migration to Gitlab to make contribution easier"
+#~ msgstr "Migracja do Gitlab w celu ułatwienia wkładu społecznosci"
+
+#~ msgid "And many more bugfixes!"
+#~ msgstr "I wiele innych poprawek!"
 
 #~ msgid "Open Object Attributes"
 #~ msgstr "Właściwości i atrybuty obiektu"
@@ -54336,12 +54307,6 @@ msgstr "Połowa wysokości czcionki"
 
 #~ msgid "Symbol without title"
 #~ msgstr "Symbol bez tytułu"
-
-#
-# File: ../src/ui/tool/node.cpp, line: 611
-#~ msgctxt "Path handle tip"
-#~ msgid "Ctrl"
-#~ msgstr "Ctrl"
 
 #, fuzzy
 #~ msgid "Hide Export Settings"
